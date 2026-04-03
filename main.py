@@ -75,6 +75,32 @@ def mark_as_seen(jobs: list[Job], seen: dict[str, dict]) -> None:
         }
 
 
+# ---------- Filters ----------
+
+CLOSED_INDICATORS = [
+    "no longer available", "not accepting applications",
+    "vacature is vervuld", "niet meer beschikbaar",
+    "deze vacature is gesloten", "verlopen", "expired",
+    "helaas al vervuld", "not found", "pagina bestaat niet",
+]
+
+
+def _filter_closed_listings(jobs: list[Job]) -> list[Job]:
+    """Remove listings that appear closed/expired based on title or snippet."""
+    open_jobs = []
+    for job in jobs:
+        text = f"{job.title} {job.snippet}".lower()
+        if any(indicator in text for indicator in CLOSED_INDICATORS):
+            logger.info(f"Filtered closed listing: {job.title}")
+            continue
+        open_jobs.append(job)
+
+    filtered_count = len(jobs) - len(open_jobs)
+    if filtered_count:
+        logger.info(f"Removed {filtered_count} closed/expired listings")
+    return open_jobs
+
+
 # ---------- Main Pipeline ----------
 
 def run(dry_run: bool = False) -> None:
@@ -133,6 +159,9 @@ def run(dry_run: bool = False) -> None:
     if len(new_jobs) > config.MAX_JOBS_PER_RUN:
         logger.info(f"Capping at {config.MAX_JOBS_PER_RUN} jobs (had {len(new_jobs)})")
         new_jobs = new_jobs[: config.MAX_JOBS_PER_RUN]
+
+    # 4b. Pre-filter obviously closed/expired listings
+    new_jobs = _filter_closed_listings(new_jobs)
 
     # 5. Analyze with Claude
     logger.info(f"Analyzing {len(new_jobs)} new jobs with Claude...")
