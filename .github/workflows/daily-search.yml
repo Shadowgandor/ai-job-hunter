@@ -26,6 +26,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Debug secrets
+        run: |
+          echo "API key length: ${#ANTHROPIC_API_KEY}"
+          echo "API key prefix: ${ANTHROPIC_API_KEY:0:10}"
+
       - name: Run job search
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -39,4 +44,5 @@ jobs:
           git config user.email "bot@ai-job-hunter.local"
           git add seen_jobs.json
           git diff --staged --quiet || git commit -m "Update seen jobs [$(date -u +%Y-%m-%d)]"
+          git pull --rebase
           git push
