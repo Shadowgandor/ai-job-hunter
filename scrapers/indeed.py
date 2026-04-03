@@ -1,14 +1,14 @@
 """
 Indeed.nl job scraper using RSS feeds.
 
-Indeed provides RSS feeds for search queries at:
-https://nl.indeed.com/rss?q=QUERY&l=LOCATION&radius=RADIUS
-
-This is lighter and more reliable than HTML scraping.
+NOTE: Indeed frequently blocks RSS requests from cloud/datacenter IPs
+(returns 403). This scraper will gracefully degrade — if RSS fails,
+jobs are still picked up via the DuckDuckGo scraper's site:indeed.nl queries.
 """
 
 import xml.etree.ElementTree as ET
 import logging
+import re
 import time
 from urllib.parse import quote_plus
 
@@ -37,14 +37,14 @@ def fetch_indeed_rss(query: str, location: str, radius_km: int = 40) -> list[Job
     url = f"{INDEED_RSS_URL}?{'&'.join(f'{k}={quote_plus(v)}' for k, v in params.items())}"
 
     try:
-        resp = requests.get(
-            url,
-            headers={"User-Agent": USER_AGENT},
-            timeout=15,
-        )
+        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
+        if resp.status_code == 403:
+            # Expected from datacenter IPs — don't spam warnings
+            logger.debug(f"Indeed RSS blocked (403) for '{query}' in '{location}'")
+            return []
         resp.raise_for_status()
     except requests.RequestException as e:
-        logger.warning(f"Indeed RSS request failed for '{query}' in '{location}': {e}")
+        logger.debug(f"Indeed RSS failed for '{query}' in '{location}': {e}")
         return []
 
     return _parse_rss(resp.text, query)
@@ -68,18 +68,14 @@ def _parse_rss(xml_text: str, query: str) -> list[Job]:
         link = _text(item, "link")
         description = _text(item, "description")
 
-        # Indeed titles often include " - CompanyName" at the end
         company = ""
         if " - " in title:
             parts = title.rsplit(" - ", 1)
             title = parts[0].strip()
             company = parts[1].strip()
 
-        # Extract location from description if possible
         location = ""
         if description:
-            # Indeed often puts location at start of description
-            import re
             loc_match = re.match(r"^([A-Za-z\s\-]+(?:\([^)]+\))?)\s*[-–]", description)
             if loc_match:
                 location = loc_match.group(1).strip()
@@ -106,10 +102,9 @@ def _text(element: ET.Element, tag: str) -> str:
 
 def _clean_html(text: str) -> str:
     """Remove HTML tags from text."""
-    import re
     clean = re.sub(r"<[^>]+>", " ", text)
     clean = re.sub(r"\s+", " ", clean)
-    return clean.strip()[:500]  # Cap snippet length
+    return clean.strip()[:500]
 
 
 def scrape_indeed(
@@ -120,15 +115,27 @@ def scrape_indeed(
 ) -> list[Job]:
     """
     Fetch jobs from Indeed.nl across multiple queries and locations.
-    Includes polite delays between requests.
+    Gracefully handles 403 blocks from datacenter IPs.
     """
     all_jobs: list[Job] = []
     seen_urls: set[str] = set()
+    blocked = False
 
     for query in queries:
+        if blocked:
+            break
         for location in locations:
-            logger.info(f"Indeed RSS: '{query}' in '{location}'")
             jobs = fetch_indeed_rss(query, location, radius_km)
+
+            if not jobs and not blocked:
+                # After first empty result, check if we're being blocked
+                # If the first query returns nothing, likely all will fail
+                blocked = True
+                logger.info(
+                    "Indeed RSS appears blocked from this IP. "
+                    "Indeed jobs will be picked up via DuckDuckGo instead."
+                )
+                break
 
             for job in jobs:
                 if job.url not in seen_urls:
@@ -137,5 +144,5 @@ def scrape_indeed(
 
             time.sleep(delay_seconds)
 
-    logger.info(f"Indeed: found {len(all_jobs)} unique jobs")
+    logger.info(f"Indeed RSS: found {len(all_jobs)} unique jobs")
     return all_jobs
