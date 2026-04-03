@@ -1,0 +1,42 @@
+name: Daily AI Job Search
+
+on:
+  schedule:
+    # Run daily at 08:00 CET (07:00 UTC in winter, 06:00 UTC in summer)
+    # Using 06:00 UTC to cover CEST (summer time)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allow manual triggers from GitHub UI
+
+permissions:
+  contents: write # Needed to commit updated seen_jobs.json
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job search
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "AI Job Hunter Bot"
+          git config user.email "bot@ai-job-hunter.local"
+          git add seen_jobs.json
+          git diff --staged --quiet || git commit -m "Update seen jobs [$(date -u +%Y-%m-%d)]"
+          git push
