@@ -31,13 +31,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python main.py
+        run: python main.py --accumulate
 
       - name: Commit updated state
         run: |
           git config user.name "AI Job Hunter Bot"
           git config user.email "bot@ai-job-hunter.local"
-          git add seen_jobs.json
+          git add seen_jobs.json last_run.json
           git diff --staged --quiet || git commit -m "Update seen jobs [$(date -u +%Y-%m-%d)]"
           git pull --rebase
           git push
