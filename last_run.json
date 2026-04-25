@@ -1,0 +1,370 @@
+[
+  {
+    "job": {
+      "id": "1211ba037c12313a9b8b9d646acdbeae",
+      "title": "1.000 vacatures voor Work At Home in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/work-at-home-jobs",
+      "snippet": "Dagelijks nieuwe vacatures in Work At Home.Welkom terug. Meld u aan om een vacaturemelding te maken voor vacatures voor Work At Home in Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-25T13:13:02.933071"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page, not a specific job vacancy. No actual position information available.",
+    "embed_sim": 0.07370837032794952,
+    "ai_native_score": 0.5315338373184204
+  },
+  {
+    "job": {
+      "id": "a9932a1dc5e7f27d7d1862be58dd0c4f",
+      "title": "100+ vacatures voor E&I Engineer en werk: 1 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/E&I-Engineer-vacatures",
+      "snippet": "De Senior E&I- engineer ondersteunt minder ervaren engineers binnen het team. Om ons team van engineers verder te versterken zijn we op zoek naar een Senior E&I",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:08.784065"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for E&I Engineers. No specific job details or AI adoption focus. Not a real vacancy.",
+    "embed_sim": 0.2539633512496948,
+    "ai_native_score": 0.711040735244751
+  },
+  {
+    "job": {
+      "id": "3504cbc5b6f12a115f3d1256076f69c4",
+      "title": "C++ Programmeur - vacatures - 25 mei 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/C++-Programmeur-vacatures",
+      "snippet": "C++ Programmeur vacatures . Software Engineer , PLC Programmeur, Programmeur en meer op Indeed.com.Freelance AI -trainer (Codering) \u2013 Nederlandstalig. Premium Outfitters LTD.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:08.784096"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for C++ Programmers. No specific position or AI adoption role. Not a real vacancy.",
+    "embed_sim": 0.23131123185157776,
+    "ai_native_score": 0.7477126121520996
+  },
+  {
+    "job": {
+      "id": "bf2414c6794d83bb9495bc58d3c19f0c",
+      "title": "7.000+ vacatures voor Computer en werk: 15 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Computer-vacatures",
+      "snippet": "Computer vacatures . Assemblagemonteur, Administratief Medewerker, IT Technician en meer op Indeed.com.Als AI Engineer speel je een cruciale rol in het ontwerpen, ontwikkelen, implementeren en beheren van AI -oplossingen die direct impact hebben op onze e-commerce\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:08.784128"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for computer roles. While it mentions 'AI Engineer,' this appears to be a search results aggregator page, not a specific vacancy.",
+    "embed_sim": 0.22379820048809052,
+    "ai_native_score": 0.6129863858222961
+  },
+  {
+    "job": {
+      "id": "99bab4f837290b9613339512ff4cbaf4",
+      "title": "8.000+ vacatures voor Administratie en werk: 26 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Administratie-vacatures",
+      "snippet": "Administratie vacatures . Financieel-administratief Medewerker, Administratief Assistent, Supermarktmedewerker en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:08.784150"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for administrative roles. No relevant AI adoption or engineering content. Not a specific vacancy.",
+    "embed_sim": 0.1990441381931305,
+    "ai_native_score": 0.6702805757522583
+  },
+  {
+    "job": {
+      "id": "3865157a18f4717a07ae126c27dd580f",
+      "title": "12 software architect vacatures in Utrecht | Maart 2026 |",
+      "company": "Maart 2026 |",
+      "location": "",
+      "url": "https://www.adzuna.nl/utrecht/software-architect",
+      "snippet": "... for a Software Architect Integration ... Solution Architects , Software Engineers en AI -specialisten vorm je een scrumteam van 8 tot 12 collega\u2019s.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-25T13:13:12.228630"
+    },
+    "score": 2,
+    "reason": "Software Architect role in Utrecht mentions 'AI-specialisten' as team members, but the role itself appears to be traditional architecture, not AI adoption/enablement focused. No details on actual responsibilities.",
+    "embed_sim": 0.3941027820110321,
+    "ai_native_score": 0.7113848328590393
+  },
+  {
+    "job": {
+      "id": "ae140947280f40cc2040591a181d186c",
+      "title": "17 software architect vacatures in Provincie Utrecht | April",
+      "company": "April",
+      "location": "",
+      "url": "https://www.adzuna.nl/provincie-utrecht/software-architect",
+      "snippet": "... for a Software Architect Integration ... Solution Architects , Software Engineers en AI -specialisten vorm je een scrumteam van 8 tot 12 collega\u2019s.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-25T13:13:12.228683"
+    },
+    "score": 2,
+    "reason": "Software Architect role in Utrecht province mentions 'AI-specialisten' in team context, but appears to be traditional architecture role, not AI adoption/enablement. Insufficient detail on actual position.",
+    "embed_sim": 0.3924526274204254,
+    "ai_native_score": 0.7411394715309143
+  },
+  {
+    "job": {
+      "id": "09c82d837ead608149b11b9af5071368",
+      "title": "AI Specialist in Zwolle bij Zonneplan | Magnet.me | #837395 (nl)",
+      "company": "Zonneplan",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/837395/ai-specialist",
+      "snippet": "Je hebt veel kennis of ervaring met AI /LLM technieken: Prompt engineering , LangSmith/LangChain, structured output, RAG, fine-tuning en Agentic ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:17.013651"
+    },
+    "score": 1,
+    "reason": "AI Specialist in Zwolle focused on LLM techniques, prompt engineering, RAG, fine-tuning, and agentic frameworks. This is ML/LLM building, not AI tool adoption for dev teams. Wrong location (Zwolle, far from Utrecht). Wrong expertise focus.",
+    "embed_sim": 0.28282976150512695,
+    "ai_native_score": 0.65651935338974
+  },
+  {
+    "job": {
+      "id": "bf004242a6807ce91597ef254841bcf4",
+      "title": "Project Quality Engineer in Helmond bij AAE Mechatronics |",
+      "company": "Aae Mechatronics |",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/988377/project-quality-engineer",
+      "snippet": "Daarnaast werk je samen met het Quality Engineering team aan probleemanalyse en continue verbetering, waarbij je methodieken als 8D, 5xWhy en ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:17.013696"
+    },
+    "score": 0,
+    "reason": "Project Quality Engineer in Helmond (wrong location, far from Utrecht). Focused on quality engineering methodologies (8D, 5xWhy), not AI adoption or tool enablement.",
+    "embed_sim": 0.19623908400535583,
+    "ai_native_score": 0.7019578218460083
+  },
+  {
+    "job": {
+      "id": "4c3102f69e39e740877e1018bfd0ea12",
+      "title": "Techniek afstudeerstages | september 2025 | Magnet.me (nl)",
+      "company": "september 2025",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/afstudeerstages/engineering",
+      "snippet": "... op basis van je gelikete vacatures . ... Msc: Electrical Engineering - Developing a Power Model for a Printing Machine using AI Techniques",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:17.013719"
+    },
+    "score": 0,
+    "reason": "Internship/afstudeerstage (graduation thesis) positions. Candidate explicitly rejects junior/intern/traineeship roles. Not relevant.",
+    "embed_sim": 0.14155927300453186,
+    "ai_native_score": 0.6077287793159485
+  },
+  {
+    "job": {
+      "id": "5ba47fc85b7f18366265e5476dfccbfd",
+      "title": "Analytics Engineer in Amsterdam bij Parfumado | Magnet.me |",
+      "company": "Parfumado",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/963142/analytics-engineer",
+      "snippet": "... op basis van je gelikete vacatures ... We\u2019re looking for a structured and solution-oriented Analytics Engineer to join our Tech & Data team.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:17.013744"
+    },
+    "score": 1,
+    "reason": "Analytics Engineer role focused on data analysis and pipelines, not AI tool adoption for dev teams. Wrong specialization.",
+    "embed_sim": 0.22401639819145203,
+    "ai_native_score": 0.5430726408958435
+  },
+  {
+    "job": {
+      "id": "e3ca6ab6769a7d8509f0d8f2bdc28653",
+      "title": "Conversational AI Engineer - Essent - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/conversational-ai-engineer-essent/",
+      "snippet": "Conversational AI Engineer . De basis van ons conversational platform staat en is succesvol.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-04-25T13:13:26.173717"
+    },
+    "score": 2,
+    "reason": "Conversational AI Engineer building AI platforms/systems, not enabling dev teams to adopt AI tools. Requires AI development expertise.",
+    "embed_sim": 0.43797987699508667,
+    "ai_native_score": 0.7704311013221741
+  },
+  {
+    "job": {
+      "id": "70d88ed09c7629dba9fd36c208e9aa62",
+      "title": "Projectmanagement vacatures | Magnet.me (nl)",
+      "company": "Magnet.me (nl)",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/banen/project-management",
+      "snippet": "HBO & WO projectmanagement vacatures bij meer dan 6.100 werkgevers zoals Strukton, BNP Paribas, Nestl\u00e9 Nederland BV.\u2022 1.500 medewerkers. Procesoptimalisatie Specialist 32-40 uur. Houten. 2 - 5 jaar ervaring.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:31.690392"
+    },
+    "score": 0,
+    "reason": "Project management role listing, not technical. No AI or engineering focus.",
+    "embed_sim": 0.20894759893417358,
+    "ai_native_score": 0.6367794275283813
+  },
+  {
+    "job": {
+      "id": "1c2b624c389e34714b2785914175a55f",
+      "title": "Data Scientist in Rotterdam bij Virtual Vaults | Magnet.me |",
+      "company": "Virtual Vaults",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/939082/data-scientist",
+      "snippet": "... engineers , product owners, and domain experts to bring AI ... Collaborate with engineering teams to integrate AI solutions into production systems.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:39.088362"
+    },
+    "score": 1,
+    "reason": "Data Scientist role focused on building/training AI solutions, not championing AI tool adoption. Requires ML expertise candidate explicitly excludes.",
+    "embed_sim": 0.3702470660209656,
+    "ai_native_score": 0.49615374207496643
+  },
+  {
+    "job": {
+      "id": "84aff05f08181b4b4b7078700ad705b2",
+      "title": "Customer Analytics Engineer (medior position) in Rotterdam bij",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/987442/customer-analytics-engineer--medior-position-",
+      "snippet": "In this role as a Customer Analytics Engineer (Medior) , you will play a pivotal role at the intersection of marketing, analytics, and engineering .",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:39.088411"
+    },
+    "score": 1,
+    "reason": "Customer Analytics Engineer role in marketing/analytics domain, not AI tool adoption for dev teams. Wrong specialization.",
+    "embed_sim": 0.30430281162261963,
+    "ai_native_score": 0.5339428782463074
+  },
+  {
+    "job": {
+      "id": "adbdf905f40cc1c1223e6cc88d53343a",
+      "title": "Werken bij Wolters Kluwer | Vacatures | Magnet.me (nl)",
+      "company": "Wolters Kluwer",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/wolters-kluwer",
+      "snippet": "Major & Strategic Account Executive Libra (Legal AI Assistent) ... Legal Solutions Architect (Libra - Legal AI Assistant)",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:39.088441"
+    },
+    "score": 0,
+    "reason": "Listing is a company careers page overview, not a specific job opening. Insufficient information to evaluate.",
+    "embed_sim": 0.40828657150268555,
+    "ai_native_score": 0.6635710597038269
+  },
+  {
+    "job": {
+      "id": "a2078c34ead310ea32b3953c7edda3b6",
+      "title": "Werken bij INDG|Grip | Vacatures | Magnet.me (nl)",
+      "company": "Indg|Grip",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/indg",
+      "snippet": "About INDG At INDG we develop technology that enables engaging, hyper-realistic digital product experiences. ... Manager (Computer Graphics Engine ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:39.088468"
+    },
+    "score": 0,
+    "reason": "Listing is a company careers page overview, not a specific job opening. Insufficient information to evaluate.",
+    "embed_sim": 0.18702270090579987,
+    "ai_native_score": 0.5618948936462402
+  },
+  {
+    "job": {
+      "id": "64cd7fb760e3885489dffeec87db2037",
+      "title": "Werken bij ChannelEngine | Vacatures | Magnet.me (nl)",
+      "company": "Channelengine",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/channelengine",
+      "snippet": "... available to every business, and now ChannelEngine offers a complete, user-friendly, marketplace management suite with seamless integration, enabling ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-25T13:13:39.088494"
+    },
+    "score": 0,
+    "reason": "Listing is a company careers page overview, not a specific job opening. Insufficient information to evaluate.",
+    "embed_sim": 0.17669463157653809,
+    "ai_native_score": 0.4720972180366516
+  },
+  {
+    "job": {
+      "id": "588dd6794a3539a7365665106909d42b",
+      "title": "nl.indeed.com/Esso- vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Esso-vacatures",
+      "snippet": "Esso - vacatures - februari 2022 | Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:43.598556"
+    },
+    "score": 0,
+    "reason": "Expired Indeed search results page from February 2022, not an active job listing.",
+    "embed_sim": 0.0229283906519413,
+    "ai_native_score": 0.33699536323547363
+  },
+  {
+    "job": {
+      "id": "76972baeeb80f5e86786b4fb4461e9ce",
+      "title": "nl.indeed.com/Google- vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Google-vacatures",
+      "snippet": "vacatures voor Google -.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:43.598595"
+    },
+    "score": 0,
+    "reason": "Generic Google vacancies search page, not specific job listings. No actual job data provided.",
+    "embed_sim": 0.04647599160671234,
+    "ai_native_score": 0.4547586143016815
+  },
+  {
+    "job": {
+      "id": "eef165a6fc52f517cdc7129b5d36ace7",
+      "title": "nl_nl_sitemap",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/personeel/sitemap",
+      "snippet": "Vacature plaatsen ... Functieomschrijving voor Sales Engineer (m/v/x) [Bijgewerkt 2025] - Last updated: 2025-11-13 16:35:00",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:52.918022"
+    },
+    "score": 0,
+    "reason": "Sitemap/meta page, not an actual job listing. No content available.",
+    "embed_sim": 0.17669083178043365,
+    "ai_native_score": 0.46582382917404175
+  },
+  {
+    "job": {
+      "id": "aa370b0a2c7fbd89801dd12c6e23742a",
+      "title": "Vacatures voor Tooling Engineer in Noord-Brabant | Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/browsejobs/cityJobs?cat=Engineering&title=Tooling+Engineer&place=Noord-Brabant",
+      "snippet": "Toplocaties voor vacatures voor Tooling Engineer in Noord-Brabant",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-25T13:13:52.918091"
+    },
+    "score": 0,
+    "reason": "Search results page/category listing, not an actual job posting. No concrete role details available.",
+    "embed_sim": 0.1768513023853302,
+    "ai_native_score": 0.6129167675971985
+  },
+  {
+    "job": {
+      "id": "6e8e1fd565555c0851c705201a9f60f1",
+      "title": "glassdoor.nl/ Vacature /cto- vacatures -SRCH_KO0,3.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/cto-vacatures-SRCH_KO0,3.htm",
+      "snippet": "The site owner hides the web page description.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-25T13:14:20.770424"
+    },
+    "score": 0,
+    "reason": "Search results page/category listing, not an actual job posting. No concrete role details available.",
+    "embed_sim": -0.026223717257380486,
+    "ai_native_score": 0.4964262843132019
+  }
+]

@@ -20,6 +20,16 @@ from scrapers.duckduckgo import scrape_duckduckgo
 from analyzer import analyze_jobs, ScoredJob
 from notifier import notify_matches, send_error_notification
 
+try:
+    from embeddings import embed_jobs
+    from classifier import classify_ai_native
+    _ML_AVAILABLE = True
+except ImportError:
+    _ML_AVAILABLE = False
+    logging.getLogger("ai-job-hunter").info(
+        "sentence-transformers not installed — ML scoring disabled"
+    )
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
@@ -167,9 +177,30 @@ def run(dry_run: bool = False) -> None:
     logger.info(f"Analyzing {len(new_jobs)} new jobs with Claude...")
     scored_jobs = analyze_jobs(new_jobs)
 
+    # 5b. Enrich with ML scores (embedding similarity + AI-native classifier)
+    if _ML_AVAILABLE:
+        try:
+            sims = embed_jobs(new_jobs)
+            probs = classify_ai_native(new_jobs)
+            for sj, sim, prob in zip(scored_jobs, sims, probs):
+                sj.embed_sim = sim
+                sj.ai_native_score = prob
+        except Exception as e:
+            logger.warning(f"ML scoring failed (non-fatal): {e}")
+
     # Log results
     for sj in sorted(scored_jobs, key=lambda s: s.score, reverse=True):
-        logger.info(f"  [{sj.score}/10] {sj.job.title} @ {sj.job.company or '?'} — {sj.reason}")
+        ml_suffix = (
+            f" | sim={sj.embed_sim:.2f} ai_native={sj.ai_native_score:.2f}"
+            if _ML_AVAILABLE else ""
+        )
+        logger.info(
+            f"  [{sj.score}/10] {sj.job.title} @ {sj.job.company or '?'}"
+            f" — {sj.reason}{ml_suffix}"
+        )
+
+    # Save results for eval harness
+    _save_last_run(scored_jobs, accumulate="--accumulate" in sys.argv)
 
     # 6. Notify
     if not dry_run:
@@ -188,6 +219,51 @@ def run(dry_run: bool = False) -> None:
     logger.info(f"Done! {len(matches)} matches out of {len(new_jobs)} new jobs.")
 
 
+def _save_last_run(scored_jobs: list[ScoredJob], accumulate: bool = False) -> None:
+    """Persist scored jobs to last_run.json for the eval harness.
+
+    With accumulate=True, merges with any existing file (deduplicating by job id)
+    so data builds up across runs without losing previous results.
+    """
+    path = Path("last_run.json")
+    existing: dict[str, dict] = {}
+    if accumulate and path.exists():
+        try:
+            for item in json.loads(path.read_text()):
+                existing[item["job"]["id"]] = item
+        except (json.JSONDecodeError, KeyError):
+            pass  # Corrupt file — start fresh
+
+    new_entries = {sj.job.id: sj.to_dict() for sj in scored_jobs}
+    merged = {**existing, **new_entries}  # New run wins on collision
+
+    try:
+        path.write_text(json.dumps(list(merged.values()), indent=2))
+        added = len(new_entries)
+        total = len(merged)
+        logger.info(
+            f"Saved {added} scored jobs → {path}"
+            + (f" (total accumulated: {total})" if accumulate else "")
+        )
+    except IOError as e:
+        logger.warning(f"Could not save last_run.json: {e}")
+
+
+def run_eval_mode() -> None:
+    """Run the faithfulness eval harness on the last pipeline results."""
+    from eval_harness import load_scored_jobs, run_eval, print_report
+
+    path = "last_run.json"
+    if not Path(path).exists():
+        print(f"No {path} found. Run the main pipeline first.")
+        return
+
+    cases = load_scored_jobs(path)
+    print(f"Evaluating faithfulness of {len(cases)} scored jobs from {path}...")
+    results = run_eval(cases)
+    print_report(results)
+
+
 def test_telegram() -> None:
     """Send a test message to verify Telegram setup."""
     from notifier import _send_message
@@ -203,8 +279,10 @@ def test_telegram() -> None:
 if __name__ == "__main__":
     if "--test-tg" in sys.argv:
         test_telegram()
-    elif "--dry-run" in sys.argv:
-        run(dry_run=True)
+    elif "--eval" in sys.argv:
+        run_eval_mode()
+    elif "--dry-run" in sys.argv or "--accumulate" in sys.argv:
+        run(dry_run="--dry-run" in sys.argv)
     else:
         try:
             run()

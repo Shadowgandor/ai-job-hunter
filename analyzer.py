@@ -22,8 +22,19 @@ BATCH_SIZE = 10  # Jobs per Claude API call
 @dataclass
 class ScoredJob:
     job: Job
-    score: int  # 0-10
-    reason: str  # Why it matches or doesn't
+    score: int          # 0-10 from Claude
+    reason: str         # Why it matches or doesn't
+    embed_sim: float = 0.0       # Cosine similarity to job profile (sentence-transformers)
+    ai_native_score: float = 0.0  # Confidence-shaped AI-native score (prototype classifier, not calibrated)
+
+    def to_dict(self) -> dict:
+        return {
+            "job": self.job.to_dict(),
+            "score": self.score,
+            "reason": self.reason,
+            "embed_sim": self.embed_sim,
+            "ai_native_score": self.ai_native_score,
+        }
 
 
 SCORING_SYSTEM_PROMPT = """You are a job matching assistant. You will receive a candidate's job profile and a batch of job listings. Score each job's relevance to the candidate on a 0-10 scale.
