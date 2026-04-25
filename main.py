@@ -220,12 +220,12 @@ def run(dry_run: bool = False) -> None:
 
 
 def _save_last_run(scored_jobs: list[ScoredJob], accumulate: bool = False) -> None:
-    """Persist scored jobs to last_run.json for the eval harness.
+    """Persist scored jobs to scored_jobs.json for the eval harness.
 
     With accumulate=True, merges with any existing file (deduplicating by job id)
     so data builds up across runs without losing previous results.
     """
-    path = Path("last_run.json")
+    path = Path("scored_jobs.json")
     existing: dict[str, dict] = {}
     if accumulate and path.exists():
         try:
@@ -246,14 +246,14 @@ def _save_last_run(scored_jobs: list[ScoredJob], accumulate: bool = False) -> No
             + (f" (total accumulated: {total})" if accumulate else "")
         )
     except IOError as e:
-        logger.warning(f"Could not save last_run.json: {e}")
+        logger.warning(f"Could not save scored_jobs.json: {e}")
 
 
 def run_eval_mode() -> None:
     """Run the faithfulness eval harness on the last pipeline results."""
     from eval_harness import load_scored_jobs, run_eval, print_report
 
-    path = "last_run.json"
+    path = "scored_jobs.json"
     if not Path(path).exists():
         print(f"No {path} found. Run the main pipeline first.")
         return

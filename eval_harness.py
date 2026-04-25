@@ -5,7 +5,7 @@ generated reason makes claims that are actually supported by the job snippet
 (faithfulness check, not a quality/relevance check).
 
 Usage:
-    python eval_harness.py                  # Evaluate last_run.json
+    python eval_harness.py                  # Evaluate scored_jobs.json
     python eval_harness.py results.json     # Evaluate a specific file
     python eval_harness.py --synthetic      # Run on built-in test cases (no file needed)
 """
@@ -258,7 +258,7 @@ if __name__ == "__main__":
         print(f"Running faithfulness eval on {len(cases)} synthetic test cases...")
     else:
         result_file = next(
-            (a for a in sys.argv[1:] if not a.startswith("--")), "last_run.json"
+            (a for a in sys.argv[1:] if not a.startswith("--")), "scored_jobs.json"
         )
         p = Path(result_file)
         if not p.exists():

@@ -10,7 +10,7 @@ Unclear labels are excluded from binary metrics but captured for inspection.
 Aim for 40-50 labeled examples with roughly balanced classes.
 
 Usage:
-    python scripts/label_classifier.py                  # reads last_run.json
+    python scripts/label_classifier.py                  # reads scored_jobs.json
     python scripts/label_classifier.py path/to/run.json
 """
 
@@ -40,7 +40,7 @@ def _save(labels: dict[str, dict]) -> None:
 
 
 def main() -> None:
-    source = sys.argv[1] if len(sys.argv) > 1 else "last_run.json"
+    source = sys.argv[1] if len(sys.argv) > 1 else "scored_jobs.json"
     if not Path(source).exists():
         print(f"Source file '{source}' not found. Run the pipeline first.")
         sys.exit(1)
