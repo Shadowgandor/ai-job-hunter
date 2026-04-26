@@ -366,5 +366,213 @@
     "reason": "Search results page/category listing, not an actual job posting. No concrete role details available.",
     "embed_sim": -0.026223717257380486,
     "ai_native_score": 0.4964262843132019
+  },
+  {
+    "job": {
+      "id": "d1441bfebdaa6cfc94e0d882fd5252a7",
+      "title": "Lead AI Engineer in 's-Hertogenbosch bij iodigital | Magnet.me | #1022826 (nl)",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022826/lead-ai-engineer",
+      "snippet": "5 days ago - Als Lead AI Engineer ben je de technische motor \u00e9n het gezicht naar de klant. Je werkt zo'n drie dagen per week aan het bouwen van AI-oplossingen, samen met een of twee Applied AI Engineers en Back-end Engineers, en je staat in direct contact ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-26T07:24:57.852434"
+    },
+    "score": 2,
+    "reason": "Lead AI Engineer role focused on building AI solutions for clients, not enabling teams to adopt AI tools. Requires hands-on model/solution building, not AI adoption/enablement.",
+    "embed_sim": 0.2984403967857361,
+    "ai_native_score": 0.7068346738815308
+  },
+  {
+    "job": {
+      "id": "2875d7d6f4230cfddb72db1ecd2eb1e3",
+      "title": "Lead AI Engineer in Eindhoven bij iodigital | Magnet.me | #1022778 (nl)",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022778/lead-ai-engineer",
+      "snippet": "5 days ago - Als Lead AI Engineer ben je de technische motor \u00e9n het gezicht naar de klant. Je werkt zo'n drie dagen per week aan het bouwen van AI-oplossingen, samen met een of twee Applied AI Engineers en Back-end Engineers, en je staat in direct contact ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-26T07:24:57.852448"
+    },
+    "score": 2,
+    "reason": "Lead AI Engineer role focused on building AI solutions for clients in Eindhoven (outside location preference). Not about team enablement or tool adoption.",
+    "embed_sim": 0.2543632388114929,
+    "ai_native_score": 0.7004218101501465
+  },
+  {
+    "job": {
+      "id": "a2e37432868edfeabc13a38b73313ebb",
+      "title": "75+ vacatures voor Ai Engineer en werk in Eindhoven 10 april ...",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-eindhoven-vacatures.html",
+      "snippet": "Ai Engineer vacatures in Eindhoven. Senior Data Engineer, Senior Software Developer, Traineeship Data Science en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-26T07:25:09.797244"
+    },
+    "score": 0,
+    "reason": "Job listing aggregator page, not a specific role. Eindhoven location outside preference. Cannot assess actual job fit.",
+    "embed_sim": 0.2622712254524231,
+    "ai_native_score": 0.6747442483901978
+  },
+  {
+    "job": {
+      "id": "9b0d164093e263008a95c420a7750cbb",
+      "title": "179 vacatures voor Content Creator in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/content-creator-jobs",
+      "snippet": "Content Creator Working Student. Content Creator Working Student.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:25:23.254601"
+    },
+    "score": 0,
+    "reason": "Content Creator roles are completely unrelated to AI enablement, engineering, or development.",
+    "embed_sim": 0.15022140741348267,
+    "ai_native_score": 0.4826471209526062
+  },
+  {
+    "job": {
+      "id": "615e4882be9249f03ccff2e0cbab4f4d",
+      "title": "81 vacatures voor Umcg in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/umcg-jobs",
+      "snippet": "Full-stack AI Engineer. UbiOps - Private AI on any infra.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:25:23.254611"
+    },
+    "score": 0,
+    "reason": "Job listing aggregator page without specific role details. Cannot assess fit.",
+    "embed_sim": 0.28479886054992676,
+    "ai_native_score": 0.6433833241462708
+  },
+  {
+    "job": {
+      "id": "417ca8f2c63264f3d8c5dc6ba0a9781e",
+      "title": "41 integration engineer vacatures | 21 april 2026 | Nationale ...",
+      "company": "21 april 2026",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/integration-engineer",
+      "snippet": "Wil jij aan de slag als Integration Engineer? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Integration Engineer vacatures. Solliciteer direct!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-26T07:25:27.470161"
+    },
+    "score": 0,
+    "reason": "Job listing aggregator page for Integration Engineers. No specific role details provided. Cannot assess fit.",
+    "embed_sim": 0.2819271683692932,
+    "ai_native_score": 0.6474437117576599
+  },
+  {
+    "job": {
+      "id": "4ee587938783a310eef7783c7abc7c30",
+      "title": "Jobgether zoekt een AI Enablement & Strategy Consultant in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-enablement-strategy-consultant-at-jobgether-4390927225",
+      "snippet": "As an AI Enablement & Strategy Consultant, you will play a critical role in shaping the internal AI transformation of the organization by creating scalable enablement programs and playbooks. You will assess workflows across functions, define AI competency frameworks, and develop measurement systems to track adoption and ROI. This role involves providing strategic guidance on tooling and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:25:31.931864"
+    },
+    "score": 8,
+    "reason": "AI Enablement & Strategy Consultant role perfectly matches candidate profile. Focus on scalable enablement programs, AI competency frameworks, and measurement systems. Strategic + hands-on technical aspects. Location not specified but appears to be aligned with candidate goals.",
+    "embed_sim": 0.44838786125183105,
+    "ai_native_score": 0.6831421256065369
+  },
+  {
+    "job": {
+      "id": "a4d12fbcc0809809685d204fcfe7d07e",
+      "title": "Harnham zoekt een Data & AI Engineering Manager in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-engineering-manager-at-harnham-4403458831",
+      "snippet": "Apr 17, 2026 \u00b7 Acting as a connector between business stakeholders and central IT, ensuring alignment on roadmaps, priorities, and ways of working. Promoting data literacy and AI adoption through enablement, training, and community building. Your Skills and Experience",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:25:31.931924"
+    },
+    "score": 7,
+    "reason": "Data & AI Engineering Manager with strong emphasis on promoting data literacy and AI adoption through enablement, training, and community building. Good fit for AI champion role, though title suggests data-heavy focus which may involve some data science aspects.",
+    "embed_sim": 0.335347056388855,
+    "ai_native_score": 0.4516279697418213
+  },
+  {
+    "job": {
+      "id": "967989c20128cd195dbbeeb652554308",
+      "title": "n8n zoekt een AI Engineering Manager | Remote | Europe in ...",
+      "company": "Remote",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineering-manager-remote-europe-at-n8n-4401090768?position=2&pageNum=0",
+      "snippet": "Translate evolving AI capabilities into clear product and engineering direction for n8n workflows, nodes, and automation primitives. Guide decisions around agent architecture (e.g., single-agent vs multi-agent workflows, tool selection, memory strategies, human-in-the-loop design).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:25:31.931938"
+    },
+    "score": 3,
+    "reason": "AI Engineering Manager at n8n focused on product direction, agent architecture, and workflow automation. More about building AI products/workflows than enabling teams to adopt existing AI tools. Remote Europe role is flexible on location but doesn't match core mandate.",
+    "embed_sim": 0.40858134627342224,
+    "ai_native_score": 0.662261962890625
+  },
+  {
+    "job": {
+      "id": "cdbb27758520742e6b28943049901b4c",
+      "title": "841 developer vacatures in Provincie Utrecht | Maart 2026 ...",
+      "company": "Maart 2026 ...",
+      "location": "Utrecht",
+      "url": "https://www.adzuna.nl/provincie-utrecht/developer",
+      "snippet": "746 developer vacatures in Provincie Utrecht op Adzuna, de zoekmachine voor vacature in Nederland. Elke dag duizenden nieuwe vacatures en alle beschikbare developer vacatures die in de laatste 14 dagen in Nederland zijn gepubliceerd.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-26T07:25:35.633061"
+    },
+    "score": 0,
+    "reason": "Job listing aggregator page for developer roles in Utrecht province. No specific role details provided. Cannot assess individual job fit.",
+    "embed_sim": 0.12186721712350845,
+    "ai_native_score": 0.6106454730033875
+  },
+  {
+    "job": {
+      "id": "28922ee4c67c9f14e9844f3fe25872f0",
+      "title": "Vanderlande zoekt een Internship: From Data to Insight in Engineering...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-from-data-to-insight-in-engineering-tools-at-vanderlande-4363110435",
+      "snippet": "12:02:53 geplaatst. Job TitleInternship From Data to Insight in Engineering ToolsJob DescriptionAssignment type\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:26:01.280136"
+    },
+    "score": 0,
+    "reason": "Internship position - candidate explicitly seeks senior/mid-level roles, not traineeships. Also appears to be a data engineering internship, not AI adoption/enablement.",
+    "embed_sim": 0.31915903091430664,
+    "ai_native_score": 0.5757269859313965
+  },
+  {
+    "job": {
+      "id": "98089c79ff5646233be46ab86e67a960",
+      "title": "Technical Solution Lead | AI Acceleration Team \u2013 Alliander",
+      "company": "AI Acceleration Team \u2013 Alliander",
+      "location": "",
+      "url": "https://werkeninai.nl/technical-solution-lead-ai-acceleration-team-alliander/",
+      "snippet": "Het AI Acceleration team is een platformteam en de engineers trainen dus zelf geen modellen, maar ondersteunen andere teams hierin. Het Team biedt een gestandaardiseerde en geconfigureerde omgeving met tooling voor data analytics, MLOps en access tot data aan.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-04-26T07:26:11.079637"
+    },
+    "score": 4,
+    "reason": "Platform team supporting AI/ML adoption is conceptually close, but the role centers on MLOps, data analytics tooling, and supporting model training workflows \u2014 not on helping dev teams adopt AI coding tools like Copilot/Claude. Requires ML/data infrastructure expertise candidate doesn't target.",
+    "embed_sim": 0.3881738781929016,
+    "ai_native_score": 0.687920868396759
+  },
+  {
+    "job": {
+      "id": "71cdd7763f5fede6af3c27b3329a692e",
+      "title": "70 vacatures voor Rotterdam The Hague Airport in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/rotterdam-the-hague-airport-jobs",
+      "snippet": "Wees een van de eerste sollicitanten. 2 weken geleden. Sourcing Specialist Bouw & Infra.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-26T07:26:15.708830"
+    },
+    "score": 0,
+    "reason": "Job listing appears to be a generic airport company job board page with no specific job details. Cannot assess relevance. Likely not an AI-related role.",
+    "embed_sim": 0.0555807389318943,
+    "ai_native_score": 0.48919984698295593
   }
 ]
