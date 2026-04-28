@@ -846,5 +846,293 @@
     "reason": "Sourcing & Procurement Consultant at Accenture. While mentions leveraging generative AI, the focus is on procurement process transformation, not developer team AI tool adoption. Wrong domain and use case.",
     "embed_sim": 0.29425153136253357,
     "ai_native_score": 0.5771554708480835
+  },
+  {
+    "job": {
+      "id": "c3b4c90b4dae74a45f9b376a49439897",
+      "title": "Waiter/Waitress - (0 hour contract) - Hotel vacatures in Utrecht",
+      "company": "Hotel vacatures in Utrecht",
+      "location": "Utrecht",
+      "url": "https://www.werkenineenhotel.nl/vacature/bediening-bar-f-b/utrecht/utrecht/52204/?prev=1",
+      "snippet": "SamenvattingHotel vacatures van: Park Plaza UtrechtGeplaatst op: 22-04-2026",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:21:14.622428"
+    },
+    "score": 0,
+    "reason": "Waiter/Waitress hospitality role \u2014 completely unrelated to software engineering or AI adoption",
+    "embed_sim": 0.0009793853387236595,
+    "ai_native_score": 0.49001598358154297
+  },
+  {
+    "job": {
+      "id": "fe1fd8211493fe955c4cc7a3b54eb530",
+      "title": "Vacature Parkinghost Amsterdam Museumkwartier Parttime in...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://unique.nl/vacature/parkinghost-amsterdam-museumkwartier-(v3618641)",
+      "snippet": "Vacatures in Utrecht.Vacature nummer. 2026-02207. Solliciteer nu. Video.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:21:14.622489"
+    },
+    "score": 0,
+    "reason": "Parking host role \u2014 hospitality/facilities, no technical relevance",
+    "embed_sim": -0.0749908834695816,
+    "ai_native_score": 0.5199289321899414
+  },
+  {
+    "job": {
+      "id": "3bfbd9f8f8bd0b8741c49a672b1955a1",
+      "title": "Data Analyst \u2014 Analytics & AI Enablement - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-analyst-\u2014-analytics-ai-enablement-at-travix-4403924385?position=34&pageNum=0",
+      "snippet": "Partner with business users, data engineers, product analysts, and others to understand their needs and come up with an end-to-end solution Support business initiatives of utilizing AI in data analysis and generate new ideas to boost AI adoption in Travix Translate business requirements to actionable data tasks (English SQL)",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-28T08:21:25.529092"
+    },
+    "score": 5,
+    "reason": "Data Analyst with AI enablement focus \u2014 partial match on AI adoption concept, but 'analytics & AI enablement' typically requires data engineering/analytics background, not web developer expertise. Unclear location.",
+    "embed_sim": 0.4632718563079834,
+    "ai_native_score": 0.5412262678146362
+  },
+  {
+    "job": {
+      "id": "6b3e075035504a6ae0e2ac3f4210c2ae",
+      "title": "Senior Information Protection (Purview) Engineer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-data-protection-engineer-at-abn-amro-bank-n-v-4377848590",
+      "snippet": "AI is evolving faster, the responsibility to securing data comes along with it. As an Senior Information Protection (Purview) Engineer you will be responsible to protect this data against loss...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-28T08:21:30.530521"
+    },
+    "score": 2,
+    "reason": "Information Protection/Purview Engineer \u2014 focuses on data security compliance, not AI tool adoption for dev teams. Requires specialized Azure/governance knowledge.",
+    "embed_sim": 0.31640860438346863,
+    "ai_native_score": 0.628044068813324
+  },
+  {
+    "job": {
+      "id": "db1a4d835219c6929bc037e7c9a4035a",
+      "title": "Unilever Future Leaders Programme... | Magnet.me | #1001793 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1001793/unilever-future-leaders-programme---research---development-nl",
+      "snippet": "Geplaatst 7 mrt. 2026. Vacature delen.Improve nutrition and sustainability by upgrading recipes, reducing waste, and lowering our environmental footprint. Build a Future-fit R&D Model, driven by pioneering people and powered by cutting edge Digital and AI technology.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-28T08:21:34.631353"
+    },
+    "score": 0,
+    "reason": "Unilever Graduate/Traineeship Programme \u2014 explicitly for early-career/future leaders, candidate is senior level. Not an AI adoption role.",
+    "embed_sim": 0.18992845714092255,
+    "ai_native_score": 0.5026983618736267
+  },
+  {
+    "job": {
+      "id": "ab770977a20db56cb6536c901b9b3d22",
+      "title": "Senior Consultant \u2013 AI, Transformaties... | Magnet.me | #986645 (nl)",
+      "company": "Magnet.me",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/986645/senior-consultant--ai--transformaties---innovatie-in-operations--financial-services-",
+      "snippet": "Senior Consultant \u2013 AI, Transformaties & Innovatie in Operations (Financial Services). Baan \u2022 Amsterdam, NL. Geplaatst 19 mrt. 2026. Vacature delen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-28T08:21:34.631365"
+    },
+    "score": 6,
+    "reason": "Senior Consultant AI/Transformation in Financial Services (Amsterdam) \u2014 good seniority match and background fit for operations transformation. Amsterdam is within 40km. But unclear if role focuses on dev team AI tooling adoption vs. broader organizational consulting.",
+    "embed_sim": 0.4191337823867798,
+    "ai_native_score": 0.7025325298309326
+  },
+  {
+    "job": {
+      "id": "125eed6459192f1680f2138127ae23eb",
+      "title": "AI adoption without governance is risky. AI adoption without people...",
+      "company": "",
+      "location": "",
+      "url": "https://www.linkedin.com/posts/annatvishor_ai-adoption-without-governance-is-risky-activity-7427397570177613824-7oRS",
+      "snippet": "AI adoption without people alignment is doomed.These credentials are the exact combination organizations desperately need but can't articulate in job descriptions. What this actually means for your organization: Most companies are rushing to adopt AI. Few are doing it responsibly.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:21:38.663454"
+    },
+    "score": 0,
+    "reason": "LinkedIn post, not a job listing \u2014 no application link or role details",
+    "embed_sim": 0.46946507692337036,
+    "ai_native_score": 0.8029996156692505
+  },
+  {
+    "job": {
+      "id": "cecbe4afb34a54a02b8aaa8b21840e94",
+      "title": "7N hiring Integration Developer in Charlotte Metro | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://www.linkedin.com/jobs/view/integration-developer-at-7n-4400451118?position=23&pageNum=0",
+      "snippet": "Support cloud migration efforts and the retirement of legacy integration componentsMake productive use of AI-powered development tools to accelerate delivery and raise code quality",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:21:43.194982"
+    },
+    "score": 3,
+    "reason": "Integration Developer (Charlotte, USA) \u2014 mentions 'AI-powered development tools' but primarily a developer role, not an AI enablement/adoption role. Wrong location (USA, not Netherlands).",
+    "embed_sim": 0.46935123205184937,
+    "ai_native_score": 0.5933699607849121
+  },
+  {
+    "job": {
+      "id": "afb538b826b3c48de57eaee804f49b18",
+      "title": "Vind engineer op Marktplaats - maart 2026",
+      "company": "maart 2026",
+      "location": "",
+      "url": "https://www.marktplaats.nl/q/engineer/",
+      "snippet": "Ball engineer iii nm2026c-s33cj-bk, 2020+, automatische beweging, 40 mm roestvrijstalen kast met stalen band, herenhorloge in zeer goede staat met lichte gebruikssporen; originele doos inbegrepen, gee.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:21:43.195010"
+    },
+    "score": 0,
+    "reason": "Watch/timepiece listing on Marktplaats \u2014 not a job posting",
+    "embed_sim": 0.12650930881500244,
+    "ai_native_score": 0.6695281863212585
+  },
+  {
+    "job": {
+      "id": "6955793ed37b1e6b1a3929ae34f6aa8f",
+      "title": "50+ vacatures voor Ai Prompt en werk: 19 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-prompt-vacatures.html",
+      "snippet": "Ai Prompt vacatures. Tutor, Administrative Assistant, Instructor en meer op Indeed.com.Bilingual PR Specialist - AI Trainer. Op zoek naar meerdere kandidaten.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-28T08:21:47.471864"
+    },
+    "score": 0,
+    "reason": "Indeed job search results page, not a specific job listing \u2014 no actionable role details",
+    "embed_sim": 0.2642589509487152,
+    "ai_native_score": 0.778684675693512
+  },
+  {
+    "job": {
+      "id": "268bb2e47c6573df4b046b725dc74ece",
+      "title": "1.127 vacatures voor ai specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-specialist-vacatures-SRCH_IL.0,11_IN178_KO12,25.htm",
+      "snippet": "Zoek naar vacatures voor Ai specialist in Nederland met bedrijfsreviews en salarissen. 1.127 vacatures voor Ai specialist in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-28T08:21:56.002292"
+    },
+    "score": 0,
+    "reason": "Glassdoor job board listing page, not a specific job. Cannot evaluate.",
+    "embed_sim": 0.24432113766670227,
+    "ai_native_score": 0.6196467876434326
+  },
+  {
+    "job": {
+      "id": "a25222291b763e3f8596c372bc34acd0",
+      "title": "Data Engineer | Conversational AI - ABN AMRO - Werken in AI",
+      "company": "Conversational AI - ABN AMRO - Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/data-engineer-conversational-ai-abn-amro/",
+      "snippet": "At a glance We are looking for an enthusiastic colleague that will help us shape the future of Conversational AI at ABN AMRO in the role of an engineering who can maintain and improve our Conversational AI workflows by automating the data and ml processes used within the team to improve solutions like Chatbot Anna, Conversational IVR (Voicebot) and LLM-based Advisor Assist.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-04-28T08:22:13.223321"
+    },
+    "score": 2,
+    "reason": "Data Engineer role focused on ML pipelines and automating data/ML processes. Requires ML expertise, not AI adoption/enablement. Wrong specialization.",
+    "embed_sim": 0.47553497552871704,
+    "ai_native_score": 0.5963151454925537
+  },
+  {
+    "job": {
+      "id": "2bc3ea85b75f173144f28b6d90ee513b",
+      "title": "1.742 vacature (s) voor Ai open in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-open-vacatures-SRCH_IL.0,9_KO10,17.htm",
+      "snippet": "Zoek vacatures voor Ai open in Nederland met bedrijfsbeoordelingen en salarissen. 1.742 vacatures voor Ai open in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-28T08:22:16.924498"
+    },
+    "score": 0,
+    "reason": "Glassdoor job board listing page, not a specific job. Cannot evaluate.",
+    "embed_sim": 0.03540743514895439,
+    "ai_native_score": 0.5301747918128967
+  },
+  {
+    "job": {
+      "id": "8130ec1e6e81ab0a9ac4c9115ffdb93f",
+      "title": "Front Office Intern - Sept 2026 - Hotel vacatures in Amsterdam",
+      "company": "Hotel vacatures in Amsterdam",
+      "location": "",
+      "url": "https://www.werkenineenhotel.nl/vacature/receptionist-e-front-office/amsterdam/noord-holland/52205/?prev=1",
+      "snippet": "Front Office Intern September 2026 - art'otel. Is it time for you to start searching for an internship, do you breathe hospitality and are you more than excited to broaden your knowledge, stop with your search!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-28T08:22:21.288580"
+    },
+    "score": 0,
+    "reason": "Hotel Front Office Intern in hospitality. Completely unrelated to candidate profile and location outside Utrecht area.",
+    "embed_sim": 0.15065859258174896,
+    "ai_native_score": 0.5319387316703796
+  },
+  {
+    "job": {
+      "id": "e37936d0d8250c8246de2c9568c2d257",
+      "title": "glassdoor.nl/Vacature/machine-learning-developer-vacatures-SRCH...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/machine-learning-developer-vacatures-SRCH_KO0,26.htm",
+      "snippet": "The site owner hides the web page description.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-28T08:22:29.360264"
+    },
+    "score": 0,
+    "reason": "Machine Learning Developer job board page without actual job details. Cannot evaluate. URL suggests ML focus.",
+    "embed_sim": 0.0944630354642868,
+    "ai_native_score": 0.48416805267333984
+  },
+  {
+    "job": {
+      "id": "fbe136420e05a073741fb4b3bba31a86",
+      "title": "Vacatures voor Ios developer in Hongarije | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/hongarije-ios-developer-vacatures-SRCH_IL.0,9_IN111_KO10,23.htm",
+      "snippet": "IOS developer experience with Objective-C(++) and Swift. Investigate and advise on technologies to be used.Er zijn openstaande vacatures voor een Ios Developer in verschillende steden in de buurt van Hongarije, waaronder Budapest, Szeged, Debrecen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-28T08:22:29.360278"
+    },
+    "score": 0,
+    "reason": "iOS developer roles in Hungary. Wrong location (40km+ from Utrecht), wrong specialization focus.",
+    "embed_sim": 0.3147795498371124,
+    "ai_native_score": 0.6048763990402222
+  },
+  {
+    "job": {
+      "id": "6cc396c6900c4f7a07fa0dac2e1fad29",
+      "title": "53 vacatures voor deep learning scientist in Amsterdam... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-deep-learning-scientist-vacatures-SRCH_IL.0,9_IC3064478_KO10,33.htm",
+      "snippet": "Amazon Development Center (Netherlands) B.V.3,7. Applied Scientist, Ring AI. Utilize cloud infrastructure for model development, ensuring seamless collaboration with our team of software developers and DevOps engineers for efficient\u2026\u2026 30d+. Codecaree...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-28T08:22:29.360296"
+    },
+    "score": 0,
+    "reason": "Deep Learning Scientist job board page. Suggests pure ML/AI research roles requiring model development expertise. Wrong specialization and likely requires ML background candidate explicitly doesn't want.",
+    "embed_sim": 0.31501781940460205,
+    "ai_native_score": 0.5063542127609253
+  },
+  {
+    "job": {
+      "id": "9102de990bb9b20a31bb0d68326b0f1a",
+      "title": "500+ vacatures voor Java Developer en werk: 14 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Java-Developer-vacatures?sort=date",
+      "snippet": "Java Developer, Developer, Software Engineer en meer op Indeed.com.\u00b7 A Mobile developer who has worked with teams that built applications with millions of users. \u00b7 Experienced with scaling applications, driving complex initiatives across multiple teams and xfn stakeholders.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-28T08:22:33.877219"
+    },
+    "score": 0,
+    "reason": "Indeed Java Developer job board listing page, not a specific job. Cannot evaluate.",
+    "embed_sim": 0.3550296127796173,
+    "ai_native_score": 0.6456260085105896
   }
 ]
