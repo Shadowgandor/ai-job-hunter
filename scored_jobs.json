@@ -1134,5 +1134,165 @@
     "reason": "Indeed Java Developer job board listing page, not a specific job. Cannot evaluate.",
     "embed_sim": 0.3550296127796173,
     "ai_native_score": 0.6456260085105896
+  },
+  {
+    "job": {
+      "id": "57d69ad713ef0710c798c4f02070a863",
+      "title": "85 vacatures voor Softwaretester in Nederland (1 nieuw)",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/softwaretester-jobs",
+      "snippet": "Software Test Engineer. Darktrace. Rotterdam and The Hague. Actief aan het werven. 2 weken geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-29T08:11:20.629420"
+    },
+    "score": 0,
+    "reason": "Software tester role, unrelated to AI adoption or enablement",
+    "embed_sim": 0.25025686621665955,
+    "ai_native_score": 0.7092496752738953
+  },
+  {
+    "job": {
+      "id": "7c1856d69a7579a5420c0273e9b16dd3",
+      "title": "1.000 vacatures voor Ingenieur in Nederland (119 nieuw)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ingenieur-jobs",
+      "snippet": "Engineer E. SPIE Nederland. Son en Breugel. Wees een van de eerste sollicitanten. 3 weken geleden. Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-29T08:11:20.629430"
+    },
+    "score": 0,
+    "reason": "Generic engineer listing, no AI focus, insufficient details",
+    "embed_sim": 0.22690945863723755,
+    "ai_native_score": 0.6496764421463013
+  },
+  {
+    "job": {
+      "id": "f80174fb31b27778a159b74353d67d81",
+      "title": "Industry X - AI Software Engineer in Amsterdam bij Accenture ...",
+      "company": "Accenture ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1024235/industry-x---ai-software-engineer",
+      "snippet": "5 days ago \u00b7 Your experience in complex software development and delivering in large agile teams is key to this role. Processes As an Industry X AI Software Engineer, you will play an active role in the software solution development starting from architecture definition to delivering and deploying the end solution.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-29T08:11:29.066907"
+    },
+    "score": 3,
+    "reason": "AI in title but 'Industry X' suggests consulting/delivery role focused on building AI solutions, not enabling teams to adopt AI tools. Requires complex software development in large teams.",
+    "embed_sim": 0.5146152377128601,
+    "ai_native_score": 0.6670569777488708
+  },
+  {
+    "job": {
+      "id": "b3d7f720210a204e52aa5167f1a276e4",
+      "title": "Industry X - AI Software Engineer in Amsterdam bij parsionate ...",
+      "company": "Parsionate ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1024216/industry-x---ai-software-engineer",
+      "snippet": "6 days ago \u00b7 Experience in complex software development and delivering in large agile teams is key to this role. As an Industry X AI Software Engineer, you will play an active role in the software solution development starting from architecture definition to delivering and deploying the end solution.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-29T08:11:29.066921"
+    },
+    "score": 3,
+    "reason": "Similar to [2] - Industry X AI role focused on solution development and deployment, not AI tool adoption/enablement for teams",
+    "embed_sim": 0.5343531370162964,
+    "ai_native_score": 0.6824488043785095
+  },
+  {
+    "job": {
+      "id": "bb42b2cf972e828327ffb4a01ca921ce",
+      "title": "AI Engineer in Amsterdam bij Huracan Technical Advisory ...",
+      "company": "Huracan Technical Advisory ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1023773/ai-engineer",
+      "snippet": "Apr 22, 2026 \u00b7 Essential skills and qualifications To excel as an AI Engineer at Hurac\u00e1n, candidates should possess a strong foundation in AI solution development, particularly in machine learning and deep learning techniques. Proficiency in Python, along with experience in AI frameworks such as TensorFlow or PyTorch, is essential.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-29T08:11:29.066958"
+    },
+    "score": 1,
+    "reason": "AI Engineer role explicitly requires strong ML/deep learning background, Python proficiency, AI frameworks (TensorFlow, etc.) \u2014 pure ML engineer position, not AI enablement",
+    "embed_sim": 0.4948720335960388,
+    "ai_native_score": 0.6451693177223206
+  },
+  {
+    "job": {
+      "id": "75459f2be5d78cd19ee3024b5fc087cb",
+      "title": "200+ vacatures voor Ai Adoption Lead en werk: 14 april 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-adoption-lead-vacatures.html?vjk=d693b2e7b375a706",
+      "snippet": "Ai Adoption Lead vacatures. Customer Success Manager, Senior Research Engineer, Lead Enterprise Architect en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-29T08:11:33.028702"
+    },
+    "score": 0,
+    "reason": "Generic job search results page, not an actual job listing",
+    "embed_sim": 0.25014060735702515,
+    "ai_native_score": 0.7038809061050415
+  },
+  {
+    "job": {
+      "id": "b546ce9398876f5fe08aa823ae56ac3a",
+      "title": "They Said \"Prompt Engineering\" Was the Future Job. It Lasted 18...",
+      "company": "",
+      "location": "",
+      "url": "https://www.linkedin.com/pulse/said-prompt-engineering-future-job-lasted-18-months-chirag-ardeshna-y6rdf",
+      "snippet": "2023: \"Learn prompt engineering! $300K salaries! Future-proof career!\" 2026: The job doesn't exist anymore. AI got so good at understanding us, we don't need prompt engineers.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-29T08:11:37.133204"
+    },
+    "score": 0,
+    "reason": "Opinion article about prompt engineering, not a job listing",
+    "embed_sim": 0.35776787996292114,
+    "ai_native_score": 0.7188719511032104
+  },
+  {
+    "job": {
+      "id": "d624f5e6e3f442249e19278883807aed",
+      "title": "Vacature Medewerker Hypotheekaanvragen Verwerking Parttime in...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://unique.nl/vacature/medewerker-hypotheekaanvragen-verwerking-(v3627081)",
+      "snippet": "Vacatures in Utrecht.Salarisindicatie. \u20ac15,40. Vacature nummer. 2026-23630. Solliciteer nu.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-29T08:11:37.133230"
+    },
+    "score": 0,
+    "reason": "Mortgage processing role in Utrecht, completely unrelated to AI adoption or software engineering",
+    "embed_sim": -0.025600718334317207,
+    "ai_native_score": 0.5369973182678223
+  },
+  {
+    "job": {
+      "id": "15d2de07112d13e82573d2f0ba18973f",
+      "title": "Vacature AI Developer",
+      "company": "",
+      "location": "",
+      "url": "https://twict.nl/en/vacancy-technical-support-employee/",
+      "snippet": "April 16, 2025 - In our group of companies (Twict, Beexact and Geostruct), we support the entire process of fibre optic installation - from preparation to execution. Increasingly, AI plays a key role in this. That is why we are looking for experienced AI developers who think, build and innovate with us.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-29T08:11:53.453453"
+    },
+    "score": 2,
+    "reason": "AI Developer role for fibre optic installation company \u2014 appears to require building AI solutions, not enabling team adoption. Wrong domain focus.",
+    "embed_sim": 0.3939186930656433,
+    "ai_native_score": 0.6650797724723816
+  },
+  {
+    "job": {
+      "id": "15e9347f3b9b258d6ff43ba662ad5b18",
+      "title": "Azure Cloud Specialist in 's-Hertogenbosch bij Ctac | Magnet.me | #1017506 (nl)",
+      "company": "Ctac",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1017506/azure-cloud-specialist",
+      "snippet": "Implementeren en doorontwikkelen van Azure Landing Zones en het Cloud Adoption Framework. Werken aan security, governance en compliance binnen Azure. Ontwerpen en beheren van Azure networking (VNets, subnets, routing, firewalls).",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-29T08:11:57.732360"
+    },
+    "score": 1,
+    "reason": "Azure Cloud Specialist focused on infrastructure, cloud governance, and networking \u2014 unrelated to AI tool adoption or enablement for development teams",
+    "embed_sim": 0.2122163027524948,
+    "ai_native_score": 0.46572768688201904
   }
 ]
