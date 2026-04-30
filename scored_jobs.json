@@ -1294,5 +1294,229 @@
     "reason": "Azure Cloud Specialist focused on infrastructure, cloud governance, and networking \u2014 unrelated to AI tool adoption or enablement for development teams",
     "embed_sim": 0.2122163027524948,
     "ai_native_score": 0.46572768688201904
+  },
+  {
+    "job": {
+      "id": "76e2e53355577dff1bd02e9ec5a67564",
+      "title": "28 vacatures voor data scientist in Dubai, Verenigde... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/dubai-data-scientist-vacatures-SRCH_IL.0,5_IM954_KO6,20.htm",
+      "snippet": "Bedrijfsbedoordeling. 28 vacature(s) voor Data scientist in Dubai, Verenigde Arabische Emiraten.Collaborate with Data Engineers to ensure seamless integration of AI/ML models into enterprise data platforms.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-30T08:15:35.135056"
+    },
+    "score": 0,
+    "reason": "Dubai location, data scientist roles requiring ML/model training expertise - not relevant to candidate's location or focus",
+    "embed_sim": 0.20695824921131134,
+    "ai_native_score": 0.45413923263549805
+  },
+  {
+    "job": {
+      "id": "81c36d74f2322b8b91be0bc81bb81bc0",
+      "title": "glassdoor.nl/Salarissen/software-engineer-salarissen-SRCH_KO0,17....",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Salarissen/software-engineer-salarissen-SRCH_KO0,17.htm?countryRedirect=true",
+      "snippet": "The site owner hides the web page description.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-30T08:15:35.135068"
+    },
+    "score": 0,
+    "reason": "Salary page, not a job listing - no actual job opportunity to evaluate",
+    "embed_sim": 0.08805179595947266,
+    "ai_native_score": 0.4692980945110321
+  },
+  {
+    "job": {
+      "id": "73426696cace5e6c5b85fbbc8c0107b3",
+      "title": "97 machine learning Jobs in Utrecht, March 2026 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.com/Job/utrecht-machine-learning-jobs-SRCH_IL.0,7_IC3045310_KO8,24.htm",
+      "snippet": "Skills: Engels, Schaalbaarheid, ... at Good Company (Netherlands)Good Company (Netherlands) Overview ... Als Lead Machine Learning Engineer bij Sogeti geef je richting aan het ontwerpen, bouwen en opschalen van AI- en ML-oplossingen ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-30T08:15:40.463076"
+    },
+    "score": 2,
+    "reason": "Utrecht location is good, but role is 'Lead Machine Learning Engineer' focused on designing/building/scaling AI/ML solutions - pure ML engineering, not AI adoption/enablement",
+    "embed_sim": 0.2443871796131134,
+    "ai_native_score": 0.49634721875190735
+  },
+  {
+    "job": {
+      "id": "bfcf3456a0e80d3b5f3d40521aec9487",
+      "title": "Thuiswerk vacatures. Travel Consultant en meer op Indeed.com",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/jobs?q=thuiswerk&grpKey=8gcFdG5mZWy4D7qkqTyqEB4KCW5vcm10aXRsZRoRdHJhdmVsIGNvbnN1bHRhbnQ=",
+      "snippet": "Alle vacatures. Thuiswerk. Datum geplaatst.DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-30T08:15:44.356441"
+    },
+    "score": 0,
+    "reason": "Data annotation/AI training gig work - not relevant to candidate's senior engineer role or AI adoption/enablement goals",
+    "embed_sim": 0.16168592870235443,
+    "ai_native_score": 0.497803270816803
+  },
+  {
+    "job": {
+      "id": "c51def825e972054163c5237394aa639",
+      "title": "AI Engineer in Utrecht bij iodigital | Magnet.me | #1022818 (nl)",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022818/ai-engineer",
+      "snippet": "1 week ago - Je hebt een brede interesse in AI en data-engineering en kent de basics van LLM-architecturen \u00b7 Je hebt een sterke basis in software engineering en bent bekend met error handling, asynchrone operaties en streaming data met Node.js en Python en de tooling daar omheen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-30T08:16:00.729693"
+    },
+    "score": 3,
+    "reason": "Utrecht location matches well, but role requires 'basics of LLM architectures', Node.js/Python expertise, streaming data pipelines - this is ML/data engineering, not AI tooling adoption for dev teams",
+    "embed_sim": 0.36963605880737305,
+    "ai_native_score": 0.6502425670623779
+  },
+  {
+    "job": {
+      "id": "383e6fb5d3a7cba7327f39b1afae5e03",
+      "title": "AI Engineer in Amsterdam bij iO | Magnet.me | #1022958 (nl)",
+      "company": "Io",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022958/ai-engineer",
+      "snippet": "Apr 21, 2026 \u00b7 Als AI Engineer ben je bezig op het raakvlak van data, software engineering en AI-technologie. In die brede waaier van zaken doe jij de end-to-end ontwikkeling van software, platformen, tools en (soms tijdelijke) pipelines om data van A naar B en va\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-30T08:16:12.277482"
+    },
+    "score": 2,
+    "reason": "Amsterdam is acceptable location, but role is 'end-to-end development of software, platforms, pipelines for data' - focused on building AI systems/pipelines, not helping dev teams adopt AI tools",
+    "embed_sim": 0.4095328450202942,
+    "ai_native_score": 0.643910825252533
+  },
+  {
+    "job": {
+      "id": "eeba96bf20901133812e85fd5062942f",
+      "title": "AI Engineer in Amsterdam bij iodigital | Magnet.me",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022816/ai-engineer",
+      "snippet": "Apr 21, 2026 \u00b7 Als AI Engineer ben je bezig op het raakvlak van data, software engineering en AI-technologie.",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-30T08:16:12.277510"
+    },
+    "score": 2,
+    "reason": "Amsterdam location acceptable, but role involves data/software engineering/AI technology intersection for building platforms and pipelines - not AI adoption/enablement focus",
+    "embed_sim": 0.3752610683441162,
+    "ai_native_score": 0.7268106341362
+  },
+  {
+    "job": {
+      "id": "c0e57654996f34d7176fd1fa1d28aab8",
+      "title": "AI Engineer in 's-Hertogenbosch bij iodigital | Magnet.me",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022789/ai-engineer",
+      "snippet": "Apr 21, 2026 \u00b7 Als AI Engineer bij iO ben je bezig op het raakvlak van data, software engineering en AI-technologie. In die brede waaier van zaken doe jij de end-to-end ontwikkeling van software, platformen, tools en (soms tijdelijke) pipelines om data van A naar\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-04-30T08:16:12.277558"
+    },
+    "score": 1,
+    "reason": "'s-Hertogenbosch is outside preferred 40km radius from Utrecht, and role focuses on building AI platforms/pipelines rather than AI tool adoption for dev teams",
+    "embed_sim": 0.39536720514297485,
+    "ai_native_score": 0.6017035245895386
+  },
+  {
+    "job": {
+      "id": "a698fa1db214b4da4d3716e439c39c02",
+      "title": "ChannelEngine zoekt een AI & Workflow Transformation ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-workflow-transformation-specialist-at-channelengine-4395636930",
+      "snippet": "Mar 31, 2026 \u00b7 What will you do as our AI & Workflow Transformation Specialist? In this role, you\u2019ll be one of our go-to experts on all things AI and automation \ud83e\udd16, working closely with department heads to map processes, uncover bottlenecks, and re-engineer workflows that scale.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-04-30T08:16:20.883215"
+    },
+    "score": 6,
+    "reason": "AI & Workflow Transformation role with process mapping and re-engineering has some adoption/enablement aspects; however, location not specified (ChannelEngine is Netherlands-based but unclear if Utrecht area); needs more details on whether this is dev team focused or enterprise-wide automation",
+    "embed_sim": 0.38396263122558594,
+    "ai_native_score": 0.578437864780426
+  },
+  {
+    "job": {
+      "id": "76afeffdabe3482f852937464bfef7c8",
+      "title": "Vacatures voor Machine learning in Australi\u00eb | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/australi\u00eb-machine-learning-vacatures-SRCH_IL.0,9_IN16_KO10,26.htm",
+      "snippet": "Vacatures. Bedrijven. Salarissen. Gesprekken. Voor werkgevers. Vacatures.Bachelor\u2019s or a higher education degree in Computer Science/Engineering, data science, statistics or related field. R, Groovy, Scala are a plus.\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-04-30T08:16:33.889967"
+    },
+    "score": 0,
+    "reason": "Australia location, Machine Learning roles requiring Bachelor's in CS/data science - completely misaligned on geography and ML focus",
+    "embed_sim": 0.17175722122192383,
+    "ai_native_score": 0.40117117762565613
+  },
+  {
+    "job": {
+      "id": "696de41ac17edc9fa1c0399ea102177e",
+      "title": "Software Crafter - (with AI experience) - 1058 Amsterdam - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=e53e9cdb9300ee60",
+      "snippet": "Proven experience as a Software Engineer with exposure to AI tools, models, or frameworks. Strong fundamentals in software design patterns, clean code, and software architecture. Practical experience with AI utilities, cloud-based model deployment, or integrating AI APIs into applications.",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-30T08:16:47.365876"
+    },
+    "score": 4,
+    "reason": "AI exposure mentioned but role focuses on integrating AI APIs and deploying models\u2014more developer-as-consumer rather than champion/enabler. Lacks clarity on SDLC adoption, team coaching, or platform engineering aspects. Location unknown.",
+    "embed_sim": 0.5122092962265015,
+    "ai_native_score": 0.6983059048652649
+  },
+  {
+    "job": {
+      "id": "a98e322270f27cc456a8a913c39d6e33",
+      "title": "Android Developer - vacatures - 30 april 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/Android-Developer-vacatures",
+      "snippet": "Android Developer, Developer, Senior Controller en meer op Indeed.com.The Android Developer will join our in-house App Development team, which consists of two Android and two iOS developers. +4 years of relevant work experience",
+      "source": "ddg:indeed",
+      "date_found": "2026-04-30T08:16:47.365911"
+    },
+    "score": 0,
+    "reason": "Pure Android Developer role. No AI adoption, enablement, or tooling focus. Different career track entirely.",
+    "embed_sim": 0.2641887962818146,
+    "ai_native_score": 0.5691688060760498
+  },
+  {
+    "job": {
+      "id": "ef024f33e1ce841603e6ee03cb9b14ee",
+      "title": "Vacature Medewerker Meldkamer Parttime in Maastricht",
+      "company": "",
+      "location": "",
+      "url": "https://unique.nl/vacature/medewerker-meldkamer-(v3628441)",
+      "snippet": "Vacature nummer. 2026-17452. Solliciteer nu. Video.Vinden wij ook dat de vacature bij je past? Dan leren we je graag beter kennen in een persoonlijk intakegesprek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-30T08:16:52.077787"
+    },
+    "score": 0,
+    "reason": "Dispatch/emergency call center role. Completely unrelated to software engineering or AI adoption.",
+    "embed_sim": 0.03436949476599693,
+    "ai_native_score": 0.4992091953754425
+  },
+  {
+    "job": {
+      "id": "68c1c9ede32898fd78ee8b0fb9ace1f6",
+      "title": "Vacature Beleidsmedewerker duurzaamheid - Utrecht... - Wyzer",
+      "company": "Wyzer",
+      "location": "Utrecht",
+      "url": "https://www.wyzer.nl/vacature/beleidsmedewerker-duurzaamheid-utrecht-utrecht-nederland/",
+      "snippet": "Bij ons zijn er tal van mogelijkheden om je door te blijven ontwikkelen en extra kennis te vergaren aan de hand van de Wyzer academie. Ook is er ruimte om te sparren met collega\u2019s. In goed overleg met elkaar zoeken wij de meest uitdagende opdrachten voor jou in de regio Utrecht.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-04-30T08:16:52.077816"
+    },
+    "score": 0,
+    "reason": "Policy/sustainability role (Beleidsmedewerker duurzaamheid). No connection to software engineering, AI tooling, or developer enablement.",
+    "embed_sim": -0.0020610857754945755,
+    "ai_native_score": 0.5614641308784485
   }
 ]
