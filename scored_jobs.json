@@ -1518,5 +1518,53 @@
     "reason": "Policy/sustainability role (Beleidsmedewerker duurzaamheid). No connection to software engineering, AI tooling, or developer enablement.",
     "embed_sim": -0.0020610857754945755,
     "ai_native_score": 0.5614641308784485
+  },
+  {
+    "job": {
+      "id": "9a56bb05c33a888066a9e3897dac5ec2",
+      "title": "129 vacatures voor Computer Science Internship in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/computer-science-internship-jobs",
+      "snippet": "Intern - Software engineering. Cape AI. Brabantse Stedenrij en omgeving 2 maanden geleden. \u0421++ Developer (Internship).1 week geleden. Intern/ Working Student - Connectivity Software (m/f/d).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-01T08:09:15.023792"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship positions explicitly do not match candidate profile (requires senior level). Also appears to be a job search aggregator page, not a specific open role.",
+    "embed_sim": 0.2936983108520508,
+    "ai_native_score": 0.6642864346504211
+  },
+  {
+    "job": {
+      "id": "539462f0ab426fd2693672b4ed93da73",
+      "title": "40 vacatures voor Qualcomm in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/qualcomm-jobs",
+      "snippet": "Senior Machine Learning Engineer (Qualcomm AI Research, Amsterdam).Monumental. Amsterdam 6 maanden geleden. OptiTrack Working Student.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-01T08:09:15.023808"
+    },
+    "score": 0,
+    "reason": "Senior Machine Learning Engineer role requires deep ML expertise (model training, research). Candidate explicitly seeks to avoid pure ML/data science roles. Wrong domain entirely.",
+    "embed_sim": 0.20841315388679504,
+    "ai_native_score": 0.5251433849334717
+  },
+  {
+    "job": {
+      "id": "cf852aecc5fe0572d3213a9481062e05",
+      "title": "39 vacatures voor Data Entry Jobs Work From Home in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/data-entry-jobs-work-from-home-jobs",
+      "snippet": "AI Trainer - Advanced Dutch Fluency. Prolific. Nederland. Wees een van de eerste sollicitanten. 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-01T08:09:15.023820"
+    },
+    "score": 0,
+    "reason": "AI Trainer role focused on data labeling/annotation work. Not aligned with AI adoption enablement, DevEx, or platform engineering. Wrong function entirely.",
+    "embed_sim": 0.23240938782691956,
+    "ai_native_score": 0.5111770033836365
   }
 ]
