@@ -1566,5 +1566,101 @@
     "reason": "AI Trainer role focused on data labeling/annotation work. Not aligned with AI adoption enablement, DevEx, or platform engineering. Wrong function entirely.",
     "embed_sim": 0.23240938782691956,
     "ai_native_score": 0.5111770033836365
+  },
+  {
+    "job": {
+      "id": "6b2acc781c2751f15c19a456e767846a",
+      "title": "100 vacatures voor Unilever in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/unilever-jobs",
+      "snippet": "Wees een van de eerste sollicitanten. 3 weken geleden. Working Internship \u2013 Sustainability Strategy & Consulting.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-02T07:28:44.282396"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for Unilever internships, no specific role details, internship level (not senior), location unknown",
+    "embed_sim": 0.16458168625831604,
+    "ai_native_score": 0.5571004152297974
+  },
+  {
+    "job": {
+      "id": "ba42d3b411406aee58941a70eca8eb24",
+      "title": "56 vacatures voor Russian in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/russian-jobs",
+      "snippet": "Instructor for AI-Assisted Programming Workshops (part-time, Golang or Android or iOS). TripleTen. Amsterdam.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-02T07:28:44.282413"
+    },
+    "score": 6,
+    "reason": "AI-assisted programming workshops instructor in Amsterdam (close to Utrecht). Matches AI adoption/coaching aspect. However, TripleTen is a coding bootcamp and this appears to be part-time instructor role for specific languages (Golang/Android/iOS), not strategic AI enablement for enterprise dev teams. Limited seniority signal.",
+    "embed_sim": 0.33899471163749695,
+    "ai_native_score": 0.7438077330589294
+  },
+  {
+    "job": {
+      "id": "6daaae395f0ef51bfd1fe014cc9e690e",
+      "title": "Vacatures voor Klantenservice in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/klantenservice-jobs",
+      "snippet": "Topvacatures voor Klantenservice in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Klantenservice toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-02T07:28:44.282424"
+    },
+    "score": 0,
+    "reason": "Generic customer service job listing page, completely unrelated to software development or AI",
+    "embed_sim": 0.05739779770374298,
+    "ai_native_score": 0.5561208128929138
+  },
+  {
+    "job": {
+      "id": "83cfedd300f9a4ec099164f4e9a373ae",
+      "title": "Junior Cloud Engineer vacature | Working Talent",
+      "company": "Working Talent",
+      "location": "",
+      "url": "https://workingtalent.nl/junior-cloud-engineer",
+      "snippet": "En ben je klaar voor een uitdagende functie als Junior Cloud Engineer? Bij Working Talent kun je elke eerste maandag van de maand starten met een traineeship dat je de perfecte opstap biedt in de IT-wereld.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-02T07:29:14.854771"
+    },
+    "score": 0,
+    "reason": "Junior Cloud Engineer traineeship, explicitly junior/trainee level (candidate requires senior level), not AI-focused",
+    "embed_sim": 0.373096227645874,
+    "ai_native_score": 0.5183881521224976
+  },
+  {
+    "job": {
+      "id": "804b70ba5b3994dfd13203ce6009d0e7",
+      "title": "glassdoor.nl/Vacatures/AIG-Vacatures-E40.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacatures/AIG-Vacatures-E40.htm",
+      "snippet": "openstaande vacatures.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-02T07:29:29.684699"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for AIG with no specific role details visible",
+    "embed_sim": 0.026364507153630257,
+    "ai_native_score": 0.5074123740196228
+  },
+  {
+    "job": {
+      "id": "beeb80ba1fb69c95c4aeb4d2d96641ef",
+      "title": "F&B employee - Hotel vacatures in Utrecht",
+      "company": "Hotel vacatures in Utrecht",
+      "location": "Utrecht",
+      "url": "https://www.werkenineenhotel.nl/vacature/bediening-bar-f-b/utrecht/utrecht/44857/",
+      "snippet": "F&B employee. Samenvatting. Hotel vacatures van: Stayokay Utrecht Centrum. Standplaats: Neude 5, 3512 AD Utrecht, Utrecht. Totaal aantal medewerkers: 10. Dienstverband: Parttime baan.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-02T07:29:48.687621"
+    },
+    "score": 0,
+    "reason": "F&B/hospitality employee role in Utrecht, completely unrelated to software development or AI",
+    "embed_sim": 0.0065592508763074875,
+    "ai_native_score": 0.46586495637893677
   }
 ]
