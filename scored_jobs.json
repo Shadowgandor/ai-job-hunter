@@ -1662,5 +1662,133 @@
     "reason": "F&B/hospitality employee role in Utrecht, completely unrelated to software development or AI",
     "embed_sim": 0.0065592508763074875,
     "ai_native_score": 0.46586495637893677
+  },
+  {
+    "job": {
+      "id": "628441448dd92dd415ae9d67171356f0",
+      "title": "Vacatures voor Customer success manager in Tel Aviv | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/tel-aviv-customer-success-manager-vacatures-SRCH_IL.0,8_IC2421096_KO9,33.htm",
+      "snippet": "Tel Aviv. Customer Success Manager. Pecan Ai. Ramat Gan.Customer Success Support Specialist. InspHire. Ramat Gan.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-03T07:57:54.504436"
+    },
+    "score": 0,
+    "reason": "Location is Tel Aviv, Israel \u2014 far outside Utrecht region. Not relevant to candidate's location requirements.",
+    "embed_sim": 0.12192346155643463,
+    "ai_native_score": 0.4429790675640106
+  },
+  {
+    "job": {
+      "id": "d39ef62eeb0564daa4601041d70845c6",
+      "title": "SOUS zoekt een AI Automations Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automations-specialist-at-sous-4395851883",
+      "snippet": "Identify where AI can improve efficiency and implement practical use cases across the business. Build lightweight proof of concepts to test new tools, automations, and AI-driven ways of working. Build and maintain simple AI agents that support day-to-day business processes and team productivity.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-03T07:58:13.543197"
+    },
+    "score": 7,
+    "reason": "AI Automations Specialist role focused on identifying AI efficiency improvements, building POCs, and maintaining AI agents for business processes. Strong match for AI adoption/enablement champion. Amsterdam is within acceptable range. No ML expertise required.",
+    "embed_sim": 0.48585256934165955,
+    "ai_native_score": 0.6662871837615967
+  },
+  {
+    "job": {
+      "id": "03c635c9d0d4b5c6c59246bff26c0d33",
+      "title": "Samotics zoekt een AI Automation Engineer in Leiden | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automation-engineer-at-samotics-4389489867",
+      "snippet": "The Role \ud83d\udc65 We are looking for an AI Automation Engineer to build the internal systems and workflows that make Samotics more effective. In this role, you will identify high-impact opportunities for automation across the business and turn them into scalable solutions using GenAI, APIs, internal tooling, and lightweight software.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-03T07:58:17.154157"
+    },
+    "score": 6,
+    "reason": "AI Automation Engineer building internal systems and workflows using GenAI and APIs. Good alignment with AI enablement and automation. Leiden is reasonable proximity to Utrecht. However, 'scalable solutions' language suggests some technical depth that may lean toward building rather than enabling.",
+    "embed_sim": 0.5131080746650696,
+    "ai_native_score": 0.6104066967964172
+  },
+  {
+    "job": {
+      "id": "22437cf7cf69bcd4c350bf3ea5d8e5d0",
+      "title": "Harnham zoekt een AI Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-harnham-4390391152",
+      "snippet": "Elisabeth Oudman Principal Recruitment Consultant - Data, AI & Analytics at Harnham (NL) AI Engineer Remote / Amsterdam, Nederland Tot \u20ac70.000 per jaar Dit is een kans om je aan te sluiten bij een snelgroeiende AI\u2011consultancyscale\u2011up terwijl zij hun aanwezigheid in Nederland uitbreiden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-03T07:58:17.154168"
+    },
+    "score": 3,
+    "reason": "AI Engineer at consultancy in Amsterdam. Role likely involves building AI solutions for clients rather than championing adoption within teams. Consultancy model doesn't match the 'embed in engineering org' preference. Amsterdam location is acceptable.",
+    "embed_sim": 0.34319865703582764,
+    "ai_native_score": 0.6018067598342896
+  },
+  {
+    "job": {
+      "id": "0fc23845fe083e3a1da4cb79db635bf6",
+      "title": "Frisse Blikken zoekt een Gamedesigner in Utrecht, Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/gamedesigner-at-frisse-blikken-4407913998",
+      "snippet": "Bij Frisse Blikken ontwikkelen we speelse oplossingen voor complexe organisatievraagstukken. Van energietransitie tot AI-adoptie, van cultuurverandering tot leiderschapsontwikkeling.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-03T07:58:25.834865"
+    },
+    "score": 2,
+    "reason": "Game Designer role. While company mentions AI-adoption consulting, the position itself is for game design \u2014 not a match for AI tooling adoption or engineering enablement work.",
+    "embed_sim": 0.10896605253219604,
+    "ai_native_score": 0.6565510034561157
+  },
+  {
+    "job": {
+      "id": "bd52f611cff540631ad9efc278073490",
+      "title": "YO IT Consulting zoekt een Python Game Developer... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/python-game-developer-panda3d-remote-at-yo-it-consulting-4403354470?position=10&pageNum=0",
+      "snippet": "Key Responsibilities. Design, develop, and optimize 3D game simulations and environments using Panda3D for AI training applications.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-03T07:58:25.834878"
+    },
+    "score": 1,
+    "reason": "Python Game Developer for 3D AI training simulations. Pure ML/AI infrastructure role requiring deep Python and specialized tooling expertise. Not aligned with candidate's goal of enabling teams to use AI tools.",
+    "embed_sim": 0.33274397253990173,
+    "ai_native_score": 0.6036297678947449
+  },
+  {
+    "job": {
+      "id": "6bbc70089621e1e11e632bad5a702dc6",
+      "title": "Alle fulltime vacatures in AI - Pagina 3 van 5 - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/category/fulltime/page/3/",
+      "snippet": "Vacature: Alliander in Arnhem of Amsterdam zoekt een Technical Solution Lead | AI Acceleration Team voor 32 tot 40 uur per week | Parttime of Fulltime | Salaris: \u20ac 5.890,07 tot \u20ac8.414,39 | Sluitingsdatum: 1 oktober 2024.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-03T07:59:01.343043"
+    },
+    "score": 3,
+    "reason": "Technical Solution Lead for AI Acceleration Team at Alliander. Role likely technical/architectural rather than adoption-focused. Location (Arnhem/Amsterdam) partially acceptable. Job appears expired (closing date listed as October 1, 2024, which is in the past).",
+    "embed_sim": 0.26042884588241577,
+    "ai_native_score": 0.5414714813232422
+  },
+  {
+    "job": {
+      "id": "f389aff04118fba16af898075a235744",
+      "title": "Junior AI Developer - Stedin - ... - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/junior-ai-developer-stedin/",
+      "snippet": "Als Artificial Intelligence (AI) Developer werk je in het Digitale Innovatie team van Stedin. Het team focust zich op AI SaaS oplossingen. Daarbij gebruiken wij diverse vehicles: software en fysieke robots, mixed reality en drones. Hoe jouw dag als AI Developer eruitziet bij Stedin?",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-03T07:59:01.343060"
+    },
+    "score": 1,
+    "reason": "Junior AI Developer position. Candidate is senior-level web developer, not junior. Role focuses on AI SaaS solutions and robots/drones \u2014 not developer AI tool adoption. Wrong seniority level.",
+    "embed_sim": 0.38338032364845276,
+    "ai_native_score": 0.7222370505332947
   }
 ]
