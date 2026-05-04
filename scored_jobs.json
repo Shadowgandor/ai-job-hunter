@@ -1790,5 +1790,101 @@
     "reason": "Junior AI Developer position. Candidate is senior-level web developer, not junior. Role focuses on AI SaaS solutions and robots/drones \u2014 not developer AI tool adoption. Wrong seniority level.",
     "embed_sim": 0.38338032364845276,
     "ai_native_score": 0.7222370505332947
+  },
+  {
+    "job": {
+      "id": "1472a10ce37b98dc6dcc7cb4697ec6c4",
+      "title": "Vacatures voor Industrieel Ontwerper in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/industrieel-ontwerper-jobs",
+      "snippet": "Industrial design engineer.Product Ontwerper / Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-04T08:26:13.441960"
+    },
+    "score": 0,
+    "reason": "Industrial design engineer \u2014 completely unrelated domain, not software/AI",
+    "embed_sim": 0.22428345680236816,
+    "ai_native_score": 0.5656496286392212
+  },
+  {
+    "job": {
+      "id": "922a9e5093e4eec174861679ed78bd89",
+      "title": "272 vacatures voor backend engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-backend-engineer-vacatures-SRCH_IL.0,11_IN178_KO12,28.htm",
+      "snippet": "Vacatures voor software engineer ...ie-ervaring bij StedinWerken bij Stedin ... At least 9 years of experience as a software tester, with significant focus on API and backend testing....",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-04T08:26:25.352266"
+    },
+    "score": 0,
+    "reason": "Backend engineer/QA testing roles \u2014 generic job board search result, no AI adoption or enablement focus",
+    "embed_sim": 0.25455835461616516,
+    "ai_native_score": 0.5423704981803894
+  },
+  {
+    "job": {
+      "id": "ef5dbfad4e202da7e587bb3b89dde5dd",
+      "title": "105 vacatures voor artificial intelligence ai intern in Remote | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/remote-artificial-intelligence-ai-intern-vacatures-SRCH_IL.0,6_IS11047_KO7,40.htm",
+      "snippet": "Vaardigheden: Machine learning, Natural language processing, S3, Data science, AI ... *Tool Proficiency:* Gain experience with data science tools and healthcare platforms, ensuring compliance with privacy regulations.\u2026 Vaardigheden: Statistics, Node.js, React, MongoDB, Statistical analysis ... Vacatures voor machine learning engineer in RemoteVacatures in RemoteVacatures bij Dance4Healing in Remote",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-04T08:26:25.352288"
+    },
+    "score": 0,
+    "reason": "AI intern positions requiring machine learning, data science, NLP \u2014 junior level, wrong expertise track, candidate explicitly excludes ML/data science roles",
+    "embed_sim": 0.3267361521720886,
+    "ai_native_score": 0.5307627320289612
+  },
+  {
+    "job": {
+      "id": "e9dea7cfcd75080ab9252a2a05adfabe",
+      "title": "Vacatures voor Associate software engineering | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/associate-software-engineering-vacatures-SRCH_KO0,30.htm?radius=15",
+      "snippet": "Zoek de juiste vacature voor Associate software engineering met bedrijfsreviews en salarissen.Lead the Cognition and AI specialization research line in our research group, and you will be responsible for the content-based leadership position, development\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-04T08:26:50.719781"
+    },
+    "score": 0,
+    "reason": "Associate-level research position in cognition/AI \u2014 academic research focus, not practical AI tool adoption; likely requires advanced degree",
+    "embed_sim": 0.45241230726242065,
+    "ai_native_score": 0.7805343866348267
+  },
+  {
+    "job": {
+      "id": "f8efc7b30cc553439c575684496b779d",
+      "title": "Mojogear - vacatures - 1 juni 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-mojogear-vacatures.html",
+      "snippet": "Alle vacatures voor MOJOGEAR BV - Goirle vacatures - vacatures voor Specialist (m/v) in Goirle bekijken. Zoeken op salaris: Vacature: AI & Workflow Automation Specialist (Projectbasis) salarissen in Goirle.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-04T08:27:04.341487"
+    },
+    "score": 0,
+    "reason": "Location in Goirle (southeast Netherlands, far from Utrecht); vague job board listing without substantive role details",
+    "embed_sim": 0.16023918986320496,
+    "ai_native_score": 0.5340531468391418
+  },
+  {
+    "job": {
+      "id": "1207a9f0b5db6e7b782ea71f53555f95",
+      "title": "5.000+ vacatures voor Able en werk: 19 mei 2025| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/Able-vacatures",
+      "snippet": "Able vacatures. Server, Tutor, Welder en meer op Indeed.com.Bilingual PR Specialist - AI Trainer. DataAnnotation. Thuiswerk in Amsterdam.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-04T08:27:04.341502"
+    },
+    "score": 0,
+    "reason": "Generic job board search result; 'AI Trainer' for DataAnnotation appears to be data labeling work, not AI tool adoption or enablement",
+    "embed_sim": 0.22832134366035461,
+    "ai_native_score": 0.6321296691894531
   }
 ]
