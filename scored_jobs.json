@@ -1886,5 +1886,165 @@
     "reason": "Generic job board search result; 'AI Trainer' for DataAnnotation appears to be data labeling work, not AI tool adoption or enablement",
     "embed_sim": 0.22832134366035461,
     "ai_native_score": 0.6321296691894531
+  },
+  {
+    "job": {
+      "id": "ceff822b8b2f073e018052f14e947fca",
+      "title": "International software engineer jobs in the Netherlands",
+      "company": "",
+      "location": "",
+      "url": "https://www.welcome-to-nl.nl/jobs/",
+      "snippet": "Whether you are abroad or already in the Netherlands, find all software engineer jobs that meets all your ambitious goals!Weather. Welcome to NL - MapitOut Tool. Jobs. Immigration.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-05T08:05:43.302376"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page, not an actual job posting. No specific role, company, or location details.",
+    "embed_sim": 0.4288710951805115,
+    "ai_native_score": 0.6796720623970032
+  },
+  {
+    "job": {
+      "id": "067ec2b4bcee4a0ecd0df9464bc2c96c",
+      "title": "Flowtec Group hiring Junior DevOps Engineer in Brussels... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://be.linkedin.com/jobs/view/junior-devops-engineer-at-flowtec-group-4184172966",
+      "snippet": "Collaborate with development teams to integrate DevOps best practices. Ensure infrastructure and applications meet security and compliance requirements. Troubleshoot and resolve production and test environment issues.AI Integration Engineer.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-05T08:06:01.517325"
+    },
+    "score": 1,
+    "reason": "Junior DevOps Engineer role in Brussels (wrong location). Focus is infrastructure/compliance, not AI adoption enablement. Junior level doesn't match senior profile.",
+    "embed_sim": 0.47721683979034424,
+    "ai_native_score": 0.5536163449287415
+  },
+  {
+    "job": {
+      "id": "0e4e6f4139a4684e71817c193304df84",
+      "title": "Stagiair retail commercie (marketing) - Utrecht | Werken bij NS",
+      "company": "Ns",
+      "location": "Utrecht",
+      "url": "https://www.werkenbijns.nl/vacatures/stagiair-retail-commercie-marketing-utrecht-utrecht-1295640",
+      "snippet": "Utrecht. Reageer voor: 15-5-2026. Marketing, Communicatie & Sales. 32 - 36 uur. Solliciteer direct.Hier ga je werken. Het kantoor bevindt zich boven de sporen van het drukste knooppunt van Nederland, Utrecht Centraal. Dichter op de formules en de business kun je niet zitten!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-05T08:06:01.517348"
+    },
+    "score": 0,
+    "reason": "Internship (stagiair) in retail marketing at NS. Wrong domain, wrong seniority level. No relevance to AI adoption or engineering.",
+    "embed_sim": -0.0725070908665657,
+    "ai_native_score": 0.3673214316368103
+  },
+  {
+    "job": {
+      "id": "73c32645cc60428b1f7968d91cd011ac",
+      "title": "231 vacatures voor Data scientist in Hyderabad, India, Juli... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/haiderabad-data-scientist-vacatures-SRCH_IL.0,10_IM1076_KO11,25.htm",
+      "snippet": "As an AI and Machine Learning Specialist, you will be responsible for developing and implementing advanced AI and machine learning models and algorithms to\u2026\u2026 5d. Welk bedrijven nemen mensen aan voor vacatures voor een Data Scientist in Hyderabad?",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-05T08:06:10.962654"
+    },
+    "score": 0,
+    "reason": "Data Scientist role in Hyderabad, India. Requires ML model development and algorithms. Wrong location, wrong expertise profile.",
+    "embed_sim": 0.2959330081939697,
+    "ai_native_score": 0.6028636693954468
+  },
+  {
+    "job": {
+      "id": "05bce4c00605d394bd73f7532df13b49",
+      "title": "Vacatures voor It support analyst | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/it-support-analyst-vacatures-SRCH_KO0,18.htm",
+      "snippet": "Zoek de juiste vacature voor It support analyst met bedrijfsreviews en salarissen.Select your option.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-05T08:06:10.962665"
+    },
+    "score": 0,
+    "reason": "Generic search results page for IT Support Analyst roles. Not a specific job posting.",
+    "embed_sim": 0.20940148830413818,
+    "ai_native_score": 0.5240656137466431
+  },
+  {
+    "job": {
+      "id": "bb71e3302121cc34098d5e58db729e81",
+      "title": "Vacatures voor Data scientist in China, September 2022 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/china-data-scientist-vacatures-SRCH_IL.0,5_IN48_KO6,20.htm",
+      "snippet": "Familiar with Data Engineering techniques to gathers, prepare, cleanse, and transforms client data for analysis and AI automation, including data pipelines.\u2026Select your option.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-05T08:06:10.962678"
+    },
+    "score": 0,
+    "reason": "Data Science role in China focused on data engineering/pipelines. Wrong location, requires ML/data engineering expertise the candidate explicitly does not want.",
+    "embed_sim": 0.21581268310546875,
+    "ai_native_score": 0.40899398922920227
+  },
+  {
+    "job": {
+      "id": "70ec98c91d4823816e92bad52068d5d4",
+      "title": "Full-Stack Developer - AI Trainer (Netherlands) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-ai-trainer-netherlands-at-anyone-ai-4410228476",
+      "snippet": "19:56:21 geplaatst. Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-05T08:06:24.219020"
+    },
+    "score": 2,
+    "reason": "Full-Stack Developer AI Trainer role. Likely focused on training AI models or preparing training data rather than helping teams adopt AI tools. No clear location. Vague job title suggests data/ML focus.",
+    "embed_sim": 0.4183293282985687,
+    "ai_native_score": 0.7118716239929199
+  },
+  {
+    "job": {
+      "id": "07694f0a5c90f6fb7b0b1d4949b8ca8d",
+      "title": "Senior Software Engineer | AI SaaS Software Role - LinkedIn",
+      "company": "AI SaaS Software Role - LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-ai-saas-software-role-at-jobgether-4406967476",
+      "snippet": "6 days ago \u00b7 7+ years of experience in software engineering, with strong backend development expertise (e.g., Scala, Java, Ruby, or C#) Proficiency in JavaScript and modern frontend frameworks such as React Proven experience building and scaling SaaS products in production environments Hands-on experience with AI-assisted coding tools and agent-based development workflows Strong system design skills with ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-05T08:06:24.219053"
+    },
+    "score": 3,
+    "reason": "Senior Software Engineer building AI SaaS products. Wrong focus\u2014candidate wants to help teams USE AI, not build AI products. Requires backend specialization (Scala/Java/Ruby/C#), not web dev enablement.",
+    "embed_sim": 0.5870940685272217,
+    "ai_native_score": 0.6101762652397156
+  },
+  {
+    "job": {
+      "id": "3eb325522aedb817bb2c36981a63a4cb",
+      "title": "Plat4mation zoekt een AI Subject Matter Expert - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-subject-matter-expert-\u2013-servicenow-at-plat4mation-4351224500",
+      "snippet": "Solid experience in AI technologies (GenAI, Machine Learning, NLP) combined with ServiceNow platform expertise. Proven track record driving scalable AI adoption and business transformation.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-05T08:06:24.219068"
+    },
+    "score": 5,
+    "reason": "AI Subject Matter Expert with ServiceNow platform focus. Has AI adoption and business transformation elements matching candidate's goals. However, requires strong ML/GenAI/NLP background, not primarily about enabling developer adoption. Location unknown. Could be hybrid fit but expertise mismatch.",
+    "embed_sim": 0.4872977137565613,
+    "ai_native_score": 0.6767079830169678
+  },
+  {
+    "job": {
+      "id": "e612651a059a837aaf3074039752b522",
+      "title": "4.090 vacatures voor Senior engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/senior-engineer-vacatures-SRCH_KO0,15.htm",
+      "snippet": "Zoek de juiste vacature voor Senior engineer met bedrijfsreviews en salarissen. Wat zijn de belangrijkste steden met openstaande vacatures voor een Senior Engineer?",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-05T08:06:36.531096"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Senior Engineer roles in Netherlands. Not a specific job posting, no role details or company information.",
+    "embed_sim": 0.2122991681098938,
+    "ai_native_score": 0.6121833920478821
   }
 ]
