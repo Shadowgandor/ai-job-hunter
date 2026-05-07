@@ -2046,5 +2046,117 @@
     "reason": "Generic search results page for Senior Engineer roles in Netherlands. Not a specific job posting, no role details or company information.",
     "embed_sim": 0.2122991681098938,
     "ai_native_score": 0.6121833920478821
+  },
+  {
+    "job": {
+      "id": "dbd9d61d490149b2e2583811794e0c0c",
+      "title": "Vacatures voor Asml Tooling in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/asml-tooling-jobs",
+      "snippet": "Topvacatures voor Asml Tooling in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Asml Tooling toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-07T08:29:59.763960"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page, not an actual job listing. No specific role, company, or location information provided.",
+    "embed_sim": 0.18118014931678772,
+    "ai_native_score": 0.5995653867721558
+  },
+  {
+    "job": {
+      "id": "39c4cd8d5a940cd87f8fa8f161aada04",
+      "title": "GitLab zoekt een Senior Fullstack Engineer (TypeScript), AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-fullstack-engineer-typescript-ai-engineering-editor-extensions-at-gitlab-4410507635",
+      "snippet": "2 days ago \u00b7 The challenges are both technical and product-driven: building responsive, trustworthy AI-assisted tooling, maintaining high-quality integrations across multiple platforms, and evolving shared foundations that keep pace with developer expectations and a fast-moving ecosystem.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-07T08:29:59.763978"
+    },
+    "score": 6,
+    "reason": "Senior Fullstack Engineer (TypeScript) at GitLab building AI-assisted tooling and editor extensions. Good technical fit (TypeScript background) and relevant domain (developer tooling), but unclear if this is about championing AI adoption vs. building AI product features. Missing location info but GitLab is typically distributed/remote-friendly. Partial match due to ambiguity on role focus.",
+    "embed_sim": 0.3651978671550751,
+    "ai_native_score": 0.653510570526123
+  },
+  {
+    "job": {
+      "id": "47c49fba76355f507af965259ed2b1e6",
+      "title": "AI Workflow Automation & Optimization Intern - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-workflow-automation-optimization-intern-growing-impact-scale-up-at-simvia-4407861191?position=16&pageNum=0",
+      "snippet": "Are you a curious and driven individual with a passion for AI and automation? We invite you to help us build smarter, more efficient ways of working as an AI Workflow Automation & Optimization Intern at Simvia.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-07T08:30:09.510018"
+    },
+    "score": 0,
+    "reason": "Intern position. Candidate explicitly seeks senior-level roles, not internships/traineeships.",
+    "embed_sim": 0.4451483190059662,
+    "ai_native_score": 0.6688171029090881
+  },
+  {
+    "job": {
+      "id": "ef836f1fadcd1b2c769879f56b2be5ff",
+      "title": "5.765 vacatures voor ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-vacatures-SRCH_IL.0,11_IN178_KO12,14.htm",
+      "snippet": "Zoek naar vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 5.765 vacatures voor Ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-07T08:30:25.523116"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page, not an actual job listing. No specific role, company, or location information.",
+    "embed_sim": 0.11031700670719147,
+    "ai_native_score": 0.630605936050415
+  },
+  {
+    "job": {
+      "id": "6f50a08eafdf9d6e35b10b458ef00a9d",
+      "title": "683 vacature(s) voor Tooling engineer in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-tooling-engineer-vacatures-SRCH_IL.0,9_KO10,26.htm",
+      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 683 vacatures voor Tooling engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-07T08:30:35.336676"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page, not an actual job listing. No specific role, company, or location information.",
+    "embed_sim": 0.21679317951202393,
+    "ai_native_score": 0.6286899447441101
+  },
+  {
+    "job": {
+      "id": "84b5b5439ff167ce5862d10fe924494a",
+      "title": "187 developer vacatures in de provincie Utrecht | 4 mei 2026 ...",
+      "company": "4 mei 2026 ...",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/developer/in-provincie-utrecht",
+      "snippet": "Aan de slag als Developer in de provincie Utrecht? Bekijk het uitgebreide aanbod Developer vacatures in de provincie Utrecht op Nationale Vacaturebank en ga de uitdaging aan!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-07T08:30:51.435200"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page showing developer vacancies in Utrecht province, not an actual job listing. No specific role or company details provided.",
+    "embed_sim": 0.13650429248809814,
+    "ai_native_score": 0.6305441856384277
+  },
+  {
+    "job": {
+      "id": "271ac230b20dfb30f82b8a9638c5eb35",
+      "title": "401 vacatures voor ai software engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Eindhoven",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-software-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
+      "snippet": "Vacatures voor software engineer (m/v/x) in EindhovenVacatures in EindhovenVacatures bij ViNotion in Eindhoven \u00b7 Reviews van werknemers bij ViNotionOverzicht ViNotion ... Je werkt aan innovatieve oplossingen en bouwt aan je netwerk van collega's en klanten. Strong communication skills and the ability to work with both technical\u2026\u2026 Vaardigheden: Machinaal leren, Deep learning, APIs, Agile, AI",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-07T08:30:55.811452"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page showing AI software engineer vacancies. Location appears to be Eindhoven (outside 40km radius from Utrecht). No specific role or company details to evaluate.",
+    "embed_sim": 0.3677317798137665,
+    "ai_native_score": 0.6880400776863098
   }
 ]
