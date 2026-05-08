@@ -2158,5 +2158,69 @@
     "reason": "Generic search results aggregator page showing AI software engineer vacancies. Location appears to be Eindhoven (outside 40km radius from Utrecht). No specific role or company details to evaluate.",
     "embed_sim": 0.3677317798137665,
     "ai_native_score": 0.6880400776863098
+  },
+  {
+    "job": {
+      "id": "59be2c6cf83cc78334ee646ef36ad750",
+      "title": "W3Global hiring Workday Integration Engineer/Lead in... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://ca.linkedin.com/jobs/view/workday-integration-engineer-lead-at-w3global-4410846959",
+      "snippet": "3-8+ years of Workday integration experience (level adjusted for Engineer vs Lead).Strong hands-on experience with",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-08T07:26:41.940561"
+    },
+    "score": 0,
+    "reason": "Workday integration engineer role \u2014 enterprise ERP configuration, completely unrelated to AI tool adoption or developer enablement",
+    "embed_sim": 0.3904154896736145,
+    "ai_native_score": 0.6042484045028687
+  },
+  {
+    "job": {
+      "id": "590404cddf9ca8c3b3196f211733368b",
+      "title": "Vacature: engineer Amsterdam - 23-4-2026",
+      "company": "23-4-2026",
+      "location": "Amsterdam",
+      "url": "https://www.uitzendbureau.nl/vacature/24819752-senior-elektromonteur-infra",
+      "snippet": "Zoek je werk in Amsterdam als engineer? Bekijk snel deze vacature en solliciteer eenvoudig op Jobbird!Volop doorgroeimogelijkheden, bijvoorbeeld in de richting van werkvoorbereider, maintenance engineer of een andere rol waarin je verder kan ontwikkelen. Jouw Team.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-08T07:26:41.940582"
+    },
+    "score": 0,
+    "reason": "Senior elektromonteur (electrical technician) infrastructure role \u2014 no connection to software development, AI, or engineering practices",
+    "embed_sim": 0.1968594342470169,
+    "ai_native_score": 0.6145627498626709
+  },
+  {
+    "job": {
+      "id": "d77e7f999d487fa8f257006cd32b564b",
+      "title": "RacingNews365 - Partner van Handpicked zoekt een Stage... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/stage-social-media-video-editing-4215003746?position=31&pageNum=0",
+      "snippet": "Mid/Senior AI Cinematic Video Editor. Jobgether. Brabantse Stedenrij en omgeving 2 dagen geleden.Freelance video- en AI-creative-editor (1 tot 4 uur per week) - Studentjob.nl.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-08T07:26:51.487578"
+    },
+    "score": 0,
+    "reason": "Internship in video editing/social media \u2014 junior-level position, not relevant to AI tool adoption in software development teams",
+    "embed_sim": 0.20652075111865997,
+    "ai_native_score": 0.6454769968986511
+  },
+  {
+    "job": {
+      "id": "4cefa74a376dbcd0a3cbe5b343b6e9dd",
+      "title": "Vacature Waarnemend Tandarts: Mondzorg Centrum Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.mondzorgcentrum-utrecht.nl/vacature-waarnemend-tandarts/",
+      "snippet": "Locatie: Utrecht Kanaleneiland Werktijden: 09:00u. tot 17:30u. met een pauze van 13:00u. tot 13:30 u. Contracttype: in overleg Salaris: In overleg. Wie zoeken wij? Wij zijn op zoek naar een tandarts die bereid is om waar te nemen bij ziekte of tijdens een vakantie periode.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-08T07:26:56.274937"
+    },
+    "score": 0,
+    "reason": "Dentist locum role \u2014 completely unrelated to software engineering, AI, or developer productivity",
+    "embed_sim": 0.01970173418521881,
+    "ai_native_score": 0.564104437828064
   }
 ]
