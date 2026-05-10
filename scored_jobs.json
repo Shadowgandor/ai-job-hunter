@@ -2606,5 +2606,101 @@
     "reason": "AI Engineer role in 's-Hertogenbosch (too far from Utrecht). Snippet explicitly states work involves 'end-to-end development of software, platforms, tools and pipelines to move data to/from AI-models' \u2014 this is ML/data pipeline engineering, not AI tooling adoption. Wrong location and wrong focus (building AI systems vs. enabling teams to use AI).",
     "embed_sim": 0.40694671869277954,
     "ai_native_score": 0.5584191679954529
+  },
+  {
+    "job": {
+      "id": "59816cc819dea85bdee6586db99c4c89",
+      "title": "Meer dan 1.000 vacatures voor Wordpress in Nederland",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/wordpress-jobs",
+      "snippet": "WordPress Developer. i-Aspect B.V. Utrecht 4 maanden geleden.WordPress Developer. QuickOnline. Numansdorp 1 jaar geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-10T08:05:09.227869"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 generic WordPress jobs aggregation page, not a specific open position",
+    "embed_sim": 0.11330392211675644,
+    "ai_native_score": 0.5654435157775879
+  },
+  {
+    "job": {
+      "id": "ed83af8ff13a5c0c5d50446a2026be86",
+      "title": "68 vacatures voor Portuguese in Uden, Noord-Brabant, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/portuguese-jobs-uden",
+      "snippet": "Live & Work in Greece \u2013 Relocation Included | 1\u2011Year Mediterranean Experience.Sales Development Representative (Netherlands). Jobgether.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-10T08:05:09.227880"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 generic job search results page for Portuguese language roles, unrelated to candidate profile",
+    "embed_sim": 0.15941576659679413,
+    "ai_native_score": 0.5450766682624817
+  },
+  {
+    "job": {
+      "id": "6dbb0c21b8a21c73e533965809f4a919",
+      "title": "In a world of AI adoption, we've found the human element makes all...",
+      "company": "",
+      "location": "",
+      "url": "https://www.linkedin.com/posts/jessicagreen4_in-a-world-of-ai-adoption-weve-found-the-activity-7457425190499717120-b_DC",
+      "snippet": "Can organizations adopt AI without human guidance? totally! Can you get *impactful* adoption across teams and individuals that are at different starting points? probably not. Is the adoption transformational for your business? unlikely.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-10T08:05:20.434897"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 LinkedIn post about AI adoption philosophy, no actual job opening",
+    "embed_sim": 0.39536944031715393,
+    "ai_native_score": 0.8323900103569031
+  },
+  {
+    "job": {
+      "id": "881df42382569e0dc6ce5a795b5f9e90",
+      "title": "Stagiair AI Workflow & Engineering (Afstudeer-/Onderzoeksstage) in Zwolle bij Wehkamp | Magnet.me | #1028753 (nl)",
+      "company": "Wehkamp",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1028753/stagiair-ai-workflow---engineering--afstudeer--onderzoeksstage-",
+      "snippet": "2 days ago - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Ben jij technisch sterk, ge\u00efnteresseerd in AI en automatisering, en wil je werken aan \u00e9chte impact in een creatieve productieomgeving?",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-10T08:06:05.103288"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship position (Stagiair/Afstudeer); candidate explicitly excludes junior/intern roles",
+    "embed_sim": 0.33797967433929443,
+    "ai_native_score": 0.6211596131324768
+  },
+  {
+    "job": {
+      "id": "5f0b3963314dee0a965767c883b4e984",
+      "title": "Vacatures voor Medewerker in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/medewerker-jobs",
+      "snippet": "Topvacatures voor Medewerker in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Medewerker toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-10T08:06:17.085376"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 generic job search aggregation page with no specific position",
+    "embed_sim": 0.1113361269235611,
+    "ai_native_score": 0.65227872133255
+  },
+  {
+    "job": {
+      "id": "4846f1d281b26fbc786b15f4d9da7496",
+      "title": "Stage: Stage generatieve AI toepasbaar maken, Rijkswaterstaat - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/stage-generatieve-ai-toepasbaar-maken-RWS-2026-4840",
+      "snippet": "2 weeks ago - 2027 \u00b7 Solliciteren \u00b7 Bewaar vacature: Stage generatieve AI toepasbaar maken \u00b7 LinkedIn Facebook Whatsapp per Email Print \u00b7 Kenmerk: 5258, Plaatsingsdatum: 23 april 2026 \u00b7 Solliciteer voor 9 mei 2026 \u00b7",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-10T08:06:25.899449"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship position (Stage); candidate explicitly excludes junior/intern roles",
+    "embed_sim": 0.07909137010574341,
+    "ai_native_score": 0.5949681997299194
   }
 ]
