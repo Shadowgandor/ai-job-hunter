@@ -2702,5 +2702,117 @@
     "reason": "Internship/traineeship position (Stage); candidate explicitly excludes junior/intern roles",
     "embed_sim": 0.07909137010574341,
     "ai_native_score": 0.5949681997299194
+  },
+  {
+    "job": {
+      "id": "02dfcab0e4df5cd43be957a258de0144",
+      "title": "49 vacatures voor Fokker in Papendrecht, Zuid-Holland, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/fokker-jobs-papendrecht",
+      "snippet": "Manufacturing Engineer Tooling.Senior Engineer - Product Support. GKN Aerospace. Papendrecht.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-11T09:34:57.692708"
+    },
+    "score": 0,
+    "reason": "Manufacturing/tooling engineering role unrelated to software development or AI adoption. Far from Utrecht location.",
+    "embed_sim": 0.15716782212257385,
+    "ai_native_score": 0.5285323262214661
+  },
+  {
+    "job": {
+      "id": "1be49839550bfcd2b80590df00fd1ec8",
+      "title": "32 vacatures voor Tesla in Tilburg, Noord-Brabant, Nederland (1 nieuw)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tesla-jobs-tilburg",
+      "snippet": "Service Tooling Engineer Internship. Tesla. Tilburg. Wees een van de eerste sollicitanten. 3 dagen geleden. Manufacturing Equipment Engineer (Electrical Focus).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-11T09:34:57.692718"
+    },
+    "score": 0,
+    "reason": "Manufacturing/service engineering internship positions. Not relevant to software development, AI adoption, or senior-level roles.",
+    "embed_sim": 0.22988218069076538,
+    "ai_native_score": 0.5309401154518127
+  },
+  {
+    "job": {
+      "id": "5d7c0188c56cb24f53c042480cb1a5f6",
+      "title": "Verkoopmedewerker Julia's Utrecht... | Magnet.me | #1028524 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1028524/verkoopmedewerker-julia-s-utrecht-centraal--avond-",
+      "snippet": "Geplaatst 7 mei 2026. Vacature delen.Nederlands (Vloeiend). Deadline. 31 mei 2026. Bouw aan je carri\u00e8re op Magnet.me.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-11T09:35:11.177779"
+    },
+    "score": 0,
+    "reason": "Sales position (Verkoopmedewerker) in retail/hospitality. Completely unrelated to software engineering or AI adoption.",
+    "embed_sim": 0.0005578398704528809,
+    "ai_native_score": 0.5443552136421204
+  },
+  {
+    "job": {
+      "id": "db0648d39d1ddff84b6d43b12e466186",
+      "title": "Projectmedewerker Thuis in Utrecht - OneWorld",
+      "company": "OneWorld",
+      "location": "Utrecht",
+      "url": "https://www.oneworld.nl/job/projectmedewerker-thuis-in-utrecht-4/",
+      "snippet": "Projectmedewerker Thuis in Utrecht. Overzicht vacatures. Vacature plaatsen.2 actieve vacatures (bekijk). Gepubliceerd. 5 mei 2026. Locatie. Utrecht, Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-11T09:35:11.177791"
+    },
+    "score": 0,
+    "reason": "Project coordinator role in non-profit sector. No connection to software development, AI tooling, or engineering practices.",
+    "embed_sim": 0.047405824065208435,
+    "ai_native_score": 0.5624679923057556
+  },
+  {
+    "job": {
+      "id": "3588410d2bd88e48f550055aee8628a0",
+      "title": "Most AI adoption programs share a similar pattern: lots of activity, very...",
+      "company": "",
+      "location": "",
+      "url": "https://www.linkedin.com/posts/bobgower_most-ai-adoption-programs-share-a-similar-activity-7457417487396065280-syJ4",
+      "snippet": "We'll cover why AI adoption stalls in predictable ways, what it's exposing about how your organization actually works, and one exercise you can run with your team the week after. From AI Activity to AI Impact: Why Most Adoption Programs Stall.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-11T09:35:38.003451"
+    },
+    "score": 0,
+    "reason": "LinkedIn post/article snippet, not a job listing. Cannot evaluate as a position.",
+    "embed_sim": 0.3469180464744568,
+    "ai_native_score": 0.7968970537185669
+  },
+  {
+    "job": {
+      "id": "5bc48492d2a4ffb38da015ba3d9a4047",
+      "title": "Green Flags, Robin en Teamtailor aanwezig op Demo_Day in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.recruitmenttech.nl/2026/05/01/green-flags-robin-teamtailor-en-cloud-integrate-aanwezig-op-demo_day-in-utrecht/",
+      "snippet": "Op donderdag 21 mei 2026 staat Utrecht opnieuw in het teken van Recruitment Tech Demo_Day, waar innovatie en recruitment samenkomen.Ontdek Matcher.jobs, Jobmatix, Ringtime.ai en SpeakSoon op Demo_Day in Utrecht. Door Redactie. 24 april 2026.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-11T09:35:57.457572"
+    },
+    "score": 0,
+    "reason": "Recruitment industry event announcement. Not a job listing; promotional content about recruitment tech companies.",
+    "embed_sim": 0.07559789717197418,
+    "ai_native_score": 0.6061923503875732
+  },
+  {
+    "job": {
+      "id": "fe8f780abfb0bd96a3de3466284cb2eb",
+      "title": "186 vacatures voor Visual Designer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/visual-designer-jobs",
+      "snippet": "Actief aan het werven. 2 weken geleden. AI Graphic Designer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-11T09:36:07.485141"
+    },
+    "score": 0,
+    "reason": "Visual/graphic design positions. Unrelated to software engineering, developer productivity, or AI adoption for dev teams.",
+    "embed_sim": 0.16207489371299744,
+    "ai_native_score": 0.7079052329063416
   }
 ]
