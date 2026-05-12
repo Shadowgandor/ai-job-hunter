@@ -2814,5 +2814,165 @@
     "reason": "Visual/graphic design positions. Unrelated to software engineering, developer productivity, or AI adoption for dev teams.",
     "embed_sim": 0.16207489371299744,
     "ai_native_score": 0.7079052329063416
+  },
+  {
+    "job": {
+      "id": "ce336ab1e6de20dab5739ad18efb2d90",
+      "title": "Vacancies | Page 9 | Magnet.me (en)",
+      "company": "Page 9",
+      "location": "Utrecht",
+      "url": "https://magnet.me/en/opportunities?page=9",
+      "snippet": "\u2022 250 employees. Senior Data Engineer. Utrecht. 2 - 20 years experience.IT. \u2022 24 employees. AI Propositie & Doelgroepstrategie - stage/afstuderen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-12T08:35:40.020895"
+    },
+    "score": 0,
+    "reason": "Landing page showing multiple job listings, not a specific job posting. Cannot evaluate relevance without actual job details.",
+    "embed_sim": 0.2638547420501709,
+    "ai_native_score": 0.5587682723999023
+  },
+  {
+    "job": {
+      "id": "044a6d1ed5c6082880dddf0cee1b55a1",
+      "title": "46 vacatures voor integratiespecialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Utrecht",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-integratiespecialist-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
+      "snippet": "Salarissen bij VvAASalarissen voor integration engineer (m/v/x) in Utrecht \u00b7 Reviews van werknemers bij VvAASollicitatie-ervaring bij VvAAWerken bij VvAA ... Een mbo niveau 4 of hbo-diploma in een technische richting, bijvoorbeeld in Industri\u00eble Automatisering, Elektrotechniek of Mechatronica.\u2026 Vaardigheden: Elektrotechniek, Programmable logic controllers, Schaalbaarheid ... Vacatures voor integration engineer (m/v/x) in WijchenVacatures in WijchenVacatures bij Wolf Groep in Wijchen",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-12T08:35:43.724195"
+    },
+    "score": 0,
+    "reason": "Integration specialist roles in industrial automation/mechatronics. Unrelated to AI adoption or developer tooling.",
+    "embed_sim": 0.2746679186820984,
+    "ai_native_score": 0.5633801817893982
+  },
+  {
+    "job": {
+      "id": "31efeab99e402c044847d864b64c41d4",
+      "title": "AI Engineer in Rotterdam bij DEPT\u00ae | Magnet.me | #891728 (nl)",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://www.magnet.me/nl-NL/vacature/891728/ai-engineer",
+      "snippet": "We are seeking for a talented and passionate Mid-Level AI Engineer to join our growing team. As an AI Engineer, you will play a crucial role in designing, developing, and deploying innovative AI solutions for our clients across various industries.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-12T08:36:14.076208"
+    },
+    "score": 3,
+    "reason": "Mid-level AI Engineer building/deploying AI solutions for clients. Focuses on building AI products, not enabling team adoption. Requires deep AI development skills, not a strategic/coaching role.",
+    "embed_sim": 0.5020397901535034,
+    "ai_native_score": 0.6568821668624878
+  },
+  {
+    "job": {
+      "id": "3631e9cabe9c81fbcce01d03101b3313",
+      "title": "59 vacatures voor Frieslandcampina in Utrecht Area (6 nieuw)",
+      "company": "",
+      "location": "Amersfoort",
+      "url": "https://nl.linkedin.com/jobs/frieslandcampina-jobs-utrecht-area--netherlands?countryRedirected=1",
+      "snippet": "Senior Digital HR Specialist. FrieslandCampina. Amersfoort 6 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-12T08:36:30.761662"
+    },
+    "score": 0,
+    "reason": "HR specialist role unrelated to AI adoption or developer tooling. Wrong career domain entirely.",
+    "embed_sim": 0.07678817957639694,
+    "ai_native_score": 0.49956178665161133
+  },
+  {
+    "job": {
+      "id": "ae3e02dc844ed26ebc6d2f6441b3c798",
+      "title": "61 vacatures voor Geoloog in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/geoloog-jobs",
+      "snippet": "Geophysical operations specialist - GroundIQ. Fugro. Nootdorp 6 dagen geleden.AI/ML Engineer | Agentic AI & Azure (Production Environment).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-12T08:36:30.761690"
+    },
+    "score": 0,
+    "reason": "Landing page aggregating geologist/geophysical roles. Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.18455447256565094,
+    "ai_native_score": 0.48334363102912903
+  },
+  {
+    "job": {
+      "id": "10f46d3c3ddbb37f80c150cdb7c52b10",
+      "title": "Meer dan 1.000 vacatures voor Customer Service in Den Haag...",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/customer-service-jobs-2516-en",
+      "snippet": "Customer Service Specialist. JD.COM. Rotterdam and The Hague 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-12T08:36:30.761698"
+    },
+    "score": 0,
+    "reason": "Customer service roles unrelated to software development, AI adoption, or engineering workflows.",
+    "embed_sim": 0.05481920763850212,
+    "ai_native_score": 0.4813905954360962
+  },
+  {
+    "job": {
+      "id": "48303a581e323d9847bae4c526079b6e",
+      "title": "Hire Feed zoekt een Agentic AI Engineer in Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/agentic-ai-engineer-at-joveo-ai-4403852081?position=25&pageNum=0",
+      "snippet": "Key Responsibilities: - Design and build multi-step AI agents capable of autonomous task completion - Engineer tool-use systems, function calling patterns, and agent action loops - Implement planning, reasoning, and reflection mechanisms in agent workflows - Build guardrails, safety checks, and failure recovery for production agents",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-12T08:36:34.858614"
+    },
+    "score": 2,
+    "reason": "Agentic AI Engineer role building multi-step AI agents and tool-use systems. Focused on building AI systems, not enabling team adoption. Requires deep AI engineering expertise, not strategic championing.",
+    "embed_sim": 0.5053590536117554,
+    "ai_native_score": 0.6894972920417786
+  },
+  {
+    "job": {
+      "id": "96c377eeee26a843cd8166532108ab00",
+      "title": "Engineering Manager / Lead Platform Engineer (DevTools & AI)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/engineering-manager-lead-platform-engineer-devtools-ai-at-signicat-4410857301",
+      "snippet": "5 days ago \u00b7 Experience building internal platforms or developer tooling is a strong plus Ability to balance people leadership, hands-on engineering, and product thinking Comfortable working in agile environments and driving continuous improvement Interest in AI tooling and how it can improve engineering productivity What We Offer",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-12T08:36:34.858634"
+    },
+    "score": 8,
+    "reason": "Engineering Manager/Lead Platform Engineer with DevTools & AI focus. Strong match: platform engineering, developer tooling, interest in AI tooling to improve engineering. Leadership and hands-on balance fits well. Location unknown but role concept is excellent match.",
+    "embed_sim": 0.5482358932495117,
+    "ai_native_score": 0.7527831196784973
+  },
+  {
+    "job": {
+      "id": "beb759a3ebcf439c4bac8f3ed18d241d",
+      "title": "Vacatures voor Algorithm | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/algorithm-vacatures-SRCH_KO0,9.htm",
+      "snippet": "Zoek de juiste vacature voor Algorithm met bedrijfsreviews en salarissen.The types of projects you will be working on range from designing, testing and implementing new strategies, to tweaking existing strategies, performing data\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-12T08:36:38.764776"
+    },
+    "score": 0,
+    "reason": "Landing page for algorithm-related jobs. Not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.0720994621515274,
+    "ai_native_score": 0.4898052513599396
+  },
+  {
+    "job": {
+      "id": "dc1a090674ba9fca5ea74837bf6b278b",
+      "title": "Vacature Commercieel medewerker balie Fulltime in Wageningen",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://unique.nl/vacature/commercieel-medewerker-balie-(v3639139)",
+      "snippet": "Vacatures in Utrecht.Vacature nummer. 2026-26217. Solliciteer nu.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-12T08:36:49.153422"
+    },
+    "score": 0,
+    "reason": "Commercial/front-desk role unrelated to software development, AI adoption, or engineering practices.",
+    "embed_sim": 0.07205989956855774,
+    "ai_native_score": 0.5728208422660828
   }
 ]
