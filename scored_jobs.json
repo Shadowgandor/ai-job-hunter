@@ -2974,5 +2974,341 @@
     "reason": "Commercial/front-desk role unrelated to software development, AI adoption, or engineering practices.",
     "embed_sim": 0.07205989956855774,
     "ai_native_score": 0.5728208422660828
+  },
+  {
+    "job": {
+      "id": "2f2d3a092b954a2daba8a9ff400f95bd",
+      "title": "Meer dan 1.000 vacatures voor Virtual Assistant in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/virtual-assistant-jobs",
+      "snippet": "Actief aan het werven. 3 weken geleden. Executive Assistant & Office Specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:08.171771"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator with no specific role details; appears to be a search results page, not an actual job posting",
+    "embed_sim": 0.22050730884075165,
+    "ai_native_score": 0.6574815511703491
+  },
+  {
+    "job": {
+      "id": "8726aa9387c575e00386f67516635f3a",
+      "title": "659 vacatures voor Healthcare Innovation in Nederland",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/healthcare-innovation-jobs",
+      "snippet": "Senior Marketing Specialist \u2013 Growth Marketing (Rotterdam).Product Director \u2013 Conversational AI CS & Pharma Advisory (m/f/d).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:08.171790"
+    },
+    "score": 0,
+    "reason": "Healthcare innovation aggregator page; mentions 'Conversational AI' but no actual job posting details; wrong industry focus",
+    "embed_sim": 0.1507778912782669,
+    "ai_native_score": 0.5062932372093201
+  },
+  {
+    "job": {
+      "id": "69781937b44e467dd20b55a7cf9fe446",
+      "title": "85 vacatures voor Game Designer in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/game-designer-jobs",
+      "snippet": "Principal Game Designer (Genre Specialist). Tencent. Amsterdam 4 maanden geleden.Visual Content Specialist (AI-driven). PS. food & lifestyle. Best 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:08.171805"
+    },
+    "score": 0,
+    "reason": "Game designer aggregator page; mentions 'AI-driven' content but focused on game design, not development team AI adoption; wrong domain",
+    "embed_sim": 0.27679216861724854,
+    "ai_native_score": 0.7129926681518555
+  },
+  {
+    "job": {
+      "id": "5036e71fa1e3dc51195c9fa2a25a91a1",
+      "title": "0 vacatures voor Administrative in Amsterdam, Mpumalanga, Zuid-Afrika",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/administrative-jobs-amsterdam",
+      "snippet": "Vacatures voor Specialist beveiligingsoperaties.Vacatures voor Specialist dossierbeheer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:08.171814"
+    },
+    "score": 0,
+    "reason": "Administrative/security operations aggregator; no AI-related roles; appears to be closed or empty search results (0 vacatures)",
+    "embed_sim": 0.16341230273246765,
+    "ai_native_score": 0.5922082662582397
+  },
+  {
+    "job": {
+      "id": "86bce70e5f46f53a84e7d6c8725aca5f",
+      "title": "Machine Learning Engineer \u00bb Team Rockstars IT",
+      "company": "",
+      "location": "",
+      "url": "https://www.teamrockstars.nl/werken-bij/vacatures/machine-learning-engineer/",
+      "snippet": "Of deel de vacature! wat je kunt gaan doen. Als Machine Learning Engineer.Als Machine Learning Engineer gebruik je AI om oplossingen te bouwen die betrouwbaar, uitlegbaar en schaalbaar zijn, altijd binnen de security en compliance kaders van de klant. Je werkt o.a. met",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-13T08:41:16.800657"
+    },
+    "score": 1,
+    "reason": "Machine Learning Engineer role explicitly requires building AI solutions (not enabling teams to use AI); requires ML expertise; does not match candidate profile",
+    "embed_sim": 0.3230079710483551,
+    "ai_native_score": 0.6057202219963074
+  },
+  {
+    "job": {
+      "id": "02f72655ba921b39cd9c66139a2cef59",
+      "title": "[24] 7.ai: meer dan 100 sollicitatievragen en antwoorden | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Sollicitatiegesprek/-24-7-ai-Sollicitatievragen-E34134_P3.htm",
+      "snippet": "Vacatures. Bedrijven. Salarissen.De procedure duurde 1 dag.Ik heb gesolliciteerd bij [24]7.ai (Quetzaltenango). Sollicitatiegesprek. The usual questions about what is the labor experience you have and why you want to work with them.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:20.878670"
+    },
+    "score": 0,
+    "reason": "Interview questions from Glassdoor for [24]7.ai; not an actual job posting; appears to be archived content",
+    "embed_sim": 0.20162808895111084,
+    "ai_native_score": 0.5393134355545044
+  },
+  {
+    "job": {
+      "id": "3fad90df54dc82db9826f0a37de6dddd",
+      "title": "Vacatures voor Data scientist in Luxemburg | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/luxemburg-data-scientist-vacatures-SRCH_IL.0,9_IN148_KO10,24.htm",
+      "snippet": "Experience working in text processing, data mining, and/or data visualisation is a plus. Lead science work, mentor junior scientists and work side by side with\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:20.878694"
+    },
+    "score": 0,
+    "reason": "Data scientist aggregator page in Luxembourg; requires data science background; wrong location; not AI adoption/enablement focused",
+    "embed_sim": 0.21138113737106323,
+    "ai_native_score": 0.47736117243766785
+  },
+  {
+    "job": {
+      "id": "cab72207cbc1f1783f511b0093adb043",
+      "title": "1.059 vacatures voor internship marketing in Alphen aan... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/alphen-aan-den-rijn-internship-marketing-vacatures-SRCH_IL.0,19_IC3047469_KO20,40.htm",
+      "snippet": "Vacature-alert maken. Alleen Snelsollicitatie. Bedrijfsbedoordeling. 1.059 vacatures voor Internship marketing in Alphen aan den Rijn.Well organized, negotiated and communicated. Work From Home(5 opmerkingen). Hybrid way of working choice.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:20.878705"
+    },
+    "score": 0,
+    "reason": "Marketing internship aggregator; junior-level position; wrong domain and seniority level",
+    "embed_sim": 0.16410131752490997,
+    "ai_native_score": 0.5092960000038147
+  },
+  {
+    "job": {
+      "id": "a162121c2bf6a0b6c7885af7c3a43f87",
+      "title": "Vacatures voor business transformation group | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/business-transformation-group-vacatures-SRCH_KE0,29.htm",
+      "snippet": "Zoeken naar vacatures met business transformation group. Vind de juiste vacature voor business transformation group met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:34.408741"
+    },
+    "score": 0,
+    "reason": "Business transformation aggregator search page; no actual job details provided; unclear role specifications",
+    "embed_sim": 0.14931583404541016,
+    "ai_native_score": 0.5116547346115112
+  },
+  {
+    "job": {
+      "id": "da15135f9bdb46f7d48bcf1ea7204e0f",
+      "title": "598 vacatures voor Business operations analyst | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/business-operations-analyst-vacatures-SRCH_KO0,27.htm",
+      "snippet": "Zoek de juiste vacature voor Business operations analyst met bedrijfsreviews en salarissen.Select your option. Argentina. Australia.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:34.408751"
+    },
+    "score": 0,
+    "reason": "Business operations analyst aggregator; no actual job details; wrong role type (operations, not AI adoption/engineering)",
+    "embed_sim": 0.16669106483459473,
+    "ai_native_score": 0.5224526524543762
+  },
+  {
+    "job": {
+      "id": "0d2c90bb25092f48d15acd70a9ae04a1",
+      "title": "Vacatures voor Business strategist | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/business-strategist-vacatures-SRCH_KO0,19.htm",
+      "snippet": "Zoek naar vacatures voor Business strategist. Zoek de juiste vacature voor Business strategist met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-13T08:41:34.408760"
+    },
+    "score": 0,
+    "reason": "Generic job search page, not an actual job listing. No specific role, company, or details provided.",
+    "embed_sim": 0.1731077879667282,
+    "ai_native_score": 0.5056861042976379
+  },
+  {
+    "job": {
+      "id": "efcf984081a7a816af0bbedf05b85424",
+      "title": "123 vacatures voor Junior Architect in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/junior-architect-jobs",
+      "snippet": "2 weken geleden. Interior Design co-worker, IKEA Delft Store, full-time.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:38.494775"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Junior Architect positions. Not an actual job listing with role details.",
+    "embed_sim": 0.20698878169059753,
+    "ai_native_score": 0.6118576526641846
+  },
+  {
+    "job": {
+      "id": "270d95269924632c2cedcd57ed908d21",
+      "title": "EARMA 2026, Utrecht: The Best One Yet \u2014 And a Glimpse of What...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.linkedin.com/pulse/earma-2026-utrecht-best-one-yet-glimpse-what-fp10-demand-browne-cwjle",
+      "snippet": "This year in Utrecht, something was different. Let me try to explain. Utrecht as a setting. Let's start with the obvious. Utrecht is an extraordinary city \u2014 historic, vibrant, walkable, and charming in the way only a Dutch city can be.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-13T08:41:42.532602"
+    },
+    "score": 0,
+    "reason": "Blog post about EARMA 2026 conference in Utrecht, not a job listing.",
+    "embed_sim": -0.12337057292461395,
+    "ai_native_score": 0.44203177094459534
+  },
+  {
+    "job": {
+      "id": "e3a2647ee9e0f529bc81829bb52c17b3",
+      "title": "40 vacatures voor Cobol in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/cobol-jobs",
+      "snippet": "Senior Software Engineer. Klipboard. Den Bosch.Wees een van de eerste sollicitanten. 3 dagen geleden. Enterprise Application Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:50.777800"
+    },
+    "score": 0,
+    "reason": "Generic search results page for COBOL jobs. Not an actual job listing with role details.",
+    "embed_sim": 0.25528526306152344,
+    "ai_native_score": 0.6223085522651672
+  },
+  {
+    "job": {
+      "id": "d3240a1ff4b479ed28c238ea2251e733",
+      "title": "62 vacatures voor Eaton in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/eaton-jobs",
+      "snippet": "62 Eaton vacatures in Nederland. Early Talent Engineering Program - Mechanical Engineer.Field Service Engineer-Graduate Development Program. Eaton. Hengelo 2 weken geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:50.777822"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Eaton company jobs. Not an actual job listing with role details.",
+    "embed_sim": 0.22466591000556946,
+    "ai_native_score": 0.5808150172233582
+  },
+  {
+    "job": {
+      "id": "747b3d840af75a4f91776f6f3fa9b06c",
+      "title": "360 vacatures voor Constructeur in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/constructeur-jobs",
+      "snippet": "Lead Mechanisch Engineer.Wees een van de eerste sollicitanten. 8 uur geleden. senior mechanical engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:41:50.777834"
+    },
+    "score": 0,
+    "reason": "Generic search results page for mechanical engineering roles. Not an actual job listing with role details.",
+    "embed_sim": 0.20064914226531982,
+    "ai_native_score": 0.6417199373245239
+  },
+  {
+    "job": {
+      "id": "d23d0803724e15fb3a6ed272fb712439",
+      "title": "50+ vacatures voor Junior Python Developer en werk: 27 april 2025",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/Junior-Python-Developer-vacatures",
+      "snippet": "Junior Developer, Developer, Junior Software Developer en meer op Indeed.com.Toon alle vacatures voor Adroit People - Vacatures in Rotterdam. Zoeken op salaris: AI Program Head salarissen.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-13T08:41:54.893020"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Junior Python Developer positions. Not an actual job listing with role details.",
+    "embed_sim": 0.2100454419851303,
+    "ai_native_score": 0.5636061429977417
+  },
+  {
+    "job": {
+      "id": "4617d89f15c016084b6d739070660ec6",
+      "title": "Engineering companies | page 5 | Magnet.me (en)",
+      "company": "page 5",
+      "location": "",
+      "url": "https://magnet.me/en/companies/engineering?page=5",
+      "snippet": "Discover jobs and internships at Birds.ai, MetaQuip, Veolia UK on Magnet.me.Find your perfect engineering internship, graduate job, graduate scheme or traineeship. There are even inhouse days or events in engineering available to meet your future employer and colleagues.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-13T08:41:59.603851"
+    },
+    "score": 0,
+    "reason": "Generic company directory page, not an actual job listing.",
+    "embed_sim": 0.29403984546661377,
+    "ai_native_score": 0.46342289447784424
+  },
+  {
+    "job": {
+      "id": "b7bc4619abab41fae18546073d23f238",
+      "title": "Staffing companies | page 2 | Magnet.me (en)",
+      "company": "page 2",
+      "location": "",
+      "url": "https://magnet.me/en/companies/staffing?page=2",
+      "snippet": "Engineering (204). Entertainment (108).Vacature Via Ginny is a company based on Ginny's creative network. Where we started out as a small Facebook page, now we have a brand new website up and running to cater to the needs of every creat\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-13T08:41:59.603866"
+    },
+    "score": 0,
+    "reason": "Generic staffing company directory page, not an actual job listing.",
+    "embed_sim": 0.13508355617523193,
+    "ai_native_score": 0.5192712545394897
+  },
+  {
+    "job": {
+      "id": "12bedd5008ac6226168ff9ff07a97223",
+      "title": "Head of Creative in Amsterdam bij Catawiki | Magnet.me | #934120 (nl)",
+      "company": "Catawiki",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/934120/head-of-creative",
+      "snippet": "Geplaatst 30 jan. 2026. Vacature delen.AI-Powered and Tech-Smart: You go beyond curiosity \u2014 you're hands-on with AI tools for design, copy, and motion, and use them to increase speed, efficiency, and quality. You lead by example in bringing innovation into the team\u2019s daily work.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-13T08:42:03.711927"
+    },
+    "score": 4,
+    "reason": "Head of Creative role in Amsterdam with AI tool mention, but primary focus is creative leadership, not engineering AI adoption. Location is Amsterdam (acceptable range). No indication this is for developer team enablement or engineering practices.",
+    "embed_sim": 0.38457542657852173,
+    "ai_native_score": 0.7845620512962341
+  },
+  {
+    "job": {
+      "id": "2215efd4cf05ff9edb094fd990eaee5e",
+      "title": "169 vacatures voor Junior Front End Developer in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/junior-front-end-developer-jobs",
+      "snippet": "169 Junior Front End Developer vacatures in Nederland.Frontend Engineer. MarvelX AI. Amsterdam 4 weken geleden. Javascript developer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-13T08:42:07.833893"
+    },
+    "score": 0,
+    "reason": "This is a job listing aggregator/search results page, not an actual job posting. Also explicitly targets junior developers, which does not match the candidate's senior level requirement.",
+    "embed_sim": 0.30896249413490295,
+    "ai_native_score": 0.6047593355178833
   }
 ]
