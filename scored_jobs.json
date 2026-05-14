@@ -3310,5 +3310,229 @@
     "reason": "This is a job listing aggregator/search results page, not an actual job posting. Also explicitly targets junior developers, which does not match the candidate's senior level requirement.",
     "embed_sim": 0.30896249413490295,
     "ai_native_score": 0.6047593355178833
+  },
+  {
+    "job": {
+      "id": "54141e15af64dcca2b001f210f604d5e",
+      "title": "OLIVER | The Brandtech Group zoekt een Social Media... | LinkedIn",
+      "company": "The Brandtech Group zoekt een Social Media...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/social-media-lead-at-oliver-the-brandtech-group-4395971278?position=38&pageNum=0",
+      "snippet": "Established in 2004, OLIVER is the world\u2019s first and only specialist in designing, building, and\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-14T08:34:52.767164"
+    },
+    "score": 0,
+    "reason": "Social Media Lead role - unrelated to developer AI adoption or engineering practices",
+    "embed_sim": 0.2485641986131668,
+    "ai_native_score": 0.6258556246757507
+  },
+  {
+    "job": {
+      "id": "84651c42cf1b6acf65b4797cf002e2be",
+      "title": "VONROC zoekt een Ai Video Creator in Zwolle | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-video-creator-at-vonroc-4390840330?position=34&pageNum=0",
+      "snippet": "Met jouw intrinsieke interesse in AI en nieuwe technologie\u00ebn weet je traditionele videoproductie te combineren met moderne AI-oplossingen om content naar een hoger niveau te tillen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-14T08:34:57.343619"
+    },
+    "score": 0,
+    "reason": "AI Video Creator role - focuses on video production, not developer tooling or SDLC AI adoption",
+    "embed_sim": 0.2305726855993271,
+    "ai_native_score": 0.6768156290054321
+  },
+  {
+    "job": {
+      "id": "c53807e25b8defafe2950169ef600805",
+      "title": "VEED zoekt een Senior Full Stack Engineer - Editor in... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-editor-at-veed-4363250644?position=59&pageNum=0",
+      "snippet": "You're interested in AI/LLMs. You see the potential of AI to transform creative workflows and are excited to integrate these technologies into user-facing features.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-14T08:34:57.343640"
+    },
+    "score": 2,
+    "reason": "Senior Full Stack Engineer building AI into products - candidate wants to help teams USE AI tools, not build AI-powered products",
+    "embed_sim": 0.42476338148117065,
+    "ai_native_score": 0.523892343044281
+  },
+  {
+    "job": {
+      "id": "d51b785606c96bfb1a3d0ea8c4b7f442",
+      "title": "Masterclass: AI for Business in Nijmegen... | Magnet.me | #931556 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/931556/masterclass--ai-for-business",
+      "snippet": "Vacature delen.Masterclass: AI for Business. Hoe kan jouw organisatie of bedrijf beter, innovatiever en aantrekkelijker voor klanten worden? En hoe kun je concreet en verantwoord met AI aan de slag?",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-14T08:35:13.512125"
+    },
+    "score": 0,
+    "reason": "Masterclass listing (training course) - not an employment position for the candidate",
+    "embed_sim": 0.26068082451820374,
+    "ai_native_score": 0.6648480892181396
+  },
+  {
+    "job": {
+      "id": "664d0e85d7dec01de2c61113dd81af10",
+      "title": "Vacatures voor advanced digital data | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/advanced-digital-data-vacatures-SRCH_KE0,21.htm",
+      "snippet": "Vind de juiste vacature voor advanced digital data met bedrijfsreviews en salarissen.Working closely together with other software engineers and cross functions to produce all required design specifications and ensure that digital solutions work\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-14T08:35:18.212827"
+    },
+    "score": 0,
+    "reason": "Generic data roles listing page - no specific role details, appears to be search results aggregator",
+    "embed_sim": 0.05991028994321823,
+    "ai_native_score": 0.46773138642311096
+  },
+  {
+    "job": {
+      "id": "d5445add6d54d81110eb0786843741bc",
+      "title": "Engineer gebouwgebonden installaties Utrecht, Nederland | Randstad",
+      "company": "Randstad",
+      "location": "Utrecht",
+      "url": "https://www.randstad.nl/vacatures/9207900/engineer-gebouwgebonden-installaties",
+      "snippet": "Engineer gebouwgebonden installaties. Randstad Professional. Utrecht, Nederland. \u20ac 6.544 per maand. vast dienstverband.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-14T08:35:26.025323"
+    },
+    "score": 0,
+    "reason": "Building systems engineer (HVAC/facilities) - completely unrelated domain",
+    "embed_sim": 0.07066896557807922,
+    "ai_native_score": 0.5534656643867493
+  },
+  {
+    "job": {
+      "id": "63e2daaf29d3962373a6f6b54052fe93",
+      "title": "Jobgether zoekt een Mid/Senior AI Cinematic Video Editor in... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/mid-senior-ai-cinematic-video-editor-at-jobgether-4413529469",
+      "snippet": "How Jobgether Works. We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-14T08:35:34.366845"
+    },
+    "score": 0,
+    "reason": "AI Cinematic Video Editor - video production role, not developer productivity or SDLC AI adoption",
+    "embed_sim": 0.3672621548175812,
+    "ai_native_score": 0.5287249088287354
+  },
+  {
+    "job": {
+      "id": "85b167fb98527f075d1427bc803761b7",
+      "title": "Dapper - the demand agency zoekt een Videographer... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/videographer-video-editor-at-dapper-the-demand-agency-4407688736?position=5&pageNum=0",
+      "snippet": "You\u2019re curious and always looking for smarter ways to work: through AI tools, automation or templates.You are currently based in the Netherlands. You are flexible and stay focused when things change, you adapt without losing momentum, and find smart ways to move forward.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-14T08:35:34.366873"
+    },
+    "score": 1,
+    "reason": "Videographer/Video Editor role - unrelated to developer tooling, SDLC, or engineering practices",
+    "embed_sim": 0.3265107274055481,
+    "ai_native_score": 0.5745581388473511
+  },
+  {
+    "job": {
+      "id": "6cf202ffcb3e68f533b9b61b073e1a0e",
+      "title": "IT/OT Operations Engineer in Rotterdam... | Magnet.me | #774584 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/774584/it-ot-operations-engineer",
+      "snippet": "What will you do as an IT/OT Operations Engineer? The team consists of four Edge Platform Engineers dedicated to developing, deploying, and maintaining the Edge environment in close collaboration with multidisciplinary teams.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-14T08:35:55.707303"
+    },
+    "score": 0,
+    "reason": "IT/OT Operations Engineer - infrastructure/operations focused, not related to developer AI adoption",
+    "embed_sim": 0.4225567579269409,
+    "ai_native_score": 0.6008129715919495
+  },
+  {
+    "job": {
+      "id": "4f30a3655af88b82bc08458fcb464d0f",
+      "title": "Werken bij Booking.com | Vacatures | Magnet.me (nl)",
+      "company": "Booking.Com",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/booking.com",
+      "snippet": "Data & AI Governance Stewardship Specialist - Data & AI Governance Enablement.Machine Learning Engineer - Customer Services.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-14T08:35:55.707318"
+    },
+    "score": 0,
+    "reason": "Listing page aggregator (Booking.com careers) - shows multiple roles but no specific position details to evaluate",
+    "embed_sim": 0.4048473834991455,
+    "ai_native_score": 0.570233941078186
+  },
+  {
+    "job": {
+      "id": "da4f154f2cf67cc9e0a71a8ad5b82002",
+      "title": "Support Engineer in Utrecht bij DeWarmte | Magnet.me | #973992 (nl)",
+      "company": "Dewarmte",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/973992/support-engineer",
+      "snippet": "Geplaatst 11 feb. 2026. Vacature delen.Jouw bijdrage aan onze missie. Jouw rol als Support Engineer is van groot belang om ervoor te zorgen dat al onze klanten tevreden blijven en installaties betrouwbaar werken.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-14T08:35:55.707332"
+    },
+    "score": 0,
+    "reason": "Support Engineer role for heating systems company - completely unrelated to AI adoption, software development, or engineering tools",
+    "embed_sim": 0.22694729268550873,
+    "ai_native_score": 0.5855369567871094
+  },
+  {
+    "job": {
+      "id": "5086ec0e1bb2a6c0fee1957c8f519b7e",
+      "title": "Helloprint - vacatures - 27 april 2025 | Indeed",
+      "company": "Indeed",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/Helloprint-vacatures",
+      "snippet": "Helloprint vacatures. E-commerce Manager, Ai Training Specialist, Intern en meer op Indeed.com.Toon alle vacatures in Rotterdam. Zoeken op salaris: AI Transformation Specialist \u2013 Build the Future of HelloPrint salarissen in Rotterdam.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-14T08:35:59.608696"
+    },
+    "score": 0,
+    "reason": "Generic job listing page with no specific role details; Rotterdam location is outside preferred 40km radius of Utrecht",
+    "embed_sim": 0.17776897549629211,
+    "ai_native_score": 0.4771978557109833
+  },
+  {
+    "job": {
+      "id": "eedb55e902a818a719ca847fe7bcd27a",
+      "title": "Routinely - vacatures - 22 mei 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/Routinely-vacatures",
+      "snippet": "Routinely vacatures. Finance Manager, Graduation Thesis Project Hydrodynamics, Housekeeping Supervisor en meer op Indeed.com.Zoeken op salaris: AI Specialist salarissen in Tilburg. Zie veelgestelde vragen en antwoorden over CM.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-14T08:35:59.608714"
+    },
+    "score": 0,
+    "reason": "Generic job listing page with no specific role details; location unknown",
+    "embed_sim": 0.039527103304862976,
+    "ai_native_score": 0.530766487121582
+  },
+  {
+    "job": {
+      "id": "884d4928d459736f3a110d2c971d5280",
+      "title": "Dear Future AI Engineer: The Difference in 2026 Will Be Focus, Not...",
+      "company": "",
+      "location": "",
+      "url": "https://www.linkedin.com/pulse/dear-future-ai-engineer-difference-2026-focus-more-resources-kamboj-w23ac",
+      "snippet": "The AI engineering landscape has fundamentally changed. In India, the demand for AI professionals is projected to touch 1 million by 2026.Query validation and safety. Agents and Tools Let LLMs invoke Python scripts, search engines, or APIs. Function calling and tool use.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-14T08:36:04.150314"
+    },
+    "score": 0,
+    "reason": "LinkedIn article/opinion piece, not a job listing; no actual position or application available",
+    "embed_sim": 0.4674411118030548,
+    "ai_native_score": 0.6534201502799988
   }
 ]
