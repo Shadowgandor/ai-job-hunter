@@ -4334,5 +4334,325 @@
     "reason": "Movir AI Software Engineer role focused on 'how software engineering works in an AI-augmented world' with responsibility for embedding AI into full SDLC. Strong alignment with candidate's core mission of AI adoption and workflow transformation. Missing location confirmation but Utrecht-area likelihood is moderate. Excellent conceptual match.",
     "embed_sim": 0.42786672711372375,
     "ai_native_score": 0.8096151351928711
+  },
+  {
+    "job": {
+      "id": "74122d58da42642d29ef5f9e3ac459a9",
+      "title": "86 vacatures voor game developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-game-developer-vacatures-SRCH_IL.0,9_IN178_KO10,24.htm",
+      "snippet": "Bedrijfsbedoordeling. 86 vacature(s) voor Game developer in Nederland. Relevantie.Solid experience with TypeScript and front-end development. Affinity with UX/UI and experience with design systems. You need to have a true start-up mindset.&hellip",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-17T08:17:10.188932"
+    },
+    "score": 0,
+    "reason": "Game developer roles - completely unrelated domain, not an AI adoption/enablement role",
+    "embed_sim": 0.20986998081207275,
+    "ai_native_score": 0.6090183258056641
+  },
+  {
+    "job": {
+      "id": "0957337363580ca48309be75da692e93",
+      "title": "Vacature Magazijnmedewerker Fulltime in Genemuiden",
+      "company": "",
+      "location": "",
+      "url": "https://unique.nl/vacature/magazijnmedewerker-(v3644191)",
+      "snippet": "Zoek je een functie met afwisseling, verantwoordelijkheid en fijne collega\u2019s? Dan hebben wij een mooie uitdaging voor jou als magazijnmedewerker in de drieploegendienst!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-17T08:17:10.188975"
+    },
+    "score": 0,
+    "reason": "Warehouse worker position - unrelated to software development or AI",
+    "embed_sim": 0.07292606681585312,
+    "ai_native_score": 0.5788294076919556
+  },
+  {
+    "job": {
+      "id": "2ea652a00d48afb624d17d7b24b1413d",
+      "title": "AI Engineer \u2013 Work from Home - Mercor - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-\u2013-work-from-home-at-mercor-4387203683",
+      "snippet": "Experience working with AI-powered development tools such as Cursor, Claude Code, Devmate, or similar AI coding assistants. \u00b7 Familiarity with GraphQL and modern ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:17:14.288729"
+    },
+    "score": 8,
+    "reason": "AI Engineer role explicitly mentions experience with Cursor, Claude Code, and AI coding assistants - core match for AI tool adoption. Remote-friendly. Senior-level development background implied.",
+    "embed_sim": 0.5091239213943481,
+    "ai_native_score": 0.744712769985199
+  },
+  {
+    "job": {
+      "id": "51371cd63b9fd02994f8427b0a76c863",
+      "title": "AI Research and Development Engineer (Physical AI) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-research-and-development-engineer-physical-ai-at-intel-4404277229",
+      "snippet": "This role spans the entire lifecycle of physical AI, from training large-scale Vision-Language-Action (VLA) models to building lightweight runtimes for real- ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:17:14.288754"
+    },
+    "score": 1,
+    "reason": "Physical AI/Vision-Language-Action model training - pure ML/research role, requires building models and training large-scale systems, not AI adoption enablement",
+    "embed_sim": 0.41619181632995605,
+    "ai_native_score": 0.6218170523643494
+  },
+  {
+    "job": {
+      "id": "fbf95f5988a4357fe4198c4a2a6617f5",
+      "title": "Digital Accessibility Specialist - vacatures - 11 mei 2026 - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-digital-accessibility-specialist-vacatures.html",
+      "snippet": "Experience in organizational change management and digital adoption strategies. This role combines AI adoption leadership with driving knowledge management ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-17T08:17:21.763970"
+    },
+    "score": 6,
+    "reason": "Digital Accessibility Specialist with AI adoption leadership aspect is conceptually close, but unclear scope and accessibility may be primary focus rather than AI tool championing. Location unknown.",
+    "embed_sim": 0.376603901386261,
+    "ai_native_score": 0.7836081981658936
+  },
+  {
+    "job": {
+      "id": "555d10a2b87ba5748709dbc4fe579047",
+      "title": "410 vacatures voor Journalist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/journalist-jobs",
+      "snippet": "Wees een van de eerste sollicitanten. 2 maanden geleden. Internship - Gen AI Change & Communications.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:17:34.156141"
+    },
+    "score": 0,
+    "reason": "Journalist/internship positions - unrelated to software engineering and AI tool adoption, junior level",
+    "embed_sim": 0.13510864973068237,
+    "ai_native_score": 0.5958826541900635
+  },
+  {
+    "job": {
+      "id": "df55700d4d998dd609d12cfbd92b25f1",
+      "title": "Senior Solution Sales Executive, Developer Experience Sales",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027570/senior-solution-sales-executive--developer-experience-sales",
+      "snippet": "Rovo Dev from Atlassian utilizes modern AI capabilities to streamline these elements and ensure your organizations standards are followed. Currently, we are seeking an experienced DevExp Solution Solutions Sales Executive to join our team and drive revenue growth in the AMER region.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-17T08:17:46.370279"
+    },
+    "score": 2,
+    "reason": "Sales executive role for DevEx/AI tools - wrong function (sales, not technical enablement), AMER region (not Utrecht area)",
+    "embed_sim": 0.4963286519050598,
+    "ai_native_score": 0.6264345049858093
+  },
+  {
+    "job": {
+      "id": "e8ce2eb13154b2626bdb1536b1590946",
+      "title": "Senior Software Engineer - ML/AI in Amsterdam bij Adyen | Magnet.me",
+      "company": "Adyen",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1031540/senior-software-engineer---ml-ai",
+      "snippet": "Develop Strategic AI Products: You will own the end-to-end development of bespoke AI tools that solve problems unique to Adyen's scale. Whether it's optimizing merchant experience, enhancing pricing models, or improving internal workflows, you will build intelligent solutions.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-17T08:17:46.370323"
+    },
+    "score": 2,
+    "reason": "Senior ML/AI engineer at Adyen focused on building strategic AI products and models - requires deep ML expertise, wrong specialization (building AI vs. adopting AI tools)",
+    "embed_sim": 0.5534391403198242,
+    "ai_native_score": 0.6253687739372253
+  },
+  {
+    "job": {
+      "id": "36500ab0cca4d59432cc0aad450b8c01",
+      "title": "Internship AI & Digital Media Analytics - KPN - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/internship-ai-digital-media-analytics-kpn/",
+      "snippet": "The team is part of the Data, AI & Adoption department and an active AI community within KPN, where around 50 AI specialists regularly come together to share knowledge, inspire one another, and take part in fun activities.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-17T08:17:50.216452"
+    },
+    "score": 0,
+    "reason": "Internship position in AI analytics - too junior level, analytics/data focus rather than AI tool adoption for developers",
+    "embed_sim": 0.47824937105178833,
+    "ai_native_score": 0.6890960931777954
+  },
+  {
+    "job": {
+      "id": "d658490569f7c645369cf0653d8b077c",
+      "title": "Machine Learning Engineer - Enexis - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/machine-learning-engineer-enexis/",
+      "snippet": "Vacature: Enexis in Den Bosch zoekt een Machine Learning Engineer | Salaris: \u20ac 3.863,- en \u20ac 5.519,- | Startdatum: onbekend",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-17T08:17:54.105247"
+    },
+    "score": 1,
+    "reason": "Machine Learning Engineer role - pure ML position requiring model development, not AI tool adoption/enablement for development teams",
+    "embed_sim": 0.43108975887298584,
+    "ai_native_score": 0.5292235612869263
+  },
+  {
+    "job": {
+      "id": "aa3ee7897d5ca10fa9f0825a00bde77a",
+      "title": "Vacature Prompt Engineer - Coolblue - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Rotterdam",
+      "url": "https://werkeninai.nl/prompt-engineer-coolblue/",
+      "snippet": "Vacature: Coolblue in Rotterdam zoekt een fulltime Prompt Engineer | Sluitingsdatum: onbekend. Als Prompt Engineer maak je onze chatbots slimmer en persoonlijker, zodat ze klanten vriendelijker en effici\u00ebnter helpen. Je stuurt LLM's aan met slimme prompts en bouwt prototype agents in Python met LangChain. Je analyseert de modeloutput (natuurlijk ook met AI) en verbetert met je bevindingen ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-17T08:17:54.105281"
+    },
+    "score": 2,
+    "reason": "Prompt Engineer role at Coolblue building chatbots and LLM agents in Python. Requires ML/Python expertise and model building \u2014 not AI adoption/enablement. Wrong focus and wrong location (Rotterdam, 70km away).",
+    "embed_sim": 0.25286367535591125,
+    "ai_native_score": 0.5767130851745605
+  },
+  {
+    "job": {
+      "id": "440f92503199add4b35e8b890d3d424c",
+      "title": "Vacature Leerkracht groep 3- Al Amana Overvecht - Al Amana...",
+      "company": "Al Amana...",
+      "location": "Utrecht",
+      "url": "https://www.meesterbaan.nl/vacature/355747/leerkracht-groep-3--al-amana-overvecht",
+      "snippet": "Sluitingsdatum: 07-06-2026. Word leerkracht groep 3 bij Al Amana Overvecht. Jij helpt leerlingen groeien in lezen, schrijven en rekenen, in een warm team waar elke leerling telt. Vacature omschrijving.Utrecht, Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-17T08:18:10.809887"
+    },
+    "score": 0,
+    "reason": "Elementary school teacher position. Completely unrelated domain.",
+    "embed_sim": 0.1043899655342102,
+    "ai_native_score": 0.5864303708076477
+  },
+  {
+    "job": {
+      "id": "308202771c4f48a532b5460ea7522c36",
+      "title": "339 vacatures voor Artificial Intelligence Intern in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/artificial-intelligence-intern-jobs",
+      "snippet": "Optimization & AI Engineer Intern. Dassault Syst\u00e8mes. 's-Hertogenbosch 6 dagen ... INTERNSHIP - AI Enablement for Solutions Design. GXO Logistics, Inc ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:18:15.141892"
+    },
+    "score": 0,
+    "reason": "Aggregated intern listings. Candidate explicitly excludes intern/traineeship positions and this appears to be a search results page, not a specific job.",
+    "embed_sim": 0.40296146273612976,
+    "ai_native_score": 0.6872407793998718
+  },
+  {
+    "job": {
+      "id": "0f8910f8860789e74e26f89c9c8b7691",
+      "title": "Site Reliability Engineer (SRE) AI Infrastructure (Early Career)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/site-reliability-engineer-sre-ai-infrastructure-early-career-nebius-at-jobster-4415029478",
+      "snippet": "11:03:59 geplaatst. Launch your career in site reliability engineering with Nebius through this 3-month Early Talent\u2026Bekijk deze en vergelijkbare vacatures ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:18:15.141915"
+    },
+    "score": 1,
+    "reason": "Early career SRE AI Infrastructure internship. Candidate excludes junior/intern positions and is 13 years senior. Infrastructure role, not AI adoption/enablement.",
+    "embed_sim": 0.34571439027786255,
+    "ai_native_score": 0.681795060634613
+  },
+  {
+    "job": {
+      "id": "361620c4ad41527ab9333e60509572e9",
+      "title": "Sensorfact zoekt een Head of Enablement in Amsterdam - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-enablement-at-sensorfact-4359714941",
+      "snippet": "Senior Consultant AI Enablement & Digital Adoption. Rapid Circle. Amsterdam ... AI Commercial Enablement Lead - Client Management. Ebury. Amsterdam 1 week ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-17T08:18:15.141929"
+    },
+    "score": 4,
+    "reason": "Head of Enablement at Sensorfact in Amsterdam (25km from Utrecht \u2014 acceptable). 'Enablement' is promising, but listing is sparse and unclear if this is AI-focused enablement or general organizational enablement. Needs more detail to confirm AI adoption focus.",
+    "embed_sim": 0.24610355496406555,
+    "ai_native_score": 0.5917210578918457
+  },
+  {
+    "job": {
+      "id": "59c28bf2ac1e35f8efe6ac41701b4002",
+      "title": "Consultant Verantwoorde AI | Soesterberg in Groningen bij TNO | Magnet.me | #1025268 (nl)",
+      "company": "Tno",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1025268/consultant-verantwoorde-ai---soesterberg",
+      "snippet": "3 weeks ago - Flexible working hours, the possibility to work parttime (32 or 36 hours) and the possibility of working from home. A good pension scheme. Volledige vacaturetekst bekijken ... Innovation with purpose: that is what TNO stands for. We develop knowledge not for its own sake, but for practical application. TNO connects people and knowledge to create innovations that boost the competitive strength of industry and the well-being of society in a sustainable way.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-17T08:18:22.955208"
+    },
+    "score": 2,
+    "reason": "Consultant Verantwoorde AI (Responsible AI) at TNO in Groningen area. Likely focuses on AI ethics/governance/risk rather than tooling adoption. Also location is far from Utrecht (100km+) and role appears advisory/policy-focused rather than hands-on developer enablement.",
+    "embed_sim": 0.1547081172466278,
+    "ai_native_score": 0.5710198283195496
+  },
+  {
+    "job": {
+      "id": "d8661b7949db1265069fd2f8a7963db7",
+      "title": "Model Risk Manager - AI & Emerging Risk in Utrecht bij Rabobank | Magnet.me | #984858 (nl)",
+      "company": "Rabobank",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/984858/model-risk-manager---ai---emerging-risk",
+      "snippet": "January 20, 2026 - Drive innovation by integrating advanced analytics and AI techniques to enhance validation processes; Develop and maintain validation procedures that keep pace with emerging trends and technologies; Support the implementation of the Model Risk Management (MRM) strategy, championing initiatives that strengthen governance and streamline ways of working; and",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-17T08:18:22.955233"
+    },
+    "score": 3,
+    "reason": "Model Risk Manager - AI & Emerging Risk at Rabobank in Utrecht. Good location, but this is a risk/compliance role focused on model validation and MRM strategy \u2014 not developer tool adoption or AI enablement. Requires financial risk expertise, not web dev background.",
+    "embed_sim": 0.2391771376132965,
+    "ai_native_score": 0.5169393420219421
+  },
+  {
+    "job": {
+      "id": "9b04c25edc7ce863aa91ce668c34733c",
+      "title": "50+ vacatures voor Artificial Intelligence Consultant en werk ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-consultant-vacatures.html",
+      "snippet": "We zoeken een technisch sterke engineers die graag werken aan zowel het bouwen van robuuste data-infrastructuren als het ontwikkelen van slimme AI-oplossingen. Als Data & AI Engineer ben je verantwoordelijk voor de hele keten: van ruwe data tot waardevolle inzichten en intelligente toepassingen.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-17T08:18:27.560038"
+    },
+    "score": 1,
+    "reason": "Aggregated search results for Data & AI Engineer roles. Snippet describes data infrastructure and ML model development \u2014 exactly what candidate wants to avoid. Not a specific job posting.",
+    "embed_sim": 0.27361083030700684,
+    "ai_native_score": 0.6130772829055786
+  },
+  {
+    "job": {
+      "id": "35406363b8d472747a78d6685e859890",
+      "title": "Ai Engineer - vacatures in Groningen (provincie) - 30 oktober 2025 - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-groningen-vacatures.html",
+      "snippet": "Als AI Software Engineer bij Enlite werk je aan het ontwerpen, bouwen en doorontwikkelen van slimme AI-oplossingen die onze klanten helpen om data om te zetten in waardevolle inzichten. Daarnaast ben je bezig met het automatiseren van bedrijfsprocessen, zowel intern als voor klanten.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-17T08:18:27.560056"
+    },
+    "score": 1,
+    "reason": "AI Software Engineer in Groningen building AI solutions and automating processes. Focuses on building intelligent applications and data pipelines \u2014 not AI tool adoption/enablement. Wrong seniority framing and wrong location (170km away).",
+    "embed_sim": 0.39540499448776245,
+    "ai_native_score": 0.7368647456169128
+  },
+  {
+    "job": {
+      "id": "092280851b5442e816908f40efaf402e",
+      "title": "Solution Engineer - Cloud & AI Developer - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=1a546bf1aaf84439",
+      "snippet": "Join Microsoft as a Software Solution Engineer \u2013 Cloud & AI, where you\u2019ll help enterprise developers solve complex challenges and build the next generation of intelligent applications.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-17T08:18:27.560081"
+    },
+    "score": 3,
+    "reason": "Solution Engineer - Cloud & AI at Microsoft. Could involve helping developers use AI, but 'Solution Engineer' typically implies selling/implementing solutions rather than internal adoption/enablement. No location specified; vague snippet about 'intelligent applications' without clarity on AI tooling focus.",
+    "embed_sim": 0.5390233397483826,
+    "ai_native_score": 0.6285251975059509
   }
 ]
