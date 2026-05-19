@@ -5006,5 +5006,293 @@
     "reason": "This is a search results aggregation page for 'Adoptie Specialist' (adoption specialist) in Den Haag, listing psychology/social work roles (Psycholoog), not software engineering or AI enablement positions. Not a real job listing. Also Den Haag is outside the preferred 40km radius from Utrecht.",
     "embed_sim": 0.13053201138973236,
     "ai_native_score": 0.6407322287559509
+  },
+  {
+    "job": {
+      "id": "f43f728d6105f1b2a225fe58df5dad6c",
+      "title": "378 vacatures voor Digitaal Consultant in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/digitaal-consultant-jobs",
+      "snippet": "378 Digitaal Consultant vacatures in Nederland \u00b7 Digital FinTech Consultant \u00b7 Consultant Marketing Strategy & Digital Transformation \u00b7 Digital Operations & Service ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-19T09:37:14.997330"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not a specific job posting. No actual role details, location, or company information available.",
+    "embed_sim": 0.11734194308519363,
+    "ai_native_score": 0.5926433205604553
+  },
+  {
+    "job": {
+      "id": "9a4bf3a504018afc0eabada4296c7d82",
+      "title": "AI Enablement for Solutions Design - GXO Logistics, Inc. - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-ai-enablement-for-solutions-design-at-gxo-logistics-inc-4413063484",
+      "snippet": "Bachelor or Master student in Data Science, Artificial Intelligence, Engineering, Supply Chain, or a related field; Strong analytical and problem\u2011solving ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:18.443211"
+    },
+    "score": 0,
+    "reason": "Internship position explicitly targeting Bachelor/Master students in Data Science/AI. Candidate is senior-level professional, not a student/trainee.",
+    "embed_sim": 0.3362656235694885,
+    "ai_native_score": 0.5851241946220398
+  },
+  {
+    "job": {
+      "id": "42a4cf1327cbf28cda07431883f0a811",
+      "title": "Contentoo zoekt een AI Builder in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-builder-at-contentoo-4391749000",
+      "snippet": "Contentoo is a content company based in Amsterdam, working with 300+ enterprise clients such as Riverty, Action, and Team.blue, and supporting marketing teams in producing content across multiple markets and languages. We combine AI agents with expert freelancers to manage the full workflow, from brief to delivery, while keeping quality consistent.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:22.187885"
+    },
+    "score": 2,
+    "reason": "AI Builder role focused on building AI agents and content production workflows. This is about building AI products, not enabling dev teams to adopt AI tools. Wrong domain and use case.",
+    "embed_sim": 0.3590954542160034,
+    "ai_native_score": 0.5063773393630981
+  },
+  {
+    "job": {
+      "id": "487029c1446edb3d24022ee45fd5fe6f",
+      "title": "Supply Chain Traineeship (12-month contract) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/supply-chain-traineeship-12-month-contract-at-logitech-4397361891",
+      "snippet": "Experience with Supply Chain AI solutions and automation is highly preferred Strategic and critical thinking with a results-driven approach. Strong communication and collaboration skills to work effectively across global and local teams. Proficiency in presenting, collaborating and data analytics. Ability to creatively solve problems and innovate",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:22.187913"
+    },
+    "score": 0,
+    "reason": "Supply Chain Traineeship (12-month contract). Explicitly a trainee position. Candidate is a senior engineer, not seeking traineeship roles.",
+    "embed_sim": 0.4610792398452759,
+    "ai_native_score": 0.6310350298881531
+  },
+  {
+    "job": {
+      "id": "7bd636b9da44df826bf52d2f72360941",
+      "title": "Linklaters Netherlands zoekt een Technology Training ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/technology-training-consultant-at-linklaters-netherlands-4385455865",
+      "snippet": "Explore emerging Generative AI capabilities and assess their impact on productivity, quality and ways of working. About You Experience with end\u2011to\u2011end technology training design and delivery, both synchronous and asynchronous. Strong instructional design and e\u2011authoring skills, using a range of tools.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:22.187935"
+    },
+    "score": 6,
+    "reason": "Technology Training Consultant at law firm (Linklaters) with focus on GenAI impact assessment and training design. Good fit for AI adoption coaching, but role emphasizes instructional design/training delivery rather than hands-on AI tooling implementation. Location unknown but Linklaters has Netherlands presence. Somewhat aligned but not ideal match.",
+    "embed_sim": 0.3060951232910156,
+    "ai_native_score": 0.6327232122421265
+  },
+  {
+    "job": {
+      "id": "26f90bde0e4c7db9c3b1d71973f1ac86",
+      "title": "Landal zoekt een SEO Specialist a.i. in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/seo-specialist-a-i-at-landal-4414656496?position=19&pageNum=0",
+      "snippet": "Support experimentation with AI-generated content workflows, prompt optimization and search experience innovation. Challenge existing strategies and continuously look for more efficient and scalable ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:22.187951"
+    },
+    "score": 2,
+    "reason": "SEO Specialist role with AI-generated content and prompt optimization. Focused on marketing/SEO workflows, not developer team AI adoption. Wrong domain entirely.",
+    "embed_sim": 0.2970167100429535,
+    "ai_native_score": 0.4634024500846863
+  },
+  {
+    "job": {
+      "id": "dc1eebec06cb5f7eff95480b8dc86325",
+      "title": "Landal zoekt een Product data specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/product-data-specialist-at-landal-4408002128",
+      "snippet": "You take initiative, spot opportunities for improvement, and help implement smarter (automated) ways of working You have an affinity with automation and AI, and know how these can support scalable solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:22.187965"
+    },
+    "score": 1,
+    "reason": "Product Data Specialist role with automation/AI affinity. Data-focused position, not about enabling dev teams to adopt AI tools. Wrong specialty track.",
+    "embed_sim": 0.3059910535812378,
+    "ai_native_score": 0.3606979250907898
+  },
+  {
+    "job": {
+      "id": "f40061c60d07dfa654cf2a55ca93273e",
+      "title": "Lead AI Engineer in 's-Hertogenbosch bij iO - Magnet.me",
+      "company": "Io - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022925/lead-ai-engineer",
+      "snippet": "21 Apr 2026 ... Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. Profiel aanmaken. AI beweegt snel. Sneller dan de ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-19T09:37:29.663290"
+    },
+    "score": 2,
+    "reason": "Lead AI Engineer in 's-Hertogenbosch. Title suggests ML engineering leadership. 's-Hertogenbosch is 90+ km from Utrecht (outside candidate's 40km preference). Likely requires deep ML expertise rather than AI adoption coaching. Poor location fit and likely wrong specialization.",
+    "embed_sim": 0.24507881700992584,
+    "ai_native_score": 0.6654244065284729
+  },
+  {
+    "job": {
+      "id": "102e6533aff09f4377677215abbc00ae",
+      "title": "IT HBO internships | HBO & WO | Discover 2,171... | Magnet.me (en)",
+      "company": "Discover 2,171...",
+      "location": "",
+      "url": "https://magnet.me/en/internships/it?degrees=nl-bachelor-hbo&page=5",
+      "snippet": "There are as many as there are different IT internships. Some involve data management, others involve coding and software development. So make sure you read the job description well, so you know what kind of IT internship you are applying to!",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-19T09:37:33.733867"
+    },
+    "score": 0,
+    "reason": "Generic internship aggregator page for IT HBO/WO students. Not a specific job posting. Candidate is senior professional, not seeking internships.",
+    "embed_sim": 0.33327245712280273,
+    "ai_native_score": 0.6086317896842957
+  },
+  {
+    "job": {
+      "id": "3c4d542e5c70551c932c315fc029d6a6",
+      "title": "Moods AI zoekt een Applied AI Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-at-moods-ai-4408818912",
+      "snippet": "Applied AI Engineer Help build the AI-native operating system for mental healthcare. \u2014 About us \u2014 Moods AI is the AI-native B2B platform for mental healthcare institutions. One intelligent workspace that replaces the fragmented tooling in the sector \u2014 from clinicians to BI, operational excellence and patient care.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:37.455022"
+    },
+    "score": 3,
+    "reason": "Applied AI Engineer at healthtech startup. While title includes 'AI Engineer,' role appears focused on building AI-native platform/product for mental healthcare, not enabling dev teams to adopt AI tools. Likely requires ML/AI backend expertise. Amsterdam location is acceptable (near Utrecht), but core mission doesn't match candidate's AI adoption enablement goal.",
+    "embed_sim": 0.4192584156990051,
+    "ai_native_score": 0.6395040154457092
+  },
+  {
+    "job": {
+      "id": "c9f31bb0589bf0648f3d29b4d5f3696b",
+      "title": "Builders zoekt een AI Engineer in Rotterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-builders-4406787544?position=29&pageNum=0",
+      "snippet": "13:50:06 geplaatst. Builders is an AI-first venture studio in Rotterdam. We co-found enterprise AI companies from day\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:37.455035"
+    },
+    "score": 4,
+    "reason": "AI Engineer at venture studio building AI companies \u2014 likely requires ML/model building expertise, not AI adoption/enablement. Location (Rotterdam) is acceptable but role focus misaligned.",
+    "embed_sim": 0.3607194423675537,
+    "ai_native_score": 0.6144951581954956
+  },
+  {
+    "job": {
+      "id": "e23acceb4592c2d7405848570e4eed8a",
+      "title": "Jobster zoekt een AI Adoptie Specialist - Uitzendbureau.nl in ...",
+      "company": "Uitzendbureau.nl in ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoptie-specialist-uitzendbureau-nl-at-jobster-4311291677",
+      "snippet": "Oct 8, 2025 \u00b7 AI speelt daarin een steeds belangrijkere rol. Daarom zijn we op zoek naar een AI Adoptie Specialist: een energieke en mensgerichte professional die mensen \u00e9n organisaties helpt AI te...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-19T09:37:41.090000"
+    },
+    "score": 8,
+    "reason": "AI Adoptie Specialist \u2014 title and description perfectly match AI adoption/enablement focus. Energy and people-focused champion role. Location unknown but likely Netherlands-based. Strong match despite missing location confirmation.",
+    "embed_sim": 0.2703632712364197,
+    "ai_native_score": 0.6898174285888672
+  },
+  {
+    "job": {
+      "id": "51de74076019d737bfc65ac630ef327e",
+      "title": "100+ vacatures voor Ai en werk in Enschede 6 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-l-enschede-vacatures.html",
+      "snippet": "Prolific is not just another player in the AI space \u2013 we are building the biggest pool of quality human data in the world. What you'll be doing in the role. Alle vacatures voor Prolific Academic Ltd - Enschede vacatures - vacatures voor Participant in Enschede bekijken \u00b7 Zoeken op salaris: Netherlands Residents - Survey Participants - Enschede, Netherlands salarissen \u00b7 Ben jij een developer met minimaal een jaar ervaring en werkervaring of een enorme passie voor AI?",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-19T09:37:56.838399"
+    },
+    "score": 0,
+    "reason": "Search results page, not a job listing. No actual vacancy details. Enschede also outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.29860198497772217,
+    "ai_native_score": 0.6764048933982849
+  },
+  {
+    "job": {
+      "id": "0a1527fdf95757708c0bc646c246043b",
+      "title": "1.356 vacatures voor online ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-online-ai-vacatures-SRCH_IL.0,9_IN178_KO10,19.htm",
+      "snippet": "Zoek vacatures voor Online ai in Nederland met bedrijfsreviews en salarissen. 1.356 vacatures voor Online ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-19T09:38:00.935000"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page, not an actual job listing. No specific role or company details.",
+    "embed_sim": 0.16619864106178284,
+    "ai_native_score": 0.6100276708602905
+  },
+  {
+    "job": {
+      "id": "07a352a5c7a6e79f425abb74ad6c3232",
+      "title": "AI Adoption Lead - Artificial Intelligence Office - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027207/ai-adoption-lead---artificial-intelligence-office",
+      "snippet": "4 mei 2026 \u00b7 Opportunity to join the ECB's Artificial Intelligence Office as an AI Adoption Lead \u00b7 focus on moving AI from theoretical use cases to daily ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-19T09:38:04.717203"
+    },
+    "score": 6,
+    "reason": "AI Adoption Lead at ECB \u2014 strong title match and adoption focus ('moving AI from theory to daily practice'). However, European central bank implies Brussels-based or remote; unclear if location works. Likely senior-appropriate but location ambiguity prevents higher score.",
+    "embed_sim": 0.35983192920684814,
+    "ai_native_score": 0.7325950860977173
+  },
+  {
+    "job": {
+      "id": "4050bab449fba1c890bde7230a89b24f",
+      "title": "AI Consultant in Amsterdam bij DEPT\u00ae | Magnet.me | #1022198 (nl)",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022198/ai-consultant",
+      "snippet": "20 apr 2026 \u00b7 Vacature delen ... As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-19T09:38:04.717266"
+    },
+    "score": 7,
+    "reason": "AI Consultant at DEPT accelerating client AI adoption \u2014 matches consulting/advisory role preference. Amsterdam is within acceptable range. Focus on adoption and client enablement aligns well. Location acceptable.",
+    "embed_sim": 0.42472201585769653,
+    "ai_native_score": 0.6707962155342102
+  },
+  {
+    "job": {
+      "id": "19e8c10ae553aea35ed182f2613353bb",
+      "title": "1.036 vacatures voor ai engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-engineer-vacatures-SRCH_IL.0,11_IN178_KO12,23.htm",
+      "snippet": "Zoek vacatures voor Ai engineer in Nederland met bedrijfsreviews en salarissen. 1.036 vacatures voor Ai engineer in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-19T09:38:12.460560"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page, not an actual job listing. No specific role details provided.",
+    "embed_sim": 0.2560172975063324,
+    "ai_native_score": 0.6627457141876221
+  },
+  {
+    "job": {
+      "id": "efdb076cfebe0521609f08fe6405f961",
+      "title": "43 vacatures voor adoption specialist in Rotterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Rotterdam",
+      "url": "https://www.glassdoor.nl/Vacature/rotterdam-adoption-specialist-vacatures-SRCH_IL.0,9_IC3049255_KO10,29.htm",
+      "snippet": "Mensen die hebben gezocht naar vacatures in Rotterdam, hebben ook gezocht naar newborn hearing screener, adoption counselor, hearing instrument specialist, residential, adoption counsellor, dog daycare, residential therapist, evaluator, residential assistant. Als er weinig resultaten worden weergegeven, probeer dan een algemenere zoekterm.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-19T09:38:28.784554"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page, not an actual job listing. Generic 'adoption specialist' results with no specific AI-related vacancy details.",
+    "embed_sim": 0.09123341739177704,
+    "ai_native_score": 0.5424219965934753
   }
 ]
