@@ -5294,5 +5294,245 @@
     "reason": "Search results aggregation page, not an actual job listing. Generic 'adoption specialist' results with no specific AI-related vacancy details.",
     "embed_sim": 0.09123341739177704,
     "ai_native_score": 0.5424219965934753
+  },
+  {
+    "job": {
+      "id": "d48f0827ab1c8119cbc989d66040e98f",
+      "title": "Microsoft 365 Adoptie Specialist - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/microsoft-365-adoptie-specialist-at-nexxt-4367400905",
+      "snippet": "Als Microsoft 365 Adoptie Consultant ben jij de spil in succesvolle implementaties. Je combineert technische expertise met veranderkundige inzichten om Microsoft 365-oplossingen niet alleen te implementeren, maar ook te laten landen in de organisatie.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-20T09:25:30.877341"
+    },
+    "score": 4,
+    "reason": "Microsoft 365 adoption focus, not AI tool adoption for developers. Different domain (productivity tools vs. dev tooling). Location unknown but unlikely Utrecht area.",
+    "embed_sim": 0.2509559988975525,
+    "ai_native_score": 0.6066490411758423
+  },
+  {
+    "job": {
+      "id": "5497bb49c3e9c743ec8e625687fd37d0",
+      "title": "1.912 vacatures voor technical specialist in New York, NY | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/new-york-ny-technical-specialist-vacatures-SRCH_IL.0,11_IC1132348_KO12,32.htm",
+      "snippet": "AI Adoption Specialist. New York, NY. US$ 80K - US$ 90K (opgegeven door werkgever). Great Communicator: Strong communication skills, able to present complex AI ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-20T09:25:38.042441"
+    },
+    "score": 2,
+    "reason": "Location is New York, NY \u2014 far outside Utrecht requirement. Candidate is Netherlands-based.",
+    "embed_sim": 0.22364160418510437,
+    "ai_native_score": 0.6676087379455566
+  },
+  {
+    "job": {
+      "id": "c27d4148ba4e9202a7700f1059334cbf",
+      "title": "105 vacatures voor human ai interaction in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-human-ai-interaction-vacatures-SRCH_IL.0,11_IN178_KO12,32.htm",
+      "snippet": "Zoek vacatures voor Human ai interaction in Nederland met bedrijfsreviews en salarissen. 105 vacatures voor Human ai interaction in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-20T09:25:38.042458"
+    },
+    "score": 0,
+    "reason": "This is a search results page, not a job listing. No actual position details, company, or application information provided.",
+    "embed_sim": 0.2747375965118408,
+    "ai_native_score": 0.7437464594841003
+  },
+  {
+    "job": {
+      "id": "9d76912e903b9b6b8fc8d637dfd19405",
+      "title": "1.635 vacatures voor strategy ai in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-strategy-ai-vacatures-SRCH_IL.0,11_IN178_KO12,23.htm",
+      "snippet": "Zoek vacatures voor Strategy ai in Nederland met bedrijfsreviews en salarissen. 1.635 vacatures voor Strategy ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-20T09:25:38.042470"
+    },
+    "score": 0,
+    "reason": "This is a search results page, not a job listing. No actual position details, company, or application information provided.",
+    "embed_sim": 0.14245982468128204,
+    "ai_native_score": 0.6680233478546143
+  },
+  {
+    "job": {
+      "id": "4f1814c6d183dfbfe5ea49ae9cd71fb0",
+      "title": "Machine Learning Graduate Internship - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/machine-learning-graduate-internship-boskalis/",
+      "snippet": "MSc students in the field of Computer Science, Data science, Signal Processing, Electrical Engineering, Dredging and Offshore Technology, or Artificial Intelligence. Good command of the Dutch and/or English language. Experience with using machine learning within Python. Strong analytical skills.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-20T09:25:46.446433"
+    },
+    "score": 0,
+    "reason": "Machine Learning Graduate Internship \u2014 explicitly targets MSc students and interns. Candidate is senior-level with 13 years experience. Wrong seniority level.",
+    "embed_sim": 0.44975656270980835,
+    "ai_native_score": 0.5760407447814941
+  },
+  {
+    "job": {
+      "id": "2c0fe31dce69aaa83b1d1c5bd222a486",
+      "title": "Engineering Manager, AI Engineering: Workflow Catalog",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1016048/engineering-manager--ai-engineering--workflow-catalog",
+      "snippet": "22 apr 2026 \u00b7 Engineering Manager, AI Engineering: Workflow Catalog. Baan \u2022 Op afstand. Geplaatst 22 apr. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-20T09:25:50.080749"
+    },
+    "score": 2,
+    "reason": "Engineering Manager for AI Engineering Workflow Catalog \u2014 likely focused on building ML systems/workflows, not enabling team adoption of AI tools. No clear location or details.",
+    "embed_sim": 0.5164346694946289,
+    "ai_native_score": 0.6507898569107056
+  },
+  {
+    "job": {
+      "id": "724b53c9c462fc5d38afbc5c3d6fe79a",
+      "title": "Legal Engineer - Tax Law (Libra - Legal AI Assistant) in Alphen aan ...",
+      "company": "Legal AI Assistant) in Alphen aan ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1024464/legal-engineer---tax-law--libra---legal-ai-assistant-",
+      "snippet": "24 apr 2026 \u00b7 Legal Engineer - Tax Law (Libra - Legal AI Assistant). Baan \u2022 Alphen aan den Rijn, NL. Geplaatst 24 apr. 2026. Vacature delen. Delen: Kopi\u00ebren.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-20T09:25:50.080765"
+    },
+    "score": 1,
+    "reason": "Legal Engineer role for a Legal AI Assistant \u2014 domain is legal tech, not developer productivity or AI tool adoption for engineering teams. Alphen aan den Rijn is outside Utrecht area.",
+    "embed_sim": 0.31122446060180664,
+    "ai_native_score": 0.6585332155227661
+  },
+  {
+    "job": {
+      "id": "ab932bce214b07151611948b66b106f3",
+      "title": "IT Integration Engineer | Rotterdam World Gateway",
+      "company": "Rotterdam World Gateway",
+      "location": "",
+      "url": "https://www.rwg.nl/nl/vacatures/it-integration-engineer",
+      "snippet": "Vacature IT Integration Engineer Hbo/Wo Fulltime Salaris tot \u20ac7.466 Solliciteer direct. De arbeidsvoorwaarden worden door onze medewerkers als goed en marktconform ervaren. De arbeidsvoorwaarden voor de functie IT Integration Engineer bestaan ond...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:12.574244"
+    },
+    "score": 1,
+    "reason": "IT Integration Engineer at Rotterdam World Gateway \u2014 infrastructure/integration focus, not AI tool adoption or developer enablement. Rotterdam is outside preferred 40km radius.",
+    "embed_sim": 0.34012311697006226,
+    "ai_native_score": 0.6240522265434265
+  },
+  {
+    "job": {
+      "id": "72243caeaa078a679c3b1048fd78d5c7",
+      "title": "\u062a\u0642\u0648\u0645 \u0634\u0631\u0643\u0629 \u062a\u0627\u0628\u064a \u0628\u0627\u0644\u062a\u0648\u0638\u064a\u0641 \u0644\u0648\u0638\u064a\u0641\u0629 Integrations Engineer \u0641\u064a...",
+      "company": "",
+      "location": "",
+      "url": "https://ae.linkedin.com/jobs/view/integrations-engineer-at-tabby-\u062a\u0627\u0628\u064a-4285396302",
+      "snippet": "The Integration Engineer at Tabby plays a crucial role in facilitating seamless integration of our BNPL products with our merchant partners.Full Stack Software Engineer for AI Training (Remote, Flexible, 100+ openings).",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:12.574272"
+    },
+    "score": 0,
+    "reason": "Integrations Engineer for payment products (BNPL) \u2014 unrelated to AI tool adoption or developer productivity. Not a match for the candidate's focus.",
+    "embed_sim": 0.30075734853744507,
+    "ai_native_score": 0.5724890232086182
+  },
+  {
+    "job": {
+      "id": "2d6fe008d996beca03a6b83c1848bbd3",
+      "title": "Senior Consultant - AI Change and Adoption",
+      "company": "AI Change and Adoption",
+      "location": "",
+      "url": "https://www.consultant.nl/vacatures/vacature/1305/senior-consultant-ai-change-and-adoption",
+      "snippet": "Bekijk hier de laatste consultancy vacatures en freelance opdrachten op Consultant.nl!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:25.591367"
+    },
+    "score": 6,
+    "reason": "Senior Consultant - AI Change and Adoption \u2014 strong conceptual match for change management + AI adoption. However, listing lacks critical details (company, location, specific scope). Consulting angle is acceptable but unclear if focused on dev teams vs. general organizational AI adoption.",
+    "embed_sim": 0.3227536082267761,
+    "ai_native_score": 0.7333660125732422
+  },
+  {
+    "job": {
+      "id": "6cd7d0173d86bb3c7cb09c80ffa6abbb",
+      "title": "Vacature Medewerker vergunningen Parttime in 's-Gravenhage",
+      "company": "",
+      "location": "",
+      "url": "https://unique.nl/vacature/medewerker-vergunningen-(v3649418)",
+      "snippet": "Salarisindicatie. \u20ac2.840 - \u20ac4.499. Vacature nummer. 2026-28294. Solliciteer nu.Vinden wij ook dat de vacature bij je past? Dan leren we je graag beter kennen in een persoonlijk intakegesprek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:30.047540"
+    },
+    "score": 0,
+    "reason": "Administrative licensing role (Medewerker vergunningen) \u2014 completely unrelated to software development or AI tooling",
+    "embed_sim": 0.01584986411035061,
+    "ai_native_score": 0.5478976368904114
+  },
+  {
+    "job": {
+      "id": "0bab94ba7873b022307b59772089d442",
+      "title": "Vacature: monteur Heteren - 10-5-2026",
+      "company": "10-5-2026",
+      "location": "",
+      "url": "https://www.uitzendbureau.nl/vacature/24576949-service-monteur",
+      "snippet": "Zoek je werk in Heteren als monteur? Bekijk snel deze vacature en solliciteer eenvoudig op Jobbird!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:30.047573"
+    },
+    "score": 0,
+    "reason": "Installation technician/field service role \u2014 no connection to software development, AI adoption, or engineering workflows",
+    "embed_sim": 0.07916239649057388,
+    "ai_native_score": 0.5897665619850159
+  },
+  {
+    "job": {
+      "id": "4f600e1b0ee34087b47fa8f4213bcbb9",
+      "title": "Freelance AI Engineer / Vibe Coder - Brussels - 12 Months - Long Term",
+      "company": "Long Term",
+      "location": "",
+      "url": "https://www.linkedin.com/pulse/freelance-ai-engineer-vibe-coder-brussels-12-months-oscar-bridgman-qzvde",
+      "snippet": "AI automation tools. RAG architectures and implementations. If you're a Freelance AI Engineer/Vibe Coder in Belgium and open to freelance work and available to start ASAP, feel free to reach out directly on +32 3318 8288 or send your CV to Oscar.bridgman@vividresourcing.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-20T09:26:34.512999"
+    },
+    "score": 2,
+    "reason": "Freelance AI Engineer focused on RAG architectures and automation tools \u2014 requires ML/LLM implementation expertise, not AI adoption/enablement for dev teams. Wrong focus area",
+    "embed_sim": 0.44655513763427734,
+    "ai_native_score": 0.6108123064041138
+  },
+  {
+    "job": {
+      "id": "c2535a94f50ed8308b8478df931bec0f",
+      "title": "Retention & Loyalty Builder in Rotterdam bij HelloPrint | Magnet.me | #1026879 (nl)",
+      "company": "Helloprint",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1026879/retention---loyalty-builder",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... At HelloPrint, we are building the world\u2019s largest platform for customised print products. We are one of the front-runners in AI adoption in the Netherlands, and we\u2019re currently transitioning towards a fully AI-first way of working, where automation, agentic workflows, and rapid experimentation are core to how every team operates.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-20T09:26:38.335466"
+    },
+    "score": 1,
+    "reason": "Retention & Loyalty Builder role in marketing/CRM domain at HelloPrint \u2014 mentions AI adoption context but position is customer-focused, not about enabling engineering teams or developer productivity",
+    "embed_sim": 0.20730412006378174,
+    "ai_native_score": 0.49015918374061584
+  },
+  {
+    "job": {
+      "id": "839cabdd4455649c68acc04b40629163",
+      "title": "0 vacatures voor Quality Assurance in Amsterdam, Mpumalanga...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/quality-assurance-jobs-amsterdam",
+      "snippet": "Vacatures voor Junior Test Engineer. Vacatures voor Analist kwaliteitszorg software.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-20T09:26:42.790086"
+    },
+    "score": 0,
+    "reason": "Search results page with no actual job listing \u2014 appears to be a listing index page, not a specific vacancy",
+    "embed_sim": 0.1349668949842453,
+    "ai_native_score": 0.5903236865997314
   }
 ]
