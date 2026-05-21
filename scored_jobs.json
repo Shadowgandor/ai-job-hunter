@@ -5534,5 +5534,277 @@
     "reason": "Search results page with no actual job listing \u2014 appears to be a listing index page, not a specific vacancy",
     "embed_sim": 0.1349668949842453,
     "ai_native_score": 0.5903236865997314
+  },
+  {
+    "job": {
+      "id": "9d3aba35eb043e89cafcf908bf392585",
+      "title": "Senior AI & Knowledge Management Specialist - Swift - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-knowledge-management-specialist-at-swift-4368619756",
+      "snippet": "This role combines AI adoption leadership with driving knowledge management across Swift. You will spearhead initiatives to increase AI literacy, maximize ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-21T09:35:00.121619"
+    },
+    "score": 8,
+    "reason": "Senior AI adoption leadership role focused on AI literacy and knowledge management. Aligns with champion/coordinator mandate. Location unclear but company Swift suggests potential fit. No ML expertise required based on snippet.",
+    "embed_sim": 0.5504568219184875,
+    "ai_native_score": 0.6555629372596741
+  },
+  {
+    "job": {
+      "id": "211ad5a4c00035c1c467fd4e841185cf",
+      "title": "227 vacatures voor machine learning engineer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-machine-learning-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,35.htm",
+      "snippet": "227 vacature(s) voor Machine learning engineer in Nederland. Relevantie. Logo van ABN AMRO. ABN AMRO. 3,9. Machine Learning & AI Engineer ... tooling ten behoeve ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-21T09:35:07.694503"
+    },
+    "score": 0,
+    "reason": "Search results page listing 227 ML engineer vacancies, not a specific job posting. Cannot evaluate relevance of aggregated content. Not a real vacancy.",
+    "embed_sim": 0.2467004805803299,
+    "ai_native_score": 0.5631549954414368
+  },
+  {
+    "job": {
+      "id": "bf2f8092c565b9f4246f4c218de607bf",
+      "title": "258 vacatures voor solutions engineer in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-solutions-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,28.htm",
+      "snippet": "zelfstandig eerste versies, prototypes of MVP's opzetten met moderne AI-tools zoals Claude Code, Codex en vergelijkbare tooling;; beoordelen of een oplossing ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-21T09:35:07.694517"
+    },
+    "score": 0,
+    "reason": "Search results page listing 258 solutions engineer vacancies. Aggregate listing, not a specific job posting. While mentions Claude Code and modern AI tools, cannot properly evaluate. Not a real vacancy.",
+    "embed_sim": 0.20969808101654053,
+    "ai_native_score": 0.6787954568862915
+  },
+  {
+    "job": {
+      "id": "ff042d4dbc9391247cbcd9a999ae9349",
+      "title": "780 vacatures voor machine learning in Nederland - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-machine-learning-vacatures-SRCH_IL.0,9_IN178_KO10,26.htm",
+      "snippet": "Machine Learning & AI Engineer. Amsterdam. \u20ac 5.847 - \u20ac 8.353 (opgegeven door werkgever). AI applications usually start their journey with a business ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-21T09:35:07.694527"
+    },
+    "score": 0,
+    "reason": "Search results page listing 780 ML vacancies in Nederland. Aggregate listing, not a specific job posting. Cannot evaluate. Not a real vacancy.",
+    "embed_sim": 0.13068914413452148,
+    "ai_native_score": 0.5275636315345764
+  },
+  {
+    "job": {
+      "id": "9cd4e14a4e04c77a92877f395d832f11",
+      "title": "ilionx zoekt een AI Engineer in Amersfoort | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-ilionx-4415925044?position=2&pageNum=0",
+      "snippet": "Je werkt met de AI-offeringen van grote public cloud providers (zoals Azure, AWS of GCP) en maakt gebruik van moderne frameworks en tooling zoals LangChain, dSPy, PydanticAI, n8n en MCP. Platforms als Databricks zijn daarbij een pr\u00e9, geen must. Wat ons onderscheidt: we zoeken hyperdevelopers.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-21T09:35:11.351752"
+    },
+    "score": 2,
+    "reason": "AI Engineer at ilionx in Amersfoort. Location is good (40km from Utrecht). However, role focuses on building AI applications with LangChain, dSPy, PydanticAI, Databricks \u2014 ML/data engineering stack. Requires deep Python/ML expertise, not AI adoption/enablement for dev teams.",
+    "embed_sim": 0.40285637974739075,
+    "ai_native_score": 0.5202517509460449
+  },
+  {
+    "job": {
+      "id": "cc798f04ee28a040ae127527ad3e5ec8",
+      "title": "Vacature Junior/Medior AI Engineer | Scale-up | \u20ac67.000 - Werkzoeken.nl",
+      "company": "Scale-up",
+      "location": "Utrecht",
+      "url": "https://www.werkzoeken.nl/vacature/15662619-junior-medior-ai-engineer-scale-up-eur67000-agentic-ai-genai-ai-libraries/",
+      "snippet": "Vacature Junior/Medior AI Engineer | Scale-up | \u20ac67.000 | Agentic AI, GenAI, AI Libraries | Utrecht | Add Value IT Recruitment op Werkzoeken.nl...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:18.614679"
+    },
+    "score": 1,
+    "reason": "Junior/Medior level AI Engineer in Utrecht. Candidate is senior-level web developer (13 years), not junior/medior. Role appears focused on building agentic AI/GenAI systems, not championing AI tool adoption in existing dev teams.",
+    "embed_sim": 0.41559529304504395,
+    "ai_native_score": 0.7742658853530884
+  },
+  {
+    "job": {
+      "id": "bceaf47af177914742673510a696f204",
+      "title": "Vacature: Data scientist, Koninklijk Nederlands Meteorologisch Instituut",
+      "company": "",
+      "location": "De Bilt",
+      "url": "https://www.werkenvoornederland.nl/vacatures/data-scientist-KNMI-2026-4459",
+      "snippet": "Data scientist in De Bilt voor 36 uur bij Koninklijk Nederlands Meteorologisch Instituut.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:18.614702"
+    },
+    "score": 0,
+    "reason": "Data scientist role at meteorological institute. De Bilt is outside preferred 40km radius from Utrecht. Pure data science focus, not AI adoption/enablement for development teams.",
+    "embed_sim": 0.16796928644180298,
+    "ai_native_score": 0.4752029776573181
+  },
+  {
+    "job": {
+      "id": "9a3048089c6851a7e472af6ff7afe657",
+      "title": "Machine Learning Specialist - De Volksbank - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Utrecht",
+      "url": "https://werkeninai.nl/machine-learning-specialist-de-volksbank/",
+      "snippet": "Vacature: De Volksbank in Utrecht zoekt een Machine Learning Specialist voor 36 uur per week | Salaris: van \u20ac 4.739,11 tot \u20ac 6.318,81 per maand | Sluitingsdatum: onbekend.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-21T09:35:26.684516"
+    },
+    "score": 1,
+    "reason": "Machine Learning Specialist at De Volksbank in Utrecht. Good location. However, role is ML-focused, not about AI tool adoption for dev teams. Requires data science/ML expertise candidate explicitly does not want.",
+    "embed_sim": 0.30334022641181946,
+    "ai_native_score": 0.415718138217926
+  },
+  {
+    "job": {
+      "id": "c605c96686d37dda410812f17d147cd5",
+      "title": "Junior Machine Learning Engineer Operations - Albert Heijn",
+      "company": "Albert Heijn",
+      "location": "",
+      "url": "https://werkeninai.nl/junior-machine-learning-engineer-operations-albert-heijn/",
+      "snippet": "You're finished work for the day, you've pushed your code, and it's been reviewed and merged, you need to pick up some groceries on the way home. You bike ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-21T09:35:30.608647"
+    },
+    "score": 0,
+    "reason": "Junior ML Engineer Operations at Albert Heijn. Junior-level position (candidate is senior). ML/operations focus, not AI adoption/enablement. Location unknown. Mismatch on seniority and role type.",
+    "embed_sim": 0.2495439648628235,
+    "ai_native_score": 0.529680609703064
+  },
+  {
+    "job": {
+      "id": "ee640e57eeb7424ec66129f554fb1a3a",
+      "title": "Warmtebouw zoekt een AI-First Developer (\u20ac90k - \u20ac124k) in Utrecht ...",
+      "company": "\u20ac124k) in Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/ai-first-developer-\u20ac90k-\u20ac124k-at-warmtebouw-4363053897",
+      "snippet": "Ontvang meldingen over nieuwe vacatures voor Artificial Intelligence Ingenieur in Utrecht, Nederland. Meld u aan om vacaturemelding te maken. LinkedIn \u00a9 2026 ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:41.571515"
+    },
+    "score": 6,
+    "reason": "AI-First Developer at Warmtebouw in Utrecht. Excellent location match. Salary range (\u20ac90k-\u20ac124k) appropriate for senior. Title 'AI-First Developer' suggests hands-on AI integration into development. However, snippet is incomplete/corrupted (LinkedIn header text), cannot fully assess whether role is about building AI systems vs. adopting AI tools into SDLC. Partial match pending clarification.",
+    "embed_sim": 0.22141340374946594,
+    "ai_native_score": 0.6341883540153503
+  },
+  {
+    "job": {
+      "id": "e68174e4b63da0f742b7c993a967177d",
+      "title": "Vacatures - Sogeti Nederland",
+      "company": "Sogeti Nederland",
+      "location": "Utrecht",
+      "url": "https://www.sogeti.nl/werken-bij/vacatures/",
+      "snippet": ".Net developer. Land. Nederland. Locatie. Utrecht. Ervaring. Experienced ... AI. Merk. Sogeti \u00b7 Naam vacature. Senior Automation Engineer / Intelligent Automation.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:41.571535"
+    },
+    "score": 2,
+    "reason": "Generic job listing page without specific role details. Snippet mentions .Net developer and 'Intelligent Automation' but no indication this is about AI tool adoption or enablement. Cannot assess actual fit.",
+    "embed_sim": 0.19203411042690277,
+    "ai_native_score": 0.5835667252540588
+  },
+  {
+    "job": {
+      "id": "4a90010c02c541f8cb8f682fbd4ec25f",
+      "title": "70 high tech software engineer vacatures | 16 mei 2026",
+      "company": "16 mei 2026",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/high-tech-software-engineer",
+      "snippet": "Senior AI Engineer. FYGI BVAmsterdam. \u20ac4.809 - \u20ac5.946. 40 uur. HBO. Bewaar ... Incentro NederlandUtrecht. \u20ac5.500 - \u20ac7.000. 40 uur. HBO. Bewaar. 52 dagen geleden.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:41.571545"
+    },
+    "score": 3,
+    "reason": "Aggregate job listing page, not a specific role. Shows 'Senior AI Engineer' title but no details about whether it's ML-focused or tool adoption-focused. Insufficient information to score properly.",
+    "embed_sim": 0.3031647801399231,
+    "ai_native_score": 0.6857796907424927
+  },
+  {
+    "job": {
+      "id": "343d9af0d52e3a7168bf8c61a05da35c",
+      "title": "100+ vacatures voor Trainee Ai en werk: 11 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-trainee-ai-vacatures.html",
+      "snippet": "AI verandert hoe organisaties werken, en Hero loopt daarin voorop. Met ruim 2.000 professionals die wij dagelijks aan het werk hebben, zijn er processen in\u2026 \u00b7 Alle vacatures voor Hero Interim Professionals - Wognum vacatures - vacatures voor Trainee (m/v) in Wognum bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-21T09:35:45.661084"
+    },
+    "score": 0,
+    "reason": "Trainee AI position listed. Candidate explicitly does not want junior/trainee roles. Wrong seniority level.",
+    "embed_sim": 0.1772976517677307,
+    "ai_native_score": 0.6579046249389648
+  },
+  {
+    "job": {
+      "id": "036312064b9caf3fa0d72a65ef836311",
+      "title": "Sogeti zoekt een Senior .Net Developer in Utrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/senior-net-developer-at-sogeti-4408253367",
+      "snippet": "Vanuit ons kantoor in Utrecht \u2013 en daarbuiten \u2013 organiseren we maandelijkse meet\u2011ups, deep dives en hands\u2011on sessies over onder andere .NET, Azure, GitHub, Developer Experience en AI\u2011gedreven development.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-21T09:35:50.142685"
+    },
+    "score": 7,
+    "reason": "Senior .Net Developer at Sogeti in Utrecht with explicit mention of 'Developer Experience and AI-driven development' meet-ups and hands-on sessions. Good location (Utrecht), senior level, and DevEx/AI adoption focus. However, it's a .Net developer role, not specifically an AI enablement role, which keeps it from being a 9-10.",
+    "embed_sim": 0.30455273389816284,
+    "ai_native_score": 0.603744387626648
+  },
+  {
+    "job": {
+      "id": "8cc37aa5fa47b6ea9212566d8abfdc80",
+      "title": "100 vacatures voor Chatbots in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/chatbots-jobs",
+      "snippet": "InDomo | AI & Marketing Transformation Internship InDomo, a WPP company Amsterdam 2 maanden geleden",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-21T09:35:50.142708"
+    },
+    "score": 0,
+    "reason": "Chatbots job listing page without specific role details. Snippet mentions 'AI & Marketing Transformation Internship' (internship = wrong seniority). Generic aggregate listing, cannot assess.",
+    "embed_sim": 0.23839667439460754,
+    "ai_native_score": 0.5699046850204468
+  },
+  {
+    "job": {
+      "id": "1b3b67f473415b3f51497ef921f4dba8",
+      "title": "Ai Integration Engineer - vacatures - 30 april 2026 - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-integration-engineer-vacatures.html",
+      "snippet": "5+ jaar ervaring als software engineer. Unieke mix van mobile, web en AI-integration \u2014 weinig plekken bieden deze combinatie. Integreren van AI-modellen on- ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-21T09:35:59.906096"
+    },
+    "score": 2,
+    "reason": "AI Integration Engineer with requirement for '5+ years experience as software engineer' and 'integrating AI-models on-...' suggests model integration/ML work, not AI tool adoption/enablement. Likely requires building/training ML models rather than championing tool adoption.",
+    "embed_sim": 0.47129368782043457,
+    "ai_native_score": 0.6917315125465393
+  },
+  {
+    "job": {
+      "id": "a5cb8f5c49e437e31c28144eb3f8e9a9",
+      "title": "200+ vacatures voor Ai Developer en werk in Delft 26 april 2026 - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-l-delft-vacatures.html",
+      "snippet": "Als Customer Experience AI-Architect ontwerp en bouw jij mee aan het systeem achter klantinteracties binnen Certify360. Geen pensioenregeling, maar wel een ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-21T09:36:07.546354"
+    },
+    "score": 1,
+    "reason": "Customer Experience AI-Architect role building systems for customer interactions. This is about building AI systems/products, not enabling teams to adopt AI tools. Wrong direction entirely.",
+    "embed_sim": 0.31540799140930176,
+    "ai_native_score": 0.6575611233711243
   }
 ]
