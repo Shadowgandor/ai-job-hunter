@@ -5806,5 +5806,517 @@
     "reason": "Customer Experience AI-Architect role building systems for customer interactions. This is about building AI systems/products, not enabling teams to adopt AI tools. Wrong direction entirely.",
     "embed_sim": 0.31540799140930176,
     "ai_native_score": 0.6575611233711243
+  },
+  {
+    "job": {
+      "id": "a217d37a513c765ce80e893741e335c1",
+      "title": "Developer Experience Lead (JetBrains Cloud Platform) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/developer-experience-lead-jetbrains-cloud-platform-at-jetbrains-4398616451",
+      "snippet": "Our goal is to build a platform that enables companies to adopt AI in software development in a structured, scalable, and economically efficient manner \u2013 ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:04.003192"
+    },
+    "score": 8,
+    "reason": "Excellent match. DevEx role explicitly focused on helping companies adopt AI in software development structurally and scalably. Aligns perfectly with candidate's goal of AI adoption enablement. Location unknown but JetBrains has presence in Europe.",
+    "embed_sim": 0.34046852588653564,
+    "ai_native_score": 0.5272912979125977
+  },
+  {
+    "job": {
+      "id": "6468cdc21b3d6abc02f7a98a0d03e93d",
+      "title": "Principal Full Stack Engineer, AI Platform & Agents - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/principal-full-stack-engineer-ai-platform-agents-at-wolters-kluwer-4351889039",
+      "snippet": "Experience of taking AI agents from concept to production, including safety evaluations, iterative testing (e.g., A/B testing), and continuous improvement.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:04.003219"
+    },
+    "score": 2,
+    "reason": "Wrong focus. 'AI Platform & Agents' role centered on building AI systems (safety evaluations, A/B testing, production deployment of agents), not enabling teams to use AI tools. Requires AI platform engineering expertise, not DevEx/adoption coaching.",
+    "embed_sim": 0.5312814116477966,
+    "ai_native_score": 0.7059940099716187
+  },
+  {
+    "job": {
+      "id": "9d939bcaf92f7d15e890cfdbde2b8a62",
+      "title": "AI / GenAI Developer \u2013 Java & Spring Boot - 10729289 - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-genai-developer-\u2013-java-spring-boot-10729289-at-itproposal-4413991833",
+      "snippet": "Required Skills & Experience 4\u20136 years of software development experience. Strong experience with Java and Kotlin Hands-on experience with Spring Boot and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:04.003242"
+    },
+    "score": 1,
+    "reason": "Misalignment. 'AI/GenAI Developer' with Java/Spring Boot focus is a software developer role using AI, not enabling AI adoption. Requires 4-6 years Java/Kotlin expertise, not a match for candidate's web dev + AI adoption background.",
+    "embed_sim": 0.4272664785385132,
+    "ai_native_score": 0.6688500642776489
+  },
+  {
+    "job": {
+      "id": "3d7e86032b7e0d6e28988ad68bc3e74e",
+      "title": "Principal AI Developer Technology Engineer - NVIDIA - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/principal-ai-developer-technology-engineer-at-nvidia-4395484281",
+      "snippet": "You have 15+ years of relevant experience in software development or research work. Programming fluency in C/C++ with a deep understanding of algorithms and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:04.003256"
+    },
+    "score": 0,
+    "reason": "No match. Principal AI Developer Technology at NVIDIA requires 15+ years C/C++ and deep algorithm expertise. This is ML/systems engineering, far from candidate's AI adoption/enablement focus and web dev background.",
+    "embed_sim": 0.4667108952999115,
+    "ai_native_score": 0.7040172219276428
+  },
+  {
+    "job": {
+      "id": "d6dd8abe7562301600143f02b0160941",
+      "title": "Senior Software Engineer - Developer Experience - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-developer-experience-at-cisco-4410797005",
+      "snippet": "Architect and Develop AI assisted tooling to support and improve developer experience; Collaborate in code reviews, architectural discussions, customer ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:04.003311"
+    },
+    "score": 7,
+    "reason": "Strong match. Senior SWE role explicitly architecting AI-assisted tooling to improve developer experience. Aligns with candidate's core mission of embedding AI tools into workflows. DevEx focus with practical implementation.",
+    "embed_sim": 0.5321792364120483,
+    "ai_native_score": 0.7034780979156494
+  },
+  {
+    "job": {
+      "id": "9563e37ef71796a547d919063996beab",
+      "title": "Engineering Manager / Lead Platform Engineer (DevTools & AI) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/engineering-manager-lead-platform-engineer-devtools-ai-at-signicat-4410822954",
+      "snippet": "We're looking for an Engineering Manager to lead our DevTools team - a small, high-impact group focused on improving how engineering works across the company.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:07.447819"
+    },
+    "score": 6,
+    "reason": "Partial match. Engineering Manager leading DevTools team with AI focus could work, but management/leadership angle may not fit candidate's preference for hands-on technical adoption championing. Location (possibly Scandinavia) unclear\u2014verify proximity to Utrecht.",
+    "embed_sim": 0.5172766447067261,
+    "ai_native_score": 0.6615992188453674
+  },
+  {
+    "job": {
+      "id": "cdaf3690a6989eebfacd601246a52bd6",
+      "title": "Xebia zoekt een AI Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-xebia-4413973976",
+      "snippet": "You'll work with cutting-edge AI tooling on challenging projects, surrounded by experts who are genuinely invested in your growth. We're hiring for people ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:07.447845"
+    },
+    "score": 5,
+    "reason": "Weak match. Xebia AI Engineer in Amsterdam is promising location-wise (close to Utrecht), but snippet is vague ('cutting-edge AI tooling on challenging projects'). Unclear if this is about adoption/DevEx or building AI systems. Needs more detail.",
+    "embed_sim": 0.3931993544101715,
+    "ai_native_score": 0.6670264005661011
+  },
+  {
+    "job": {
+      "id": "af86a4aebee8e0ab00b7590b1538ed76",
+      "title": "317 vacatures voor Computational Linguist in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/computational-linguist-jobs",
+      "snippet": "317 Computational Linguist vacatures in Nederland \u00b7 Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA \u00b7 Senior AI/Data Science Engineer \u00b7 Business ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:07.447858"
+    },
+    "score": 0,
+    "reason": "No match. This is a listing aggregation page for Computational Linguist roles (NLP/AI research), not a specific job. Computational linguistics requires deep academic/PhD background in linguistics and AI, not adoption enablement.",
+    "embed_sim": 0.23438645899295807,
+    "ai_native_score": 0.6144171357154846
+  },
+  {
+    "job": {
+      "id": "cf1f2e8d677343b8f780f6ae252d88f8",
+      "title": "DoiT zoekt een Applied AI Engineer in Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-at-doit-4395738288",
+      "snippet": "You will rely on your empathy and judgment to identify the friction, and you will use modern AI tooling to build, code, and deploy the automations end-to-end.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:07.447869"
+    },
+    "score": 6,
+    "reason": "Partial match. 'Applied AI Engineer' building and deploying automations using modern AI tooling sounds practical, but unclear if this is about internal adoption/coaching vs. building customer-facing automations. Requires verification of actual scope and location.",
+    "embed_sim": 0.45402589440345764,
+    "ai_native_score": 0.7397595047950745
+  },
+  {
+    "job": {
+      "id": "bcec5ad0d103ae20b8d5c9ec0bbe8fc4",
+      "title": "57 data engineer vacatures in Utrecht | 22 mei 2026",
+      "company": "22 mei 2026",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/data-engineer/in-utrecht",
+      "snippet": "Aan de slag als Data Engineer in Utrecht? Bekijk het uitgebreide aanbod vacatures in Utrecht voor Data Engineer op Nationale Vacaturebank en ga de uitdaging ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-22T08:57:11.327205"
+    },
+    "score": 0,
+    "reason": "No match. Data Engineer vacancies in Utrecht. Data engineering requires Python/SQL/data pipeline expertise, not web dev or AI adoption championing. Wrong discipline entirely.",
+    "embed_sim": 0.13610079884529114,
+    "ai_native_score": 0.5438232421875
+  },
+  {
+    "job": {
+      "id": "85ddaea01f606a8d85e519874e3e1f0c",
+      "title": "Internship - Gen AI Change & Communications - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-gen-ai-change-communications-at-the-heineken-company-4411440195",
+      "snippet": "The team consists of 40+ skilled professionals working on BI, data, and GenAI solutions in a highly collaborative and international environment. You'll have the ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:14.847183"
+    },
+    "score": 1,
+    "reason": "Internship position \u2014 candidate explicitly seeks senior-level roles, not traineeships",
+    "embed_sim": 0.4850526452064514,
+    "ai_native_score": 0.6959529519081116
+  },
+  {
+    "job": {
+      "id": "68af3644d87b31d0dfe296460c48ca04",
+      "title": "AI Engineer GenAI & Data IC - Nationale-Nederlanden - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-genai-data-ic-at-nationale-nederlanden-4395979812",
+      "snippet": "10 apr 2026 \u00b7 Our way of working is pragmatic, collaborative, and iterative: short cycles, sharp priorities, continuous demos, and direct stakeholder contact.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:14.847195"
+    },
+    "score": 3,
+    "reason": "Title mentions GenAI but 'Data IC' suggests ML/data science background required; unclear if this is adoption-focused or model-building; location unknown",
+    "embed_sim": 0.4841253459453583,
+    "ai_native_score": 0.8049505949020386
+  },
+  {
+    "job": {
+      "id": "9993920b46ae8dc64e90291936ed72a6",
+      "title": "AI Workflow Automation & Optimization Intern - Simvia - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-workflow-automation-optimization-intern-growing-impact-scale-up-at-simvia-4407861191",
+      "snippet": "Build and optimize AI-driven workflows using APIs, webhooks, and automation tools; Explore and experiment with emerging AI tools, models, and capabilities ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:14.847207"
+    },
+    "score": 1,
+    "reason": "Internship position \u2014 candidate is a 13-year senior professional; not a match",
+    "embed_sim": 0.4171220064163208,
+    "ai_native_score": 0.5969415307044983
+  },
+  {
+    "job": {
+      "id": "feb9a7dccb25693859df8ae18e4c5060",
+      "title": "Vacatures voor Strategy analyst | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/strategy-analyst-vacatures-SRCH_KO0,16.htm",
+      "snippet": "Zoek de juiste vacature voor Strategy analyst met bedrijfsreviews en salarissen.You love to work with Excel (LCA software is a bonus). Internship fee of \u20ac 325,- on fulltime basis. You are familiar with GHG and LCA inventory reporting.\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:23.060482"
+    },
+    "score": 0,
+    "reason": "Strategy analyst role focused on LCA/GHG reporting; completely unrelated to AI adoption or engineering practices",
+    "embed_sim": 0.18870487809181213,
+    "ai_native_score": 0.5209823846817017
+  },
+  {
+    "job": {
+      "id": "a05ee4685670c923a5c9f57854be26f5",
+      "title": "ai vacatures in werk van thuis - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-l-werk-van-thuis-vacatures.html",
+      "snippet": "Ai vacatures in Werk van thuis. Back End Developer, Software Trainer, Ai Developer en meer op Indeed.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-22T08:57:30.279439"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregation page with no specific role details; cannot assess relevance",
+    "embed_sim": 0.27585846185684204,
+    "ai_native_score": 0.7292075157165527
+  },
+  {
+    "job": {
+      "id": "8451ebeec711aed35ab8583f7b111d4f",
+      "title": "AI-enabled tech solutions - Right Here. Right Now. - Sogeti Nederland",
+      "company": "Sogeti Nederland",
+      "location": "",
+      "url": "https://www.sogeti.nl/",
+      "snippet": "Wij helpen organisaties snel en vol vertrouwen vooruit, met technologie van wereldklasse die vanaf dag \u00e9\u00e9n resultaat laat zien. Ontmoet Geti \u00b7 Vacatures ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-22T08:57:30.279464"
+    },
+    "score": 0,
+    "reason": "Generic company landing page; no specific job listing provided; cannot assess",
+    "embed_sim": 0.28531414270401,
+    "ai_native_score": 0.6956058144569397
+  },
+  {
+    "job": {
+      "id": "78e577d48bd0fcfadaf2bf8c3d11c396",
+      "title": "SAP AI Customer Adoption Expert Advisor - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/sap-ai-customer-adoption-expert-advisor-at-sap-4416195222",
+      "snippet": "As an AI Customer Adoption Advisor, you guide customers from early AI exploration to scalable adoption. You combine technical depth, architecture expertise, and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:33.769429"
+    },
+    "score": 7,
+    "reason": "SAP AI adoption advisor role focused on guiding customer adoption and scaling \u2014 strong alignment with candidate's goal of championing AI adoption; technical depth + architecture expertise required; location unknown but advisory nature suggests potential remote work",
+    "embed_sim": 0.43188026547431946,
+    "ai_native_score": 0.5570562481880188
+  },
+  {
+    "job": {
+      "id": "dd58683fa01d7e04cc5a701d0435e4b0",
+      "title": "Brunel zoekt een AI Adoption Lead in Amsterdam Area - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-lead-at-brunel-4404842186",
+      "snippet": "AI Adoption Lead. Brunel Amsterdam Area. 3 weken geleden Meer dan 200 ... ICT Support Specialist (First Line). Ecotone. Amsterdam 1 maand geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:33.769438"
+    },
+    "score": 8,
+    "reason": "AI Adoption Lead in Amsterdam (within Utrecht region) \u2014 excellent title match; directly about leading adoption; senior-level position; right geography; no indication of ML/data science requirement",
+    "embed_sim": 0.23230603337287903,
+    "ai_native_score": 0.6930885314941406
+  },
+  {
+    "job": {
+      "id": "799645ed11698bdf84d9ec9cd1438ae9",
+      "title": "Solid Professionals zoekt een AI Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-specialist-at-solid-professionals-4413932482",
+      "snippet": "For an international bank, we are looking for an AI Specialist who will play a key role in the further adoption of GenAI within model validation. You will ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-22T08:57:33.769461"
+    },
+    "score": 4,
+    "reason": "AI Specialist for GenAI adoption in banking (candidate's industry) but role focuses on 'model validation' suggesting data science/ML background expected; partial adoption angle but likely requires technical ML expertise",
+    "embed_sim": 0.45818665623664856,
+    "ai_native_score": 0.6593177914619446
+  },
+  {
+    "job": {
+      "id": "78ac81f303878d16b34b123b8a7fb4dc",
+      "title": "52 vacatures voor llm ai in Den Haag | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/the-hague-llm-ai-vacatures-SRCH_IL.0,9_IC3049115_KO10,16.htm",
+      "snippet": "AI Software Engineer. Netherlands. \u20ac 84K - \u20ac 120K (opgegeven door werkgever). Snelsollicitatie. Product and business acumen, you can talk to a client ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:37.403202"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregation page with vague details; cannot assess individual role relevance; Den Haag is outside preferred 40km radius of Utrecht",
+    "embed_sim": 0.12864965200424194,
+    "ai_native_score": 0.5999937057495117
+  },
+  {
+    "job": {
+      "id": "5f6c508c943330ea27fefa7bb5e07823",
+      "title": "496 vacatures voor ai engineer in Amsterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-ai-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,21.htm",
+      "snippet": "Zoek vacatures voor Ai engineer in Amsterdam met bedrijfsreviews en salarissen. 496 vacatures voor Ai engineer in Amsterdam.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:41.131717"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing, not an actual job posting. No specific role details, requirements, or application information available.",
+    "embed_sim": 0.2735533118247986,
+    "ai_native_score": 0.6489575505256653
+  },
+  {
+    "job": {
+      "id": "b86e905eced60643401a4b08ca73e4d9",
+      "title": "13 vacatures voor labelling specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-labelling-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
+      "snippet": "... AI in asset management \u2014 this is the role for you. AI Adoption & Use Case Delivery.\u2026. Meer ontdekken. 30d+. Vacatures voor machine learning engineer in ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:45.014753"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing for labelling specialist roles. Not a specific job posting; cannot evaluate actual role requirements.",
+    "embed_sim": 0.28109025955200195,
+    "ai_native_score": 0.5736512541770935
+  },
+  {
+    "job": {
+      "id": "6be0f870fab8911dbb72d6b937267744",
+      "title": "120 vacatures voor workforce management in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-workforce-management-vacatures-SRCH_IL.0,9_IC3064478_KO10,30.htm",
+      "snippet": "Associate AI Adoption & Change (Amsterdam, Rotterdam). Amsterdam. Je helpt organisaties begrijpen wat AI betekent voor hun manier van werken en begeleidt ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:45.014776"
+    },
+    "score": 8,
+    "reason": "Associate AI Adoption & Change role explicitly mentioned. Helps organizations understand AI impact and guides teams \u2014 near-perfect match for AI adoption champion role. Amsterdam location within target range.",
+    "embed_sim": 0.15837129950523376,
+    "ai_native_score": 0.6661301255226135
+  },
+  {
+    "job": {
+      "id": "d514720601b6de59d2800b1462cb2c80",
+      "title": "127 vacatures voor mlops in Amsterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-mlops-vacatures-SRCH_IL.0,9_IC3064478_KO10,15.htm",
+      "snippet": "You will work in a multidisciplinary environment with software engineers, data specialists, AI/ML scientists and domain experts. The department consists of ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:45.014792"
+    },
+    "score": 0,
+    "reason": "This is a search results page for MLOps roles. MLOps requires deep ML/DevOps expertise, model training, and infrastructure \u2014 not a match for AI adoption enablement. Generic listing page.",
+    "embed_sim": 0.11522205173969269,
+    "ai_native_score": 0.44127508997917175
+  },
+  {
+    "job": {
+      "id": "682f05fa8e8861031411b16b200110e4",
+      "title": "16 vacatures voor neuroscience in Nederland - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-neuroscience-vacatures-SRCH_IL.0,9_IN178_KO10,22.htm",
+      "snippet": "Logo van PwC. PwC. 3,7. Associate AI Adoption & Change (Amsterdam, Rotterdam). Amsterdam. Je helpt organisaties begrijpen wat AI betekent voor hun manier van ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-22T08:57:45.014803"
+    },
+    "score": 8,
+    "reason": "PwC Associate AI Adoption & Change role mentioned again. Strong match for helping organizations understand AI and guide adoption. Amsterdam/Rotterdam locations acceptable.",
+    "embed_sim": 0.09882323443889618,
+    "ai_native_score": 0.6706972122192383
+  },
+  {
+    "job": {
+      "id": "491de3e802eb0599b26853e4d5ed14c4",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 15 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=88be10082a087770",
+      "snippet": "The department is small, AI-augmented, and shaping its own way of working as it scales. There's a clear mechanism for new ideas and patterns to become part of how we work \u2014 they're tried on real client projects, validated, and then adopted.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-22T08:57:52.421107"
+    },
+    "score": 0,
+    "reason": "This is a generic search results page for 'AI Automation' roles. No specific job posting details provided; cannot evaluate actual requirements or location.",
+    "embed_sim": 0.36774230003356934,
+    "ai_native_score": 0.7188764810562134
+  },
+  {
+    "job": {
+      "id": "cab3708dde1a28703750377b1210a48b",
+      "title": "12.000+ vacatures voor Ai en werk: 18 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-\"ai\"-vacatures.html",
+      "snippet": "Interessante, impactvolle ML/AI-opdrachten bij aansprekende opdrachtgevers waar je als AI Engineer het verschil maakt. Een community van AI-, Machine Learning- en Data-collega's die elkaar dagelijks sterker maken.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-22T08:57:52.421138"
+    },
+    "score": 0,
+    "reason": "Generic search results page for 'AI' roles. The snippet mentions ML/AI-focused consultant work ('AI Engineer le verschil maakt') but is not a specific job posting. Cannot evaluate location, seniority, or actual responsibilities.",
+    "embed_sim": 0.2805898189544678,
+    "ai_native_score": 0.6009186506271362
+  },
+  {
+    "job": {
+      "id": "113879fed0ec85e5323afeef4bd49d53",
+      "title": "155.000+ vacatures voor Ai Dutch en werk: 18 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-dutch-vacatures.html",
+      "snippet": "Ai Dutch vacatures. Senior Software Engineer, Software Trainer, Product Strategy Manager en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-22T08:57:52.421169"
+    },
+    "score": 0,
+    "reason": "This is a broad search results page for 'AI Dutch' vacancies listing 155,000+ results. Not a specific job posting; no details on actual roles available.",
+    "embed_sim": 0.26697149872779846,
+    "ai_native_score": 0.6659864783287048
+  },
+  {
+    "job": {
+      "id": "9d7163a136c98d524e2a19fab6b8057e",
+      "title": "100+ vacatures voor Ai Developer en werk in ... - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-ai-developer-l-amsterdam-centrum-vacatures.html",
+      "snippet": "Ai Developer vacatures in Amsterdam. Developer, Ai Developer, Front End Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-22T08:57:56.430366"
+    },
+    "score": 0,
+    "reason": "This is a search results page for 'AI Developer' roles in Amsterdam. Generic listing page with no specific job posting details, requirements, or company information.",
+    "embed_sim": 0.40099406242370605,
+    "ai_native_score": 0.7033227682113647
+  },
+  {
+    "job": {
+      "id": "96d6b47ee0fb938508dbd7cf4f5d067c",
+      "title": "400+ vacatures voor Ai Adoption en werk: 21 april 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-adoption-vacatures.html",
+      "snippet": "Drive structured adoption of AI within the Development team by identifying and implementing high impact, practical use cases. A performance-based bonus scheme. Alle vacatures voor Bloxs Software B.V. - Utrecht vacatures - vacatures voor AI Developer in Utrecht bekijken Zoeken op salaris: AI Innovation Engineer salarissen in Utrecht",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-22T08:58:00.779913"
+    },
+    "score": 7,
+    "reason": "Specific mention of 'Drive structured adoption of AI within the Development team' with focus on identifying high-impact use cases. Strong match for AI adoption enablement. Utrecht location is ideal. However, URL is a search results aggregator, so actual role details may vary.",
+    "embed_sim": 0.4097962975502014,
+    "ai_native_score": 0.7134747505187988
+  },
+  {
+    "job": {
+      "id": "13d5c9361ce336d6ca95fb464d589267",
+      "title": "Vacature AI Trainer/ Coach - Haystack People",
+      "company": "Haystack People",
+      "location": "",
+      "url": "https://www.haystackpeople.nl/vacatures/vacature-ai-trainer-coach-utrecht-473596-11.html",
+      "snippet": "Vacature AI Trainer/ Coach. As AI Adoption Specialist & Coach, you will: Facilitate AI workshops, training and hands-on sessions. Help teams discover practical AI use cases in daily work. Make AI approachable for non-technical teams. Guide behavioural change: new habits, rhythms and collaboration styles. Coach",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-22T08:58:00.779957"
+    },
+    "score": 8,
+    "reason": "Strong match \u2014 AI Adoption Specialist & Coach role focused on facilitating workshops, helping teams discover AI use cases, and guiding behavioral change. Aligns perfectly with candidate's goal of championing AI adoption. Location appears to be Utrecht area (URL suggests Utrecht). No ML expertise required.",
+    "embed_sim": 0.42924928665161133,
+    "ai_native_score": 0.7606980204582214
+  },
+  {
+    "job": {
+      "id": "b9badd4bf8a6716078f72066e5377aab",
+      "title": "AI Engineer in Utrecht bij Rabobank | Magnet.me | #1029421 (nl)",
+      "company": "Rabobank",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1029421/ai-engineer",
+      "snippet": "You build evaluation frameworks, enhance knowledge systems, and create scalable AI services used across chat and voice channels by millions of customers. As the AI Engineer, you work closely with fellow engineers and Copilot specialists to turn AI innovation into reliable customer solutions.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-22T08:58:04.542128"
+    },
+    "score": 2,
+    "reason": "Poor match \u2014 Role is about building AI services, evaluation frameworks, and knowledge systems for customer-facing products. Requires deep AI/ML engineering expertise and system design. Not about enabling dev teams to adopt AI tools. Wrong focus despite 'AI Engineer' title.",
+    "embed_sim": 0.4628429710865021,
+    "ai_native_score": 0.6491290926933289
   }
 ]
