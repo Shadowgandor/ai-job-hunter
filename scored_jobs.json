@@ -6318,5 +6318,229 @@
     "reason": "Poor match \u2014 Role is about building AI services, evaluation frameworks, and knowledge systems for customer-facing products. Requires deep AI/ML engineering expertise and system design. Not about enabling dev teams to adopt AI tools. Wrong focus despite 'AI Engineer' title.",
     "embed_sim": 0.4628429710865021,
     "ai_native_score": 0.6491290926933289
+  },
+  {
+    "job": {
+      "id": "824e5b18ad45ddbf8db8dbcd3eca58e2",
+      "title": "200+ vacatures voor Onderwijs Ai en werk: 16 maart 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-onderwijs-ai-vacatures.html",
+      "snippet": "Alle vacatures voor VNO-NCW - Tilburg vacatures - vacatures voor Adviseur Public Affairs (m/v) in Tilburg bekijken \u00b7 Zoeken op salaris: Belangenbehartiger / Medewerker Public Affairs salarissen in Tilburg ... Computrain is AI Educator of the Year 2025!",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-23T08:13:58.414959"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregator page, not an actual job listing. No valid position information provided.",
+    "embed_sim": 0.11738251149654388,
+    "ai_native_score": 0.5917199850082397
+  },
+  {
+    "job": {
+      "id": "4ce22c151c10898ba963dc555ad47954",
+      "title": "Jobgether zoekt een AI Strategy & Enablement Lead in Brabantse ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-strategy-enablement-lead-at-jobgether-4417134420?position=1&pageNum=0",
+      "snippet": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for an AI Strategy & Enablement Lead in Netherlands. This role sits at the core of enterprise-wide AI transformation, shaping how artificial intelligence is embedded into day-to-day operations, decision-making, and productivity across teams.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:18.694977"
+    },
+    "score": 8,
+    "reason": "AI Strategy & Enablement Lead role is nearly perfect match \u2014 enterprise-wide AI transformation, embedding AI into operations. Title and scope align with candidate's goal. Location not specified but posted on LinkedIn (likely Netherlands-based). Senior level appropriate.",
+    "embed_sim": 0.3427056074142456,
+    "ai_native_score": 0.6390702128410339
+  },
+  {
+    "job": {
+      "id": "cf2171444a326231dd18bed82923babe",
+      "title": "Supermicro zoekt een (Sr.) Technology Enablement Manager in 's ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/sr-technology-enablement-manager-at-supermicro-4277294221",
+      "snippet": "We seek talented, passionate, and committed engineers, technologists, and business leaders to join us to drive accelerated growth and technology-led innovation in the global marketplace.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:18.695003"
+    },
+    "score": 2,
+    "reason": "Technology Enablement Manager at hardware company (Supermicro) \u2014 wrong industry context. Role focuses on product/hardware enablement, not developer AI tool adoption. Location not specified clearly.",
+    "embed_sim": 0.23760589957237244,
+    "ai_native_score": 0.5323324203491211
+  },
+  {
+    "job": {
+      "id": "2316b263dd62cf65159b67b2ec78c4d3",
+      "title": "Huxley zoekt een Cloud Support & Enablement Engineer in ... - LinkedIn",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.linkedin.com/jobs/view/cloud-support-enablement-engineer-at-huxley-4395278688",
+      "snippet": "Voor een maatschappelijk relevante IT\u2011organisatie in Den Haag zoeken we een Support & Enablement Engineer die verder wil dan klassieke support. In deze rol combineer je techniek, automatisering...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:18.695017"
+    },
+    "score": 3,
+    "reason": "Cloud Support & Enablement Engineer in Den Haag \u2014 enablement aspect present but appears to be cloud infrastructure/support focused, not AI tooling adoption for dev teams. Den Haag is ~50km from Utrecht, slightly outside preferred range.",
+    "embed_sim": 0.23126040399074554,
+    "ai_native_score": 0.5359253883361816
+  },
+  {
+    "job": {
+      "id": "7b917f68a5fa23eaacf9c6117994689a",
+      "title": "98 vacatures voor ai security engineer in Amsterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-ai-security-engineer-vacatures-SRCH_IL.0,9_IM1112_KO10,30.htm",
+      "snippet": "98 vacature(s) voor Ai security engineer in Amsterdam \u00b7 Logo van RapidSugar. RapidSugar. AI Engineer. Amsterdam \u00b7 Logo van RIVM. RIVM. 4,1 \u00b7 Logo van Van Lanschot ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-23T08:14:22.967382"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregator page from Glassdoor listing 98 positions, not a specific job posting. No actionable role information.",
+    "embed_sim": 0.19680075347423553,
+    "ai_native_score": 0.6626896858215332
+  },
+  {
+    "job": {
+      "id": "c9c263c8f5f4ac9a64d50e6b5be495de",
+      "title": "164 vacature(s) voor Java spring boot developer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/java-spring-boot-developer-vacatures-SRCH_KO0,26.htm",
+      "snippet": "Zoek vacatures voor Java spring boot developer. Vind de juiste vacature ... experience with Java Spring and a solid understanding of backend development.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-23T08:14:22.967393"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregator page, not an actual job listing. Generic Java Spring Boot developer search results only.",
+    "embed_sim": 0.16533860564231873,
+    "ai_native_score": 0.5248492956161499
+  },
+  {
+    "job": {
+      "id": "10862d83956aed422f24f86210c84b83",
+      "title": "288 vacatures voor junior ai in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-junior-ai-vacatures-SRCH_IL.0,9_IM1112_KO10,19.htm",
+      "snippet": "Hero Interim Professionals B.V.. 3,0. AI Developer Trainee. Wognum. \u20ac 3.250 - \u20ac 5.000 (opgegeven door werkgever). Met ruim 2.000 professionals die wij dagelijks ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-23T08:14:22.967426"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregator page from Glassdoor, not a specific posting. References trainee positions which are explicitly excluded from candidate's criteria.",
+    "embed_sim": 0.3402825891971588,
+    "ai_native_score": 0.7505972981452942
+  },
+  {
+    "job": {
+      "id": "4a2d3e319fec9874eb786a6966ff724b",
+      "title": "SOUS zoekt een AI Automations Specialist in Amsterdam - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automations-specialist-at-sous-4406494308",
+      "snippet": "Build lightweight proof of concepts to test new tools, automations, and AI-driven ways of working. Build and maintain simple AI agents that support day-to-day ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:28.739836"
+    },
+    "score": 7,
+    "reason": "AI Automations Specialist at SOUS in Amsterdam \u2014 builds PoCs, tests AI tools, maintains AI agents for day-to-day automation. Strong alignment with AI tool adoption and practical implementation. Amsterdam is within 40km of Utrecht. Senior-appropriate role.",
+    "embed_sim": 0.40079551935195923,
+    "ai_native_score": 0.6507635116577148
+  },
+  {
+    "job": {
+      "id": "539106637f6dc458bd63c770ebb47772",
+      "title": "Laterite zoekt een AI Developer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-laterite-4358427937?position=7",
+      "snippet": "A key part of Laterite's work involves working with survey and geospatial data. You will use this data to build AI models and integrate them into user-friendly ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:28.739847"
+    },
+    "score": 1,
+    "reason": "AI Developer at Laterite \u2014 focuses on building AI models and integrating them into applications. This is model-building work (not tool adoption). Mismatch with candidate's core goal.",
+    "embed_sim": 0.26862505078315735,
+    "ai_native_score": 0.5547568798065186
+  },
+  {
+    "job": {
+      "id": "48f43de517bd0d6d263782829bbed880",
+      "title": "Laterite zoekt een AI Developer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-laterite-4358427937?position=7&pageNum=0&refId=CVikFZhX6gTfFAZeuIe1yw==&trackingId=sUJphyxjZDjuXJc/EjLcFw==",
+      "snippet": "This is a challenging position that will provide you with hands-on experience in AI application development, various types of data handling (e.g., audio, images ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:32.659767"
+    },
+    "score": 1,
+    "reason": "Duplicate of [8]. AI Developer role requiring hands-on AI application development with various data types \u2014 model-building focus, not developer AI enablement. Not a match.",
+    "embed_sim": 0.34972989559173584,
+    "ai_native_score": 0.6022694706916809
+  },
+  {
+    "job": {
+      "id": "4a6e5fcd9e508c59ee7dfec3d6f40043",
+      "title": "Staff/Senior AI Engineer, AI for Code - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/staff-senior-ai-engineer-ai-for-code-at-jetbrains-4413640769",
+      "snippet": "At JetBrains, we build developer tools used by millions of engineers. ... Hands-on experience building LLM-powered products, coding agents, or other AI systems.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-23T08:14:32.659791"
+    },
+    "score": 3,
+    "reason": "JetBrains AI for Code role requires 'hands-on experience building LLM-powered products, coding agents, or other AI systems' \u2014 this is about building AI systems, not enabling teams to adopt them. Wrong focus for candidate's goals.",
+    "embed_sim": 0.525424599647522,
+    "ai_native_score": 0.7142335176467896
+  },
+  {
+    "job": {
+      "id": "2c885f92c32fa06d39a47121a325c307",
+      "title": "80 vacatures voor artificial intelligence in Praag | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/praag-artificial-intelligence-vacatures-SRCH_IL.0,5_IC2296178_KO6,29.htm",
+      "snippet": "Agile/Scrum working style experience.\u2026 ... HITACHI ENERGY SERVICES SP. Z O.O. ... Knowledge of machine learning and artificial intelligence. The Data Analytics Platform Architect is responsible for designing, developing, and maintaining the\u2026\u2026 ... Vacatures in PraagVacatures bij HITACHI ENERGY SERVICES SP.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-23T08:14:57.345227"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page listing 80 vacancies in Prague with no specific role details, location mismatch (Prague, not Utrecht area), and appears to be a search results page rather than a specific job listing.",
+    "embed_sim": 0.24288566410541534,
+    "ai_native_score": 0.46780696511268616
+  },
+  {
+    "job": {
+      "id": "74cdc3e2cff82e2c0882f56729c5d6ad",
+      "title": "100+ vacatures voor Junior Ai Engineer en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-junior-ai-engineer-vacatures.html",
+      "snippet": "Bouwen van interne tools en automatiseringen. Effectief inzetten van AI-coding tools voor sneller resultaat. Junior Python Software Engineer (AI & Automation).",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-23T08:15:00.686690"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page (Indeed search results) showing multiple junior-level positions. No specific role, seniority mismatch (candidate is senior level), and lacks location/company details needed for evaluation.",
+    "embed_sim": 0.45161446928977966,
+    "ai_native_score": 0.7974569201469421
+  },
+  {
+    "job": {
+      "id": "85d9ca696c70a04c45b0f17b9dd0e7aa",
+      "title": "100+ vacatures voor Llm Engineer en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-llm-engineer-vacatures.html",
+      "snippet": "Je hebt minimaal drie jaar ervaring als Data engineer, Machine Learning of AI engineer. Maar vooral figuurlijk land je hier thuis: bij Datavibes word je ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-23T08:15:00.686699"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page (Indeed search results) for LLM Engineer roles requiring 3+ years as Data/ML/AI engineer. This is a search results page, not a specific job listing, and the roles shown are ML-focused, not AI adoption/enablement focused.",
+    "embed_sim": 0.2682788372039795,
+    "ai_native_score": 0.5744913220405579
   }
 ]
