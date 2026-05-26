@@ -6926,5 +6926,197 @@
     "reason": "Generic job listing aggregation page (Page 499 of results) \u2014 not a specific job. Mentions generic roles like 'Data Engineer / AI Engineer' in Leusden and Aerospace engineer in Enschede (outside Utrecht radius) without details.",
     "embed_sim": 0.36460915207862854,
     "ai_native_score": 0.5084774494171143
+  },
+  {
+    "job": {
+      "id": "0f661a10ab440494b9063a1f917e8333",
+      "title": "Associate AI Adoption & Change (Amsterdam, Rotterdam)",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1023910/associate-ai-adoption---change--amsterdam--rotterdam-",
+      "snippet": "Als Associate AI Adoption & Change werk je op het snijvlak van AI, change management en organisatieontwikkeling. Je helpt klanten binnen Tax, Legal en Workforce om AI-oplossingen succesvol te laten landen in hun organisatie.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-26T09:45:47.250227"
+    },
+    "score": 7,
+    "reason": "AI adoption & change management role helping organizations implement AI solutions. Strong match on adoption focus, though broader than just dev teams. Amsterdam/Rotterdam is acceptable proximity to Utrecht. Likely requires change management background rather than pure ML expertise.",
+    "embed_sim": 0.26984983682632446,
+    "ai_native_score": 0.7769469022750854
+  },
+  {
+    "job": {
+      "id": "3fb70327b25790a750e98d3600d5a6e3",
+      "title": "ING internship - AI Adoption within Global Investment Center",
+      "company": "AI Adoption within Global Investment Center",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1029026/ing-internship---ai-adoption-within-global-investment-center",
+      "snippet": "As an AI Adoption Intern, you will support the Global Investment Center in identifying, designing, and structuring AI use cases that matter for the business and scalable way of working.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-26T09:45:47.250275"
+    },
+    "score": 1,
+    "reason": "Internship position. Candidate explicitly excludes junior/intern/traineeship roles. Auto-disqualified regardless of content quality.",
+    "embed_sim": 0.4650713801383972,
+    "ai_native_score": 0.7809404134750366
+  },
+  {
+    "job": {
+      "id": "53982b7dd31efe55759675248321e2c6",
+      "title": "C004127 Digital Adoption Specialist - THU 20 Mar",
+      "company": "THU 20 Mar",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/845745/c004127-digital-adoption-specialist---thu-20-mar",
+      "snippet": "Experience and ability to develop strategic plans for digital adoption. Demonstrated ability to quickly learn and adapt to new tools and technologies. Experience in roles requiring building, maintaining and strengthening customer relationships, communications and follow-up.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-26T09:45:47.250309"
+    },
+    "score": 3,
+    "reason": "Digital adoption specialist role but generic scope (not AI-specific). No clear indication of AI tool enablement focus for development teams. Vague snippet provides insufficient evidence of fit. Location unknown.",
+    "embed_sim": 0.27322858572006226,
+    "ai_native_score": 0.6634472012519836
+  },
+  {
+    "job": {
+      "id": "a29e13a7cd04ad14fe3ed4d2eab7f940",
+      "title": "Vacature Medewerker landelijke meldkamer P1 Parttime in Voorburg",
+      "company": "",
+      "location": "",
+      "url": "https://unique.nl/vacature/medewerker-landelijke-meldkamer-p1-(v3697735)",
+      "snippet": "Salarisindicatie. \u20ac2.560. Vacature nummer. 2026-29815. Solliciteer nu.Vinden wij ook dat de vacature bij je past? Dan leren we je graag beter kennen in een persoonlijk intakegesprek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-26T09:45:56.644967"
+    },
+    "score": 0,
+    "reason": "Emergency services dispatcher role (Meldkamer). Completely unrelated to AI adoption, development teams, or software engineering. Different domain entirely.",
+    "embed_sim": 0.022512292489409447,
+    "ai_native_score": 0.5302854180335999
+  },
+  {
+    "job": {
+      "id": "0a472f5c8805e05a7a7f4228339b6411",
+      "title": "Vacatures voor Internship Data Engineering in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/internship-data-engineering-jobs",
+      "snippet": "Intern Data Engineer. DEPT\u00ae. Amsterdam 2 dagen geleden. Intern Data Engineer. Intern ... INTERNSHIP - AI Enablement for Solutions Design. GXO Logistics, Inc ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-26T09:46:36.526655"
+    },
+    "score": 0,
+    "reason": "Aggregated listing page showing data engineering and internship positions, not a specific job. Generic search results page with no actionable role details. Candidate also excludes internships.",
+    "embed_sim": 0.2907463014125824,
+    "ai_native_score": 0.5965486764907837
+  },
+  {
+    "job": {
+      "id": "d946c38daa8f942e864c37327d8a3436",
+      "title": "494 vacatures voor Digital Learning in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/digital-learning-jobs",
+      "snippet": "AI Research Engineer - Pre training (100% Remote). Tether.io. Nederland 4 ... Director, Marketing Change Enablement. Randstad Enterprise. Diemen 3 dagen ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-26T09:46:36.526666"
+    },
+    "score": 0,
+    "reason": "Aggregated LinkedIn search results page, not a specific job listing. Contains mixed roles (AI Research Engineer, Marketing Change Enablement). No actual job details to evaluate.",
+    "embed_sim": 0.23114562034606934,
+    "ai_native_score": 0.5718587040901184
+  },
+  {
+    "job": {
+      "id": "49cfebdcc95aefb80410613f402056e9",
+      "title": "9 integration engineer vacatures in de branche ict | 16 maart 2026 ...",
+      "company": "16 maart 2026 ...",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/integration-engineer/branche-ict",
+      "snippet": "Wil jij een baan als Integration Engineer in de ICT? Bekijk het uitgebreide overzicht met ICT vacatures van Nationale Vacaturebank en vind jouw droombaan ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-26T09:47:04.544962"
+    },
+    "score": 0,
+    "reason": "Aggregated search results page for integration engineers in ICT. Not a specific job listing. No actionable role details or AI adoption focus.",
+    "embed_sim": 0.252717524766922,
+    "ai_native_score": 0.605378270149231
+  },
+  {
+    "job": {
+      "id": "541bd3d253f6bd90627bb19fe70636d3",
+      "title": "PhD Researcher in Legal and ethical governance of AI in healthcare",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/phd-researcher-in-legal-and-ethical-governance-of-ai-in-healthcare-at-university-of-amsterdam-4402263782",
+      "snippet": "This PhD position is embedded in a European research project aimed at developing responsible, trustworthy, and compliant multi-agent generative AI systems for healthcare.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-26T09:47:18.423369"
+    },
+    "score": 0,
+    "reason": "PhD research position in legal/ethical governance of AI. Candidate explicitly excludes academic/PhD research positions. Wrong seniority track and wrong focus (governance research, not adoption enablement).",
+    "embed_sim": 0.4008976221084595,
+    "ai_native_score": 0.7565598487854004
+  },
+  {
+    "job": {
+      "id": "52465c375011c1ae130ab0e46e1fd2d9",
+      "title": "600+ vacatures voor Ai Student en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/m/jobs",
+      "snippet": "Ai Student vacatures. Intern, Stagiair, Tutor en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-26T09:47:27.697671"
+    },
+    "score": 0,
+    "reason": "Aggregated Indeed search results page showing student/intern positions. Not a specific job listing. Candidate excludes traineeships/intern roles regardless.",
+    "embed_sim": 0.21104976534843445,
+    "ai_native_score": 0.7042568922042847
+  },
+  {
+    "job": {
+      "id": "d36c2efab285791db45d3b6d11c3d0da",
+      "title": "Staff Software Engineer - Developer Experience in Amsterdam bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1037007/staff-software-engineer---developer-experience",
+      "snippet": "What we look for: Strong passion for improving developer workflows, productivity and infrastructure. In-depth understanding of the software development lifecycle and challenges faced by developers operating at scale. Experience with building and managing internal developer tools, CI/CD systems, or related infrastructure.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-26T09:47:31.767250"
+    },
+    "score": 8,
+    "reason": "Staff-level Developer Experience engineer role with focus on improving developer workflows, productivity, and infrastructure. Strong alignment with platform/DevEx team approach to AI tooling. Senior level appropriate. Amsterdam is within 40km of Utrecht. Likely involves AI tooling as part of developer experience improvements.",
+    "embed_sim": 0.45136722922325134,
+    "ai_native_score": 0.7112364172935486
+  },
+  {
+    "job": {
+      "id": "a852bca812e09ef60a9942a5c3282f06",
+      "title": "75+ vacatures voor Langchain en werk: 11 mei 2026 - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-langchain-vacatures.html",
+      "snippet": "Werken aan AI-integraties, automatisering en slimme workflows. ... Vacatures voor Senior Software Engineer in Utrecht (provincie)Vacatures voor ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-26T09:47:35.835920"
+    },
+    "score": 0,
+    "reason": "This is a job search results page/aggregate listing, not an actual job posting. Cannot evaluate a real role from a meta-search page.",
+    "embed_sim": 0.23409095406532288,
+    "ai_native_score": 0.7000699043273926
+  },
+  {
+    "job": {
+      "id": "9cbb2cf3fcd8d40f25409f19f46cc78e",
+      "title": "ManpowerGroup Nederland \u2013 Powering the world of work",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://manpowergroup.nl/",
+      "snippet": "The Netherlands ranks tenth worldwide in employment forecast second quarter 2026. Hospitality and construction lead the growth, AI adjusts the rules of the game ...Bevat niet: Utrecht | Resultaten tonen met:Utrecht",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-26T09:47:35.835930"
+    },
+    "score": 0,
+    "reason": "This is a corporate homepage/general employment forecast page, not a specific job listing. No actual job to evaluate.",
+    "embed_sim": 0.1440013349056244,
+    "ai_native_score": 0.6732733249664307
   }
 ]
