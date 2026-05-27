@@ -7118,5 +7118,325 @@
     "reason": "This is a corporate homepage/general employment forecast page, not a specific job listing. No actual job to evaluate.",
     "embed_sim": 0.1440013349056244,
     "ai_native_score": 0.6732733249664307
+  },
+  {
+    "job": {
+      "id": "81a125015691e870e1ece76029be19a8",
+      "title": "AI Lead (SAMY backbone) in Amsterdam bij Team5pm | Magnet.me",
+      "company": "Team5Pm",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1028685/ai-lead--samy-backbone-",
+      "snippet": "8 mei 2026 \u00b7 3-5 years of experience in a data discipline with the last 2 years experimenting with AI in some degree. \u00b7 Experience working with stakeholders: ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-27T09:39:40.564478"
+    },
+    "score": 2,
+    "reason": "Requires 3-5 years in data discipline with AI experimentation. This is a data/ML-focused role, not AI adoption/enablement. Candidate lacks required data science background.",
+    "embed_sim": 0.3483455181121826,
+    "ai_native_score": 0.6095791459083557
+  },
+  {
+    "job": {
+      "id": "e67589d8a2b7909c5faf1e5c17e80482",
+      "title": "Ai Researcher - vacatures in Utrecht (provincie) - 26 mei ...",
+      "company": "26 mei ...",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-researcher-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Ai Researcher vacatures in Utrecht (provincie). Technical Specialist en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-27T09:39:44.664838"
+    },
+    "score": 0,
+    "reason": "Result page, not a real job listing. Cannot evaluate. Appears to be a search results aggregator, not an actual open position.",
+    "embed_sim": 0.2435717135667801,
+    "ai_native_score": 0.6866263747215271
+  },
+  {
+    "job": {
+      "id": "d9bf321d200635e6825134fa330f4fcc",
+      "title": "Senior Software Engineer, AI Platform - Mixpanel - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1040068/senior-software-engineer--ai-platform",
+      "snippet": "12 uur geleden \u00b7 Mixpanel is hiring a Senior Software Engineer to join the AI Platform team, a newly formed group at the center of the company's AI-first ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-27T09:39:52.541954"
+    },
+    "score": 3,
+    "reason": "AI Platform engineer role building AI products/infrastructure. Likely requires ML/MLOps expertise, not AI adoption coaching. Wrong focus area despite 'Senior' level.",
+    "embed_sim": 0.40869081020355225,
+    "ai_native_score": 0.6864832043647766
+  },
+  {
+    "job": {
+      "id": "c151b050fc95d61c63722dc048c1c262",
+      "title": "Data AI Engineer in Amsterdam bij Effectory | Magnet.me | #968951 (nl)",
+      "company": "Effectory",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/968951/data-ai-engineer",
+      "snippet": "28 feb 2026 \u00b7 As one of our Data / AI Engineers, you're a core builder of the intelligence behind Effectory. You design, maintain, and evolve the data ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-27T09:39:52.541968"
+    },
+    "score": 1,
+    "reason": "Data/AI Engineer building data intelligence pipelines. Core data science/ML role requiring pipeline design and ML model work. Not about adoption or enabling teams.",
+    "embed_sim": 0.3501618802547455,
+    "ai_native_score": 0.6085209846496582
+  },
+  {
+    "job": {
+      "id": "a77f144efc3df74c4d7343bb05150b18",
+      "title": "ML Ops/AI engineer in Eindhoven bij Itility | Magnet.me | #1038890 (nl)",
+      "company": "Itility",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1038890/ml-ops-ai-engineer",
+      "snippet": "14 uur geleden \u00b7 Minimaal 3-5 jaar ervaring met ML/AI modellen in productieomgevingen. Ervaring met ML Ops tooling: CI/CD voor modellen, deployment ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-27T09:39:52.541981"
+    },
+    "score": 1,
+    "reason": "MLOps/AI engineer in Eindhoven requiring 3-5 years ML/AI production experience, CI/CD for models, deployment pipelines. Wrong location (Eindhoven), wrong skillset (MLOps), not adoption-focused.",
+    "embed_sim": 0.28353211283683777,
+    "ai_native_score": 0.47759199142456055
+  },
+  {
+    "job": {
+      "id": "89a0cc2021741f961bb787042f8ca06e",
+      "title": "AI\u4f53\u80b2\u7f51\u7ad9\u300b\u5b98\u7f51\uff1ahtk55.c0m\u2014\u4fe1\u8a89\u5e73\u53f0\uff1aPC77.VIP\u300a.nwv - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/AI\u4f53\u80b2\u7f51\u7ad9\u300b\u5b98\u7f51\uff1ahtk55.c0m\u2014\u4fe1\u8a89\u5e73\u53f0\uff1aPC77.VIP\u300a.nwv-jobs",
+      "snippet": "AI Engineer \u00b7 Android Developer \u00b7 Fullstack Web3 Senior Developer \u00b7 Management Traineeship - Marketing \u00b7 Robotics ML Expert \u2014 MuJoCo & RL Training \u00b7 Software ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-27T09:39:58.173276"
+    },
+    "score": 0,
+    "reason": "Spam/scam listing with suspicious domain and mixed unrelated job titles. Not a legitimate job posting.",
+    "embed_sim": 0.3710508942604065,
+    "ai_native_score": 0.6757356524467468
+  },
+  {
+    "job": {
+      "id": "f2f673770ba7b12b563d39584c68caf2",
+      "title": "Learning Specialist - Tech & AI in Amsterdam bij McKinsey & Company",
+      "company": "Mckinsey & Company",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1026843/learning-specialist---tech---ai",
+      "snippet": "1 mei 2026 \u00b7 Learning Specialist - Tech & AI. Baan \u2022 Amsterdam, NL. Geplaatst 1 mei 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 3 tot 6 jaar. Full- ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-27T09:40:01.599639"
+    },
+    "score": 5,
+    "reason": "Learning Specialist role at McKinsey with Tech & AI focus. Could involve training/enablement but unclear if it's about developer productivity & AI tool adoption or generic tech training. McKinsey is consulting-aligned (acceptable) but role details suggest broader L&D vs. specific AI adoption focus.",
+    "embed_sim": 0.3809906542301178,
+    "ai_native_score": 0.613798201084137
+  },
+  {
+    "job": {
+      "id": "fd5fcf4ccde9f3c4541a1ce41960b8bb",
+      "title": "25+ vacatures voor Gpt Ai en werk: 31 oktober 2025| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-gpt-ai-vacatures.html",
+      "snippet": "\u00b7 Alle vacatures voor Constructor ... Project Manager salarissen in Amsterdam \u00b7 We are seeking an experienced Data Science / Machine Learning Engineering Lead to join our team and drive the development of advanced ML/AI capabilities....",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-27T09:40:18.327032"
+    },
+    "score": 0,
+    "reason": "Search results aggregator page, not a real job listing. Cannot evaluate. Contains snippet mentioning ML/AI capabilities lead but no actual job details.",
+    "embed_sim": 0.20595867931842804,
+    "ai_native_score": 0.5424972772598267
+  },
+  {
+    "job": {
+      "id": "c698d0590cf8c1d08b8c07b725b59b14",
+      "title": "AI & Digital Enablement Specialist - Orffa Additives BV - YER",
+      "company": "YER",
+      "location": "",
+      "url": "https://www.yer.nl/vacatures/v-20059908-ai-digital-enablement-specialist/",
+      "snippet": "Solliciteer nu als AI & Digital Enablement Specialist. Orffa Additives BV zoekt een nieuwe werknemer. Bekijk direct de vacature.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-27T09:40:22.780328"
+    },
+    "score": 6,
+    "reason": "AI & Digital Enablement Specialist title matches core intent. Enablement focus aligns with adoption/coaching. However, limited detail available about actual responsibilities, location unknown (not clearly Utrecht region), and company context (Orffa Additives - animal feed additives) suggests general digital transformation vs. developer-focused AI tool adoption.",
+    "embed_sim": 0.2936076819896698,
+    "ai_native_score": 0.7232745289802551
+  },
+  {
+    "job": {
+      "id": "aace339efada7283b4e1346c8299641b",
+      "title": "Vacatures voor Benefits specialist in Netherlands, Mei 2023 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-benefits-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+      "snippet": "Leads a series of customer and downstream sales activities including prelaunch preparation, launch and ramp readiness, partner enablement, development and\u2026\u2026 AkzoNobel-logo 3.9.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:26.993201"
+    },
+    "score": 0,
+    "reason": "Generic search results page for 'Benefits Specialist' roles from 2023. Not AI-related, not a real job listing, too old.",
+    "embed_sim": 0.08269329369068146,
+    "ai_native_score": 0.4273371398448944
+  },
+  {
+    "job": {
+      "id": "71c61bcccb78ccf9fe76d5dd1a159ded",
+      "title": "1.330 vacatures voor Program manager in Netherlands... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-program-manager-vacatures-SRCH_IL.0,11_IN178_KO12,27.htm",
+      "snippet": "1330 vacatures voor een program manager in Nederland.3D Artist, 3D Modeling, oracle dba, Sound Engineer, Document Controller, Event Coordinator, Group Financial Controller, Machine Learning, Quantitative Analyst, Treasury.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:26.993214"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not an actual job posting. No specific role, company, or details available.",
+    "embed_sim": 0.18056252598762512,
+    "ai_native_score": 0.5361031889915466
+  },
+  {
+    "job": {
+      "id": "c3a2384aecf4fef7e4d278b106bcccc5",
+      "title": "109 vacatures voor junior ai engineer in Nederland - Glassdoor",
+      "company": "",
+      "location": "Nieuwegein",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-junior-ai-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,28.htm",
+      "snippet": "109 vacature(s) voor Junior ai engineer in Nederland ; Logo van GTE. GTE \u00b7 Junior AI Engineer. Nieuwegein. \u20ac 3.000 - \u20ac 5.000 (opgegeven door werkgever).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:39.380122"
+    },
+    "score": 0,
+    "reason": "Junior AI Engineer role. Candidate explicitly excludes junior/intern positions and requires senior level.",
+    "embed_sim": 0.23526492714881897,
+    "ai_native_score": 0.7031055092811584
+  },
+  {
+    "job": {
+      "id": "2b7aae49ba49e4a028c49dd0662706b7",
+      "title": "1.522 vacatures voor Stone Mountain, GA - thuiswerk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/stone-mountain-ga-senior-product-development-engineer-vacatures-SRCH_IL.0,17_IC1155693_KW18,53.htm",
+      "snippet": "3,9. AI Research Engineer. Atlanta, GA. US$ 99K - US$ 139K (Schat. van Glassdoor). As an AI Research Engineer ... Vacatures voor software development engineer in ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:39.380135"
+    },
+    "score": 0,
+    "reason": "US-based role (Stone Mountain, GA / Atlanta). Candidate requires Utrecht area (Netherlands) or remote.",
+    "embed_sim": 0.20586127042770386,
+    "ai_native_score": 0.5126354098320007
+  },
+  {
+    "job": {
+      "id": "1ec7d3c34ba92913154450327bc6ca33",
+      "title": "100+ vacatures voor Adoptie Specialist en werk: 9 april 2026| Indeed",
+      "company": "",
+      "location": "Bunnik",
+      "url": "https://nl.indeed.com/m/jobs?q=Adoptie+Specialist",
+      "snippet": "Alle vacatures voor XTRM development - Bunnik vacatures - vacatures voor Specialist (m/v) in Bunnik bekijken \u00b7 Zoeken op salaris: ADOPTIE SPECIALIST salarissen in Bunnik \u00b7 Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-27T09:40:44.566479"
+    },
+    "score": 7,
+    "reason": "AI Specialist & Trainer role focused on AI adoption within organization. Located in Bunnik (near Utrecht, within 40km). Strong match for champion/adoption focus, though listing is vague and needs verification it's not closed.",
+    "embed_sim": 0.15036410093307495,
+    "ai_native_score": 0.5321108102798462
+  },
+  {
+    "job": {
+      "id": "b82621cdea8af1071fdda3721f45356a",
+      "title": "1.243 vacatures voor Londen, Engeland - thuiswerk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/londen-engeland-ai-engineer-vacatures-SRCH_IL.0,15_IC2671300_KW16,27.htm",
+      "snippet": "Zoek thuiswerk vacatures in Londen, Engeland. Vind de juiste thuiswerk vacature in Londen, Engeland met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:48.123198"
+    },
+    "score": 0,
+    "reason": "London-based role. Candidate requires Utrecht area or remote.",
+    "embed_sim": 0.018671847879886627,
+    "ai_native_score": 0.5016778707504272
+  },
+  {
+    "job": {
+      "id": "0b9d2a31cde5dd3f4617f9a693228ac1",
+      "title": "59.299 vacatures voor other in Des Moines, WA - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/des-moines-other-vacatures-SRCH_IL.0,10_IC1164744_KO11,16.htm",
+      "snippet": "Zoek vacatures voor Other in Des Moines, WA met bedrijfsreviews en salarissen. 59.299 vacatures voor Other in Des Moines.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:48.123224"
+    },
+    "score": 0,
+    "reason": "US-based (Des Moines, WA) generic job listing page. Not relevant by location or content.",
+    "embed_sim": 0.023884892463684082,
+    "ai_native_score": 0.4480039179325104
+  },
+  {
+    "job": {
+      "id": "3f37175c7eb9808585b86d5b0213b00b",
+      "title": "106 vacatures voor head of analytics in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-head-of-analytics-vacatures-SRCH_IL.0,9_IC3064478_KO10,27.htm",
+      "snippet": "Zoek vacatures voor Head of analytics in Amsterdam met bedrijfsreviews en salarissen. 106 vacatures voor Head of analytics in Amsterdam.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-27T09:40:48.123234"
+    },
+    "score": 0,
+    "reason": "Generic listing aggregator page for Head of Analytics in Amsterdam. No actual job posting details; appears to be search results page.",
+    "embed_sim": 0.1567205786705017,
+    "ai_native_score": 0.4769173860549927
+  },
+  {
+    "job": {
+      "id": "5b158b60b895b95b9c7d5c34958e364f",
+      "title": "Landal zoekt een Product data specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/product-data-specialist-at-landal-4414660119",
+      "snippet": "May 14, 2026 \u00b7 You take initiative, spot opportunities for improvement, and help implement smarter (automated) ways of working You have an affinity with automation and AI, and know how these can support scalable solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-27T09:40:59.184143"
+    },
+    "score": 2,
+    "reason": "Product data specialist role with some automation/AI affinity mentioned, but primary focus is data/analytics, not developer tool adoption. No clear AI tooling/SDLC enablement focus.",
+    "embed_sim": 0.3014529049396515,
+    "ai_native_score": 0.3590829074382782
+  },
+  {
+    "job": {
+      "id": "f6f0551be6ca037cbb1fc0075de6c86b",
+      "title": "Accenture the Netherlands zoekt een Data Science and Machine ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-and-machine-learning-engineering-analyst-at-accenture-the-netherlands-4405954836",
+      "snippet": "Do you enjoy working at the forefront of the latest Advanced AI developments and applying them directly to create tangible client value? If so, we invite you to explore the role of a Data...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-27T09:40:59.184170"
+    },
+    "score": 1,
+    "reason": "Data Science and Machine Learning Engineering role at Accenture. Requires ML/advanced AI development expertise. Candidate explicitly excludes pure ML/data science roles.",
+    "embed_sim": 0.32714706659317017,
+    "ai_native_score": 0.5430927872657776
+  },
+  {
+    "job": {
+      "id": "390ea0afd99f5640d51998e1b0136004",
+      "title": "Rabobank zoekt een Senior Data Scientist \u2013 Business Lending ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-\u2013-business-lending-at-rabobank-4417329732",
+      "snippet": "May 20, 2026 \u00b7 Your work directly supports a robust, fair, and future\u2011proof credit value chain for thousands of companies in the Netherlands. You & your role As a Senior Data Scientist \u2013 Business Lending, you will strengthen our advanced analytics and AI capabilities within Business Lending.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-27T09:40:59.184188"
+    },
+    "score": 0,
+    "reason": "Senior Data Scientist role at Rabobank. Pure data science/advanced analytics position. Candidate does not want ML/data science roles requiring specialized data science background.",
+    "embed_sim": 0.20810481905937195,
+    "ai_native_score": 0.3706829249858856
   }
 ]
