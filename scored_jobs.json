@@ -7438,5 +7438,373 @@
     "reason": "Senior Data Scientist role at Rabobank. Pure data science/advanced analytics position. Candidate does not want ML/data science roles requiring specialized data science background.",
     "embed_sim": 0.20810481905937195,
     "ai_native_score": 0.3706829249858856
+  },
+  {
+    "job": {
+      "id": "785567506ac39ee7d10d66ceb7b05780",
+      "title": "Vacatures voor Phd In Artificial Intelligence ... in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/phd-in-artificial-intelligence-...-jobs",
+      "snippet": "Topvacatures voor Phd In Artificial Intelligence ... in Nederland vandaag. Benut uw professionele netwerk en vind een baan.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-28T09:56:41.508700"
+    },
+    "score": 0,
+    "reason": "PhD in Artificial Intelligence position \u2014 academic research focus, requires doctoral degree, explicitly mismatches candidate profile",
+    "embed_sim": 0.3074844479560852,
+    "ai_native_score": 0.6911059617996216
+  },
+  {
+    "job": {
+      "id": "79cc0730bc7f8696570bd263af542d5a",
+      "title": "910 vacatures voor Ai Engineer in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ai-engineer-jobs",
+      "snippet": "910 Ai Engineer vacatures in Nederland \u00b7 Artificial Intelligence Engineer \u00b7 Artificial Intelligence Engineer \u00b7 Machine Learning Engineer \u00b7 Machine Learning Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:56:45.436105"
+    },
+    "score": 0,
+    "reason": "Generic LinkedIn search results page, not a specific job listing \u2014 cannot evaluate",
+    "embed_sim": 0.34216803312301636,
+    "ai_native_score": 0.6966532468795776
+  },
+  {
+    "job": {
+      "id": "a975659f7558a80836d9236a6c08b257",
+      "title": "Hire Feed zoekt een Agentic AI Engineer in Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/agentic-ai-engineer-at-joveo-ai-4405634217?position=24",
+      "snippet": "Agentic AI Engineer ; Senioriteitsniveau. Niet van toepassing ; Soort baan. Fulltime ; Functie. Techniek ; Bedrijfstakken. Softwareontwikkeling.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:56:45.436118"
+    },
+    "score": 2,
+    "reason": "Agentic AI Engineer role likely focused on building/training AI agents rather than enabling teams to adopt AI tools; no detail available but title suggests ML engineering focus",
+    "embed_sim": 0.4544205963611603,
+    "ai_native_score": 0.7655985355377197
+  },
+  {
+    "job": {
+      "id": "90ac1eefc94e1d3f153918c58e8f5e40",
+      "title": "iO zoekt een Lead AI Engineer in Eindhoven - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/lead-ai-engineer-at-io-4393501947",
+      "snippet": "Op AWS, Azure \u00e9n Google Cloud. Als Lead AI Engineer ben je de technische motor \u00e9n het gezicht naar de klant. Je werkt zo'n drie dagen per week aan het bouwen ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:56:45.436130"
+    },
+    "score": 1,
+    "reason": "Lead AI Engineer in Eindhoven building cloud solutions \u2014 wrong location (90km from Utrecht), likely requires ML expertise, building AI products not enabling adoption",
+    "embed_sim": 0.2915761172771454,
+    "ai_native_score": 0.6463642716407776
+  },
+  {
+    "job": {
+      "id": "9ba76d1d18e3f110eca0d9e884f0362f",
+      "title": "Zeno zoekt een AI Engineer (Product-focused) in Rotterdam",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-product-focused-at-zeno-4368769066",
+      "snippet": "AI Engineer (Product-focused) \u00b7 Senioriteitsniveau. Senior medewerker \u00b7 Soort baan. Fulltime \u00b7 Functie. Techniek en Informatietechniek \u00b7 Bedrijfstakken.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:56:45.436142"
+    },
+    "score": 2,
+    "reason": "AI Engineer (Product-focused) in Rotterdam \u2014 product development orientation suggests building AI systems rather than championing adoption; wrong location",
+    "embed_sim": 0.33300143480300903,
+    "ai_native_score": 0.6144680380821228
+  },
+  {
+    "job": {
+      "id": "941f9e8446c0b45b24b039145b83dfe6",
+      "title": "Manager Cloud & AI Platforms - ADC Consulting - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/manager-cloud-ai-platforms-at-adc-consulting-4406278848",
+      "snippet": "What unites us is a shared way of working: breaking down complex challenges to change how organisations operate. 5+ years of experience in Data and Cloud ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:56:51.166318"
+    },
+    "score": 3,
+    "reason": "Manager Cloud & AI Platforms requires 5+ years data/cloud experience \u2014 likely data science/MLOps background required; role title suggests platform work but description indicates data infrastructure focus",
+    "embed_sim": 0.411834716796875,
+    "ai_native_score": 0.46803632378578186
+  },
+  {
+    "job": {
+      "id": "e1c670e506426e0e1dd57b23852a75b3",
+      "title": "1 integration engineer vacatures bij ProRail | 24 mei 2026",
+      "company": "Prorail",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/integration-engineer/bij-prorail",
+      "snippet": "4 dagen geleden \u00b7 Solliciteer v\u00f3\u00f3r 27 mei 2026. Naar Inktpot, Moreelsepark 3, Utrecht, Nederland. Draag bij aan veilig spoorvervoer door datakwaliteit ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-28T09:57:00.570267"
+    },
+    "score": 0,
+    "reason": "Integration Engineer at ProRail focused on data quality/railway operations \u2014 unrelated to AI tool adoption or software development practices",
+    "embed_sim": 0.17434349656105042,
+    "ai_native_score": 0.5940263271331787
+  },
+  {
+    "job": {
+      "id": "7b7901f5284b624164b516d31ee5312a",
+      "title": "36 vacatures voor integration engineer in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-integration-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,30.htm",
+      "snippet": "Zoek vacatures voor Integration engineer in Amsterdam met bedrijfsreviews en salarissen. 36 vacatures voor Integration engineer in Amsterdam.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-28T09:57:00.570276"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Integration Engineer roles \u2014 not a specific job listing; cannot evaluate",
+    "embed_sim": 0.23722060024738312,
+    "ai_native_score": 0.5667800903320312
+  },
+  {
+    "job": {
+      "id": "2c3304ca685dc95c2a8812223f32985b",
+      "title": "Ori\u00ebntaals Restaurant Juliana Utrecht zoekt... | Kokswereld",
+      "company": "Kokswereld",
+      "location": "Utrecht",
+      "url": "https://www.kokswereld.nl/vacatures/orientaals-restaurant-juliana-utrecht-zoekt-4x-zelfstandig-werkend-kok-i/",
+      "snippet": "Terug naar vacature overzicht. Toegevoegd op21 mei 2026. LocatieUtrecht. Type organisatieRestaurant. DienstverbandFulltime. Contactinformatie. Ori\u00ebntaals Restaurant Juliana Utrecht. t.a.v. Dhr. F. Lin. Amsterdamsestraatweg 464.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-28T09:57:05.050199"
+    },
+    "score": 0,
+    "reason": "Restaurant cook position \u2014 completely unrelated domain",
+    "embed_sim": -0.05035858601331711,
+    "ai_native_score": 0.5320291519165039
+  },
+  {
+    "job": {
+      "id": "bd76016827939eaa3a2a7e88a730ec47",
+      "title": "Commercial Data & AI Lead - Schuberg Philis - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1035491/commercial-data---ai-lead",
+      "snippet": "6 dagen geleden \u00b7 Provide trusted advisory on deal structure, scoping, and pricing aligned with our strategic focus on standardized data and AI services adoption.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:11.124989"
+    },
+    "score": 4,
+    "reason": "Commercial Data & AI Lead with advisory focus on data/AI services adoption has some conceptual alignment with championing AI, but 'data' emphasis suggests data engineering/science background required; location unknown; commercial/sales-heavy framing",
+    "embed_sim": 0.2574116587638855,
+    "ai_native_score": 0.4944790005683899
+  },
+  {
+    "job": {
+      "id": "b8a1939bfb4c86fce4cfc98d1b63f1f7",
+      "title": "AI Enterprise Architect - Artificial Intelligence Office - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027208/ai-enterprise-architect---artificial-intelligence-office",
+      "snippet": "4 mei 2026 \u00b7 Develop and maintain a strategic roadmap for AI adoption across the ECB's business areas, ensuring alignment with strategic objectives, and ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:11.125001"
+    },
+    "score": 6,
+    "reason": "AI adoption strategic roadmap aligns with candidate's goals, but ECB location unknown (likely Brussels), enterprise architect title suggests C-level strategy vs. hands-on technical enablement. Right concept, questionable location fit.",
+    "embed_sim": 0.44123420119285583,
+    "ai_native_score": 0.634212851524353
+  },
+  {
+    "job": {
+      "id": "b33fa349435606500f95ce3954d0f1d6",
+      "title": "Supply Chain Systems Specialist Northern-Europe - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1007619/supply-chain-systems-specialist-northern-europe",
+      "snippet": "13 mrt 2026 \u00b7 ... AI adoption within the team. Qualifications. Working at JDE Peet's is hands-on, giving you the chance to leave your mark while working ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:11.125026"
+    },
+    "score": 2,
+    "reason": "Supply chain systems role with minor AI adoption mention is not a match. Wrong domain (supply chain), not about enabling dev teams to use AI tools.",
+    "embed_sim": 0.2571460008621216,
+    "ai_native_score": 0.5835540890693665
+  },
+  {
+    "job": {
+      "id": "82a8fdad146eedfb47d3b1c8e1c81695",
+      "title": "IT internships in the Netherlands | HBO & WO | Magnet.me (en)",
+      "company": "HBO & WO",
+      "location": "",
+      "url": "https://magnet.me/en/internships/netherlands/it",
+      "snippet": "Onderzoeksopdracht AI Engineer \u2013 Content Generatie App voor hbo-/wo-studenten.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:15.417756"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate requires senior-level role, not trainee/intern.",
+    "embed_sim": 0.3321291506290436,
+    "ai_native_score": 0.6217544078826904
+  },
+  {
+    "job": {
+      "id": "cf1498b5ac46008ef5af2b7020e7acd0",
+      "title": "Sales Support in Utrecht bij Conclusion | Magnet.me | #875951 (nl)",
+      "company": "Conclusion",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/875951/sales-support",
+      "snippet": "Een laptop en telefoon voor je dagelijkse werkzaamheden inclusief allerlei soorten Conclusion Enablement merchandise; Je komt te werken bij een Microsoft Solutions Cloud Partner, inclusief specialisaties in Modern Work, Azure, Security, Data & AI, Digital & App Innovation, Business Applications, Workspace en Security en AWS Advanced Consulting Partner;",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:19.161944"
+    },
+    "score": 1,
+    "reason": "Sales support role at consulting firm. Not a technical role focused on AI adoption in development teams. Wrong function entirely.",
+    "embed_sim": 0.16226381063461304,
+    "ai_native_score": 0.3789936602115631
+  },
+  {
+    "job": {
+      "id": "8130c7c351ae807a13ff62c892a82e05",
+      "title": "Agentic AI Engineer in Utrecht bij Rabobank | Magnet.me | #993074 (nl)",
+      "company": "Rabobank",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/993074/agentic-ai-engineer",
+      "snippet": "Design advanced Copilot Studio agents that power secure, scalable and automated customer journeys. In this role, you lead engineering decisions, guide colleagues and elevate the quality of Rabobank\u2019s conversational AI landscape. As an Agentic AI Engineer, you translate complex requirements into seamless AI\u2011driven customer experiences.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:19.161964"
+    },
+    "score": 4,
+    "reason": "Agentic AI Engineer in Utrecht designing Copilot Studio agents. Relevant location and some AI tooling overlap, but the role appears focused on building/designing conversational AI agents rather than championing adoption across dev teams. More product engineering than enablement/coaching.",
+    "embed_sim": 0.42917364835739136,
+    "ai_native_score": 0.7212017774581909
+  },
+  {
+    "job": {
+      "id": "05e97db36f17a4b72532ea81d433ef6e",
+      "title": "NanoString Technologies, Inc. zoekt een Field Application Scientist in Amsterdam, Noord-Holland, Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/field-application-scientist-at-nanostring-technologies-inc-2654199840",
+      "snippet": "Conduct data analysis sessions and/or point to resources to enable regional customers to accelerate full adoption of technologies providing on-site troubleshooting as needed",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-28T09:57:22.883835"
+    },
+    "score": 1,
+    "reason": "Field Application Scientist at biotech company. Wrong domain (genomics/lab technology), not software development or AI tooling adoption.",
+    "embed_sim": 0.2328588366508484,
+    "ai_native_score": 0.4811067283153534
+  },
+  {
+    "job": {
+      "id": "e3de037b22a2f72b37c168fd84c33e19",
+      "title": "Vacatures voor Principal software engineer | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/principal-software-engineer-jobs-SRCH_KO0,27.htm",
+      "snippet": "Zoek de juiste vacature voor Principal software engineer met bedrijfsreviews en salarissen.As a Principal Engineer, you will drive the architecture, coach juniors, and be a contact person for the business and customers. 8+ years experience with Java",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-28T09:57:40.026828"
+    },
+    "score": 1,
+    "reason": "Generic Principal Software Engineer job listing (Glassdoor search results page). Requires 8+ years Java experience. Not AI-focused, wrong tech stack match.",
+    "embed_sim": 0.35638734698295593,
+    "ai_native_score": 0.7183021903038025
+  },
+  {
+    "job": {
+      "id": "38e2c6621377fb3498fa340662c0c5c2",
+      "title": "Vacatures voor Research engineer | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/research-engineer-jobs-SRCH_KO0,17.htm",
+      "snippet": "Zoek de juiste vacature voor Research engineer met bedrijfsreviews en salarissen.As Research Engineer you will be responsible for the necessary applied research, specification, implementation, documentation, verification, and validation of\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-28T09:57:40.026845"
+    },
+    "score": 1,
+    "reason": "Generic Research Engineer job listing (Glassdoor search results page). Applied research focus, not AI adoption enablement for dev teams.",
+    "embed_sim": 0.27899160981178284,
+    "ai_native_score": 0.6049402952194214
+  },
+  {
+    "job": {
+      "id": "c87a907cc6fc37351705488bb3c2f461",
+      "title": "Vacatures voor Analytics in Dubai | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/dubai-analytics-jobs-SRCH_IL.0,5_IM954_KO6,15.htm",
+      "snippet": "Build analytics tools that utilise the data pipeline to provide actionable insights. Own large initiatives end to end - ensure their success by defining the\u2026\u2026 Waarnaar moet ik zoeken op Glassdoor als ik wil zoeken naar vacatures voor een Analytics in...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-28T09:57:40.026859"
+    },
+    "score": 0,
+    "reason": "Analytics role in Dubai. Wrong location (far from Utrecht), wrong domain (data analytics), not about AI tool adoption in dev teams.",
+    "embed_sim": 0.13191185891628265,
+    "ai_native_score": 0.4174736738204956
+  },
+  {
+    "job": {
+      "id": "455009bf4730be9e539ca3fc3f8a0de5",
+      "title": "Vacatures voor Software architect in Sjanghai | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/shanghai-software-architect-vacatures-SRCH_IL.0,8_IC2416009_KO9,27.htm",
+      "snippet": "Our developers and software engineers work in all software layers, across multiple operating systems and platforms to enable cutting-edge solutions.\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-05-28T09:57:40.026872"
+    },
+    "score": 0,
+    "reason": "Software Architect role in Shanghai. Wrong location entirely (far from Utrecht), generic role description with no AI focus.",
+    "embed_sim": 0.2325873076915741,
+    "ai_native_score": 0.4591864347457886
+  },
+  {
+    "job": {
+      "id": "e794c71aaf8fb775d4eb9c0d8da25e0a",
+      "title": "Agentic AI Engineer in Utrecht at Capgemini | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1033555/agentic-ai-engineer",
+      "snippet": "7 dagen geleden \u00b7 Agentic AI Engineer ; Work experience. 3 to 8 years ; Full-time / part-time. Full-time ; Job function. IT ; Degree level. HBO or WO ; Required ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:57.158647"
+    },
+    "score": 6,
+    "reason": "Agentic AI Engineer role in Utrecht matches location and AI focus, but 'agentic' typically implies building AI agents/systems rather than enabling team adoption. Lacks clarity on whether this is about internal tooling/adoption vs. product development. Requires more investigation\u2014could be 5-7 depending on actual responsibilities.",
+    "embed_sim": 0.36732980608940125,
+    "ai_native_score": 0.7315710783004761
+  },
+  {
+    "job": {
+      "id": "d812be115ee59e1dc258aaf4b040282a",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer) bij Databricks | Magnet.me",
+      "company": "Databricks",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1037016/ai-engineer---fde--forward-deployed-engineer-",
+      "snippet": "4 dagen geleden \u00b7 Experience building production-grade machine learning deployments on AWS, Azure, or GCP; Graduate degree in a quantitative discipline (Computer ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-28T09:57:57.158711"
+    },
+    "score": 1,
+    "reason": "Databricks FDE role explicitly requires production ML deployments, AWS/Azure/GCP experience, and graduate degree in quantitative discipline. This is pure ML engineering\u2014exactly what the candidate explicitly does NOT want. No match.",
+    "embed_sim": 0.36723339557647705,
+    "ai_native_score": 0.4521940350532532
+  },
+  {
+    "job": {
+      "id": "95a139a7c40307cbad4c9b037265148d",
+      "title": "25+ vacatures voor React Developer en werk in Amsterdam Oost...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/React-Developer-vacatures-in-Amsterdam-Oost",
+      "snippet": "We are seeking an experienced React Native Developer to design, build, and maintain high-performance, reusable, and reliable code for mobile applications.At least 2 years of professional experience as a developer working in an agile product development environment.",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-28T09:58:02.505404"
+    },
+    "score": 0,
+    "reason": "React Native mobile developer role. Completely unrelated to AI adoption, enablement, or tooling. Wrong domain entirely.",
+    "embed_sim": 0.25926509499549866,
+    "ai_native_score": 0.48899754881858826
   }
 ]
