@@ -8078,5 +8078,261 @@
     "reason": "Spam/scam job listing page with corrupted Chinese characters and suspicious URL (HQ40.COM). Not a legitimate job board. Multiple red flags indicate this is not a genuine recruitment listing.",
     "embed_sim": 0.3476947546005249,
     "ai_native_score": 0.7150500416755676
+  },
+  {
+    "job": {
+      "id": "b6b9e34d5eed5a516913cbe0596dae58",
+      "title": "Vacature AI Engineer - Innovation | Utrecht | IF Solutions - Werkzoeken.nl",
+      "company": "Utrecht",
+      "location": "Utrecht",
+      "url": "https://www.werkzoeken.nl/vacature/15780137-ai-engineer-innovation/",
+      "snippet": "1 dag geleden \u00b7 Vacature AI Engineer - Innovation | Utrecht | IF Solutions op Werkzoeken.nl. Are you passionate about shaping the future of AI in banking..",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-30T08:24:54.762783"
+    },
+    "score": 7,
+    "reason": "AI Engineer role in Utrecht at IF Solutions (banking sector). Right location and industry match. Title suggests innovation focus which could align with AI adoption/tooling, but snippet lacks detail on whether it's ML-focused or adoption-focused. Senior level likely. Needs verification of actual job description.",
+    "embed_sim": 0.23978771269321442,
+    "ai_native_score": 0.6787426471710205
+  },
+  {
+    "job": {
+      "id": "89e14484012c7b30d62c4a8dbebfce1b",
+      "title": "bol zoekt een Internship AI Innovation & Creative Technology in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/internship-ai-innovation-creative-technology-at-bol-4419803349",
+      "snippet": "AI Intern 2026. Arango. Est 2 weken geleden. Traineeship Digital & Data \u2013 Generatieve AI. Traineeship Digital & Data \u2013 Generatieve AI. Berenschot. Utrecht, ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-30T08:24:54.762824"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate explicitly excludes junior/intern/traineeship roles. Not a match regardless of content.",
+    "embed_sim": 0.36267155408859253,
+    "ai_native_score": 0.6542474031448364
+  },
+  {
+    "job": {
+      "id": "d6d10c098a1aa9d80fa12b751ffd2bc2",
+      "title": "1.140 vacatures voor ai compliance in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-compliance-vacatures-SRCH_IL.0,11_IN178_KO12,25.htm",
+      "snippet": "Zoek vacatures voor Ai compliance in Nederland met bedrijfsreviews en salarissen. 1.140 vacatures voor Ai compliance in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-30T08:24:54.762836"
+    },
+    "score": 0,
+    "reason": "Listing is a search results page, not an actual job posting. No specific role to evaluate. Cannot assess relevance.",
+    "embed_sim": 0.13365724682807922,
+    "ai_native_score": 0.6377207040786743
+  },
+  {
+    "job": {
+      "id": "7e933b2070956c9357a06baa838cc649",
+      "title": "Alle fulltime vacatures in AI - Pagina 4 van 5 - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/category/fulltime/page/4/",
+      "snippet": "Manager Artificial Intelligence & Automation \u2013 Deloitte Vacature: Deloitte in Amsterdam zoekt een Manager Artificial Intelligence & Automation \u2013 public sector voor 32 tot 40 uur per week | Fulltime of Parttime.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-05-30T08:25:03.209343"
+    },
+    "score": 0,
+    "reason": "Listing is a search results aggregation page showing multiple roles. Not a specific job posting. Cannot evaluate individual role fit.",
+    "embed_sim": 0.36062291264533997,
+    "ai_native_score": 0.6042491793632507
+  },
+  {
+    "job": {
+      "id": "ca87bc5a28e418ddb5dfd288970e4a37",
+      "title": "AI Specialist in Amersfoort bij KPN | Magnet.me | #903528 (nl)",
+      "company": "Kpn",
+      "location": "",
+      "url": "https://www.magnet.me/nl-NL/vacature/903528/ai-specialist",
+      "snippet": "Als AI Specialist geef jij richting aan hoe FAN artificial intelligence inzet om waarde uit data te halen. Je ontwikkelt, test en implementeert voorspellende modellen die bijdragen aan betere besluitvorming, effici\u00ebntere processen en een proactieve\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-30T08:25:07.167308"
+    },
+    "score": 2,
+    "reason": "AI Specialist at KPN in Amersfoort (acceptable location, within 40km of Utrecht). However, focus is on developing/testing/implementing predictive models - this is ML/data science work, not AI tool adoption/enablement. Wrong domain despite good location.",
+    "embed_sim": 0.3291272222995758,
+    "ai_native_score": 0.6047567129135132
+  },
+  {
+    "job": {
+      "id": "a5dd54523e9ee785bf40850bfa2a1756",
+      "title": "Vacatures voor Experience Designer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/experience-designer-jobs?position=1&pageNum=0",
+      "snippet": "Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Experience Designer toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:25:32.386003"
+    },
+    "score": 0,
+    "reason": "Experience Designer search results page. Not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.22662848234176636,
+    "ai_native_score": 0.681738018989563
+  },
+  {
+    "job": {
+      "id": "e7ee498b28bb4680d342d1e4bb5f1cbb",
+      "title": "Meer dan 173.000 vacatures voor Data Analist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/data-analist-jobs?position=1&pageNum=0",
+      "snippet": "Power BI Developer / Data Visualization Specialist. Jobgether. Brabantse Stedenrij en omgeving 13 uur geleden.Fox global assets ltd. Nederland 13 uur geleden. AI/ML Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:25:32.386032"
+    },
+    "score": 0,
+    "reason": "Data Analyst search results aggregation page. Not a specific job posting. Cannot assess match.",
+    "embed_sim": 0.2361716628074646,
+    "ai_native_score": 0.4690936207771301
+  },
+  {
+    "job": {
+      "id": "404eb36ef4083999b83bc665542fd343",
+      "title": "69 vacatures voor Mulesoft in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/mulesoft-jobs",
+      "snippet": "Mulesoft Developer. Medido - merk van Evondos Group. Zoetermeer 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:25:32.386050"
+    },
+    "score": 0,
+    "reason": "Mulesoft search results page. Not a specific job posting. Unrelated to AI tool adoption/enablement.",
+    "embed_sim": 0.10162446647882462,
+    "ai_native_score": 0.46653956174850464
+  },
+  {
+    "job": {
+      "id": "39b401e737a9aff3972e27b57cb32f55",
+      "title": "168 vacatures voor Commercieel Directeur in Nederland",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/commercieel-directeur-jobs?position=1&pageNum=0",
+      "snippet": "Runnr.ai. Utrecht 4 weken geleden. Directeur Detachering.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:25:49.134023"
+    },
+    "score": 0,
+    "reason": "Commercial Director search results page. Not a specific job posting. Wrong domain entirely (sales/business vs. technical AI adoption).",
+    "embed_sim": 0.01578224077820778,
+    "ai_native_score": 0.5976446866989136
+  },
+  {
+    "job": {
+      "id": "9121dd174d887c7dddd65b933c0054d9",
+      "title": "4.000+ vacatures voor Artificial Intelligence Communicatie en werk: 23 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-communicatie-vacatures.html",
+      "snippet": "Zoeken op salaris: AI Consultant salarissen in Nederland \u00b7 Zie veelgestelde vragen en antwoorden over Team Rockstars IT \u00b7 Bonne ma\u00eetrise des outils d\u2019intelligence artificielle (ChatGPT, Copilot, Claude, NotebookLM, etc.). Bonne ma\u00eetrise des outils d\u2019intelligence artificielle (\u2026 \u00b7 Toon alle vacatures voor Collective.work - Vacatures in Paris",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-30T08:26:03.014004"
+    },
+    "score": 0,
+    "reason": "Artificial Intelligence search results aggregation page showing generic AI roles. Not a specific job posting. Cannot evaluate individual fit.",
+    "embed_sim": 0.3222319185733795,
+    "ai_native_score": 0.7145922183990479
+  },
+  {
+    "job": {
+      "id": "49d6e6d176daf93f8f59df337c0d2994",
+      "title": "Internal AI Product Engineer - Jobgether - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internal-ai-product-engineer-at-jobgether-4417049893",
+      "snippet": "22 mei 2026 \u00b7 Internal AI Product Engineer ... Support adoption and enablement of AI tools through demonstrations, integrations, and continuous improvements.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:26:06.672908"
+    },
+    "score": 7,
+    "reason": "Strong match: Internal AI Product Engineer role focused on 'adoption and enablement of AI tools through demonstrations, integrations'. Matches core mission. Location/company details unclear but aligns with candidate's goal. Missing concrete seniority/location confirmation.",
+    "embed_sim": 0.544598400592804,
+    "ai_native_score": 0.675159215927124
+  },
+  {
+    "job": {
+      "id": "0cc933cb91ad409f752f1264805dde6e",
+      "title": "Orffa zoekt een AI & Digital Enablement Specialist in Breda | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-digital-enablement-specialist-at-orffa-4388394387",
+      "snippet": "As an AI & Digital Enablement Specialist, you will lead the development and integration of custom AI agents, optimize business processes, and ensure AI tools ( ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:26:06.672942"
+    },
+    "score": 4,
+    "reason": "Partial match: AI & Digital Enablement Specialist sounds relevant, but 'develop and integrate custom AI agents' and optimizing business processes suggests building custom solutions rather than championing existing AI tools. Breda is ~80km from Utrecht (outside preference). Unclear if this is adoption/enablement vs. development-focused.",
+    "embed_sim": 0.35154107213020325,
+    "ai_native_score": 0.662591814994812
+  },
+  {
+    "job": {
+      "id": "d5de83fc17b9be4ea479fdace5389e87",
+      "title": "Enreach NL zoekt een AI Solutions Engineer in Almere - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-engineer-at-enreach-nl-4419866124",
+      "snippet": "Als AI Solutions Engineer werk je aan AI-oplossingen die dagelijks door echte gebruikers worden ingezet. Je bouwt samen met klanten slimme chatbots, voicebots ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:26:06.672953"
+    },
+    "score": 2,
+    "reason": "Weak match: AI Solutions Engineer building 'chatbots, voicebots' is product development, not AI tool adoption/enablement for dev teams. Wrong domain (customer-facing solutions vs. internal tooling). Almere is further from Utrecht.",
+    "embed_sim": 0.34565940499305725,
+    "ai_native_score": 0.675277590751648
+  },
+  {
+    "job": {
+      "id": "c173096b09cb664540439156a4581842",
+      "title": "448 offerte di lavoro per \u201cTest Engineer\u201d qui: Italia",
+      "company": "",
+      "location": "",
+      "url": "https://it.linkedin.com/jobs/test-engineer-offerte-di-lavoro?position=1&pageNum=0",
+      "snippet": "System Integrator & Test Engineer.AI Driven Test Automation Engineer. MC Engineering. Roma 2 settimane fa.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-30T08:26:11.011369"
+    },
+    "score": 0,
+    "reason": "No match: Italian job listing for Test Engineer/Test Automation Engineer. Wrong country, wrong domain (QA automation, not AI enablement). Not relevant.",
+    "embed_sim": 0.3906272053718567,
+    "ai_native_score": 0.7794923782348633
+  },
+  {
+    "job": {
+      "id": "50a8f1c47ad5d384b9e022e1d6d10b9e",
+      "title": "Meer dan 1.000 vacatures voor Hardware Engineer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/hardware-engineer-jobs",
+      "snippet": "Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Hardware Engineer toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:26:18.938095"
+    },
+    "score": 0,
+    "reason": "No match: Generic Hardware Engineer search results page, not a specific job. Irrelevant to AI enablement role. Appears to be a search aggregator, not a real listing.",
+    "embed_sim": 0.23532657325267792,
+    "ai_native_score": 0.6506744027137756
+  },
+  {
+    "job": {
+      "id": "62e84c5b311c4bece666a41cb7c22f7a",
+      "title": "Vacatures voor Timing in Tilburg, Noord-Brabant, Nederland",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.linkedin.com/jobs/timing-jobs-tilburg",
+      "snippet": "Physical Design Engineer. Axelera AI. Eindhoven 1 maand geleden. Regiomanager.Service Tooling Engineer Internship. Tesla.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-30T08:26:18.938115"
+    },
+    "score": 0,
+    "reason": "No match: Generic job search results page for 'Timing' with scattered listings (Physical Design Engineer, Service Tooling Engineer Internship). Not specific job postings. Tilburg/Eindhoven location outside preference. Irrelevant to AI enablement.",
+    "embed_sim": 0.18532097339630127,
+    "ai_native_score": 0.5711172223091125
   }
 ]
