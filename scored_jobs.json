@@ -8334,5 +8334,181 @@
     "reason": "No match: Generic job search results page for 'Timing' with scattered listings (Physical Design Engineer, Service Tooling Engineer Internship). Not specific job postings. Tilburg/Eindhoven location outside preference. Irrelevant to AI enablement.",
     "embed_sim": 0.18532097339630127,
     "ai_native_score": 0.5711172223091125
+  },
+  {
+    "job": {
+      "id": "090557c29314c467aca1e2d20c56812a",
+      "title": "Vacature Magazijnmedewerker Fulltime in Noordwijkerhout",
+      "company": "",
+      "location": "",
+      "url": "https://unique.nl/vacature/magazijnmedewerker-(v3699637)",
+      "snippet": "Salarisindicatie. \u20ac2.600 - \u20ac2.900. Vacature nummer. 2026-25837. Solliciteer nu.Vinden wij ook dat de vacature bij je past? Dan leren we je graag beter kennen in een persoonlijk intakegesprek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-31T08:41:53.210911"
+    },
+    "score": 0,
+    "reason": "Warehouse worker role - completely unrelated to AI, engineering, or software development",
+    "embed_sim": 0.014063872396945953,
+    "ai_native_score": 0.5170692205429077
+  },
+  {
+    "job": {
+      "id": "4c86b51cd54d9605fd1aa9549ed513f1",
+      "title": "30 vacatures voor Tesla in Breda-Tilburg Area",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tesla-jobs-breda-tilburg-area",
+      "snippet": "Service Tooling Engineer Internship. Tesla. Tilburg.Manufacturing Equipment Engineer (Electrical Focus). Tesla. Tilburg.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-31T08:42:20.925457"
+    },
+    "score": 0,
+    "reason": "Manufacturing/equipment engineering internships at Tesla - wrong domain and seniority (internship level)",
+    "embed_sim": 0.25884294509887695,
+    "ai_native_score": 0.473071813583374
+  },
+  {
+    "job": {
+      "id": "8dee83d7c3794acfc8a3f1bc3824faef",
+      "title": "Internship AI Content & Communication in Utrecht bij bol",
+      "company": "Bol",
+      "location": "Utrecht",
+      "url": "https://magnet.me/nl-NL/vacature/1042113/internship-ai-content---communication",
+      "snippet": "3 dagen geleden \u00b7 Internship AI Content & Communication. Stage \u2022 Utrecht, NL. Geplaatst 27 mei 2026.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-31T08:42:33.349473"
+    },
+    "score": 0,
+    "reason": "Internship position - candidate requires senior-level role, not traineeship/internship",
+    "embed_sim": 0.33738428354263306,
+    "ai_native_score": 0.6505736708641052
+  },
+  {
+    "job": {
+      "id": "78d3c593b1b37d53c1954eed9e99c12f",
+      "title": "bol zoekt een Internship AI Innovation & Creative Technology in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/internship-ai-innovation-creative-technology-at-bol-4419197825",
+      "snippet": "AI Intern 2026. Arango. Est 2 weken geleden. Traineeship Digital & Data \u2013 Generatieve AI. Traineeship Digital & Data \u2013 Generatieve AI. Berenschot. Utrecht, ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-05-31T08:42:33.349496"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship position - candidate is a senior professional with 13 years experience, not an intern",
+    "embed_sim": 0.36267155408859253,
+    "ai_native_score": 0.6542474627494812
+  },
+  {
+    "job": {
+      "id": "d013bec4442c43039f7a6dc6853d28ef",
+      "title": "Head of AI & Automation (internal) - n8n - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-ai-automation-internal-at-n8n-4391152874",
+      "snippet": "AI fluency: You are technically conversant in AI concepts and can evaluate tools, risks, tradeoffs, and architectural implications. Workflow automation ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-31T08:42:36.931683"
+    },
+    "score": 6,
+    "reason": "Head of AI & Automation at n8n shows AI fluency and technical evaluation of tools, which aligns with adoption championing. However, no location specified (likely remote or Berlin-based), and 'automation' focus is broader than AI tool enablement for dev teams. Senior level is right.",
+    "embed_sim": 0.45571237802505493,
+    "ai_native_score": 0.7534783482551575
+  },
+  {
+    "job": {
+      "id": "2411cb4dadb84cef650bb3a133ea560b",
+      "title": "AI Solutions Engineer in Almere bij Enreach | Magnet.me | #1036399 (nl)",
+      "company": "Enreach",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1036399/ai-solutions-engineer",
+      "snippet": "23 mei 2026 \u00b7 Als AI Solutions Engineer werk je aan AI-oplossingen die dagelijks door echte gebruikers worden ingezet. Je bouwt samen met klanten slimme ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-31T08:42:43.032922"
+    },
+    "score": 2,
+    "reason": "AI Solutions Engineer typically focuses on building/deploying AI solutions for clients rather than enabling dev teams to adopt AI tools. Almere is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.35807231068611145,
+    "ai_native_score": 0.7271890044212341
+  },
+  {
+    "job": {
+      "id": "c9e7f80b5c506ee859d460f940343d4e",
+      "title": "AI Agile Test Engineer in Zwolle bij Capgemini | Magnet.me",
+      "company": "Capgemini",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1042572/ai-agile-test-engineer",
+      "snippet": "2 dagen geleden \u00b7 Als AI Agile Test Engineer ben jij constant bezig met kwaliteit \u00e9n het verbeteren daarvan. Wil jij ook jezelf en je carri\u00e8re blijven ontwikkelen ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-31T08:42:43.032935"
+    },
+    "score": 1,
+    "reason": "AI Agile Test Engineer is focused on QA/testing, not AI tool adoption for development workflows. Zwolle is outside preferred radius.",
+    "embed_sim": 0.27733755111694336,
+    "ai_native_score": 0.7065375447273254
+  },
+  {
+    "job": {
+      "id": "548fda88c6881bf48449bb4b415e3439",
+      "title": "Applied AI Engineer in Utrecht bij iodigital | Magnet.me | #1038705 (nl)",
+      "company": "Iodigital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1038705/applied-ai-engineer",
+      "snippet": "5 dagen geleden \u00b7 Als Applied AI Engineer (ook wel: Software & AI Engineer) ben je bezig op het raakvlak van data, software engineering en AI-technologie.",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-31T08:42:43.032960"
+    },
+    "score": 3,
+    "reason": "Applied AI Engineer at iodigital in Utrecht is in the right location but role sits at 'raakvlak of data, software engineering and AI' - likely requires data science/ML background which candidate wants to avoid. Snippet suggests building AI systems rather than enabling adoption.",
+    "embed_sim": 0.3953268527984619,
+    "ai_native_score": 0.7515019178390503
+  },
+  {
+    "job": {
+      "id": "f4b3466751077fecfb2730aaaf5af994",
+      "title": "AI Workflow Automation Intern in Amsterdam bij Cleeng - Magnet.me",
+      "company": "Cleeng - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1035459/ai-workflow-automation-intern",
+      "snippet": "22 mei 2026 \u00b7 Hands-on experience with n8n or Make.com platforms \u00b7 Proficiency in JavaScript for workflow functions and expressions \u00b7 Understanding of REST APIs ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-05-31T08:42:47.021621"
+    },
+    "score": 0,
+    "reason": "AI Workflow Automation Intern - candidate is senior professional (13 years), not an intern. Wrong seniority level entirely.",
+    "embed_sim": 0.40075623989105225,
+    "ai_native_score": 0.6245426535606384
+  },
+  {
+    "job": {
+      "id": "3a63f720a726f5ae2630ceebb6b1803f",
+      "title": "25+ vacatures voor Vibe Coding en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-vibe-coding-vacatures.html",
+      "snippet": "AI-native way of working \u2013 you use LLMs, vibe coding, and AI agents daily to move faster and validate ideas. Work directly with users, support, and data to ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-05-31T08:42:51.903189"
+    },
+    "score": 5,
+    "reason": "Vibe Coding roles mention using LLMs and AI agents daily to move faster, which aligns with AI-native development practices. However, this is an Indeed search results page (25+ vacancies) with no specific company, location, or role details - cannot properly evaluate. Generic snippet suggests tool usage but not specifically about enabling team adoption or AI championing.",
+    "embed_sim": 0.25363677740097046,
+    "ai_native_score": 0.5519647598266602
+  },
+  {
+    "job": {
+      "id": "a070559864c61adb96d6d34bb6a8bf2e",
+      "title": "Senior Consultant AI Enablement & Digital Adoption - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-consultant-ai-enablement-digital-adoption-at-rapid-circle-4407924177",
+      "snippet": "Als Senior Consultant AI Enablement & Digital Adoption help jij klanten precies op dat punt. Je brengt structuur in verandering, maakt technologie begrijpelijk ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-05-31T08:43:00.192833"
+    },
+    "score": 7,
+    "reason": "Strong match on AI enablement and digital adoption focus. Senior-level consultant role helping organizations implement AI practices. Aligns with candidate's goal of championing AI adoption. However, location (Unknown) and company details are unclear\u2014could be outside Utrecht region, which prevents a higher score. No ML expertise required based on snippet.",
+    "embed_sim": 0.30631911754608154,
+    "ai_native_score": 0.7789832353591919
   }
 ]
