@@ -8510,5 +8510,181 @@
     "reason": "Strong match on AI enablement and digital adoption focus. Senior-level consultant role helping organizations implement AI practices. Aligns with candidate's goal of championing AI adoption. However, location (Unknown) and company details are unclear\u2014could be outside Utrecht region, which prevents a higher score. No ML expertise required based on snippet.",
     "embed_sim": 0.30631911754608154,
     "ai_native_score": 0.7789832353591919
+  },
+  {
+    "job": {
+      "id": "8b0de801e4402a6d3fb29a9832a54267",
+      "title": "AI Engineer at Alaura in Rotterdam at Builders | Magnet.me | #1028956 (en)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1028956/ai-engineer-at-alaura",
+      "snippet": "3 weeks ago - Are AI-first: you live in modern LLM and agent tooling and pick up whatever language the job needs (today that's mostly TypeScript and Python)",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-01T11:26:29.693740"
+    },
+    "score": 4,
+    "reason": "AI-first TypeScript/Python role at a startup, but unclear if focused on building AI products vs. enabling adoption. Rotterdam location is outside preferred 40km radius. Snippet suggests product development orientation rather than AI enablement/coaching.",
+    "embed_sim": 0.5316256880760193,
+    "ai_native_score": 0.6915975213050842
+  },
+  {
+    "job": {
+      "id": "a4856e4b9523ce2f86a8486fe23c7dba",
+      "title": "Generative AI engineer in Amsterdam bij aaff | Magnet.me | #869092 (nl)",
+      "company": "Aaff",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/869092/generative-ai-engineer",
+      "snippet": "Als generative AI engineer bij Epiic, onderdeel van aaff, heb je een missie: bijdragen aan de transitie van onze klanten naar een duurzamere en innovatieve economie. Je werkt aan een innovatieve toepassing die met behulp van kunstmatige ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-01T11:26:29.693752"
+    },
+    "score": 3,
+    "reason": "Generative AI engineer building innovative applications for clients. Appears to be product-focused development rather than AI tool adoption and enablement. Amsterdam location is acceptable but role concept doesn't match candidate's AI champion/enablement focus.",
+    "embed_sim": 0.3323889374732971,
+    "ai_native_score": 0.7478023767471313
+  },
+  {
+    "job": {
+      "id": "13ab4f696ccf0d2af342a15002af379a",
+      "title": "Vacatures voor Senior machine learning engineer | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/senior-machine-learning-engineer-vacatures-SRCH_KO0,32.htm",
+      "snippet": "262 vacatures voor een senior machine learning engineer.I am seeking a Machine Learning Engineer to join my client in western Netherlands, an AI-chip start-up with multi-millions worth of funding and in an excellent\u2026\u2026 4.2.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-01T11:26:41.797314"
+    },
+    "score": 0,
+    "reason": "Senior machine learning engineer positions. Pure ML engineering focus (chip startup, training models). Explicitly mismatches candidate's requirements \u2014 candidate specifically excludes ML/data science roles requiring deep ML expertise.",
+    "embed_sim": 0.41437727212905884,
+    "ai_native_score": 0.5501522421836853
+  },
+  {
+    "job": {
+      "id": "c59c08f9bbc3b2a2efc48f7953931bd0",
+      "title": "Full Stack Developer With Ai Experience Amsterdam - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/full-stack-developer-with-ai-experience-amsterdam-jobs-amsterdam-area",
+      "snippet": "123 topvacatures voor Full Stack Developer With Ai Experience Amsterdam in Amsterdam Area vandaag. Benut uw professionele netwerk en vind een baan.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-01T11:26:49.908487"
+    },
+    "score": 2,
+    "reason": "Generic job listing aggregator page, not a specific role. Amsterdam location acceptable but insufficient information about actual position. Likely a search results page rather than a concrete opportunity.",
+    "embed_sim": 0.4739112854003906,
+    "ai_native_score": 0.7166820764541626
+  },
+  {
+    "job": {
+      "id": "4e213b5c37ac10b4811a5bb8e127ee49",
+      "title": "Full Stack Developer With Ai Experience Amsterdam - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/full-stack-developer-with-ai-experience-amsterdam-jobs",
+      "snippet": "257 topvacatures voor Full Stack Developer With Ai Experience Amsterdam in Nederland vandaag. Benut uw professionele netwerk en vind een baan.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-01T11:26:49.908506"
+    },
+    "score": 1,
+    "reason": "Generic job listing aggregator page across Netherlands with no specific company or role details. Cannot assess match without actual job description. Appears to be a search results page.",
+    "embed_sim": 0.4861753582954407,
+    "ai_native_score": 0.7226835489273071
+  },
+  {
+    "job": {
+      "id": "9a0636ddc73a7416d41eff62c3a73d74",
+      "title": "Developer Experience (DX) Engineer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/developer-experience-dx-engineer-at-jobgether-4417218121",
+      "snippet": "In this role, you will play a central part in enhancing the developer experience across open-source SDKs, APIs, and tooling ecosystems used by global ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-01T11:26:49.908517"
+    },
+    "score": 3,
+    "reason": "Developer Experience Engineer focused on SDKs/APIs/tooling \u2014 conceptually adjacent to DevEx + AI enablement hybrid. However, no mention of AI focus, location unknown, and unclear if this involves AI tool adoption specifically.",
+    "embed_sim": 0.42147648334503174,
+    "ai_native_score": 0.6044957637786865
+  },
+  {
+    "job": {
+      "id": "45b538e51e94052b2524a0fa6f444bb3",
+      "title": "Expert AI Voice Agent Developer Needed (Retell AI, Twilio, CRM ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/expert-ai-voice-agent-developer-needed-retell-ai-twilio-crm-integrations-full-a\u2013z-build-at-vines-automations-4337660189",
+      "snippet": "Vines Automations is looking for an experienced AI Voice Agent Developer to build complete, production-ready AI Calling Agents and AI Receptionists from A ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-01T11:26:49.908529"
+    },
+    "score": 1,
+    "reason": "AI Voice Agent Developer building production calling agents. Product-focused AI development role. Does not match candidate's enablement/adoption/champion focus. Technical domain (voice agents, Retell, Twilio) misaligned with candidate's background.",
+    "embed_sim": 0.37702271342277527,
+    "ai_native_score": 0.5778976082801819
+  },
+  {
+    "job": {
+      "id": "4085695f9ec14b8197a4ae1948b0c98d",
+      "title": "AI Engineer Full Stack Developer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-full-stack-developer-at-tata-consultancy-services-4418583341",
+      "snippet": "Familiarity with cloud platforms for AI workloads; Full-stack development experience (frontend and backend). Good-to-Have Skills: Data engineering (SQL, Pandas, ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-01T11:26:49.908538"
+    },
+    "score": 3,
+    "reason": "AI Engineer Full Stack with data engineering requirements (SQL, Pandas). Appears to be product development with ML/data engineering components. Candidate explicitly excludes roles requiring data science/Python ML stack experience. Location unknown.",
+    "embed_sim": 0.5509750843048096,
+    "ai_native_score": 0.5004472732543945
+  },
+  {
+    "job": {
+      "id": "e3dc5e8b395f668758c00682611dd468",
+      "title": "54 Frontend Developer jobs in Rotterdam, South Holland, Netherlands",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.linkedin.com/jobs/frontend-developer-jobs-rotterdam",
+      "snippet": "Frontend Developer. ilionx healthcare. Woerden, Utrecht, Netherlands 4 months ago.Vacature front-end developer (mbo / hbo, Leiden, 32-40 uur). Secure Design Webdevelopment. Leiden, South Holland, Netherlands.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-01T11:27:28.651682"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page for frontend developer jobs in Rotterdam. Not a specific role listing. No company, no job details, no connection to AI enablement focus.",
+    "embed_sim": 0.3317708671092987,
+    "ai_native_score": 0.463998407125473
+  },
+  {
+    "job": {
+      "id": "b4dc5b7b2ebd25552ad7ae6340dda901",
+      "title": "35 wo artificial intelligence vacatures | 31 mei 2026",
+      "company": "31 mei 2026",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence/opleiding-wo",
+      "snippet": "Op zoek naar een baan als Artificial intelligence op wo niveau? Bekijk het overzicht met Artificial intelligence vacatures op Nationale Vacaturebank en vind ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-01T11:27:56.835887"
+    },
+    "score": 0,
+    "reason": "Search results page on Dutch job board for artificial intelligence positions at bachelor's level. Not a specific job listing. Generic aggregator with no concrete role information or company details.",
+    "embed_sim": 0.2212710678577423,
+    "ai_native_score": 0.6652809977531433
+  },
+  {
+    "job": {
+      "id": "87e3776c293c544fd045cc3a29087aca",
+      "title": "Digital Training & Adoption Intern - Studentjob.nl",
+      "company": "Studentjob.nl",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/digital-training-adoption-intern-studentjob-nl-at-jobster-4406522523",
+      "snippet": "Ontvang meldingen over nieuwe vacatures voor Adoptiespecialist in Utrecht. Meld u aan om vacaturemelding te maken. Vergelijkbare vacatures. Traineeship ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-01T11:27:56.835894"
+    },
+    "score": 0,
+    "reason": "Intern/traineeship position. Candidate explicitly excludes junior/intern roles and requires senior-level positions. Also appears to be a job alert signup page rather than an active listing.",
+    "embed_sim": 0.13627062737941742,
+    "ai_native_score": 0.6754614114761353
   }
 ]
