@@ -8686,5 +8686,117 @@
     "reason": "Intern/traineeship position. Candidate explicitly excludes junior/intern roles and requires senior-level positions. Also appears to be a job alert signup page rather than an active listing.",
     "embed_sim": 0.13627062737941742,
     "ai_native_score": 0.6754614114761353
+  },
+  {
+    "job": {
+      "id": "a4d7f518d32851a8dbc7d0ad5f879f4d",
+      "title": "Brunel zoekt een AI Adoption Lead in Amsterdam Area | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-lead-at-brunel-4419167009",
+      "snippet": "Ontvang meldingen over nieuwe vacatures voor Adoptiespecialist in Amsterdam Area. Meld u aan om vacaturemelding te maken. Solliciteren. Vergelijkbare vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-02T10:17:22.411684"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results page or job alert signup, not an actual job posting. No substantive job description provided.",
+    "embed_sim": 0.12377354502677917,
+    "ai_native_score": 0.6971630454063416
+  },
+  {
+    "job": {
+      "id": "47d81d2624f424842b68aa996f68ca9a",
+      "title": "Adoption Change Consultant - vacatures - 30 april 2026 - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-adoption-change-consultant-vacatures.html",
+      "snippet": "Adoption Change Consultant vacatures. Associate Ai Adoption & Change (amsterdam, Rotterdam), Ai Engineer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-02T10:17:31.818874"
+    },
+    "score": 0,
+    "reason": "Generic search results page from Indeed showing multiple unrelated positions. Not a specific job listing with role details.",
+    "embed_sim": 0.24992290139198303,
+    "ai_native_score": 0.6629977226257324
+  },
+  {
+    "job": {
+      "id": "f8bb72458f51df06db8ef2680975cbca",
+      "title": "Master's Thesis in Way of Working: AI-Powered Function Point Sizing",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/master-s-thesis-in-way-of-working-ai-powered-function-point-sizing-at-info-support-4417641451",
+      "snippet": "Investigate how to automate and operationalise FPA/EFS within Info Support's Way of Working using AI. Deliver a Proof of Concept (PoC) that ingests typical ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-02T10:17:52.745819"
+    },
+    "score": 0,
+    "reason": "Master's thesis position requiring academic credentials and research focus. Candidate explicitly excludes academic/PhD research positions.",
+    "embed_sim": 0.29371750354766846,
+    "ai_native_score": 0.5879915952682495
+  },
+  {
+    "job": {
+      "id": "db7dae22c35b1372f29138378cb7c3e1",
+      "title": "SOUS zoekt een AI Automations Specialist in Amsterdam - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automations-specialist-at-sous-4418346283",
+      "snippet": "... AI-driven ways of working. Build and maintain simple AI agents that support day-to-day business processes and team productivity. Help teams adopt better ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-02T10:17:52.745853"
+    },
+    "score": 7,
+    "reason": "AI Automations Specialist focused on helping teams adopt AI and building simple agents for business processes and team productivity. Aligns well with AI adoption and enablement mission. Location not specified but likely feasible. Senior web dev background is strong fit.",
+    "embed_sim": 0.4499366581439972,
+    "ai_native_score": 0.6850258111953735
+  },
+  {
+    "job": {
+      "id": "fec505c0b5c88a75770d383eb1ab38a3",
+      "title": "AI Builder, Emerging Talent - Swedish Market - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-builder-emerging-talent-swedish-market-at-salesforce-4417790315",
+      "snippet": "Working in a builder pod, a cross-functional team that collaborates to design, build, and deploy AI solutions for real customers. It's a built-in support ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-02T10:17:52.745862"
+    },
+    "score": 1,
+    "reason": "AI Builder role for Salesforce focused on designing and deploying AI solutions for customers. This is about building AI products, not enabling teams to adopt AI tools. Wrong location (Swedish market). Misaligned with candidate's goals.",
+    "embed_sim": 0.4038059115409851,
+    "ai_native_score": 0.5222448706626892
+  },
+  {
+    "job": {
+      "id": "d5b9985bdc84d114d5f75192517c8f1e",
+      "title": "100+ vacatures voor Ai Start Up en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-start-up-vacatures.html",
+      "snippet": "Ai Start Up vacatures. Tax Analyst, Operations Manager, Executive en meer op Indeed.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-02T10:18:16.200604"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation page, not a specific job posting. No actual role details provided.",
+    "embed_sim": 0.22685515880584717,
+    "ai_native_score": 0.617949366569519
+  },
+  {
+    "job": {
+      "id": "55c188c5bef92c47193b1a667e183b07",
+      "title": "299 vacatures voor Head Of It in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/head-of-it-jobs",
+      "snippet": "299 topvacatures voor Head Of It in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Head Of It ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-02T10:18:16.200654"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Head of IT positions in Netherlands. Not a specific job posting. Does not represent an actual available role.",
+    "embed_sim": 0.04986437410116196,
+    "ai_native_score": 0.519109845161438
   }
 ]
