@@ -8798,5 +8798,165 @@
     "reason": "Generic search results page for Head of IT positions in Netherlands. Not a specific job posting. Does not represent an actual available role.",
     "embed_sim": 0.04986437410116196,
     "ai_native_score": 0.519109845161438
+  },
+  {
+    "job": {
+      "id": "2cef76864490ea24571f42c2fe7e315f",
+      "title": "AI Developer Experience Engineer - Jobgether - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-experience-engineer-at-jobgether-4423926664",
+      "snippet": "Ideal for builders who thrive in fast-paced environments, this role combines software engineering, AI innovation, developer experience, and operational impact ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-03T10:52:47.083548"
+    },
+    "score": 8,
+    "reason": "AI Developer Experience Engineer \u2014 combines AI innovation with developer experience focus. Title and description align well with candidate's goal of enabling teams to use AI tools. Location unknown but could be in relevant area.",
+    "embed_sim": 0.5712502002716064,
+    "ai_native_score": 0.649712085723877
+  },
+  {
+    "job": {
+      "id": "5dc44002f6a12fccf973908204c8d0fa",
+      "title": "Laterite zoekt een AI Developer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-laterite-4358427937?position=9",
+      "snippet": "This is a challenging position that will provide you with hands-on experience in AI application development, various types of data handling (e.g., audio, images ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-03T10:52:47.083578"
+    },
+    "score": 2,
+    "reason": "AI application development role focused on hands-on data handling (audio, images). This is building AI products/systems, not enabling team adoption of AI tooling. Wrong direction for candidate.",
+    "embed_sim": 0.34972989559173584,
+    "ai_native_score": 0.6022694706916809
+  },
+  {
+    "job": {
+      "id": "1de552f38bc1a923fa15fc8c87bdfe55",
+      "title": "Senior AI Developer - Digital Gurus - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-developer-at-digital-gurus-4411349985",
+      "snippet": "\u2022 Experience building and shipping AI products into production. \u2022 Full-stack capability across frontend, backend, infra, and AI integrations. \u2022 Agentic AI ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-03T10:52:47.083592"
+    },
+    "score": 1,
+    "reason": "Senior AI Developer building and shipping AI products. Agentic AI and full-stack AI engineering \u2014 this is product development, not tool adoption/enablement. Not a match.",
+    "embed_sim": 0.567333459854126,
+    "ai_native_score": 0.6470246315002441
+  },
+  {
+    "job": {
+      "id": "af14ea768bd6c618d54889fb4ece0cd9",
+      "title": "Mavisoft zoekt een AI Developer Internship in Rotterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-internship-at-mavisoft-4421809237",
+      "snippet": "About the Role: As a Computer Vision Intern, you'll work closely with our AI team to develop, test, and improve advanced computer vision models. You will gain ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-03T10:52:47.083602"
+    },
+    "score": 0,
+    "reason": "Computer Vision Internship developing ML models. Candidate is senior-level seeking non-internship roles. This is junior ML work, not AI adoption/enablement.",
+    "embed_sim": 0.3049061596393585,
+    "ai_native_score": 0.5953229665756226
+  },
+  {
+    "job": {
+      "id": "b5a6745ed7da904618bb7a835c4194de",
+      "title": "29 vacatures voor evp in Londen, Engeland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/london-evp-vacatures-SRCH_IL.0,6_IC2671300_KO7,10.htm",
+      "snippet": "Bedrijfsbedoordeling. 29 vacature(s) voor Evp in Londen, Engeland.This role involves close collaboration with the sales team to align on enablement and account-based marketing (ABM) plans and acting as the customer's voice to\u2026\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-03T10:53:11.697861"
+    },
+    "score": 0,
+    "reason": "Irrelevant listing \u2014 sales enablement/ABM in London. No AI component, wrong geography, wrong domain entirely.",
+    "embed_sim": 0.07427093386650085,
+    "ai_native_score": 0.5186295509338379
+  },
+  {
+    "job": {
+      "id": "3568888d32d5c8f0fe72a04e819fe40b",
+      "title": "Vacature Artificial Intelligence (AI) Engineer | Utrecht | VisionBI",
+      "company": "Utrecht",
+      "location": "Utrecht",
+      "url": "https://www.werkzoeken.nl/vacature/15727104-artificial-intelligence-ai-engineer/",
+      "snippet": "Vacature Artificial Intelligence (AI) Engineer | Utrecht | VisionBI op Werkzoeken.nl. FunctieomschrijvingAls AI & ML Engineer bij..",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-03T10:53:15.616823"
+    },
+    "score": 3,
+    "reason": "AI & ML Engineer in Utrecht (excellent location). However, job description indicates ML engineering work rather than AI tool adoption/enablement. Likely requires model building expertise which candidate does not want.",
+    "embed_sim": 0.37821924686431885,
+    "ai_native_score": 0.7241098284721375
+  },
+  {
+    "job": {
+      "id": "fc651b1f16b8913f75c83b7381248ef7",
+      "title": "1.000+ vacatures voor Automation Specialist en werk: 31 mei 2026",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Automation-Specialist-vacatures",
+      "snippet": "Alle vacatures voor ABB - Mannheim vacatures - vacatures voor Sales Specialist in Mannheim bekijken. Zoeken op salaris: Sales specialist (f/m/d) \u2013 Process Automation salarissen in Mannheim. Zie veelgestelde vragen en antwoorden over ABB.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-03T10:53:25.081433"
+    },
+    "score": 0,
+    "reason": "Generic automation specialist search result. No specific job listing, no AI focus, irrelevant content.",
+    "embed_sim": 0.23394694924354553,
+    "ai_native_score": 0.5451982617378235
+  },
+  {
+    "job": {
+      "id": "329ee17b0ce96259d3a24eddc375c4c2",
+      "title": "Bonsai Software zoekt een AI-software Engineer in Rotterdam",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-software-engineer-at-bonsai-software-4406704116",
+      "snippet": "AI-tooling als onderdeel van je workflow. Bedrijfsprocessen doorgronden en vertalen naar werkende systemen. Zelfstandig opleveren binnen afgesproken scope ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-03T10:53:28.511029"
+    },
+    "score": 6,
+    "reason": "AI-software Engineer at Bonsai in Rotterdam. Mentions 'AI-tooling als onderdeel van je workflow' suggesting some tool integration focus, but title suggests building systems rather than enabling adoption. Moderately close location (40km+).",
+    "embed_sim": 0.35434386134147644,
+    "ai_native_score": 0.7108802795410156
+  },
+  {
+    "job": {
+      "id": "780739d0d101714c9909ab4cdf7b3f13",
+      "title": "Senior BI & Data Analytics Specialist in Amsterdam bij Karsten | Magnet.me",
+      "company": "Karsten",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1016017/senior-bi---data-analytics-specialist",
+      "snippet": "2 apr 2026 \u00b7 Senior BI & Data Analytics Specialist. Baan \u2022 Amsterdam, NL. Geplaatst 2 apr. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 5 tot 7 jaar.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-03T10:53:59.824695"
+    },
+    "score": 0,
+    "reason": "Senior BI & Data Analytics Specialist \u2014 data analytics domain, not AI tool adoption/enablement for development teams. Wrong specialization entirely.",
+    "embed_sim": 0.30363452434539795,
+    "ai_native_score": 0.43644842505455017
+  },
+  {
+    "job": {
+      "id": "55c0efc406a5ed0b23b09c9af80134c7",
+      "title": "AI Engineer at Alaura in Rotterdam bij Builders | Magnet.me | #1028956 (nl)",
+      "company": "Builders",
+      "location": "Rotterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1028956/ai-engineer-at-alaura",
+      "snippet": "9 mei 2026 \u00b7 AI Engineer at Alaura. Baan \u2022 Rotterdam, NL. Geplaatst 9 mei 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 3 tot 8 jaar. Full-time / part ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-03T10:54:03.608411"
+    },
+    "score": 2,
+    "reason": "AI Engineer at Alaura in Rotterdam. Likely focused on building AI systems/products rather than enabling team adoption. Title and location don't align with candidate's specific goal.",
+    "embed_sim": 0.32311880588531494,
+    "ai_native_score": 0.5368205308914185
   }
 ]
