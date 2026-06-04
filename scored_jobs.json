@@ -8958,5 +8958,517 @@
     "reason": "AI Engineer at Alaura in Rotterdam. Likely focused on building AI systems/products rather than enabling team adoption. Title and location don't align with candidate's specific goal.",
     "embed_sim": 0.32311880588531494,
     "ai_native_score": 0.5368205308914185
+  },
+  {
+    "job": {
+      "id": "8c20e6f2b5ca83e0a692905e6d163405",
+      "title": "Vacature voor een functie als AI Adoption Specialist bij KPMG in ...",
+      "company": "Kpmg In ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-adoption-specialist-kpmg-JV_KO0,22_KE23,27.htm?jl=1010002696163",
+      "snippet": "Vacatures voor AI Adoption Specialist in Isra\u00ebl \u00b7 Vacatures bij KPMG in Isra\u00ebl \u00b7 Salarissen voor AI Adoption Specialist in Isra\u00ebl \u00b7 Reviews van KPMG.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:14.481511"
+    },
+    "score": 0,
+    "reason": "Location is Israel, not Netherlands. Candidate requires proximity to Utrecht (max 40km).",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "5ffddffadcc1c135a5a9a6813e19c321",
+      "title": "Vacature voor een functie als AI Specialist bij United Way in",
+      "company": "United Way In",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-specialist-united-way-of-calgary-and-area-JV_KO0,13_KE14,44.htm?jl=1010134751879",
+      "snippet": "7 dagen geleden \u00b7 Reporting to the Manager, Applications & AI, the AI Specialist drives AI adoption across the organization by implementing, configuring, and ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:14.481542"
+    },
+    "score": 0,
+    "reason": "Location is Calgary, Canada. Candidate requires Utrecht area or remote with EU timezone preference.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "ee7fb66d96ed49c8c220b00ca56683c8",
+      "title": "Vacature voor een functie als AI Learning Systems Specialist - Build ...",
+      "company": "Build ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-learning-systems-specialist-build-design-fixed-term-contract-remote-pickle-JV_KO0,70_KE71,77.htm?jl=1010147096112",
+      "snippet": "AI Learning Systems Specialist - Build / Design (Fixed-Term Contract - Remote) \u00b7 Design and support AI-enabled learning systems and technical learning ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:14.481592"
+    },
+    "score": 2,
+    "reason": "AI Learning Systems role focused on educational/learning systems design, not engineering team AI adoption. Also remote location unspecified and appears to be building learning systems rather than enabling developer adoption.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "fb9cbc4befc1c7b661c4caaef2100049",
+      "title": "Vacatures voor Adoption Specialist in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/adoption-specialist-jobs",
+      "snippet": "1.000 vacatures voor Adoption Specialist in Nederland (403 nieuw) \u00b7 Managementondersteuning \u00b7 Nieuwe functies! \u00b7 Administratief Medewerker (Amsterdam) \u00b7 Clinical ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:19.588804"
+    },
+    "score": 0,
+    "reason": "Generic LinkedIn search results page, not a specific job listing. Cannot evaluate against concrete job requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "90b689bc078143713b399f8a7b1d1cdc",
+      "title": "Sectra zoekt een AI Adoption Specialist in Almere - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-sectra-4392936403",
+      "snippet": "As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:19.588829"
+    },
+    "score": 3,
+    "reason": "AI Adoption Specialist title matches, but focused on integrating AI into clinical workflows (healthcare domain), not developer/engineering team adoption. Location (Almere) is acceptable but domain mismatch is significant.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "76c861696d7b0430c80addf06e307bb8",
+      "title": "Associate AI Adoption & Change (Amsterdam, Rotterdam) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/associate-ai-adoption-change-amsterdam-rotterdam-at-pwc-nederland-4404438429",
+      "snippet": "Als Associate AI Adoption & Change werk je op het snijvlak van AI, change management en organisatieontwikkeling. Je helpt klanten binnen Tax, Legal en Workforce ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:19.588854"
+    },
+    "score": 6,
+    "reason": "Associate AI Adoption & Change role at PWC with strong location match (Amsterdam/Rotterdam area, near Utrecht). Matches adoption focus but title suggests junior level (Associate) and role appears more change management than technical engineering advocacy. Could involve consulting which candidate accepts, but seniority and specific engineering focus unclear.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "12bad5b8ad169edf4294d26f182a8ecf",
+      "title": "1.000+ vacatures voor Ai Engineer en werk - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html",
+      "snippet": "Je komt terecht bij een multidisciplinair consultancyhuis in Utrecht dat bekendstaat om zijn sterke posities in business consulting en data/AI. Waarin business, ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:23.625113"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page, not a specific job listing. Cannot evaluate against concrete job requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "39e59dd4429085a01c272b55c30378d7",
+      "title": "Vacature AI Engineer / Zwolle / Hybride / 32-40 uur - Werkzoeken.nl",
+      "company": "Werkzoeken.nl",
+      "location": "",
+      "url": "https://www.werkzoeken.nl/vacature/15445399-ai-engineer-zwolle-hybride-32-40-uur/",
+      "snippet": "Als AI Engineer bij ons werk je aan het ontwikkelen van slimme oplossingen met kunstmatige intelligentie. Je bouwt modellen voor tekst, beeld en geluid, ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:23.625318"
+    },
+    "score": 1,
+    "reason": "AI Engineer role in Zwolle focused on building ML models for text, image, and audio. This is pure ML model development (outside candidate's scope). Wrong technical domain and location is too far (Zwolle > 40km from Utrecht).",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "af9734b9d149c52e5601e2e7a05458b5",
+      "title": "Senior Machine Learning Engineer - Naturalis - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/senior-machine-learning-engineer-naturalis/",
+      "snippet": "As senior machine learning engineer at Naturalis, you\u2019ll build and implement large-scale AI models and tools to understand biodiversity.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-04T09:52:27.759899"
+    },
+    "score": 0,
+    "reason": "Senior Machine Learning Engineer role focused on building and implementing large-scale AI models for biodiversity research. Pure ML/data science role, not developer adoption/enablement. Location unknown but company (Naturalis) is Leiden-based, outside preferred radius.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "70a5de5032dfe37d59727ccfb91738d5",
+      "title": "12 artificial intelligence vacatures in Utrecht | 4 juni 2026 ...",
+      "company": "4 juni 2026 ...",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence/in-utrecht",
+      "snippet": "Aan de slag als Artificial intelligence in Utrecht? Bekijk het uitgebreide aanbod vacatures in Utrecht voor Artificial intelligence op Nationale Vacaturebank en ga de uitdaging aan!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:32.140806"
+    },
+    "score": 0,
+    "reason": "Generic search results page for AI vacancies in Utrecht, not a specific job listing. Cannot evaluate against concrete job requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "2d9f1349afd2fa3b2327f266a2791c27",
+      "title": "400+ vacatures voor Developer en werk in Utrecht (provincie ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-developer-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Developer vacatures in Utrecht (provincie). Developer, Java Developer, .NET Developer en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:32.140823"
+    },
+    "score": 0,
+    "reason": "This is a search results page/aggregator listing 400+ generic developer vacancies, not an actual job posting. Cannot evaluate specific role requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "fbf3dd3d0af515a946582293b7bd6fab",
+      "title": "AI Developer vacatures in Nederland - Careerjet",
+      "company": "Careerjet",
+      "location": "",
+      "url": "https://www.careerjet.nl/vacatures-ai-developer",
+      "snippet": "Zoek voor de nieuwste AI Developer vacatures in Nederland op Careerjet, de vacature zoekmachine voor alle locaties en sectoren.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:32.140867"
+    },
+    "score": 0,
+    "reason": "This is a search results page/aggregator for AI Developer vacancies, not an actual job posting. Cannot evaluate specific role requirements or location.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "818a1590425edb64b0c6db7502588e6e",
+      "title": "Senior .Net Developer in Utrecht bij Sogeti | Magnet.me",
+      "company": "Sogeti",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1044161/senior-.net-developer",
+      "snippet": "2 days ago \u00b7 Werken als Senior .NET Developer bij Sogeti Als Senior .NET Developer zet je je technische expertise in bij uitdagende projecten met zichtbare impact. Je werkt aan moderne .NET-oplossingen met behulp van cloud-native architecturen, microservices, API-first designs en integraties met AI- en data-gedreven componenten.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-04T09:52:39.962865"
+    },
+    "score": 3,
+    "reason": "Senior .NET Developer role in Utrecht mentions 'integrations with AI' but is primarily a .NET development position focused on cloud-native architectures and microservices. Not an AI adoption/enablement role. Wrong tech stack (C#/.NET vs. TypeScript/web).",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "7669a26137937f6a7ec4af141894902b",
+      "title": "BauWatch Group zoekt een AI Specialist in Enschede | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-specialist-at-bauwatch-group-4422348737",
+      "snippet": "27 mei 2026 \u00b7 Build and manage agentic workflows on our self-hosted n8n platform; Train and coach teams to make AI part of their daily way of working ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:44.396865"
+    },
+    "score": 7,
+    "reason": "AI Specialist role includes 'train and coach teams to make AI part of their daily way of working' and managing n8n workflows \u2014 strong match for AI adoption/enablement. However, located in Enschede (too far from Utrecht, ~150km away). Otherwise excellent fit conceptually.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "c4247c4d07c0515f28506115180d5295",
+      "title": "Director, Digital, Data and AI Capability - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/director-digital-data-and-ai-capability-at-teva-pharmaceuticals-4411348902",
+      "snippet": "Design tiered learning journeys that translate AI and digital capabilities into clear business use cases and everyday ways of working. Drive adoption and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:44.396879"
+    },
+    "score": 5,
+    "reason": "Director-level role focused on 'designing learning journeys' and 'drive adoption' of AI capabilities \u2014 conceptually strong for AI enablement. However, appears to be a senior leadership/strategy role (Director level) with pharma/enterprise context. No location info provided. Seniority level may be too high or misaligned.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "d3d9e98310ca0723db4e43006dd5c26a",
+      "title": "AI Driven Software Engineering Intern - Keenfinity Group - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-driven-software-engineering-intern-at-keenfinity-group-4422390168",
+      "snippet": "A hands-on internship in an international and collaborative team. Exposure to diverse projects, stakeholders, and global ways of working. Close guidance and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:52:44.396889"
+    },
+    "score": 0,
+    "reason": "Internship position ('AI Driven Software Engineering Intern'). Candidate explicitly does NOT want junior/intern/traineeship positions. Clear disqualifier.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "789393891d27d04ed1ed2600802fa149",
+      "title": "25+ vacatures voor Artificial Intelligence en werk in Utrecht (provincie) 15 februari 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Stagiair, Data Analist, Marketing Manager en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:52:48.765038"
+    },
+    "score": 0,
+    "reason": "This is a search results page/aggregator listing 25+ AI vacancies in Utrecht, not an actual job posting. Cannot evaluate specific role requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "3bc4e4956dbf0e12966cc03d2f24740c",
+      "title": "1.008 vacature(s) voor Ai engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-engineer-vacatures-SRCH_KO0,11.htm",
+      "snippet": "1.008 vacature(s) voor Ai engineer in Nederland ; BEYONDER. AI Engineer. Enschede \u00b7 Vacatures voor machine learning engineer (m/v/x) in Enschede ; Logo van Blis.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:55.811634"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator showing 1,008 AI Engineer vacancies in the Netherlands, not an actual job posting. Cannot evaluate specific roles or requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "fe8ea6be31c90ec7b99e4c0a2173c763",
+      "title": "238 vacature(s) voor Machine learning engineer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/machine-learning-engineer-vacatures-SRCH_KO0,25.htm",
+      "snippet": "AI Engineer. Een. \u20ac 4.000 - \u20ac 6.000 (opgegeven door werkgever). Als AI Engineer werk je aan oplossingen waarin data, machine learning en generatieve AI ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:55.811658"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator for Machine Learning Engineer roles across the Netherlands. Generic snippet mentions 'data, machine learning and generative AI' \u2014 likely ML/data science focused. Not an actual posting.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "34fbee189296b066b0ac93678a35b68c",
+      "title": "312 vacatures voor tooling engineer in Capelle aan den IJssel ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/capelle-aan-den-ijssel-tooling-engineer-vacatures-SRCH_IL.0,22_IC3046936_KO23,39.htm",
+      "snippet": "312 vacature(s) voor Tooling engineer in Capelle aan den IJssel ... Saltwater Engineering B.V.. AI & Software Engineer. Dordrecht. \u20ac 4K - \u20ac 5K (opgegeven door ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:52:55.811685"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator for Tooling Engineer vacancies. While 'tooling engineer' could theoretically align with DevEx/AI tooling, this is just an aggregator page listing 312+ vacancies, not actual job postings with specific requirements.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "a52875bb4089124fcd1b5a3f697e4a3d",
+      "title": "59 vacatures voor Timing in Oosterhout, Noord-Brabant, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/timing-jobs-oosterhout",
+      "snippet": "Service Tooling Engineer Internship. Tesla. Tilburg 2 weken geleden. Lead Hardware Security Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-04T09:53:02.525890"
+    },
+    "score": 0,
+    "reason": "Job listing index page, not a specific role. No actionable job description available.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "e5e180bfa4dba30ceb9fb627c85e425c",
+      "title": "25+ vacatures voor Ai Ml Engineer en werk in Utrecht ... - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-ml-engineer-l-utrecht-vacatures.html?vjk=580073c30ddbe829",
+      "snippet": "Ai Ml Engineer vacatures in Utrecht (provincie). Ai Engineer, Machine Learning Engineer, Senior Data Scientist en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:53:06.789040"
+    },
+    "score": 0,
+    "reason": "Search results page listing multiple ML/Data Science roles. Not a specific job posting. Titles indicate ML Engineer, Data Scientist focus \u2014 not AI enablement/tooling roles.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "c158ac1c844909f3712ff11f1c73b474",
+      "title": "1.000+ vacatures voor Ai Developers en werk: 30 mei 2026 - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developers-vacatures.html",
+      "snippet": "Ai Developers vacatures. Software Trainer, Back End Developer, Platform Engineer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-04T09:53:13.976494"
+    },
+    "score": 0,
+    "reason": "Search results index page, not a specific role. No actionable job description.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "a0df5c2e2a1fe5398c34a0ac25c6f4db",
+      "title": "400+ vacatures voor Senior Software Engineer Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-senior-software-engineer-ai-vacatures.html",
+      "snippet": "Senior Software Engineer Ai vacatures. Ai Developer, Ai Engineer, Senior Data Scientist en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-04T09:53:13.976536"
+    },
+    "score": 0,
+    "reason": "Search results index page with mixed AI roles including Data Scientists. Not a specific posting; cannot evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "31ffcbacfee59aa7c328fe0edf144334",
+      "title": "software developer vacatures in amerika - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-software-developer-l-amerika-vacatures.html",
+      "snippet": "AI Driven Backend Developer ... Ontwikkelt en onderhoudt backend services binnen onze . Werkt aan data pipelines en verwerking voor AI-toepassingen. Integreert ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-04T09:53:13.976546"
+    },
+    "score": 0,
+    "reason": "Search results page. Location listed as 'amerika' (USA). Snippet mentions data pipelines and AI application backend work \u2014 suggests ML/data engineering, not AI adoption/tooling enablement.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "224f4f4d7b1e769e8c5ca5e267f96219",
+      "title": "AI Tooling Engineer in Utrecht bij bol | Magnet.me | #985813 (nl)",
+      "company": "Bol",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/985813/ai-tooling-engineer",
+      "snippet": "January 21, 2026 - Integrate and optimize AI tools (code assistants, MCPs) within developer workflows \u00b7 Design and maintain system integrations, ensuring they align with bol\u2019s architecture and GCP infrastructure \u00b7 Embed security and compliance, translating requirements into actionable solutions \u00b7 Enable engineers through guidelines, demos, workshops, and hands\u2011on support \u00b7 Measure adoption and impact to improve workflows and inform priorities",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-04T09:53:17.904984"
+    },
+    "score": 9,
+    "reason": "Exceptional match. AI Tooling Engineer at Bol in Utrecht. Explicitly mentions integrating AI tools (code assistants, MCPs), optimizing developer workflows, embedding security/compliance. No ML expertise required. Senior-level role focused on AI adoption enablement \u2014 exactly the candidate's target.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "171427b7a1ddbedd4f1f39574cf3d810",
+      "title": "252 vacatures voor Virginia Beach, VA - thuiswerk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/virginia-beach-va-software-engineer-software-developer-vacatures-SRCH_IL.0,17_IC1130324_KW18,54.htm",
+      "snippet": "Job Title: AI Full Stack Developer. Job Category: Information Technology. Time ... Experience with AI software development; AWS Certified; Experience in ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:53:21.385355"
+    },
+    "score": 0,
+    "reason": "Location: Virginia Beach, VA (USA). Candidate requires Utrecht/Netherlands proximity. Wrong geography.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "f26ca540771ea18fa40dc561274cf124",
+      "title": "423 vacatures voor Fort Worth, TX - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/fort-worth-tx-ai-prompt-vacatures-SRCH_IL.0,13_IC1139993_KW14,23.htm",
+      "snippet": "5 dagen geleden \u00b7 Junior Generative AI Application Developer. Irving, TX. US$ 85K - US$ 118K (opgegeven door werkgever). Technical Proficiency (Gen AI): Capable ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:53:21.385371"
+    },
+    "score": 0,
+    "reason": "Location: Fort Worth, TX (USA). Candidate requires Utrecht/Netherlands proximity. Wrong geography. Junior role ('Junior Generative AI Application Developer') below candidate's seniority level.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "a6c2eb79f6164e78352518c7642d7edc",
+      "title": "12 vacatures voor San Juan, PR - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/san-juan-pr-ai-machine-learning-engineer-vacatures-SRCH_IL.0,11_IC1141599_KW12,40.htm",
+      "snippet": "4,3. Senior Artificial Intelligence (AI) Developer. Verenigde Staten. Bachelor's degree in Computer Science, Data Science, Mathematics, or a related technical ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-04T09:53:21.385385"
+    },
+    "score": 0,
+    "reason": "Location: San Juan, PR (USA). Candidate requires Utrecht/Netherlands proximity. Wrong geography. Role requires Bachelor's in Computer Science/Data Science \u2014 suggests ML/AI specialist track, not web developer background.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "6a9847d83e6dab3f43523cac209e6372",
+      "title": "Vind jouw perfecte baan, traineeship of stage | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/",
+      "snippet": "Chat met jouw AI coach en ontdek welke baan bij je past, oefen je sollicitaties en zet je volgende stap met vertrouwen.Op Magnet.me vind je meer dan 30.000 vacatures.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-04T09:53:25.960303"
+    },
+    "score": 0,
+    "reason": "Platform homepage, not a job listing. No specific role to evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "2b623dbb5c4c800a5eae71dc40aeac0d",
+      "title": "Data & AI Strategy Consultant in... | Magnet.me | #963159 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/963159/data---ai-strategy-consultant",
+      "snippet": "Are you passionate about guiding organizations through their Data & AI transformation journey? Do you thrive on solving complex business challenges, shaping strategy, and leading teams to deliver measurable impact? As a Data & AI Strategy Consultant\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-04T09:53:25.960353"
+    },
+    "score": 5,
+    "reason": "Data & AI Strategy Consultant could align with AI adoption and transformation, but 'Data & AI Strategy' typically implies data science/ML pipeline work. Unknown location is a concern. Unclear if this is about enabling dev teams with AI tools vs. building data/ML systems.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "8fc6d6d5a85e064433b2b3cb2ec10bd3",
+      "title": "12.000+ vacatures voor Marketing en werk: 3 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-marketing-vacatures.html",
+      "snippet": "Enthousiast en meer informatie? Upload jouw cv en motivatie t.a.v. June Bonnet, corporate recruiter. De sluitingsdatum van deze vacature is dinsdag 9 juni. De eerste sollicitatiegesprekken vinden plaats op donderdag 11 juni en donderdag 18 juni. Vragen over de procedure?",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-04T09:53:30.198810"
+    },
+    "score": 0,
+    "reason": "Generic marketing job listing aggregate page, not a specific job opening. No relevant information provided. Not a real job match.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
   }
 ]
