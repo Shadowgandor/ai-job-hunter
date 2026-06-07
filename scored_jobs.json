@@ -10318,5 +10318,421 @@
     "reason": "Aggregate job search page, not a specific listing. Cannot evaluate. Appears to be a search results page rather than an individual job posting.",
     "embed_sim": 0.0,
     "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "3f53f1921f6d0a6e4072ffecc39857ec",
+      "title": "Thesis Internship: Scaling AI within the... | Magnet.me | #975937 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/975937/thesis-internship--scaling-ai-within-the-communication-industry.",
+      "snippet": "Practical Experience. Besides writing your thesis on one of the fastest growing areas in the technology world, you will have the opportunity to learn about the newest disrupting methodologies and technologies. You will also work on the topic of \u201cBusiness Process Management.\u201d",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:52:11.943271"
+    },
+    "score": 0,
+    "reason": "Thesis internship position - candidate explicitly doesn't want traineeships/internships. Also appears to be academic research rather than practical AI adoption work.",
+    "embed_sim": 0.339614599943161,
+    "ai_native_score": 0.6112310290336609
+  },
+  {
+    "job": {
+      "id": "066ac7d694dfd24238b1cd9a0a67660f",
+      "title": "Internship AI & Design in Utrecht bij bol | Magnet.me | #879913 (nl)",
+      "company": "Bol",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/879913/internship-ai---design",
+      "snippet": "As an AI Design Intern, you\u2019ll join bol\u2019s in-house creative agency: burobol. Here, you\u2019ll gain design experience in a diverse team of producers, copywriters, creatives, project and event managers, and of course, fellow designers.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:52:11.943289"
+    },
+    "score": 0,
+    "reason": "AI Design Intern position at bol - internship role focused on creative design, not engineering AI adoption. Candidate explicitly excludes intern/traineeship positions.",
+    "embed_sim": 0.38565027713775635,
+    "ai_native_score": 0.7067661285400391
+  },
+  {
+    "job": {
+      "id": "bc9d1cb3bbdee67212ef280c1208334a",
+      "title": "27 ai developer technology engineer Jobs in Netherlands, March 2026 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.com/Job/netherlands-ai-developer-technology-engineer-jobs-SRCH_IL.0,11_IN178_KO12,44.htm",
+      "snippet": "Search Ai developer technology engineer jobs in Netherlands with company ratings & salaries. 27 open jobs for Ai developer technology engineer in Netherlands.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:52:19.431286"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page (Glassdoor listing search), not an actual job posting. Cannot evaluate without specific job details.",
+    "embed_sim": 0.5425609350204468,
+    "ai_native_score": 0.687924861907959
+  },
+  {
+    "job": {
+      "id": "a44356c22201966ede904fd958665f8a",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 21 maart 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html",
+      "snippet": "Zoeken op salaris: Digital & AI Traineeship salarissen in Utrecht \u00b7 Zie veelgestelde vragen en antwoorden over a.s.r. In plaats van alleen maar bij te dragen aan winstmaximalisatie, bouw je aan technologie die onze samenleving veiliger, eerlijker en autonomer maakt. Alle vacatures voor TNO - Groningen vacatures - vacatures voor Developer (m/v) in Groningen bekijken",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:52:19.431298"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page (Indeed listing search), not a specific job posting. Cannot evaluate without concrete job details.",
+    "embed_sim": 0.27596235275268555,
+    "ai_native_score": 0.6235640645027161
+  },
+  {
+    "job": {
+      "id": "d0a665d546ea6dafd4d5b69f24afd02e",
+      "title": "100+ vacatures voor Machine Learning Engineer en werk: 24 mei 2025",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Machine-Learning-Engineer-vacatures",
+      "snippet": "Machine Learning Engineer, Data Scientist, R&D Engineer en meer op Indeed.com.A team of talented and ambitious ML engineers. Your research and implementation will contribute directly to real-world applications, working closely with our AI\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-07T08:52:28.063395"
+    },
+    "score": 0,
+    "reason": "Machine Learning Engineer focus - requires ML expertise (model training, implementation). Explicitly what candidate does NOT want. Generic search results page anyway.",
+    "embed_sim": 0.4283026456832886,
+    "ai_native_score": 0.5224220752716064
+  },
+  {
+    "job": {
+      "id": "139315fcf8b562f59120e355eae1b84a",
+      "title": "Stage Internship Artificial Intelligence - vacatures - 24 april 2025 | Indeed",
+      "company": "Indeed",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/Stage-Internship-Artificial-Intelligence-vacatures",
+      "snippet": "Alle vacatures voor Almende - Rotterdam vacatures - vacatures voor Deep Learning Engineer in Rotterdam bekijken.Designing and building a tool that uses AI technology. Partnering with Bouwgrondvinden.nl to locate building land for new projects.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-07T08:52:28.063411"
+    },
+    "score": 0,
+    "reason": "Internship position (candidate explicitly excludes). Also appears to focus on building AI tools rather than enabling team adoption of existing AI tools.",
+    "embed_sim": 0.35391879081726074,
+    "ai_native_score": 0.5263058543205261
+  },
+  {
+    "job": {
+      "id": "aeddb0c0c527704307abc3e74d0f26c7",
+      "title": "Tkh Artificial Intelligence - vacatures - 18 april 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-tkh-artificial-intelligence-vacatures.html",
+      "snippet": "As an AI engineer at TKH Artificial Intelligence, you will be at the forefront of developing and implementing AI solutions across TKH's global technology portfolio. You'll work across the full AI development lifecycle\u2014from data preparation and model development to deployment...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-07T08:52:28.063426"
+    },
+    "score": 2,
+    "reason": "TKH AI role emphasizes data preparation, model development, deployment - core ML/data science work. Requires deep AI development lifecycle experience, not AI adoption/enablement focus. Wrong skill match.",
+    "embed_sim": 0.312502920627594,
+    "ai_native_score": 0.5721638798713684
+  },
+  {
+    "job": {
+      "id": "3bef776efff66c7ec074d90a53877ead",
+      "title": "People Consultant in Amsterdam bij EY | Magnet.me | #1044818 (nl)",
+      "company": "Ey",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1044818/people-consultant",
+      "snippet": "... AI adoption, and Talent & Skills. As a people consultant you will work on various projects related to these competences. In this role, you ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:52:35.154500"
+    },
+    "score": 1,
+    "reason": "People Consultant at EY - HR/organizational role, not technical engineering position. While mentions AI adoption, it's from a talent/people perspective, not developer-facing AI tooling adoption.",
+    "embed_sim": 0.3527044653892517,
+    "ai_native_score": 0.6810324788093567
+  },
+  {
+    "job": {
+      "id": "a0349fea69912d5eaa40d16ea4eb861e",
+      "title": "Head of AI Europe for Insights & Data - Capgemini - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1045277/head-of-ai-europe-for-insights---data",
+      "snippet": "2 dagen geleden \u00b7 Build trusted relationships with C-suite and Board-level stakeholders. Ensure consistent adoption of industrialised AI delivery patterns, ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:52:35.154511"
+    },
+    "score": 3,
+    "reason": "Head of AI Europe role - too senior/executive for candidate profile, data-focused (Insights & Data division), appears to emphasize industrialized AI delivery patterns and C-suite relationships rather than hands-on developer team enablement. Wrong division focus.",
+    "embed_sim": 0.4123028516769409,
+    "ai_native_score": 0.6793873906135559
+  },
+  {
+    "job": {
+      "id": "46d16323a54d56a8439a586cb2e1ae3c",
+      "title": "146 vacature (s) voor Adoption specialist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-specialist-vacatures-SRCH_IL.0,9_KO10,29.htm",
+      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 146 vacatures voor Adoption specialist in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:52:40.491554"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator (Glassdoor adoption specialist search), not a specific job posting. Cannot evaluate without concrete details.",
+    "embed_sim": 0.1956711858510971,
+    "ai_native_score": 0.6204668879508972
+  },
+  {
+    "job": {
+      "id": "32724434d2fe19ea2355d3da91c02e7c",
+      "title": "AI Specialist in Utrecht bij Strukton | Magnet.me",
+      "company": "Strukton",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1045785/ai-specialist",
+      "snippet": "Werken als AI Specialist bij Strukton Ben jij een AI-fanaat die gelooft in slimmer, effici\u00ebnter en leuker werken met technologie? Wil jij AI concreet maken op de werkvloer en collega's begeleiden in het gebruik ervan? Dan is deze rol bij Strukton jou op het lijf geschreven! Als AI Specialist geef jij AI een gezicht binnen onze organisatie - met jouw kennis van technologie \u00e9n coachende ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:52:40.491573"
+    },
+    "score": 7,
+    "reason": "AI Specialist role focused on making AI concrete on the work floor and guiding colleagues in usage \u2014 aligns with adoption/enablement. Utrecht location is ideal. Missing specific details on technical stack and seniority level, but core mission matches well.",
+    "embed_sim": 0.29918548464775085,
+    "ai_native_score": 0.6665194034576416
+  },
+  {
+    "job": {
+      "id": "e40cd827c83a71b3c8284f4fd1bf244d",
+      "title": "19 vacatures voor Wilberforce, OH - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/wilberforce-oh-adoption-vacatures-SRCH_IL.0,14_IC1145966_KW15,23.htm",
+      "snippet": "... Vacatures in Dayton, OHVacatures bij SICSA Pet Adoption Center in Dayton, OH ... Din\u00e9 Development Corporation. 3,3. AI Adoption & Enablement Specialist. Dayton ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:52:43.868613"
+    },
+    "score": 0,
+    "reason": "Location is Dayton, OH (USA), far outside Utrecht/40km radius. Candidate requires Netherlands-based role.",
+    "embed_sim": 0.10317986458539963,
+    "ai_native_score": 0.48693525791168213
+  },
+  {
+    "job": {
+      "id": "c2acccb0d8f04e00d352d3637489c022",
+      "title": "13 vacatures voor inclusive ai strategies in Armena, GA - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/armena-inclusive-ai-strategies-vacatures-SRCH_IL.0,6_IC3826982_KO7,30.htm",
+      "snippet": "Zoek vacatures voor Inclusive ai strategies in Armena, GA met bedrijfsreviews en salarissen. 13 vacatures voor Inclusive ai strategies in Armena.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:52:43.868628"
+    },
+    "score": 0,
+    "reason": "Location is Armena, GA (USA), far outside Utrecht/40km radius. Candidate requires Netherlands-based role.",
+    "embed_sim": 0.3026624917984009,
+    "ai_native_score": 0.7440356612205505
+  },
+  {
+    "job": {
+      "id": "2d2f215d4238aee405a7e86a42d62818",
+      "title": "50+ vacatures voor Artificial Intelligence Specialist en werk: 18 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-specialist-vacatures.html",
+      "snippet": "Artificial Intelligence Specialist vacatures. Specialist, Consultant Automation, Internship Software Development en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-07T08:52:47.487642"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.43303364515304565,
+    "ai_native_score": 0.7097393274307251
+  },
+  {
+    "job": {
+      "id": "4222c67f914017ceacc774fd8d45fa01",
+      "title": "653 vacatures voor tooling engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-tooling-engineer-vacatures-SRCH_IL.0,9_IC3057018_KO10,26.htm",
+      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 653 vacatures voor Tooling engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:52:51.257387"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.22412638366222382,
+    "ai_native_score": 0.6228920221328735
+  },
+  {
+    "job": {
+      "id": "35f40fdc4ea0aa5e26885c1a3af4a1f5",
+      "title": "515 vacatures voor Tooling engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/tooling-engineer-vacatures-SRCH_KO0,16.htm",
+      "snippet": "Zoek naar vacatures voor Tooling engineer. Zoek de juiste vacature voor Tooling engineer met bedrijfsreviews en salarissen. 515 vacatures voor Tooling engineer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:52:51.257409"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.27234214544296265,
+    "ai_native_score": 0.6763258576393127
+  },
+  {
+    "job": {
+      "id": "8050341c804f3881aeba3eb6ddf587bc",
+      "title": "722 vacatures voor tooling engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-tooling-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,26.htm",
+      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 722 vacatures voor Tooling engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:52:51.257419"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.21434597671031952,
+    "ai_native_score": 0.5878887176513672
+  },
+  {
+    "job": {
+      "id": "6cffb407dbfb9456fd5693bbd70d91e7",
+      "title": "Werken in AI - Vacatures voor AI banen in Nederland",
+      "company": "Vacatures voor AI banen in Nederland",
+      "location": "",
+      "url": "https://werkeninai.nl/page/2/",
+      "snippet": "Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI.Junior Machine Learning Engineer Operations \u2013 Albert Heijn.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-07T08:52:57.848500"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.3711767792701721,
+    "ai_native_score": 0.7919662594795227
+  },
+  {
+    "job": {
+      "id": "38f2fbe68a355e93d9063a035ba9ff40",
+      "title": "244 vacatures voor artificial intelligence in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-vacatures-SRCH_IL.0,9_IN178_KO10,33.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence in Nederland met bedrijfsreviews en salarissen. 244 vacatures voor Artificial intelligence in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:53:02.904686"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
+    "embed_sim": 0.24083222448825836,
+    "ai_native_score": 0.6681137084960938
+  },
+  {
+    "job": {
+      "id": "bd1cb2c868de52325b013b56d3b7d376",
+      "title": "10 big data engineer vacatures in Dordrecht | 2 juni 2026",
+      "company": "2 juni 2026",
+      "location": "Rotterdam",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/big-data-engineer/in-dordrecht",
+      "snippet": "Principal Full-Stack Data Engineer. Apply. Eneco - Rotterdam. > 5 jaar. 40 uur. Data & AI. \u20ac93.000 - \u20ac150.000. Principal Full-Stack Data Engineer.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-07T08:53:02.904742"
+    },
+    "score": 0,
+    "reason": "Principal Full-Stack Data Engineer role focused on big data pipelines and data engineering \u2014 this is ML/data science domain, not AI adoption enablement. Wrong role type entirely.",
+    "embed_sim": 0.23637154698371887,
+    "ai_native_score": 0.3946608006954193
+  },
+  {
+    "job": {
+      "id": "b20f51e7c5b325aa64f058f71ed5c8b3",
+      "title": "AI Engineer in Amsterdam bij KPN New Business | Magnet.me",
+      "company": "Kpn New Business",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1044329/ai-engineer",
+      "snippet": "Ben jij een ervaren AI-professional met een passie voor Generatieve AI en automatisering? Sluit je aan bij het AI for Corporate team van KPN. Jouw rol als AI Engineer Ben jij een AI-engineer die net zo makkelijk met business-stakeholders schakelt als met technische teams? Iemand die energie krijgt van co-cre\u00ebren met de business, processen doorgronden, kansen spotten \u00e9n oplossingen bedenken ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:53:06.569343"
+    },
+    "score": 4,
+    "reason": "AI Engineer role at KPN in Amsterdam \u2014 likely focused on building/deploying AI solutions rather than enabling team adoption. Amsterdam is acceptable location, but role description suggests product/solution development, not AI tooling adoption coaching. Generative AI focus is relevant but unclear if this is about internal enablement or external products.",
+    "embed_sim": 0.44425567984580994,
+    "ai_native_score": 0.6929892301559448
+  },
+  {
+    "job": {
+      "id": "08f99791b6ff6b216843e530c1570e57",
+      "title": "Data Steward & AI Enablement Specialist (all genders)",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/949044/data-steward---ai-enablement-specialist--all-genders-",
+      "snippet": "You will collaborate closely with scientists, analysts, and engineers to promote best practices in data management and support the adoption of AI tools for research, operations, and decision-making. As part of our growing Data Team at HUB Organoids, you will work with cutting-edge organoid data and support client projects.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-07T08:53:06.569392"
+    },
+    "score": 2,
+    "reason": "Data Steward & AI Enablement Specialist at HUB Organoids \u2014 title mentions 'AI Enablement' which is promising, but context suggests scientific/research organization focused on organoid data management. Likely requires data science background and research domain expertise, not web developer focused on dev team AI tooling adoption. Location unknown, likely not near Utrecht.",
+    "embed_sim": 0.4917253851890564,
+    "ai_native_score": 0.6415970325469971
+  },
+  {
+    "job": {
+      "id": "0599b643f7ff5578a847705627b1c394",
+      "title": "Vacatures voor Adyen in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/adyen-jobs?position=1&pageNum=0",
+      "snippet": "Senior Enterprise Applications Engineer.Staff Engineer - Payments Settlement and Reconciliation.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-07T08:53:10.433201"
+    },
+    "score": 0,
+    "reason": "Generic Adyen jobs listing page with no specific role details. Adyen is payments/fintech company but listing shows only senior/staff engineer roles in payments domain. No evidence this is AI-focused or an actual open position with details.",
+    "embed_sim": 0.25023800134658813,
+    "ai_native_score": 0.5774908661842346
+  },
+  {
+    "job": {
+      "id": "811ec0697262055b3b49ba20e34c0c06",
+      "title": "Data & AI specialist - NS - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Utrecht",
+      "url": "https://werkeninai.nl/data-ai-specialist-ns/",
+      "snippet": "Data & AI specialist - NS Vacature: De NS in Utrecht zoekt een Data & AI specialist voor 32 tot 36 uur per week | Salaris: van \u20ac 4.190,- tot \u20ac 7.015,- per maand | Sluitingsdatum: 24 oktober 2024. Maak jij als Data & AI specialist graag de vertaalslag? Sla dan nu j\u00f3uw slag en geef de data & AI strategie verder vorm in deze rol bij ComIT!",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-07T08:53:18.977600"
+    },
+    "score": 3,
+    "reason": "Data & AI specialist at NS in Utrecht \u2014 good location (Utrecht), but 'Data & AI specialist' typically implies data science/analytics background. Role description mentions 'vertaalslag' (translation) suggesting strategy work, but NS is likely seeking someone with data/AI technical depth, not web developer AI adoption champion. Likely requires Python/data science experience.",
+    "embed_sim": 0.3698299825191498,
+    "ai_native_score": 0.6061872839927673
+  },
+  {
+    "job": {
+      "id": "37651c3061677c870950c03acab2d668",
+      "title": "47 vacatures voor Under Armour in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/under-armour-jobs?position=1&pageNum=0",
+      "snippet": "Agility: Experience in high-growth or fast-paced environments (e.g., scale-ups or top-tier global brands).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-07T08:53:24.416930"
+    },
+    "score": 0,
+    "reason": "Generic Under Armour jobs listing page with no specific role details or AI focus mentioned. Not an actual job posting with substantive information.",
+    "embed_sim": 0.1543298363685608,
+    "ai_native_score": 0.5354165434837341
+  },
+  {
+    "job": {
+      "id": "cced2a95f6a68b67218cfd3301e21573",
+      "title": "369 vacatures voor ai engineer in Rotterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Rotterdam",
+      "url": "https://www.glassdoor.nl/Vacature/rotterdam-ai-engineer-vacatures-SRCH_IL.0,9_IC3049255_KO10,21.htm",
+      "snippet": "Zoek vacatures voor Ai engineer in Rotterdam met bedrijfsreviews en salarissen. 369 vacatures voor Ai engineer in Rotterdam.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-07T08:53:28.655328"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor search results page for 'AI engineer Rotterdam' with no specific job listings or details. Rotterdam is too far from Utrecht (>40km). Not an actual job posting.",
+    "embed_sim": 0.26936984062194824,
+    "ai_native_score": 0.574272096157074
   }
 ]
