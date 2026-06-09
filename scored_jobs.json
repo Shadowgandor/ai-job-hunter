@@ -11166,5 +11166,437 @@
     "reason": "Location is Eindhoven (160km+ from Utrecht, outside 40km preference). Role is 'Data Scientist \u2013 Agentic AI Engineer' requiring 'strong expertise in Agentic AI, Generative AI and Machine Learning Engineering' \u2014 this is ML/model-building work, not AI tool adoption/enablement for dev teams.",
     "embed_sim": 0.49283963441848755,
     "ai_native_score": 0.7277783155441284
+  },
+  {
+    "job": {
+      "id": "7a65bb9499a8a51570a0e742d304dc2c",
+      "title": "47 vacatures voor valuation analyst in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-valuation-analyst-vacatures-SRCH_IL.0,9_IN178_KO10,27.htm",
+      "snippet": "Vacatures voor analist (m/v/x) in Nederland Vacatures bij Forvis Mazars Group in Nederland.In the context of project work and client acquisition, you create meaningful presentations that get to the point and present complex content in an understandable way.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-09T09:35:47.041622"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not an actual job posting. Valuation analyst role unrelated to AI enablement.",
+    "embed_sim": 0.1229853481054306,
+    "ai_native_score": 0.5396224856376648
+  },
+  {
+    "job": {
+      "id": "25d269b9462124e0a52a92b71369ba1a",
+      "title": "Area Work - vacatures - 30 mei 2023 | Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/vacatures?q=Area+Work&sc=0kf:occ(NPKCD);",
+      "snippet": "Werkgevers / Plaats vacature. Begin van hoofdcontent. Wat. Waar. Vacatures zoeken.You will have time off on various holidays when many other colleagues in the hospitality industry have to work!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-09T09:35:47.041657"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page, not an actual job posting. Hospitality industry focus unrelated to candidate profile.",
+    "embed_sim": 0.024507179856300354,
+    "ai_native_score": 0.43595078587532043
+  },
+  {
+    "job": {
+      "id": "526e63a8d6833793a2dc48fe19820019",
+      "title": "Locations - TP Nederland",
+      "company": "TP Nederland",
+      "location": "",
+      "url": "https://jobs.teleperformance.nl/en/locations",
+      "snippet": "Vacatures. Working at.Read more about our different locations here and find a suitable work location near you. Working Abroad. TP Nederland /Locations. Zoetermeer branch. Ierlandlaan 45 | 2713 HH.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-09T09:35:47.041674"
+    },
+    "score": 0,
+    "reason": "Generic company locations/careers page, not an actual job posting. Teleperformance is a contact center company.",
+    "embed_sim": 0.16088423132896423,
+    "ai_native_score": 0.5563098788261414
+  },
+  {
+    "job": {
+      "id": "faad4e883c78824cf7306f2dccb76ca5",
+      "title": "Glassdoor Vacature zoeken | Ga voor een baan die je verdient",
+      "company": "Ga voor een baan die je verdient",
+      "location": "",
+      "url": "https://www.glassdoor.nl/",
+      "snippet": "Zoek in miljoenen vacatures en neem een kijkje achter de schermen bij bedrijven via bedrijfsreviews, salarisinformatie en meer. Ben je actief aan het werven? Plaats een gratis vacature.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-09T09:35:51.363161"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor job search landing page, not an actual job posting.",
+    "embed_sim": 0.009954695589840412,
+    "ai_native_score": 0.5134048461914062
+  },
+  {
+    "job": {
+      "id": "ab869dd2d202e14301c605c97a41ef5a",
+      "title": "248 vacatures voor nlp in Haiderabad | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/haiderabad-nlp-vacatures-SRCH_IL.0,10_IC2865319_KO11,14.htm",
+      "snippet": "Artificial Intelligence (AI) Specialist. Haiderabad. \u20b9 400K - \u20b9 800K (Schat. van Glassdoor).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-09T09:35:51.363206"
+    },
+    "score": 0,
+    "reason": "NLP/AI roles in Hyderabad, India. Wrong location entirely (candidate based in Netherlands, Utrecht area). Also likely requires ML expertise.",
+    "embed_sim": 0.25995609164237976,
+    "ai_native_score": 0.6477946639060974
+  },
+  {
+    "job": {
+      "id": "2b39fd53b92aa269f74529b4a52fda71",
+      "title": "Vacatures voor Artificial intelligence in India, September... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/india-artificial-intelligence-vacatures-SRCH_IL.0,5_IN115_KO6,29.htm",
+      "snippet": "The ideal candidate will be passionate about artificial intelligence and stay up-to-date with the latest developments in the field.\u2026We are looking for AI trainer for our reputed clients whose focus is only training corporate employees in various platforms are looking for external / freelance\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-09T09:35:51.363220"
+    },
+    "score": 0,
+    "reason": "AI roles in India. Wrong location entirely. Generic job search results page, not a specific posting.",
+    "embed_sim": 0.3812190592288971,
+    "ai_native_score": 0.6202823519706726
+  },
+  {
+    "job": {
+      "id": "add414834c1706589622809f72cdd1cb",
+      "title": "Stage Artificial Intelligence jobs in Netherlands - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/stage-artificial-intelligence-jobs",
+      "snippet": "Today's top Stage Artificial Intelligence jobs in Netherlands. Leverage your professional network, and get hired. New Stage Artificial Intelligence jobs added daily.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:35:55.270658"
+    },
+    "score": 0,
+    "reason": "Generic LinkedIn internship search results page, not a specific job posting. Candidate explicitly doesn't want traineeships/internships.",
+    "embed_sim": 0.38785475492477417,
+    "ai_native_score": 0.598361611366272
+  },
+  {
+    "job": {
+      "id": "728e3587f4a484af26fa2a2630db561a",
+      "title": "Philips zoekt een Intern Consultancy data modelling in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/intern-consultancy-data-modelling-at-philips-4415664164",
+      "snippet": "May 18, 2026 \u00b7 You are studying towards your University Master in: Mathematics, Statistics, Data Sciences, Computer Science, Analytics, Engineering, or a related field. Experience in analysing large sets of...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:35:55.270722"
+    },
+    "score": 0,
+    "reason": "Internship position at Philips in data modelling. Candidate explicitly rejects junior/intern positions. Requires Master's degree in Data Science/Statistics.",
+    "embed_sim": 0.24804091453552246,
+    "ai_native_score": 0.5139377117156982
+  },
+  {
+    "job": {
+      "id": "c1171467fd7e598aa26475292c638a4a",
+      "title": "Machine Learning Engineer - Achmea - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/machine-learning-engineer-achmea/",
+      "snippet": "Over deze vacature. Voor ons Pricing team zoeken we een enthousiast en veelzijdig Machine Learning Engineer / Python Developer.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-09T09:35:59.747056"
+    },
+    "score": 2,
+    "reason": "Machine Learning Engineer at Achmea requiring Python/ML expertise for pricing models. Focuses on building ML systems, not enabling team AI adoption. Requires deep ML/Python background candidate explicitly doesn't have.",
+    "embed_sim": 0.449340283870697,
+    "ai_native_score": 0.5986655354499817
+  },
+  {
+    "job": {
+      "id": "241e12eda7fd03d0f29776f0a5f76a7f",
+      "title": "Ai engineer vacatures in Utrecht (provincie) - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Als onze AI Customer Service Engineer speel je een sleutelrol in het verbeteren, testen en onderhouden van de AI-tools die de effici\u00ebntie van onze ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-09T09:36:03.917423"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page for Utrecht area, not a specific job posting. URL shows search results aggregation, not individual job details.",
+    "embed_sim": 0.263274222612381,
+    "ai_native_score": 0.6889398097991943
+  },
+  {
+    "job": {
+      "id": "7fc3e248defd42f04de00dbc3348d988",
+      "title": "Werken bij Magnet.me | Vacatures | Magnet.me (nl)",
+      "company": "Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/magnet.me",
+      "snippet": "Magnet.me is the AI-powered career network transforming recruitment from one-time transactions into lasting connections, so today\u2019s near-miss can become tomorrow\u2019s perfect match. Companies build GDPR-proof talent communities, engage automatically with up-to-date profiles, and hire faster without paying twice to reach the same person. Professionals grow their careers with AI guidance and stay ahead of opportunities.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-09T09:36:08.185257"
+    },
+    "score": 0,
+    "reason": "Company profile page, not a specific job listing. No vacancy information provided.",
+    "embed_sim": 0.36161524057388306,
+    "ai_native_score": 0.5778629779815674
+  },
+  {
+    "job": {
+      "id": "c3c75160ddbe6da07da333afc5a4a2f1",
+      "title": "Product Owner - AI in Amsterdam bij bunq | Magnet.me | #870818 (nl)",
+      "company": "Bunq",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/870818/product-owner---ai",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... At bunq, we\u2019re on a mission to revolutionize the world of banking and Make Life Easy for our users. With Finn, we\u2019re making everyday banking tasks simpler and more accessible for everyone. Join us, and take the lead in driving AI innovation at a fast-growing fintech company that\u2019s reshaping the future of finance.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-09T09:36:08.185274"
+    },
+    "score": 2,
+    "reason": "Product Owner role focused on building AI products (banking/Finn), not enabling dev teams to adopt AI tools. Wrong focus area.",
+    "embed_sim": 0.24868863821029663,
+    "ai_native_score": 0.4782528579235077
+  },
+  {
+    "job": {
+      "id": "f095dcd9e201cbbb26ab37896b742380",
+      "title": "Werken bij DeepMind | Vacatures | Magnet.me (nl)",
+      "company": "Deepmind",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/deepmind",
+      "snippet": "DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems. ... Maak een profiel aan en ontvang connectieverzoeken van ge\u00efnteresseerde bedrijven. ... Er zijn momenteel geen vacatures bij DeepMind.Kijk binnenkort nog eens.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-09T09:36:08.185310"
+    },
+    "score": 0,
+    "reason": "Company profile page with no current vacancies ('Er zijn momenteel geen vacatures'). Listing is closed/unavailable.",
+    "embed_sim": 0.22320163249969482,
+    "ai_native_score": 0.6579865217208862
+  },
+  {
+    "job": {
+      "id": "7c85de8727bc8be0f8d0e2bb1dfa7965",
+      "title": "Albert Heijn zoekt een Artificial Intelligence Engineer in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-albert-heijn-4422333243",
+      "snippet": "Familiarity with Agile ways of working and a strong focus on delivering incremental value. Optional but valuable: experience with Oracle PL/SQL or legacy system integration. Excellent communication skills with the ability to lead, coach, and inspire teams in adopting new technologies, including AI-first practices. Fluent in English.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:36:20.079310"
+    },
+    "score": 4,
+    "reason": "AI Engineer role at Albert Heijn with some coaching/team adoption language, but likely requires ML expertise. Location unknown. Insufficient detail to confirm it's an AI enablement role vs. building ML systems.",
+    "embed_sim": 0.4250164330005646,
+    "ai_native_score": 0.7183268070220947
+  },
+  {
+    "job": {
+      "id": "ec24d70800c0d126175b55a7a8f59207",
+      "title": "ADC Consulting zoekt een Consultant | GenAI Engineer in ...",
+      "company": "GenAI Engineer in ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/consultant-genai-engineer-at-adc-consulting-4411875250",
+      "snippet": "At ADC, we\u2019re not just consultants: we\u2019re leading experts in Data & AI using our expertise in AI,Data, Cloud, and Agentic Engineering. What unites us is a shared way of working: breaking down complex challenges to change how organisations operate.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:36:20.079340"
+    },
+    "score": 2,
+    "reason": "GenAI Engineer consultant role focused on Data & AI expertise, agentic engineering, and complex challenges. Signals ML/data science background required, not AI tool adoption for dev teams.",
+    "embed_sim": 0.4819217324256897,
+    "ai_native_score": 0.6172235012054443
+  },
+  {
+    "job": {
+      "id": "2f37bfe1cb8b6682b3995837739256b5",
+      "title": "3D-PharmXchange zoekt een (Junior) AI/IT Specialist in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/junior-ai-it-specialist-at-3d-pharmxchange-4422414680?position=2&pageNum=0",
+      "snippet": "As IT & AI Solutions Specialist, you will play a key role in shaping and implementing our digital and AI strategy. You will work at the intersection of technology, business processes, and consulting services, helping us to use AI in a way that is effective, responsible, and aligned with the needs of a regulated life sciences environment.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:36:20.079353"
+    },
+    "score": 3,
+    "reason": "Junior-level AI/IT Specialist focused on digital and AI strategy implementation. Junior level doesn't match candidate's seniority. Unclear if this is about tool adoption or building AI systems.",
+    "embed_sim": 0.43191856145858765,
+    "ai_native_score": 0.6198765635490417
+  },
+  {
+    "job": {
+      "id": "fb70483baf3d5f6fa984f56cd44e1a8d",
+      "title": "Levy Professionals zoekt een IAM Architect in Amsterdam ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/iam-architect-at-levy-professionals-4413966118",
+      "snippet": "Our strength lies in the way we see and treat people - and this will continue to remain a key factor in our strategy for many years to come.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:36:20.079362"
+    },
+    "score": 0,
+    "reason": "IAM Architect role. Completely unrelated to AI tool adoption or development enablement. Wrong domain.",
+    "embed_sim": 0.24654662609100342,
+    "ai_native_score": 0.6500158905982971
+  },
+  {
+    "job": {
+      "id": "1d81c715bcaaeb1fdd6f0b4941d436d9",
+      "title": "Arcadis zoekt een Global Digital & AI Transformation ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/global-digital-ai-transformation-director-asset-management-at-arcadis-4419296692?position=44&pageNum=0",
+      "snippet": "Demonstrated experience driving organizational change and broad adoption of new digital and AI capabilities, tools and ways of working across global and local teams.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-09T09:36:20.079372"
+    },
+    "score": 6,
+    "reason": "Digital & AI Transformation Director with stated focus on 'adoption of new digital and AI capabilities, tools and ways of working.' Aligns with champion/transformation concept. However, director-level may be overqualified, location unknown, and could involve broader organizational change beyond dev team enablement.",
+    "embed_sim": 0.36063092947006226,
+    "ai_native_score": 0.6648439764976501
+  },
+  {
+    "job": {
+      "id": "464ac65e21130bd23b547263e6205e43",
+      "title": "Senior Machine Learning Engineer - Adyen - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/senior-machine-learning-engineer-adyen/",
+      "snippet": "Adyen is looking for a Senior Machine Learning Engineer to join our team in Amsterdam, a person sitting at the cornerstone of algorithms, mathematics, and ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-09T09:36:23.514684"
+    },
+    "score": 0,
+    "reason": "Senior Machine Learning Engineer role focused on 'algorithms, mathematics' and ML engineering. Pure ML/data science position. Explicitly NOT a match for AI tool adoption champion.",
+    "embed_sim": 0.42266497015953064,
+    "ai_native_score": 0.6019627451896667
+  },
+  {
+    "job": {
+      "id": "044f02737617af294f3b5c8d6b447be0",
+      "title": "Junior Machine Learning Engineer Digital - Albert Heijn - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/junior-machine-learning-engineer-digital-albert-heijn/",
+      "snippet": "Vacature: Albert Heijn in Zaandam zoekt een Junior Machine Learning Engineer Digital voor 40 uur per week | Salaris: max. \u20ac4.000 |",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-09T09:36:23.514709"
+    },
+    "score": 0,
+    "reason": "Junior Machine Learning Engineer role. Wrong seniority level (candidate is senior). Pure ML/data science position, not AI tool adoption. Explicitly NOT a match.",
+    "embed_sim": 0.39777860045433044,
+    "ai_native_score": 0.6517897248268127
+  },
+  {
+    "job": {
+      "id": "21cd6179ba12077a4a6df92b825a05fc",
+      "title": "1.356 vacatures voor ai scientist in Bengaluru | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/bengaluru-ai-scientist-vacatures-SRCH_IL.0,9_IC2940587_KO10,22.htm",
+      "snippet": "Zoek vacatures voor Ai scientist in Bengaluru met bedrijfsreviews en salarissen. 1.356 vacatures voor Ai scientist in Bengaluru.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-09T09:36:26.973633"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page for AI Scientists in Bengaluru, India. Not a specific job opening. Wrong location (India, not Netherlands). Wrong role type (data science, not AI adoption).",
+    "embed_sim": 0.2965617775917053,
+    "ai_native_score": 0.631210446357727
+  },
+  {
+    "job": {
+      "id": "278832baa7f50cf9b0d659dca0476f2d",
+      "title": "740 vacatures voor machine learning software engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/duitsland-machine-learning-software-engineer-vacatures-SRCH_IL.0,9_IN96_KO10,44.htm",
+      "snippet": "Vacatures voor desktop engineer in Wiesbaden Vacatures in Wiesbaden Vacatures bij General Dynamics Information Technology in Wiesbaden.Software Engineer (m/f/d) Machine Learning & AI. Eggenstein-Leopoldshafen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-09T09:36:31.093939"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page for Machine Learning Software Engineers in Germany. Not a specific job opening. Wrong location (Germany, not Netherlands). Wrong role type (ML engineering, not AI adoption).",
+    "embed_sim": 0.23907159268856049,
+    "ai_native_score": 0.536594808101654
+  },
+  {
+    "job": {
+      "id": "1576009901ba029157019ee2ff0532f2",
+      "title": "96 artificial intelligence vacatures | 8 juni 2026 ...",
+      "company": "8 juni 2026 ...",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence",
+      "snippet": "Wil jij aan de slag als Artificial intelligence? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Artificial intelligence vacatures. Solliciteer direct!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-09T09:36:34.892614"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for artificial intelligence roles. Not a specific job opening. No location information. No actual job details provided.",
+    "embed_sim": 0.22175759077072144,
+    "ai_native_score": 0.6600955724716187
+  },
+  {
+    "job": {
+      "id": "044c4c9575cb894f645857f30dc84103",
+      "title": "Legal Engineer (Libra - Legal AI Assistant)... | Magnet.me | #968805 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/968805/legal-engineer--libra---legal-ai-assistant-",
+      "snippet": "Our AI platform combines deep legal reasoning with cutting-edge generative technology, fundamentally changing how lawyers research, draft, and deliver legal work. About the role. As a Legal Engineer, you\u2019ll work at the intersection of law, technology, and product innovation.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-09T09:36:39.058796"
+    },
+    "score": 2,
+    "reason": "Legal Engineer role building a legal AI assistant platform. Wrong domain (legal tech product), not AI adoption enablement. Requires product/platform engineering for AI systems, not helping dev teams adopt existing tools. No location specified.",
+    "embed_sim": 0.45391225814819336,
+    "ai_native_score": 0.7283031344413757
+  },
+  {
+    "job": {
+      "id": "262efd0a0444952abb11382487e7291e",
+      "title": "Technical Specialist AI - Loyens & Loeff - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/technical-specialist-ai-loyens-loeff/",
+      "snippet": "embedding new technologies, such as Azure AI Search, Azure Open AI and more to come in future; developing and supporting custom solutions for practice management optimization",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-09T09:36:59.293495"
+    },
+    "score": 4,
+    "reason": "Technical Specialist AI at law firm. Involves Azure AI tools which aligns with AI tooling, but appears focused on developing custom solutions and embedding technologies for business problems rather than coaching teams on AI adoption. Law firm location unclear (likely Amsterdam/Rotterdam area but not specified). Some potential fit but primary focus seems solution-building.",
+    "embed_sim": 0.5539641976356506,
+    "ai_native_score": 0.6160071492195129
+  },
+  {
+    "job": {
+      "id": "e5d0ddc5e35d1baa1619d3e048060f36",
+      "title": "Digital Solution Area Specialist (Data & AI)... - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/digital-solution-area-specialist-data-ai-microsoft/",
+      "snippet": "You will be a trusted advisor and an analytics, Data & AI subject matter expert with core capability and expertise in Data Modernisation, Analytics and AI.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-09T09:36:59.293505"
+    },
+    "score": 3,
+    "reason": "Digital Solution Area Specialist with Data & AI focus. Requires data modernization and analytics expertise (data science background implied). Role is about advising on data/AI strategy, not enabling dev teams to adopt AI coding tools. Wrong specialization (data science, not web dev/AI adoption).",
+    "embed_sim": 0.5945948362350464,
+    "ai_native_score": 0.7027405500411987
+  },
+  {
+    "job": {
+      "id": "b3eff6ef666c7641d8aff9b6ce66db07",
+      "title": "Group Data & AI Governance Manager in... | Magnet.me | #736005 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/736005/group-data---ai-governance-manager",
+      "snippet": "2024. Vacature delen.Collaborate with Data & AI Engineering Managers to develop strategies and standards for monitoring, failure detection, and data availability to ensure data and algorithm timeliness and completeness.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-09T09:37:08.920391"
+    },
+    "score": 2,
+    "reason": "Group Data & AI Governance Manager focused on monitoring, failure detection, and data pipelines. This is data engineering/governance work, not AI tool adoption. Requires data engineering expertise. Wrong focus (data systems management vs. developer enablement).",
+    "embed_sim": 0.36254239082336426,
+    "ai_native_score": 0.6261439919471741
   }
 ]
