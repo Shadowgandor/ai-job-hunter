@@ -11966,5 +11966,405 @@
     "reason": "Search results page that appears expired (URL contains 'expired_jd_redirect'). Not an actual job posting. Cannot evaluate specific role requirements.",
     "embed_sim": 0.3460519015789032,
     "ai_native_score": 0.6768335103988647
+  },
+  {
+    "job": {
+      "id": "d04df4a1fd822fd65a7c18ac46943bf7",
+      "title": "100+ vacatures voor Conversational Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-conversational-ai-vacatures.html",
+      "snippet": "Conversational Ai vacatures. Senior Consultant, Digital Transformation Consultant, Designer en meer op Indeed.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-11T10:18:28.590791"
+    },
+    "score": 0,
+    "reason": "This is a job search aggregator page, not an actual job listing. No specific role details available.",
+    "embed_sim": 0.24001683294773102,
+    "ai_native_score": 0.690602719783783
+  },
+  {
+    "job": {
+      "id": "465f9cf7b2665d6fea4aa5b94c058d9a",
+      "title": "Vacatures - Deloitte",
+      "company": "Deloitte",
+      "location": "",
+      "url": "https://werkenbijdeloitte.nl/vacatures/",
+      "snippet": "Bekijk het overzicht van alle vacatures bij Deloitte of meld je aan voor de jobalert. Connect your future to Deloitte!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-11T10:18:28.591031"
+    },
+    "score": 0,
+    "reason": "This is a general careers page listing multiple vacancies without specific job details. Cannot evaluate individual role fit.",
+    "embed_sim": 0.055082906037569046,
+    "ai_native_score": 0.48298874497413635
+  },
+  {
+    "job": {
+      "id": "d4041f957b9b2fe9ca1609db21fb4993",
+      "title": "AI Software Engineer - Team AI C.o.E. in Den Haag bij PostNL | Magnet.me",
+      "company": "Postnl",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1046719/ai-software-engineer---team-ai-c.o.e.",
+      "snippet": "1 dag geleden \u00b7 You have experience building AI or backend ... You have experience with API design, developer experience, system design, and observability.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-11T10:18:32.682786"
+    },
+    "score": 4,
+    "reason": "PostNL AI role mentions API design and developer experience, which could align with DevEx, but snippet indicates 'building AI' focus rather than enabling teams to adopt AI tools. Insufficient details to confirm it's about AI tooling adoption vs. AI product development.",
+    "embed_sim": 0.47260165214538574,
+    "ai_native_score": 0.707740843296051
+  },
+  {
+    "job": {
+      "id": "27337b8451a6491ea24757e7b8cde1aa",
+      "title": "Senior AI Engineer - Hay 17 in Zaandam bij Albert Heijn | Magnet.me",
+      "company": "Albert Heijn",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1044897/senior-ai-engineer---hay-17",
+      "snippet": "3 jun 2026 \u00b7 Hands-on experience or a strong interest in Generative AI and AI-driven development, including integrating LLMs, working with AI APIs, or ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-11T10:18:32.682817"
+    },
+    "score": 5,
+    "reason": "Albert Heijn Senior AI Engineer mentions 'Generative AI and AI-driven development, integrating LLMs, working with AI APIs' \u2014 this could involve AI enablement but description leans toward building AI solutions rather than championing tool adoption. Location (Zaandam) is acceptable (near Amsterdam/Utrecht region).",
+    "embed_sim": 0.3956051468849182,
+    "ai_native_score": 0.5946471095085144
+  },
+  {
+    "job": {
+      "id": "51e0f7f683d09fdcce10c2646c327aba",
+      "title": "200+ vacatures voor Databricks en werk in Amsterdam 4 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-databricks-l-amsterdam-vacatures.html",
+      "snippet": "In this role, you combine strong software engineering capabilities with an AI-first way of working.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-11T10:18:55.030113"
+    },
+    "score": 0,
+    "reason": "This is a job search aggregator page for Databricks roles in Amsterdam, not an actual job listing. No specific role details available.",
+    "embed_sim": 0.2696155607700348,
+    "ai_native_score": 0.511135458946228
+  },
+  {
+    "job": {
+      "id": "e6f6844ce0486414549273bb505b25ee",
+      "title": "9.250 vacatures voor ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland--ai-vacatures-SRCH_IL.0,9_IN178_KO10,13.htm",
+      "snippet": "Collaborating with a leading AI lab to contract detail-oriented generalists for a data annotation project. Your work will not involve access to confidential or\u2026\u2026 ... You will play an active role in all aspects of a client project, typically working in teams of 3-5 consultants alongside experts and colleagues of all tenures,\u2026\u2026 Vaardigheden: Frans, Analytisch vermogen, ICT, Managementervaring, Nederlands ... Vacatures ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-11T10:18:58.972041"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator page, not a specific job listing. Cannot evaluate individual role fit.",
+    "embed_sim": 0.2849048376083374,
+    "ai_native_score": 0.6519117951393127
+  },
+  {
+    "job": {
+      "id": "af9a83f0d3d788b792be5040480e8086",
+      "title": "231 vacatures voor ai in Groningen | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/groningen-ai-vacatures-SRCH_IL.0,9_IS5905_KO10,12.htm",
+      "snippet": "Talent in Noord B.V.Traineeship Artificial Intelligence (AI) - Groningen ... Data analyseren en inzichten vertalen naar beleid en uitvoering. Een afgeronde hbo- of wo-opleiding, zoals Data Science, Informatica, Kunstmatige Intelligentie,\u2026\u2026 ... Vacatures voor stagiair (m/v/x) in GroningenVacatures in GroningenVacatures bij Talent in Noord B.V.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-11T10:18:58.972103"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator page for Groningen AI roles. Additionally, Groningen is far outside the preferred 40km radius of Utrecht.",
+    "embed_sim": 0.27132585644721985,
+    "ai_native_score": 0.7101352214813232
+  },
+  {
+    "job": {
+      "id": "55594430178507836f143a31c0bc647a",
+      "title": "3.323 vacatures voor machine learning research engineer in Palo ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/palo-alto-ca-machine-learning-research-engineer-vacatures-SRCH_IL.0,12_IC1147434_KO13,47.htm",
+      "snippet": "Lead AI Safety and Enablement Engineer. Redwood City, CA. US$ 147K - US$ 276K (opgegeven door werkgever). Bachelor's degree in Computer Science, Software ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-11T10:19:03.967071"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results aggregator page for Palo Alto, California. Location is completely outside Netherlands/Utrecht region.",
+    "embed_sim": 0.34691566228866577,
+    "ai_native_score": 0.5930214524269104
+  },
+  {
+    "job": {
+      "id": "811e06cdd67fa6fffbebdf9facc9d184",
+      "title": "Data Scientist / Machine Learning Engineer - Vinted - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/data-scientist-machine-learning-engineer-vinted/",
+      "snippet": "Vacature: Vinted in Amsterdam zoekt een Data Scientist / Machine Learning Engineer, Trust & Safety | Fulltime | Salaris: \u20ac61,200 \u2013 \u20ac82,800 per jaar| ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-11T10:19:08.762387"
+    },
+    "score": 1,
+    "reason": "Vinted Data Scientist/ML Engineer role is pure data science/machine learning (Trust & Safety focused), not about enabling teams to adopt AI tools. This is explicitly a non-match for the candidate's background and goals.",
+    "embed_sim": 0.34745949506759644,
+    "ai_native_score": 0.5911816358566284
+  },
+  {
+    "job": {
+      "id": "d18301f99d3ac115e492911da974a4ba",
+      "title": "Capgemini zoekt een Agentic AI Developer in Utrecht, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/agentic-ai-developer-at-capgemini-4418587576",
+      "snippet": "29 mei 2026 \u00b7 Agentic AI Developer ... \u2022 Proven experience in developing and deploying Agentic AI systems solutions, preferably in financial services.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:18.385486"
+    },
+    "score": 3,
+    "reason": "Capgemini Agentic AI Developer focuses on 'developing and deploying Agentic AI systems solutions' \u2014 this is about building AI systems, not championing AI tool adoption within development teams. While in Utrecht (perfect location), the role is misaligned with candidate's goals of helping teams adopt existing AI tools.",
+    "embed_sim": 0.3711417317390442,
+    "ai_native_score": 0.7038910388946533
+  },
+  {
+    "job": {
+      "id": "07bd8b331030e50a3fd2ef2f25fe46d3",
+      "title": "Hire Feed zoekt een AI Engineer (Remote) in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4425164620",
+      "snippet": "- 2+ years of software engineering experience, with 1+ year working directly with LLMs. - Strong Python and experience with at least one AI framework (LangChain ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:18.385513"
+    },
+    "score": 2,
+    "reason": "Requires 2+ years software engineering with 1+ year LLM work and strong Python/AI framework expertise (LangChain). This is ML/AI development, not AI adoption enablement.",
+    "embed_sim": 0.42893165349960327,
+    "ai_native_score": 0.5629681348800659
+  },
+  {
+    "job": {
+      "id": "54fd6cc878b3f66f2415be1671acd4d2",
+      "title": "Laterite zoekt een AI Developer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-laterite-4358427937?refId=TjjAgU2D6L0lzLuur4IVBA==",
+      "snippet": "This is a challenging position that will provide you with hands-on experience in AI application development, various types of data handling (e.g., audio, images ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:18.385528"
+    },
+    "score": 1,
+    "reason": "AI application development role requiring hands-on experience with data handling (audio, images). Pure AI product building, not team enablement or adoption coaching.",
+    "embed_sim": 0.34972989559173584,
+    "ai_native_score": 0.6022694706916809
+  },
+  {
+    "job": {
+      "id": "d4faace766be138a0e4708e07e8b7751",
+      "title": "Cleopatra Enterprise zoekt een AI Developer in Zwijndrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-cleopatra-enterprise-4416156529",
+      "snippet": "1-4 years of experience in developing AI solutions; Proficiency in Python, Java is a plus; Understanding of machine learning concepts and algorithms, including ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:18.385556"
+    },
+    "score": 2,
+    "reason": "Requires 1-4 years developing AI solutions, Python proficiency, machine learning concepts. This is ML engineering, not AI tool adoption or developer enablement.",
+    "embed_sim": 0.291149765253067,
+    "ai_native_score": 0.6473591327667236
+  },
+  {
+    "job": {
+      "id": "890630ee10568adeff590fee3f64b6c0",
+      "title": "75+ vacatures voor Adoptie Specialist en werk: 3 maart 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html",
+      "snippet": "Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie. Je zorgt ervoor dat medewerkers niet alleen de juiste AI-tools\u2026 \u00b7 Alle vacatures voor CLB Groep - Nederland vacatures - vacatures voor Trainer (m/v) in Nederland bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-11T10:19:28.429262"
+    },
+    "score": 6,
+    "reason": "AI Specialist & Trainer role focused on adoption within organization and ensuring employees learn AI tools. Matches adoption/training aspect, but listing is vague (no location, unclear details). Could be good if specifics align.",
+    "embed_sim": 0.23097273707389832,
+    "ai_native_score": 0.7004092931747437
+  },
+  {
+    "job": {
+      "id": "4690f98e200357f1745946d75d0b33a6",
+      "title": "400+ vacatures voor Adoptie en werk: 4 maart 2026| Indeed",
+      "company": "",
+      "location": "Bunnik",
+      "url": "https://nl.indeed.com/Adoptie-vacatures",
+      "snippet": "Alle vacatures voor XTRM development - Bunnik vacatures - vacatures voor Specialist (m/v) in Bunnik bekijken \u00b7 Zoeken op salaris: ADOPTIE SPECIALIST salarissen in Bunnik \u00b7 Als AI Automation Expert ontwikkel en implementeer je slimme workflows, AI-tools en automatiseringen die ons team helpen ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-11T10:19:28.429288"
+    },
+    "score": 1,
+    "reason": "Generic search results page with broad adoption/automation postings. Bunnik location is ~30km from Utrecht (marginal). Listing is not a specific job posting, just search aggregation.",
+    "embed_sim": 0.21076244115829468,
+    "ai_native_score": 0.5742329359054565
+  },
+  {
+    "job": {
+      "id": "df1f9b3cbaa0f08941e73d85f593d527",
+      "title": "Tesla zoekt een Associate Service Tooling Engineer - EMEA in Tilburg, Noord-Brabant, Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/associate-service-tooling-engineer-emea-at-tesla-3376185711",
+      "snippet": "Perform tooling validation with engineers and technicians.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:32.950954"
+    },
+    "score": 0,
+    "reason": "Tesla Service Tooling Engineer for EMEA. Automotive/service industry role, unrelated to software development team enablement or AI adoption. Wrong domain entirely.",
+    "embed_sim": 0.3334478735923767,
+    "ai_native_score": 0.5495496392250061
+  },
+  {
+    "job": {
+      "id": "ef4d98446ac98be2220418a059f0b69d",
+      "title": "1.000 vacatures voor Tooling Engineer in Nederland (99 nieuw)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tooling-engineer-jobs",
+      "snippet": "Populairste 1.000 vacatures voor Tooling Engineer in Nederland. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures in Tooling Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:32.950976"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation page for 'Tooling Engineer' jobs in Netherlands. Not a specific job listing. Tooling engineer roles are infrastructure/build tools, not AI adoption coaching.",
+    "embed_sim": 0.254712849855423,
+    "ai_native_score": 0.6522160172462463
+  },
+  {
+    "job": {
+      "id": "4d2d49da3132a7136a25eba15130592d",
+      "title": "Meer dan 105.000 vacatures voor Engineering in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/engineering-jobs?countryRedirected=1",
+      "snippet": "Engineering Manager - AI Initiatives | Berlin or Europe remote \u00b7 Amsterdam \u00b7 Wees een van de eerste sollicitanten 3 weken geleden \u00b7 Continuous Improvement Engineer \u00b7 Ridderkerk 11 uur geleden \u00b7 Installation Engineer \u00b7 Zuid-Holland, Nederland \u00b7 Actief aan het werven 1 week geleden \u00b7",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:32.950989"
+    },
+    "score": 0,
+    "reason": "Generic search results page showing multiple unrelated roles. Not a specific job listing. Includes roles like 'Installation Engineer' and generic 'Engineering' positions.",
+    "embed_sim": 0.20943699777126312,
+    "ai_native_score": 0.6398952603340149
+  },
+  {
+    "job": {
+      "id": "fb303015fdb86bf79b60d04fa747624b",
+      "title": "314 vacatures voor Tool Design Engineer in Nederland (12 nieuw)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tool-design-engineer-jobs",
+      "snippet": "Populairste 314 vacatures voor Tool Design Engineer in Nederland. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures in Tool Design Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:32.950999"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation for 'Tool Design Engineer' jobs. Not a specific job posting. Tool design is mechanical/manufacturing, not software development or AI adoption.",
+    "embed_sim": 0.2565615177154541,
+    "ai_native_score": 0.7005023956298828
+  },
+  {
+    "job": {
+      "id": "d389def2e0ea858ef663d604874ad64a",
+      "title": "Vacatures zoeken op LinkedIn: zoek vacatures in Nederland, ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/tooling-en-equipment-engineer-at-gkn-plc-442010097",
+      "snippet": "64% van werkzoekenden vindt een baan via bekenden. Maak met LinkedIn Vacatures meer kans om te worden aangenomen via van bekenden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-11T10:19:32.951007"
+    },
+    "score": 0,
+    "reason": "Generic LinkedIn jobs search landing page. Not a specific job listing. Appears to be a general search/discovery page with no concrete opportunity.",
+    "embed_sim": 0.0494573712348938,
+    "ai_native_score": 0.576300323009491
+  },
+  {
+    "job": {
+      "id": "286a9ade5328eeb7fffd6e78ae98734d",
+      "title": "AI Automation Lead in Amsterdam bij SOUS | Magnet.me | #1017200 (nl)",
+      "company": "Sous",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1017200/ai-automation-lead",
+      "snippet": "7 apr 2026 \u00b7 You will help teams move faster and smarter by building useful internal tools, improving workflows, implementing external tools, and applying AI ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-11T10:19:38.657187"
+    },
+    "score": 8,
+    "reason": "Strong match \u2014 AI Automation Lead role focused on helping teams move faster, implementing tools, improving workflows. Amsterdam is within 40km of Utrecht. Emphasis on internal tools and workflow improvement aligns with AI adoption championing.",
+    "embed_sim": 0.40108776092529297,
+    "ai_native_score": 0.7628605961799622
+  },
+  {
+    "job": {
+      "id": "7b653ff069256ba60e12c7cce5e7c1ac",
+      "title": "AI Engineer vacatures in Nederland | DataJobs.nl",
+      "company": "DataJobs.nl",
+      "location": "",
+      "url": "https://www.datajobs.nl/vacatures/ai-engineer",
+      "snippet": "Vind AI Engineer vacatures in Nederland. \u2713 Direct bij de werkgever \u2713 Geen recruiters \u2713 Dagelijks bijgewerkt. Ontdek jouw volgende uitdaging in data & AI.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-11T10:19:42.543093"
+    },
+    "score": 0,
+    "reason": "Not a specific job listing \u2014 this is a job board aggregator page, not an actual vacancy. Cannot assess match without concrete role details.",
+    "embed_sim": 0.3084801435470581,
+    "ai_native_score": 0.6199955940246582
+  },
+  {
+    "job": {
+      "id": "139abdf4039a61f385411dd3a38571f4",
+      "title": "Vacature AI Engineer | Utrecht | A12 Consultants - Werkzoeken.nl",
+      "company": "Utrecht",
+      "location": "Utrecht",
+      "url": "https://www.werkzoeken.nl/vacature/15446474-ai-engineer/",
+      "snippet": "AI Engineer \u00b7 Meeloopstage: Ondersteuning Waterzuivering Civiele Techniek [sept - 2026] \u00b7 Field Service Engineer Utrecht \u00b7 Lead Engineer Energietechniek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-11T10:19:42.543117"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results or directory page mixing multiple unrelated positions (water purification internship, field service, energy engineering). No coherent AI Engineer role description provided.",
+    "embed_sim": 0.3452972173690796,
+    "ai_native_score": 0.7069299817085266
+  },
+  {
+    "job": {
+      "id": "b7dfb7527b1ae9049e3b44bf421c1b68",
+      "title": "Vacatures Agentic Engineer & AI Consultant - The Automation Group",
+      "company": "The Automation Group",
+      "location": "",
+      "url": "https://theautomationgroup.nl/nl/vacatures",
+      "snippet": "Werken bij The Automation Group: bouw Agentic AI-systemen voor toonaangevende Nederlandse organisaties. Bekijk vacatures voor engineers en consultants.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-11T10:19:42.543130"
+    },
+    "score": 3,
+    "reason": "Agentic AI systems and AI Consultant roles suggest building AI solutions rather than helping teams adopt tools. 'Build Agentic AI-systems' indicates product/model development focus, not AI enablement coaching. Location unknown.",
+    "embed_sim": 0.44259917736053467,
+    "ai_native_score": 0.7737976908683777
+  },
+  {
+    "job": {
+      "id": "11b71e68749423dde159b51caa110d96",
+      "title": "Staff/Senior AI Engineer, AI for Code - Amsterdam - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=7147c8884b9082eb",
+      "snippet": "Hands-on experience building LLM-powered products, coding agents, or other AI systems. Experience improving model behavior through systematic iteration ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-11T10:19:46.324036"
+    },
+    "score": 2,
+    "reason": "Staff/Senior AI Engineer for 'AI for Code' focused on building LLM-powered products and improving model behavior. This is ML-focused product development, not AI adoption/enablement. Requires hands-on LLM/model expertise which is outside candidate's scope.",
+    "embed_sim": 0.45043453574180603,
+    "ai_native_score": 0.7128593921661377
   }
 ]
