@@ -12366,5 +12366,277 @@
     "reason": "Staff/Senior AI Engineer for 'AI for Code' focused on building LLM-powered products and improving model behavior. This is ML-focused product development, not AI adoption/enablement. Requires hands-on LLM/model expertise which is outside candidate's scope.",
     "embed_sim": 0.45043453574180603,
     "ai_native_score": 0.7128593921661377
+  },
+  {
+    "job": {
+      "id": "a7b9f18004437b4a1dcd623998e91f30",
+      "title": "147 vacatures voor ai machine learning engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-machine-learning-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,38.htm",
+      "snippet": "Vaardigheden: Documenteren, Analytisch vermogen, Machinaal leren, AI, Communicatieve vaardigheden ... Vacatures voor machine learning engineer (m/v/x) in NijmegenVacatures in NijmegenVacatures bij Monkeybridge in Nijmegen",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-12T10:06:34.493747"
+    },
+    "score": 0,
+    "reason": "Glassdoor job listing page (aggregator), not a specific job posting. Cannot assess relevance without actual job details.",
+    "embed_sim": 0.2953956127166748,
+    "ai_native_score": 0.6190522313117981
+  },
+  {
+    "job": {
+      "id": "4eabefa3c9e37cfada79d9cf91f15ae1",
+      "title": "Greyt zoekt een AI Adoption Specialist in Rotterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-greyt-4378767739",
+      "snippet": "Als AI Adoption Specialist binnen Greyt ben je de drijvende kracht achter de implementatie en het gebruik van AI-technologie\u00ebn binnen onze organisatie en ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:06:37.914835"
+    },
+    "score": 7,
+    "reason": "AI Adoption Specialist at Greyt \u2014 perfect role title and focus on implementing and driving AI adoption within organization. Location (Rotterdam) is acceptable distance from Utrecht. Senior level implied. However, no details on whether it requires ML expertise vs. tooling focus.",
+    "embed_sim": 0.24698829650878906,
+    "ai_native_score": 0.7259966135025024
+  },
+  {
+    "job": {
+      "id": "55f64f64d90780d061fd117ff3017611",
+      "title": "Jobster zoekt een Digital Adoption Consultant - Jobbird.com in Utrecht",
+      "company": "Jobbird.com in Utrecht",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/digital-adoption-consultant-jobbird-com-at-jobster-4426299445",
+      "snippet": "AI Specialist. AI Specialist. Strukton. Utrecht, Nederland 2 dagen geleden. AI Adoption & Enablement Expert. AI Adoption & Enablement Expert. Brunel. Amsterdam ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:06:37.914845"
+    },
+    "score": 6,
+    "reason": "Digital Adoption Consultant in Utrecht \u2014 strong location match. Title suggests adoption/enablement focus rather than pure ML. However, snippet is unclear and appears to be a search results aggregator page rather than specific job posting. Cannot confirm actual role scope.",
+    "embed_sim": 0.22109749913215637,
+    "ai_native_score": 0.5961602926254272
+  },
+  {
+    "job": {
+      "id": "30b7964d11881c4ad45035b8e3191c34",
+      "title": "CribConnects zoekt een AI Adoption Consultant in Amsterdam ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-consultant-at-cribconnects-4314677538",
+      "snippet": "We zoeken een AI Adoption Consultant die organisaties helpt Gen-AI echt te integreren: van toolkeuze tot governance, adoptie en training. Wat je gaat doen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:06:37.914858"
+    },
+    "score": 8,
+    "reason": "AI Adoption Consultant at CribConnects in Amsterdam \u2014 excellent match. Role explicitly focuses on integrating Gen-AI, tooling, governance, adoption, and training across organizations. Consulting/advisory angle aligns perfectly with candidate's goals. Amsterdam is within 40km of Utrecht. Senior consultant level.",
+    "embed_sim": 0.29317706823349,
+    "ai_native_score": 0.7523403167724609
+  },
+  {
+    "job": {
+      "id": "53541915658e6ce88993b20c584df8f3",
+      "title": "553 vacatures voor ai ml in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-ml-vacatures-SRCH_IL.0,9_IN178_KO10,15.htm",
+      "snippet": "Zoek vacatures voor Ai ml in Nederland met bedrijfsreviews en salarissen. 553 vacatures voor Ai ml in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-12T10:06:58.154728"
+    },
+    "score": 0,
+    "reason": "Glassdoor job listing aggregator page, not a specific job posting. Cannot assess relevance.",
+    "embed_sim": 0.0827508494257927,
+    "ai_native_score": 0.5480051636695862
+  },
+  {
+    "job": {
+      "id": "28ee57581eaa31c6da58932d8a91ce5f",
+      "title": "AI Workflow Automation Intern in... | Magnet.me | #968738 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/968738/ai-workflow-automation-intern",
+      "snippet": "Founded in 2011, Cleeng is the Subscriber Retention Management\u00ae Company, focusing on the Media & Entertainment industry. We help our clients create long-lasting relationships with their subscribers by providing the best D2C operational tools and pre\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-12T10:07:11.943386"
+    },
+    "score": 0,
+    "reason": "Intern position explicitly stated. Candidate seeking senior-level roles. Clear mismatch on seniority level.",
+    "embed_sim": 0.26234713196754456,
+    "ai_native_score": 0.5897911787033081
+  },
+  {
+    "job": {
+      "id": "9d40eec660cf4192c5118b18fe52455d",
+      "title": "team.blue zoekt een AI Tooling Engineer in Leiden | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-tooling-engineer-at-team-blue-4423347528",
+      "snippet": "AI Tooling Engineer \u00b7 Senioriteitsniveau. Senior medewerker \u00b7 Soort baan. Fulltime \u00b7 Functie. Techniek en Informatietechniek \u00b7 Bedrijfstakken. Softwareontwikkeling.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:07:21.529144"
+    },
+    "score": 8,
+    "reason": "AI Tooling Engineer at team.blue in Leiden \u2014 strong match. Title explicitly focuses on tooling (not model building). Senior level. Leiden is within reasonable distance of Utrecht (~30km). Role likely involves enabling dev teams to use AI tools. Excellent alignment with candidate's background.",
+    "embed_sim": 0.49430322647094727,
+    "ai_native_score": 0.7936010360717773
+  },
+  {
+    "job": {
+      "id": "93a2f59b1c46e43b043f16596e04abd3",
+      "title": "Jobs Ai zoekt een AI Engineer (Remote) in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-remote-at-jobs-ai-4406849220",
+      "snippet": "Role: AI Engineer (Remote); Location: Remote; Payout: $50 - $300/hour. Role Overview. We are hiring an AI Engineer to build production LLM applications, ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:07:21.529180"
+    },
+    "score": 1,
+    "reason": "AI Engineer (Remote) building production LLM applications \u2014 clearly focused on building AI systems, not adopting existing tools. Requires ML/LLM expertise. Wrong domain for candidate despite being remote.",
+    "embed_sim": 0.45274725556373596,
+    "ai_native_score": 0.6383714079856873
+  },
+  {
+    "job": {
+      "id": "2ed3a5ce7979029ca5fcc5c2791acb23",
+      "title": "100+ vacatures voor Ai Engineer en werk in Den Haag 10 maart 2026| Indeed",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-den-haag-vacatures.html",
+      "snippet": "Ai Engineer vacatures in Den Haag. Data Scientist, Architect, Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-12T10:07:27.239586"
+    },
+    "score": 0,
+    "reason": "Indeed job listing aggregator page for Den Haag area, not a specific job posting. Cannot assess relevance without actual job details.",
+    "embed_sim": 0.26337042450904846,
+    "ai_native_score": 0.6788486242294312
+  },
+  {
+    "job": {
+      "id": "60e126ef85831a1413075d45a939a6fa",
+      "title": "300+ vacatures voor Tooling Engineer en werk: 18 december 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-tooling-engineer-vacatures.html",
+      "snippet": "Fulltime 32-40 uur Ben jij king of queen AI? Altijd bezig met hoe je met de juiste input grensverleggende output cre\u00ebert? Denk jij in tokens, prompts en\u2026 \u00b7 Alle vacatures voor Every Day\u00ae - Roosendaal vacatures - vacatures voor Engineer (m/v) in Roosendaal bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-12T10:07:27.239600"
+    },
+    "score": 0,
+    "reason": "Indeed job listing aggregator page, not a specific job posting. Snippet mentions token/prompt expertise suggesting ML focus rather than adoption/tooling focus. Cannot assess actual role.",
+    "embed_sim": 0.2388838529586792,
+    "ai_native_score": 0.5781440734863281
+  },
+  {
+    "job": {
+      "id": "c8217fbf1483f52c246e8d54e0299814",
+      "title": "PostNL zoekt een Artificial Intelligence Ingenieur in Randstad - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-ingenieur-at-postnl-4401811258",
+      "snippet": "You work closely with colleagues in the AI CoE, including AI Engineers ... You combine technical depth with a pragmatic, solution-oriented way of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:07:36.638898"
+    },
+    "score": 4,
+    "reason": "PostNL AI Engineer role likely involves building/training ML models within an AI CoE, not enabling team adoption. Title and 'technical depth' suggest data science focus. Location unclear but Randstad is vague. Insufficient info on AI tooling/adoption mandate.",
+    "embed_sim": 0.3569026589393616,
+    "ai_native_score": 0.6984567046165466
+  },
+  {
+    "job": {
+      "id": "69fb66e49030c4202b8c85e4bcb523d6",
+      "title": "Levy Professionals zoekt een AI Engineer in Amstelveen | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-levy-professionals-4423364233",
+      "snippet": "This role focuses on taking an existing AI-built MVP from a developer environment into production, while extending functionality and embedding a new AI-driven ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-12T10:07:36.638947"
+    },
+    "score": 3,
+    "reason": "Levy Professionals role focuses on moving AI-built MVP to production and extending functionality\u2014sounds like ML/backend development, not team adoption/enablement. No mention of championing AI tooling within dev teams.",
+    "embed_sim": 0.4690845310688019,
+    "ai_native_score": 0.6815120577812195
+  },
+  {
+    "job": {
+      "id": "797780671e493838d7e1876a4b557017",
+      "title": "Digital Adoption Specialist - vacatures in Den Haag - 8 juni 2026 - Indeed",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.indeed.com/q-digital-adoption-specialist-l-den-haag-vacatures.html",
+      "snippet": "Digital adoption specialist vacatures in Den Haag \u00b7 Adoption & Changemanagement Specialist. Reageert vaak binnen 1 dag \u00b7 AI Training & Capability Manager. HSO ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-12T10:07:40.568453"
+    },
+    "score": 2,
+    "reason": "Snippet is a search results page, not a specific job listing. Cannot evaluate. Den Haag is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.15234683454036713,
+    "ai_native_score": 0.6852798461914062
+  },
+  {
+    "job": {
+      "id": "931f473b006b553fc5c8f9ed2a1d4379",
+      "title": "25+ vacatures voor Generative Ai Intern en werk - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-generative-ai-intern-vacatures.html",
+      "snippet": "Generative ai intern vacatures ; AI Adoption & Enablement Specialist \u00b7 PwC. Amsterdam ; Junior Agentic AI Engineer \u00b7 Itility B.V.. 5657 Eindhoven ; Onderzoeker AI & ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-12T10:07:40.568462"
+    },
+    "score": 2,
+    "reason": "Snippet is a search results page aggregating multiple roles, not a specific job listing. Cannot score. References 'Intern' positions which are below seniority level.",
+    "embed_sim": 0.2851213812828064,
+    "ai_native_score": 0.7792630195617676
+  },
+  {
+    "job": {
+      "id": "2e690aae74d07b2df9a33b7ec0982bd7",
+      "title": "300+ vacatures voor SAP Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-sap-ai-vacatures.html",
+      "snippet": "Sap ai vacatures \u00b7 SAP LeanIX, Signavio S/4HANA Consultant - Netherlands \u00b7 SAP AI Customer Adoption Expert Advisor \u00b7 Afstudeerstage Agentic AI & AI Agents binnen ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-12T10:07:40.568473"
+    },
+    "score": 2,
+    "reason": "Snippet is a search results page, not a specific job listing. Cannot evaluate. References SAP/ERP and 'Afstudeerstage' (thesis/intern level).",
+    "embed_sim": 0.2501562833786011,
+    "ai_native_score": 0.6031287312507629
+  },
+  {
+    "job": {
+      "id": "9e6c6ccbf45ada2988eb8b81c7033580",
+      "title": "Business consultant/Adoption Lead - Sherpa Digital - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/943728/business-consultant-adoption-lead",
+      "snippet": "Je begeleidt de organisaties door hun complexe reis van digitale transformatie, terwijl je nieuwe technologie\u00ebn, waaronder AI, adopteert. Je bent de brug tussen ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-12T10:07:44.970017"
+    },
+    "score": 5,
+    "reason": "Business consultant/Adoption Lead at Sherpa Digital bridges digital transformation and AI adoption\u2014conceptually aligned. However, role appears to be business/change management focused rather than hands-on technical AI enablement for dev teams. Location unknown, unclear if near Utrecht. Vague snippet provides limited detail.",
+    "embed_sim": 0.17922306060791016,
+    "ai_native_score": 0.6586267948150635
+  },
+  {
+    "job": {
+      "id": "e237d1a41705f4072ef0930467168ce1",
+      "title": "Integration Engineer Vacature",
+      "company": "",
+      "location": "",
+      "url": "https://mijdrechtnieuwsvandaag.nl/integration-engineer-transavia-19-05-2024/",
+      "snippet": "Klinkt deze vacature als Integration Engineer voor jou perfect, stuur dan snel je sollicitatie in. Je kan reageren op de vacature tot 18-07-2024. Heb je eerst nog een aantal vragen over de vacature, richt je dan direct tot Transavia.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-12T10:07:53.888348"
+    },
+    "score": 0,
+    "reason": "Listing appears expired\u2014deadline 'tot 18-07-2024' is in the past. Integration Engineer at Transavia is unrelated to AI adoption. No match.",
+    "embed_sim": 0.23363882303237915,
+    "ai_native_score": 0.6558675765991211
   }
 ]
