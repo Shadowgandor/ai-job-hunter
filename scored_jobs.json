@@ -13150,5 +13150,245 @@
     "reason": "This is a generic Indeed search results page for TU Delft positions, not a specific job listing. The snippet mentions 'PhD Position' which indicates academic research roles. Cannot evaluate as a concrete opportunity.",
     "embed_sim": 0.3321797847747803,
     "ai_native_score": 0.6067065596580505
+  },
+  {
+    "job": {
+      "id": "e7e217dac4e3106e1c4a392e9551ba42",
+      "title": "155 vacatures voor Elektricien in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/elektricien-jobs",
+      "snippet": "155 topvacatures voor Elektricien in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Elektricien toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:29:12.275174"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator for electricians, completely irrelevant to AI engineering or software development",
+    "embed_sim": 0.11829890310764313,
+    "ai_native_score": 0.5846285820007324
+  },
+  {
+    "job": {
+      "id": "81565efa6bf7a08053e15676f920a15b",
+      "title": "262 vacatures voor Accessories in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/accessories-jobs",
+      "snippet": "262 topvacatures voor Accessories in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Accessories toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:29:12.275205"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator for accessories, completely irrelevant to candidate profile",
+    "embed_sim": 0.04048462584614754,
+    "ai_native_score": 0.4965069890022278
+  },
+  {
+    "job": {
+      "id": "b1f20a4be30e234d187035e3cb71e32d",
+      "title": "Meer dan 1.000 vacatures voor Parttime ( ) in Eindhoven, Noord-Brabant, Nederland",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.linkedin.com/jobs/parttime-(-)-jobs-eindhoven",
+      "snippet": "Meer dan 1.000 topvacatures voor Parttime ( ) in Eindhoven, Noord-Brabant, Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Parttime ( ) toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:29:12.275214"
+    },
+    "score": 0,
+    "reason": "Generic part-time job aggregator, location outside preferred radius (Eindhoven), no specific role information",
+    "embed_sim": 0.11430561542510986,
+    "ai_native_score": 0.5146524906158447
+  },
+  {
+    "job": {
+      "id": "a8e5f3ebbfd3539bce50d3bf8e410ded",
+      "title": "54 vacatures voor Autoriteit Persoonsgegevens in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/autoriteit-persoonsgegevens-jobs",
+      "snippet": "54 topvacatures voor Autoriteit Persoonsgegevens in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Autoriteit Persoonsgegevens toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:29:12.275225"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator for data authority positions, no relevance to AI tool adoption or software development",
+    "embed_sim": 0.0333356149494648,
+    "ai_native_score": 0.5821332335472107
+  },
+  {
+    "job": {
+      "id": "9c390f19138c716ec32e3d47aaec7421",
+      "title": "artificial intelligence developer vacatures - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-developer-vacatures.html",
+      "snippet": "Artificial Intelligence Developer vacatures. Developer, Junior Data Engineer, Intern en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-14T09:29:49.204848"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator landing page with no specific job listings, no details available for evaluation",
+    "embed_sim": 0.43558305501937866,
+    "ai_native_score": 0.7099732160568237
+  },
+  {
+    "job": {
+      "id": "752cf9392619df8aa609f283f90d7248",
+      "title": "800+ vacatures voor Developer Ai en werk: 28 oktober 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-developer-ai-vacatures.html?vjk=e47d2d238e1a9996",
+      "snippet": "At least 5 years' experience as a frontend developer. Design and build solutions that combine weather data with the real-world context of our customers' work,\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-14T09:29:49.204869"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator landing page, snippet mentions frontend developer experience requirement but no specific role details or location information",
+    "embed_sim": 0.29804545640945435,
+    "ai_native_score": 0.4335901439189911
+  },
+  {
+    "job": {
+      "id": "0b6bc5d5831307feff059af629727de3",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 10 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=8c8e987a260302c8",
+      "snippet": "Ai Developer vacatures. Senior Software Engineer, Back End Developer, Full Stack Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-14T09:29:49.204877"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator landing page with no specific job details, unable to assess relevance",
+    "embed_sim": 0.4082162082195282,
+    "ai_native_score": 0.7013795971870422
+  },
+  {
+    "job": {
+      "id": "7580ac12a4d610db9df591bb7a051ea0",
+      "title": "AI & Technology Specialist, I - Organon Northwest Europe - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-technology-specialist-i-at-organon-northwest-europe-4426521223",
+      "snippet": "At Organon, we are building an AI-enabled way of working \u2014 one that helps our colleagues make sharper decisions, automate the mundane, and focus their energy ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:30:12.174984"
+    },
+    "score": 4,
+    "reason": "AI-enabled way of working at Organon sounds relevant, but no location specified, no indication of focus on developer tool adoption vs. broader organizational change, appears to be aggregate company-wide AI strategy rather than developer-focused enablement",
+    "embed_sim": 0.41314709186553955,
+    "ai_native_score": 0.6699880957603455
+  },
+  {
+    "job": {
+      "id": "f9af2f3a94117b562d1c17dfe1e61c93",
+      "title": "Harnham zoekt een AI Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-specialist-at-harnham-4403446765",
+      "snippet": "With a strong focus on innovation, ethical AI and scalable solutions, they invest heavily in modern technology and ways of working. Collaboration sits at the ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-14T09:30:12.174994"
+    },
+    "score": 2,
+    "reason": "AI Specialist role at Harnham in Amsterdam (within acceptable range), but no job details provided - recruiter listing only, appears to be search/matching role rather than implementation focus, cannot assess if actual role matches AI tool adoption champion profile",
+    "embed_sim": 0.33302101492881775,
+    "ai_native_score": 0.5731425285339355
+  },
+  {
+    "job": {
+      "id": "93174fdd8c531deceafd00280d36fa9d",
+      "title": "300+ vacatures voor Ai Engineer en werk in Utrecht (provincie ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-utrecht-(provincie)-vacatures.html?vjk=2d082e6fdb1afc73",
+      "snippet": "Als CI/CD Engineer bij Conclusion Xforce werk je aan het bouwen en beheren van moderne gestandaardiseerde deployment pipelines in enterprise omgevingen.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-14T09:30:21.261041"
+    },
+    "score": 0,
+    "reason": "Snippet shows CI/CD Engineer role focused on deployment pipelines, not AI tool adoption or developer enablement; this is infrastructure/DevOps not AI champion work",
+    "embed_sim": 0.2498360425233841,
+    "ai_native_score": 0.5169167518615723
+  },
+  {
+    "job": {
+      "id": "1cf071f8e8ba23758fb9382cd9142a3e",
+      "title": "AI Engineer vacatures in Utrecht | Careerjet",
+      "company": "Careerjet",
+      "location": "Utrecht",
+      "url": "https://www.careerjet.nl/vacatures-ai-engineer/Utrecht",
+      "snippet": "Zoek voor de nieuwste AI Engineer vacatures in Utrecht op Careerjet, de vacature zoekmachine voor alle locaties en sectoren.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-14T09:30:21.261068"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page, not an actual job listing. It's a directory/portal, not a specific role posting.",
+    "embed_sim": 0.3050243854522705,
+    "ai_native_score": 0.6707847118377686
+  },
+  {
+    "job": {
+      "id": "7ccb14a123ad4374afe73dc811dc1674",
+      "title": "271 vacatures voor Bengaluru - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/bengaluru-ai-engineer-senior-consultant-vacatures-SRCH_IL.0,9_IC2940587_KW10,39.htm",
+      "snippet": "271 vacatures voor Bengaluru - thuiswerk ; Logo van Infosys. Infosys \u00b7 AI Engineer \u00b7 \u20b9 475K - \u20b9 1 mln. (Schat. van Glassdoor) ; Logo van Allstate. Allstate \u00b7 Cloud ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-14T09:30:53.003294"
+    },
+    "score": 0,
+    "reason": "Location is Bengaluru (India), far outside the Utrecht/Netherlands requirement. No candidate wants to relocate to India based on profile.",
+    "embed_sim": 0.04803831875324249,
+    "ai_native_score": 0.3927866220474243
+  },
+  {
+    "job": {
+      "id": "1c3a50012b2ad3cb6179f0c896a6e246",
+      "title": "332 vacatures voor ai engineer in Kuala Lumpur | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/kuala-lumpur-ai-engineer-vacatures-SRCH_IL.0,12_IC2986682_KO13,24.htm",
+      "snippet": "Zoek vacatures voor Ai engineer in Kuala Lumpur met bedrijfsreviews en salarissen. 332 vacatures voor Ai engineer in Kuala Lumpur.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-14T09:30:53.003304"
+    },
+    "score": 0,
+    "reason": "Location is Kuala Lumpur (Malaysia), far outside the Utrecht/Netherlands requirement. This is a search results page, not a specific posting.",
+    "embed_sim": 0.29436981678009033,
+    "ai_native_score": 0.6260209679603577
+  },
+  {
+    "job": {
+      "id": "7a8fee0be1bca4ae53b1d01f613ea709",
+      "title": "Data Scientist - RTL Nederland - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/data-scientist-rtl-nederland/",
+      "snippet": "The ability to work independently, as well as collaboratively. The ability to build good and productive working relationships with colleagues and stakeholders.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-14T09:31:10.373930"
+    },
+    "score": 1,
+    "reason": "Data Scientist role at RTL Nederland \u2014 this is a pure ML/data science position, not an AI adoption/tooling enablement role. Candidate explicitly does not want data science/ML model training positions.",
+    "embed_sim": 0.469985693693161,
+    "ai_native_score": 0.7237404584884644
+  },
+  {
+    "job": {
+      "id": "4008b6549e253240a4c38b00db3c6c57",
+      "title": "Senior NLP/LLM Data Scientist - ING - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/senior-nlp-llm-data-scientist-ing/",
+      "snippet": "ING in Amsterdam zoekt een Senior NLP/LLM Data Scientist voor 36 uur per week | Salaris: \u20ac 5.996,- en \u20ac 9.583,- | Startdatum: onbekend",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-14T09:31:10.373956"
+    },
+    "score": 2,
+    "reason": "Senior NLP/LLM Data Scientist at ING \u2014 requires deep expertise in NLP, LLM training, and data science. While location (Amsterdam) is acceptable, this is an ML engineering role focused on building models, not adopting AI tools. Misaligned with candidate's core mission.",
+    "embed_sim": 0.36775892972946167,
+    "ai_native_score": 0.5380233526229858
   }
 ]
