@@ -13390,5 +13390,341 @@
     "reason": "Senior NLP/LLM Data Scientist at ING \u2014 requires deep expertise in NLP, LLM training, and data science. While location (Amsterdam) is acceptable, this is an ML engineering role focused on building models, not adopting AI tools. Misaligned with candidate's core mission.",
     "embed_sim": 0.36775892972946167,
     "ai_native_score": 0.5380233526229858
+  },
+  {
+    "job": {
+      "id": "5c2b9a679fea31ce1984b3605321efc5",
+      "title": "54 vacatures voor artificial intelligence engineer in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,42.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence engineer in Nederland met bedrijfsreviews en salarissen. 54 vacatures voor Artificial intelligence engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:57:12.724423"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.3222842812538147,
+    "ai_native_score": 0.6815575957298279
+  },
+  {
+    "job": {
+      "id": "440619bb4f099edaf325321d473db935",
+      "title": "10.388 vacature (s) voor Ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-vacatures-SRCH_KO0,2.htm",
+      "snippet": "Zoek vacatures voor Ai. Vind de juiste vacature voor Ai met bedrijfsreviews en salarissen. 10.388 vacatures voor Ai.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:57:12.724444"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.0631362795829773,
+    "ai_native_score": 0.6053402423858643
+  },
+  {
+    "job": {
+      "id": "01be3d407844cdae44465170b647a044",
+      "title": "AI Engineer in Naarden bij Yellowtail Conclusion - Magnet.me",
+      "company": "Yellowtail Conclusion - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/994842/ai-engineer",
+      "snippet": "1 apr 2026 \u00b7 AI Engineer \u00b7 Een afgeronde masteropleiding (WO) in een relevante technische richting \u00b7 0 tot 2 jaar werkervaring in AI, Machine Learning of ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-15T11:57:16.312945"
+    },
+    "score": 1,
+    "reason": "Requires Master's degree (WO) in technical field and 0-2 years AI/ML experience. This is an entry-level ML role, not an AI adoption/enablement role. Candidate is senior with 13 years experience and doesn't need ML background.",
+    "embed_sim": 0.2810673117637634,
+    "ai_native_score": 0.7037626504898071
+  },
+  {
+    "job": {
+      "id": "a35c24078746d795936f95562abdd150",
+      "title": "330 vacatures voor generative ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-generative-ai-vacatures-SRCH_IL.0,11_IN178_KO12,25.htm",
+      "snippet": "Zoek vacatures voor Generative ai in Nederland met bedrijfsreviews en salarissen. 330 vacatures voor Generative ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:57:20.007857"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.13226936757564545,
+    "ai_native_score": 0.6004711985588074
+  },
+  {
+    "job": {
+      "id": "35973d132253f8df3b7b35fa722f4245",
+      "title": "624 vacatures voor digital transformation and ai in Nederland ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-digital-transformation-and-ai-vacatures-SRCH_IL.0,9_IN178_KO10,39.htm",
+      "snippet": "Zoek vacatures voor Digital transformation and ai in Nederland met bedrijfsreviews en salarissen. 624 vacatures voor Digital transformation and ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:57:20.007868"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.1756729781627655,
+    "ai_native_score": 0.6742962002754211
+  },
+  {
+    "job": {
+      "id": "a0ab2c903140d9c2ad20564ca1f495a7",
+      "title": "100+ vacatures voor Ai Engineer en werk in Utrecht (provincie) 4 februari 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-utrecht-vacatures.html",
+      "snippet": "Ai Engineer vacatures in Utrecht (provincie). Data Scientist, Ai Engineer, Architect en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-15T11:57:36.083472"
+    },
+    "score": 0,
+    "reason": "This is an Indeed search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.34027567505836487,
+    "ai_native_score": 0.6990442872047424
+  },
+  {
+    "job": {
+      "id": "ff822cc48d1dcdb881612bcc28cb9113",
+      "title": "Vacature voor een functie als Junior Full Stack Developer / AI Tech ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/junior-full-stack-developer-ai-tech-assistant-remote-mh-home-solutions-JV_KO0,52_KE53,70.htm?jl=1010150247643",
+      "snippet": "Junior Full Stack Developer / AI Tech Assistant (Remote) \u00b7 Direct mentorship from experienced developer \u00b7 Exposure to modern AI and cloud technologies \u00b7 Friendly ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:57:40.560322"
+    },
+    "score": 1,
+    "reason": "Junior Full Stack Developer/AI Tech Assistant role. Candidate is senior-level with 13 years experience, not a junior position. Also lacks details about AI adoption focus.",
+    "embed_sim": 0.46591880917549133,
+    "ai_native_score": 0.6753484010696411
+  },
+  {
+    "job": {
+      "id": "40d7898c367c6cace431c2b44ab23263",
+      "title": "Senior AI Full Stack Developer - 3433 Nieuwegein - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=1052c7a41b6e70b2",
+      "snippet": "AI Integration: Use AI to automate, optimize, and improve development processes, resulting in faster coding and more efficient solutions. Full-Stack Development: Apply your expertise as a full-stack developer to build both frontend and backend systems that incorporate AI technologies.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-15T11:57:52.010597"
+    },
+    "score": 7,
+    "reason": "Senior AI Full Stack Developer in Nieuwegein (exact location match). Role emphasizes using AI to automate/optimize development processes and improve developer workflows\u2014aligns with AI adoption mission. Location is perfect. However, 'full-stack' building component suggests some product development responsibility, not pure enablement/coaching.",
+    "embed_sim": 0.5565450191497803,
+    "ai_native_score": 0.6661559343338013
+  },
+  {
+    "job": {
+      "id": "adb746c68a7661b9a2c042db0d957b7b",
+      "title": "Senior AI Developer Nodejs (100% remote...) - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=4c46f13d1616f822",
+      "snippet": "AI Development Experience: Proficient in working on AI related applications such as RAG, Agents, Inference, finetuning and training. Microservices Architecture: Familiarity with microservices architecture for scalable applications.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-15T11:57:52.010612"
+    },
+    "score": 2,
+    "reason": "Senior AI Developer Node.js role focusing on RAG, Agents, Inference, finetuning, and training. This is building ML/AI applications, not enabling teams to adopt AI tools. Requires deep AI development expertise candidate doesn't want.",
+    "embed_sim": 0.46090468764305115,
+    "ai_native_score": 0.5170246958732605
+  },
+  {
+    "job": {
+      "id": "021172b43d1cc22bbc44a7735d2d0aab",
+      "title": "Front End Developer - Tradesyncer (NL) (SaaS Platform)... - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=450b4b39a8d61fcc&q=front+end+developer&l=amsterdam&tk=1jqrf6ts426pt000&from=web&advn=3447751359702818&adid=463347370&ad=-6NYlbfkN0BhOxBTk41LoC5hItXIciCRTwsxyAgLAfibZd7Mh-TXSdvI9apIyGLOC_0oO4YT1vAfCZyt3q10_yTYriMrmgbtdPxLtuT8iABvZYl20BftRUQJhVv0J2cHIlWXXuoGxobBZn5FTDYno72Qn85AUg19jwiL3lJ0TA8n48DqCF_pZyOA6fZsIlwdQPJicNbe3ASyyytkc5tRcFS1BVr9fuZ8_-r-ctis8x8m0HcevMjoSbMF-YT_qK4p4mK53krellvo8zFp6vG5C6dnuS2u2cjgsxY_XOg7HD8gY7XYbvwc6TOJQi1lCeijro8-tStMAqiPHNGxxDJjYC1E-2md7ZfY2H7K_2hj624_bm9YECh2A2HaaT4glbI5VH9TOLXmsBGWhWtNZo304Gt5r3G26fiQnFOddB0jOZL-Cxxt4NwX4P6_ZBo-JldXNlSqVqOvdvbU2sF2v2Ga-DS11DG4nvgmkhcP6UljXdwmQUJdIqL1CNfMq-yYLsyNmSmvU1yadxPJjKtTR1eAgpw2NURUa9ltx3_t99-nfjjXeqT7z2QYibYmVEc9XfZvv31TqCj9UAhls8nKtS1KA0CBRt9bNPBB&pub=4a1b367933fd867b19b072952f68dceb&camk=C3EPSzFlQw8iDz3QA06e6g==&xkcb=SoCb6_M3ibWUZATBK50LbzkdCdPP&xpse=SoAt6_I3ibXJrsz7RJ0NbzkdCdPP&xfps=554d4aa6-7189-4c69-96a2-cbfbd0961c58&vjs=3",
+      "snippet": "Hands-on CRO experience \u2014 A/B testing, funnel analytics, and measurable conversion lifts.Nice to have: real-time data-dense UIs, WebSocket-driven updates, and familiarity with Next.js.Fluent with AI-assisted development (Cursor, Claude) \u2014 this is genuinely how we work day to day.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-15T11:57:52.010644"
+    },
+    "score": 6,
+    "reason": "Front End Developer at Tradesyncer (SaaS, likely Amsterdam area). Strong mention of fluent AI-assisted development with Cursor and Claude\u2014matches candidate's tooling philosophy. However, this is a developer role building product features, not an AI enablement/adoption champion role. Good cultural fit but wrong function.",
+    "embed_sim": 0.3513264060020447,
+    "ai_native_score": 0.3922324776649475
+  },
+  {
+    "job": {
+      "id": "e05a82b5aa8785b3cb4c70971435d1b5",
+      "title": "400+ vacatures voor Full Stack Developer en werk: 23 april 2025",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Full-Stack-Developer-vacatures",
+      "snippet": "Full Stack Developer, Developer, Gezondheidszorg en meer op Indeed.com.Strong experience in Python full-stack development. Are you passionate about building scalable AI web applications and working in an agile, collaborative\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-15T11:57:52.010660"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page, not a specific job posting. Cannot evaluate relevance without actual position details.",
+    "embed_sim": 0.41823822259902954,
+    "ai_native_score": 0.4612797498703003
+  },
+  {
+    "job": {
+      "id": "dcccf697a72d65a3a02dd501074a85a4",
+      "title": "Vacatures voor Asml Research in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/asml-research-jobs?position=1&pageNum=0",
+      "snippet": "Applied Scientist / Research Engineer, AI4Engineering - EMEA. Mistral.Principal AI Developer Technology Engineer. NVIDIA. Amsterdam 3 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:57:56.020685"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page showing multiple roles (Applied Scientist, Principal AI Developer). Cannot evaluate as specific position. Likely includes ML/research roles incompatible with candidate profile.",
+    "embed_sim": 0.4084962010383606,
+    "ai_native_score": 0.6294302940368652
+  },
+  {
+    "job": {
+      "id": "f401fd569136829ba9c13cb7b37608ee",
+      "title": "159 vacatures voor Postnl in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/postnl-jobs",
+      "snippet": "Wees een van de eerste sollicitanten. 3 dagen geleden. MLOps Platform Engineer. MLOps Platform Engineer. PostNL. Randstad.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:57:56.020710"
+    },
+    "score": 2,
+    "reason": "MLOps Platform Engineer at PostNL \u2014 this is ML operations/infrastructure, requires deep ML/Python expertise. Not about enabling dev teams to adopt AI tools.",
+    "embed_sim": 0.15022164583206177,
+    "ai_native_score": 0.46735459566116333
+  },
+  {
+    "job": {
+      "id": "6e030170be27f8a8a3e0b7946f80d9c2",
+      "title": "86 vacatures voor Freelance Marketing in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/freelance-marketing-jobs?position=1&pageNum=0",
+      "snippet": "Freelance Content Creator \u2013 AI Lifestyle App. Twine. Amsterdam.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:57:56.020717"
+    },
+    "score": 0,
+    "reason": "Freelance Content Creator for AI Lifestyle App \u2014 marketing/content creation role, unrelated to software development or AI tool adoption in engineering teams.",
+    "embed_sim": 0.16369549930095673,
+    "ai_native_score": 0.5261922478675842
+  },
+  {
+    "job": {
+      "id": "155339160b6352d8d423e8cfc0623938",
+      "title": "Vacatures voor Injection Molding in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/injection-molding-jobs",
+      "snippet": "AI Tooling Engineer. AI Tooling Engineer. team.blue. Leiden 3 dagen geleden. Allround Onderhoudsmonteur (5 ploegen) - Uitzendbureau.nl. Allround ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:58:01.317599"
+    },
+    "score": 6,
+    "reason": "AI Tooling Engineer at team.blue in Leiden \u2014 title suggests AI tooling focus which aligns well. Close to Utrecht (within reasonable range). However, listing is minimal; lacks detail on whether this is about enabling dev teams vs. building ML systems. Unclear scope.",
+    "embed_sim": 0.09897251427173615,
+    "ai_native_score": 0.6530530452728271
+  },
+  {
+    "job": {
+      "id": "fa421c2faadfa2650d0c014e527002ad",
+      "title": "Meer dan 92.000 vacatures voor Marketing in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/marketing-jobs",
+      "snippet": "Marketing Communicatie Specialist. Lloyds Bank NL. Amsterdam 4 dagen geleden. E-Commerce Content System Specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:58:05.871008"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for Marketing roles. Not a specific job posting. Unrelated to candidate's profile.",
+    "embed_sim": 0.10873784124851227,
+    "ai_native_score": 0.4748196601867676
+  },
+  {
+    "job": {
+      "id": "6a4e001ffc97743f31ff30615b5e9a1a",
+      "title": "221 vacatures voor Personal Trainer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/personal-trainer-jobs",
+      "snippet": "AI Specialist & Trainer.Advanced Application & Commercial Specialist Ultrasound, Veterinary. GE HealthCare. Noord-Holland, Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-15T11:58:05.871039"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page mixing Personal Trainer and AI Specialist roles. Cannot evaluate as specific posting. Appears to be search results page, not an actual job.",
+    "embed_sim": 0.2028830647468567,
+    "ai_native_score": 0.5191939473152161
+  },
+  {
+    "job": {
+      "id": "46b8174c0720d41f8cbc2eed50f6c9f2",
+      "title": "75+ vacatures voor Ai Policy Advisor en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-policy-advisor-vacatures.html",
+      "snippet": "Ai Policy Advisor vacatures. Customer Success Manager, Counsel, Supervisor en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-15T11:58:14.010139"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for AI Policy Advisor roles. Not a specific job posting. Policy advisory is not aligned with candidate's hands-on AI tool adoption focus.",
+    "embed_sim": 0.24491611123085022,
+    "ai_native_score": 0.6589788794517517
+  },
+  {
+    "job": {
+      "id": "cc9899d54ba7788769a5eb4885431f8b",
+      "title": "142 vacatures voor ai engineer in Noord-Brabant | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/north-brabant-ai-engineer-vacatures-SRCH_IL.0,13_IS5907_KO14,25.htm",
+      "snippet": "Als AI Engineer werk je aan oplossingen waarin data, machine learning en generatieve AI samenkomen, zoals de ontwikkeling van een netwerk van AI-agents.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-15T11:58:21.566962"
+    },
+    "score": 2,
+    "reason": "AI Engineer role in Noord-Brabant focused on machine learning, data, and generative AI agent networks. This is ML-focused development, not AI tool enablement. Location is far from Utrecht (Eindhoven region). Requires ML expertise candidate explicitly does not want.",
+    "embed_sim": 0.39023399353027344,
+    "ai_native_score": 0.7457495927810669
+  },
+  {
+    "job": {
+      "id": "12eeae53e20803908af64b725183e2cb",
+      "title": "25+ vacatures voor System Integration Engineer en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-system-integration-engineer-vacatures.html",
+      "snippet": "Je hebt kennis van systems engineering en systeemintegratie; Assisteren van senior systems integrator consultants bij hun externe opdrachten.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-15T11:58:25.305683"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page for System Integration Engineer roles. Not a specific job posting. Unrelated to AI tool adoption in dev teams.",
+    "embed_sim": 0.2686479687690735,
+    "ai_native_score": 0.6555691361427307
+  },
+  {
+    "job": {
+      "id": "a09e0885c9f7fa8019802ae86298dbcd",
+      "title": "Werken bij Landal GreenParks | Vacatures | Magnet.me (nl)",
+      "company": "Landal Greenparks",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/bedrijf/landal-greenparks",
+      "snippet": "Alle vacatures bekijken \u00b7 Conversational Specialist AI \u00b7 Goes \u00b7 3 - 5 jaar ervaring \u00b7 HBO of WO \u00b7 \u20ac 3.630 - \u20ac 5.186 per maand \u00b7 Liken \u00b7 Solliciteren \u00b7 Conversational Specialist AI \u00b7 Amsterdam \u00b7 3 - 5 jaar ervaring \u00b7 HBO of WO ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-15T11:58:29.089601"
+    },
+    "score": 0,
+    "reason": "Page appears to be a job board listing hub rather than a specific job posting. No clear role description, responsibilities, or requirements visible. Cannot assess relevance without actual job details.",
+    "embed_sim": 0.10624220222234726,
+    "ai_native_score": 0.4770577549934387
   }
 ]
