@@ -13726,5 +13726,213 @@
     "reason": "Page appears to be a job board listing hub rather than a specific job posting. No clear role description, responsibilities, or requirements visible. Cannot assess relevance without actual job details.",
     "embed_sim": 0.10624220222234726,
     "ai_native_score": 0.4770577549934387
+  },
+  {
+    "job": {
+      "id": "a12a9271c4a05bea95ce6cf336d4cc2b",
+      "title": "200+ vacatures voor Artificial Intelligence en werk: 12 juni 2026| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-vacatures.html",
+      "snippet": "Zoeken op salaris: AI- Engineer salarissen in Amsterdam Westpoort \u00b7 Deze toolbox speelt een centrale rol in ons dagelijkse werk en helpt ons om projecten sneller, slimmer en consistenter uit te voeren. Alle vacatures voor Arcadis - Amersfoort vacatures - vacatures voor Internship Software Development (m/v) in Amersfoort bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-16T11:06:12.627114"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page, not a specific job listing. No actual job posting to evaluate.",
+    "embed_sim": 0.31543612480163574,
+    "ai_native_score": 0.6584541201591492
+  },
+  {
+    "job": {
+      "id": "cc9e587b2f8dfbc45f5c24addb7fc2bf",
+      "title": "Playstation Global - vacatures - 7 mei 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-playstation-global-vacatures.html",
+      "snippet": "Playstation Global vacatures. Internal Auditor, Ai Prompt Consultant, Belastingadviseur en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-16T11:06:39.669491"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page showing generic job categories, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.040690138936042786,
+    "ai_native_score": 0.5688711404800415
+  },
+  {
+    "job": {
+      "id": "df27e6376af5889d15ab317969af803d",
+      "title": "Telus International Ai - vacatures - 10 mei 2025 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-telus-international-ai-vacatures.html",
+      "snippet": "Telus International Ai vacatures. Ki-prompt-spezialist MIT Niederl\u00e4ndisch, Fl\u00e4misch (m/w/d) - Relocation to Essen, Technical Consultant, Ai Prompt Consultant en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-16T11:06:39.669505"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page, not a specific job posting. Generic search results page only.",
+    "embed_sim": 0.2670952379703522,
+    "ai_native_score": 0.68398517370224
+  },
+  {
+    "job": {
+      "id": "073816cc7f1cf56b33617cf1f6be0a08",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 9 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Ai-Engineer-vacatures",
+      "snippet": "Ai Engineer vacatures. Software Engineer, Devops Engineer, Machine Learning Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-16T11:06:48.349150"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page aggregating AI Engineer positions, not a specific job listing to evaluate.",
+    "embed_sim": 0.4000510275363922,
+    "ai_native_score": 0.6639605164527893
+  },
+  {
+    "job": {
+      "id": "84f122d2d0f2dbd1328eb5380c63d89e",
+      "title": "900+ vacatures voor Ai Implementatie en werk: 22 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-implementatie-vacatures.html?vjk=7d83c8bb07867220",
+      "snippet": "Alle vacatures voor Capgemini - Groningen vacatures - vacatures voor AI Engineer in Groningen bekijken Zoeken op salaris: AI Agile Test Engineer salarissen in Groningen Zie veelgestelde vragen en antwoorden over Capgemini",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-16T11:06:48.349199"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page mentioning Groningen (too far from Utrecht) with generic job categories, not a specific listing.",
+    "embed_sim": 0.2539803981781006,
+    "ai_native_score": 0.6503215432167053
+  },
+  {
+    "job": {
+      "id": "18c035e7be8d9d48b119da6c2e4ca730",
+      "title": "222.000+ vacatures voor Zoeken en werk: 14 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Zoeken-vacatures",
+      "snippet": "Zoeken vacatures. Medewerker Klantenservice, Winkelleider Zorgwinkel, Bedrijfsleider en meer op Indeed.com",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-16T11:06:56.923426"
+    },
+    "score": 0,
+    "reason": "This is a generic search results landing page unrelated to AI or tech roles.",
+    "embed_sim": 0.06923352181911469,
+    "ai_native_score": 0.5503021478652954
+  },
+  {
+    "job": {
+      "id": "374675f4f42c129c19420173c8f4e9c7",
+      "title": "Vacatures zoeken | Nationale Vacaturebank",
+      "company": "Nationale Vacaturebank",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacature/zoeken",
+      "snippet": "Bruto Netto Calculator Carri\u00e8retips Veelgestelde vragen Vacatures, stages en bijbanen Werkgevers Vacature plaatsen CV's zoeken Bekijk tarieven Inloggen DPG Media Over Nationale Vacaturebank DPG Media vacatures Intermediair HBO vacatures Tweakers IT vacatures Social Media Download de app Ontdek duizenden vacatures en vind de baan die \u00e9cht bij ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-16T11:06:56.923441"
+    },
+    "score": 0,
+    "reason": "This is a job board homepage/portal, not a specific job listing.",
+    "embed_sim": 0.11079023778438568,
+    "ai_native_score": 0.531159520149231
+  },
+  {
+    "job": {
+      "id": "088902e6413fbabf607f4b9617525f64",
+      "title": "Vacatures zoeken | werk.nl",
+      "company": "werk.nl",
+      "location": "",
+      "url": "https://www.werk.nl/nl/vacatures",
+      "snippet": "Zoek in meer dan 280.000 vacatures op werk.nl. Zoek op beroepsrichting, plaats, trefwoord of opleidingsniveau. Bekijk de vacatures hier.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-16T11:06:56.923462"
+    },
+    "score": 0,
+    "reason": "This is a job board homepage/portal, not a specific job listing.",
+    "embed_sim": 0.05018474906682968,
+    "ai_native_score": 0.5532063245773315
+  },
+  {
+    "job": {
+      "id": "c00d3fe937756d420fa88b8983467cf0",
+      "title": "18.609 vacatures voor intern in Duitsland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-intern-vacatures-SRCH_IL.0,9_IN96_KO10,16.htm",
+      "snippet": "Vacatures voor machine learning engineer in Berlijn Vacatures in Berlijn Vacatures bij Microsoft in Berlijn.You will support the development of AI synthetic data approaches for our open-source AI solutions. Furthermore, you will learn how to use and program Google\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-16T11:07:23.424795"
+    },
+    "score": 0,
+    "reason": "This is a search results landing page. References ML engineer and synthetic data approaches (pure ML work, not AI adoption/enablement).",
+    "embed_sim": 0.3090870976448059,
+    "ai_native_score": 0.6148384809494019
+  },
+  {
+    "job": {
+      "id": "5488e932e1c5a713982ce108c83a2a1c",
+      "title": "Link to glassdoor.nl",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Salaries/netherlands-software-engineer-salary-SRCH_IL.0,11_IN178_KO12,29.htm?countryRedirect=true",
+      "snippet": "The site owner hides the web page description.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-16T11:07:23.424827"
+    },
+    "score": 0,
+    "reason": "This is a salary lookup page, not a specific job listing.",
+    "embed_sim": -0.006301959045231342,
+    "ai_native_score": 0.48248356580734253
+  },
+  {
+    "job": {
+      "id": "ba26b2d4df2a7e03ac0666c437674e0a",
+      "title": "specialist privacy \u2013 Politie Nederland \u2013 Utrecht",
+      "company": "",
+      "location": "",
+      "url": "https://banen-in-utrecht.nl/vacature/specialist-privacy-politie-nederland-utrecht/",
+      "snippet": "Als specialist stel je beleid, kaders, processen en procedures op het gebied van privacy op. Je zet de lijnen uit en prioriteert en co\u00f6rdineert de werkzaamheden binnen de privacy-expertise.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-16T11:07:41.211485"
+    },
+    "score": 0,
+    "reason": "Privacy policy specialist role at police organization. Completely unrelated to AI tool adoption, developer enablement, or software engineering practices. Wrong domain entirely.",
+    "embed_sim": 0.157446950674057,
+    "ai_native_score": 0.5912619829177856
+  },
+  {
+    "job": {
+      "id": "0018529d0e40bf49b2ce62a02013096e",
+      "title": "Sr Machine Learning Engineer | Applied AI - Uber - Werken in AI",
+      "company": "Applied AI - Uber - Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/sr-machine-learning-engineer-applied-ai-uber/",
+      "snippet": "Experience with SQL and database systems such as Hive, Kafka, and Cassandra. Experience in the development, training, productionization and monitoring of ML solutions at scale.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-16T11:07:50.456159"
+    },
+    "score": 1,
+    "reason": "Senior ML Engineer role requiring SQL, Hive, Kafka, Cassandra, and ML model training/productionization. This is exactly what the candidate does NOT want\u2014pure machine learning engineering, not AI adoption/enablement. Requires deep ML expertise.",
+    "embed_sim": 0.3896027207374573,
+    "ai_native_score": 0.3700667917728424
+  },
+  {
+    "job": {
+      "id": "dfab8e8b484f3aa02bc36bfe3515e0cd",
+      "title": "Internship | Securing AI models using... | Magnet.me | #837939 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/837939/internship---securing-ai-models-using-verifiable-computation",
+      "snippet": "About this position. AI has seen a huge increase in adoption in recent years, enabling many new possibilities. With this widespread adoption, concerns regarding the security of these AI models are also increasing.Omslagfoto van AI Specialist bij Zonneplan.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-16T11:07:59.943763"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate explicitly excludes junior/intern roles. Additionally, focus is on securing AI models (ML security research), not helping dev teams adopt AI tools.",
+    "embed_sim": 0.4390967786312103,
+    "ai_native_score": 0.6792266964912415
   }
 ]
