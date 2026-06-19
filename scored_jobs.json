@@ -14766,5 +14766,293 @@
     "reason": "This is a job board aggregator, not a specific job listing. No actual role information provided. Cannot score a job listing index/aggregator site.",
     "embed_sim": 0.089775949716568,
     "ai_native_score": 0.4636213183403015
+  },
+  {
+    "job": {
+      "id": "34a088651b88a05141070faf172bca7d",
+      "title": "Organon Northwest Europe zoekt een AI & Technology ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-technology-specialist-ii-at-organon-northwest-europe-4426514423",
+      "snippet": "Genuine curiosity about AI and how it changes the way we work; strong analytical and creative problem-solving abilities; structured and accurate way of working; clear communicator in both Dutch and English; fast learner with a collaborative, can-do mindset.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-19T10:21:28.483635"
+    },
+    "score": 3,
+    "reason": "AI & Technology Specialist title is vague; snippet mentions 'curiosity about AI' and problem-solving but no indication this is about enabling dev teams to adopt AI tools. Likely a generic tech role. Location unknown.",
+    "embed_sim": 0.29574012756347656,
+    "ai_native_score": 0.6470133662223816
+  },
+  {
+    "job": {
+      "id": "460449ed474de91f0fe1b4c856b45917",
+      "title": "bloomon zoekt een Legal Working Student in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/legal-working-student-at-bloomon-4427991904",
+      "snippet": "Has a demonstrable interest in AI, automation or legal tech, for example through coursework, personal projects, prompt-based research, workflow automation, no-code tools or previous work experience; Can use AI critically and responsibly, especially when working with confidential information or legal content;",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-19T10:21:28.483667"
+    },
+    "score": 0,
+    "reason": "Student/working student position. Candidate is senior with 13+ years experience. Not a match by seniority level.",
+    "embed_sim": 0.3783348798751831,
+    "ai_native_score": 0.6079402565956116
+  },
+  {
+    "job": {
+      "id": "694016451e8b261e12a2767a35f6863e",
+      "title": "130 vacatures voor Douglas in Nederland (1 nieuw)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/douglas-jobs",
+      "snippet": "142 topvacatures voor Douglas in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Douglas toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-19T10:21:36.052392"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results aggregation page, not an actual job opening. No specific role or company information.",
+    "embed_sim": 0.08186483383178711,
+    "ai_native_score": 0.5949130058288574
+  },
+  {
+    "job": {
+      "id": "dcb7261756c19af257cf6902bc1b973e",
+      "title": "25.596 vacatures voor data science in India | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/india-data-science-vacatures-SRCH_IL.0,5_IN115_KO6,18.htm",
+      "snippet": "Vacatures voor data scientist in India Vacatures bij EXL Service in India.10+ years of experience in data science, ML, or AI, with at least 3 years in a team/tech leadership role. Proficiency in Python and deep learning libraries such as PyTorch, TensorFlow, Hugging Face, OpenCV.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:21:44.285611"
+    },
+    "score": 0,
+    "reason": "Data Science roles in India requiring 10+ years ML/AI experience, PyTorch, TensorFlow. Wrong location (India), wrong profile (ML engineer not AI adoption champion), candidate explicitly excludes pure ML roles.",
+    "embed_sim": 0.2955995798110962,
+    "ai_native_score": 0.4631884694099426
+  },
+  {
+    "job": {
+      "id": "c89ff9b523d9bdb6a969bfca6bca631d",
+      "title": "25+ vacatures voor Ai Engineer en werk in Arnhem 13 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-arnhem-vacatures.html",
+      "snippet": "Ai Engineer vacatures in Arnhem. Data Scientist, Ai Engineer, Teamleider en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-19T10:21:48.564852"
+    },
+    "score": 2,
+    "reason": "Generic AI Engineer search results aggregation for Arnhem. Not an actual job posting. Arnhem is outside the preferred 40km radius from Utrecht.",
+    "embed_sim": 0.32420802116394043,
+    "ai_native_score": 0.7133225202560425
+  },
+  {
+    "job": {
+      "id": "93fa9ef4f747162365a47138910412bc",
+      "title": "25 integration engineer Jobs in Utrecht, February 2026 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.com/Job/utrecht-integration-engineer-jobs-SRCH_IL.0,7_IC3045310_KO8,28.htm",
+      "snippet": "Je schakelt met software engineers, product owners, architecten\u2026\u2026 Skills: Azure, XML, Relationele databases, Microsoft SQL Server, Java ... Door kennis en ervaring een belangrijke inhoudelijke bijdrage levert aan technische discussies en beslissingen. Integraties met externe systemen en AI-modellen.\u2026",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-19T10:21:53.133845"
+    },
+    "score": 2,
+    "reason": "Integration Engineer role in Utrecht with focus on external systems and AI-models integration. Appears to be infrastructure/systems integration, not AI adoption enablement. Location is good but role mismatch.",
+    "embed_sim": 0.38379794359207153,
+    "ai_native_score": 0.5608450770378113
+  },
+  {
+    "job": {
+      "id": "55dfe10bfb700c997ffbc297c6a243f1",
+      "title": "10 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-qualys-vacatures-SRCH_IL.0,9_KE10,16.htm",
+      "snippet": "10 vacatures in Nederland. Vind een baan!At Hero, we believe great companies are built by people who are empowered to make a real impact. We have an open, flexible, and informal way of working, where everyone has a voice in shaping what we do and how we do it.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:22:03.564896"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregation page with minimal information. Not a specific role listing.",
+    "embed_sim": 0.05931152403354645,
+    "ai_native_score": 0.5069109201431274
+  },
+  {
+    "job": {
+      "id": "9a3cae9c1b8b14fb42280a325f038ec3",
+      "title": "843 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/actively-learn-vacatures-SRCH_KE0,14.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken.You need to be a Dutch citizen or, have residency and you must be eligible to work in the Netherlands. Ability to meet Microsoft, customer and/or government\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:22:03.564926"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation page. No actual job posting information provided.",
+    "embed_sim": 0.10312721133232117,
+    "ai_native_score": 0.5276954174041748
+  },
+  {
+    "job": {
+      "id": "b057a421cb5be872e6102c4694127412",
+      "title": "196 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/life-home-health-care-vacatures-SRCH_KE0,21.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen.Management Team member at the Academy for AI, Games & Media.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:22:03.564941"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation page mentioning 'Academy for AI, Games & Media' team member. Insufficient detail to assess; appears to be a search results page, not a job posting.",
+    "embed_sim": 0.044166818261146545,
+    "ai_native_score": 0.5273539423942566
+  },
+  {
+    "job": {
+      "id": "c3899baeb68f8827ff64d29b8bfdc429",
+      "title": "46 vacatures voor spotify in Verenigde Staten | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-spotify-vacatures-SRCH_IL.0,9_IN1_KO10,17.htm",
+      "snippet": "Lead and develop a high-performing team, creating clarity around priorities, ownership, and ways of working.Upskill the data science function in your area with agentic AI, and develop the next layer of self-serve access to insights for your stakeholders.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:22:03.564959"
+    },
+    "score": 1,
+    "reason": "Spotify data science leadership role in US. Focuses on upskilling data science function with agentic AI\u2014this is about building/managing ML teams, not enabling dev teams to adopt AI tools. Wrong location (US), wrong profile.",
+    "embed_sim": 0.1604386270046234,
+    "ai_native_score": 0.5228963494300842
+  },
+  {
+    "job": {
+      "id": "a3fd59828bf6ab55cd17e9a928aae3da",
+      "title": "25+ vacatures voor Working Student Ai en werk in Rotterdam 30 ...",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/q-working-student-ai-l-rotterdam-vacatures.html",
+      "snippet": "Working Student Ai vacatures in Rotterdam. Assistant Professor, Sales Executive, Researcher en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-19T10:22:14.664163"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.2147376537322998,
+    "ai_native_score": 0.6309859752655029
+  },
+  {
+    "job": {
+      "id": "22312896ece6b4bd9ee7c8244e849a26",
+      "title": "25+ vacatures voor Xebia en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-xebia-vacatures.html",
+      "snippet": "Xebia vacatures. Data Engineer, Engineer, Ai Developer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-19T10:22:14.664174"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page listing multiple roles without specifics. Cannot evaluate.",
+    "embed_sim": 0.2588005065917969,
+    "ai_native_score": 0.6358667612075806
+  },
+  {
+    "job": {
+      "id": "00d9793f9151504e715231abd95e6fe6",
+      "title": "93 vacatures voor remote ai training in Nederland - Glassdoor",
+      "company": "",
+      "location": "Nieuwegein",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-remote-ai-training-vacatures-SRCH_IL.0,11_IN178_KO12,30.htm",
+      "snippet": "Roxit. 4,6. Onboarding & Adoption Specialist. Nieuwegein. \u20ac 4.000 - \u20ac 5.500 (opgegeven door werkgever). Base zorgt ervoor dat lokale overheden grip houden op ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-19T10:22:23.213543"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page. Shows Roxit 'Onboarding & Adoption Specialist' in Nieuwegein but no detail on role focus. Cannot score without actual job description.",
+    "embed_sim": 0.21453750133514404,
+    "ai_native_score": 0.6975845098495483
+  },
+  {
+    "job": {
+      "id": "50b72c3c9b20807de05de7541e69d99a",
+      "title": "Projectmanagement alle vacatures | Magnet.me (nl)",
+      "company": "Magnet.me (nl)",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacatures/project-management",
+      "snippet": "HBO & WO projectmanagement alle vacatures bij meer dan 6.000 werkgevers zoals Strukton, AT Osborne B.V., Croonwolter&dros.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-19T10:22:27.797773"
+    },
+    "score": 0,
+    "reason": "Generic project management job board aggregator, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.17518267035484314,
+    "ai_native_score": 0.5283658504486084
+  },
+  {
+    "job": {
+      "id": "2cce2e248d46ad4ad58575c651da9d1b",
+      "title": "8 vacatures voor Here Technologies in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/here-technologies-jobs",
+      "snippet": "Intern \u2013 FP&A Forecasting Process Improvement & AI Enablement. HERE Technologies. Amsterdam. Wees een van de eerste sollicitanten. 1 dag geleden.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-19T10:22:40.001610"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page. Shows HERE Technologies internship role but internship clearly mismatches senior level requirement.",
+    "embed_sim": 0.16979216039180756,
+    "ai_native_score": 0.5891399383544922
+  },
+  {
+    "job": {
+      "id": "f58884fd74ba2e8bf0a26080353445ec",
+      "title": "631 vacatures voor ai student in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-student-vacatures-SRCH_IL.0,11_IN178_KO12,22.htm",
+      "snippet": "Zoek vacatures voor Ai student in Nederland met bedrijfsreviews en salarissen. 631 vacatures voor Ai student in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-19T10:22:40.001633"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page for 'AI student' roles. Cannot evaluate without specific listings.",
+    "embed_sim": 0.137884721159935,
+    "ai_native_score": 0.6132830381393433
+  },
+  {
+    "job": {
+      "id": "031e1fc66291e4dfa97a2959bb98c5a4",
+      "title": "Senior Platform Engineer (Edge & Kubernetes) in Delft bij PostNL",
+      "company": "Postnl",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027647/senior-platform-engineer--edge---kubernetes-",
+      "snippet": "5 mei 2026 \u00b7 Als Platform Engineer werk je hands-on met Kubernetes, edge-hardware en automatisering in een omgeving met directe impact. Daarom kies je als ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-19T10:22:40.001647"
+    },
+    "score": 1,
+    "reason": "Senior Platform Engineer role at PostNL in Delft. Focus is Kubernetes, edge hardware, and infrastructure automation. No AI tooling/enablement mentioned. Wrong focus area.",
+    "embed_sim": 0.3394221067428589,
+    "ai_native_score": 0.4744538962841034
+  },
+  {
+    "job": {
+      "id": "c8d3e4e10af5facb94f461a821f957e8",
+      "title": "Vacatures Platform engineer in Geldermalsen - Vacat",
+      "company": "Vacat",
+      "location": "",
+      "url": "https://www.vacat.nl/vacatures-platform_engineer/regio-Geldermalsen/domain-fiscalevacature.nl/",
+      "snippet": "342 beschikbare Platform engineer Vacatures in Geldermalsen. Vacat, d\u00e9 zoekmachine met alle vacatures van meer dan 100.000 werkgevers.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-19T10:22:40.001670"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page for platform engineers. No specific job details provided. Cannot evaluate.",
+    "embed_sim": 0.2170754224061966,
+    "ai_native_score": 0.5852118134498596
   }
 ]
