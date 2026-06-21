@@ -15438,5 +15438,197 @@
     "reason": "VP Product Management role at TomTom focused on APIs, SDKs, and developer portal strategy. Senior product leadership position unrelated to AI tool adoption enablement.",
     "embed_sim": 0.14221492409706116,
     "ai_native_score": 0.3711647689342499
+  },
+  {
+    "job": {
+      "id": "ad2c1795bd5e5b276287b49c42e03ee6",
+      "title": "200+ vacatures voor Adoptie Specialist en werk: 17 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html?vjk=bacd86ad0d7d39ad",
+      "snippet": "Adoptie Specialist vacatures. Data Scientist, Software Consultant, Medewerker Klantenservice en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-21T09:44:38.389187"
+    },
+    "score": 0,
+    "reason": "Search results page, not a job listing. No actual position details available.",
+    "embed_sim": 0.21198922395706177,
+    "ai_native_score": 0.6102868318557739
+  },
+  {
+    "job": {
+      "id": "7501ed926d2530bc96d8c464f0326a07",
+      "title": "Werken bij Noordhoff Uitgevers | Vacatures | Magnet.me (nl)",
+      "company": "Noordhoff Uitgevers",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/noordhoff-uitgevers",
+      "snippet": "Alle vacatures bekijken \u00b7 AI Specialist \u00b7 Groningen \u00b7 0 - 3 jaar ervaring \u00b7 HBO \u00b7 Liken \u00b7 Solliciteren \u00b7 Tijdelijk: Klantenservice medewerker \u00b7 Deadline over 6 dagen \u00b7 Groningen \u00b7 Part-time \u00b7 0 - 2 jaar ervaring \u00b7 HBO of WO bachelor ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-21T09:44:42.109227"
+    },
+    "score": 0,
+    "reason": "Aggregated job board page. Groningen location (too far from Utrecht). No specific role details provided.",
+    "embed_sim": 0.10923687368631363,
+    "ai_native_score": 0.6172383427619934
+  },
+  {
+    "job": {
+      "id": "7c5fac44edf945a752138fa1048eec7f",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 11 juni ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=26b370d43d449727",
+      "snippet": "Ontwikkelen en uitvoeren van een heldere deployment- en developer experience strategie (tools, processen, standaarden, platformen). Groots worden doe je samen.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-21T09:44:46.165269"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. Mentions 'deployment and developer experience strategy' but no concrete role details.",
+    "embed_sim": 0.31746459007263184,
+    "ai_native_score": 0.6655899882316589
+  },
+  {
+    "job": {
+      "id": "09dcefcf5304e2e92934384d7836bac8",
+      "title": "200+ vacatures voor Artificial Intelligence en werk in ...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-l-amsterdam-vacatures.html?vjk=a06b49485fabe5c3",
+      "snippet": "Artificial Intelligence vacatures in Amsterdam. Online Marketing Manager, Traineeship Marketing, Senior User Experience Designer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-21T09:44:46.165276"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page. No specific AI adoption or enablement roles detailed.",
+    "embed_sim": 0.2823815941810608,
+    "ai_native_score": 0.6594890356063843
+  },
+  {
+    "job": {
+      "id": "4fb802f07536fc4cb14d8e8bd6a66f51",
+      "title": "88 vacatures voor openai in Amsterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-openai-vacatures-SRCH_IL.0,9_IC3064478_KO10,16.htm",
+      "snippet": "Vacatures voor machine learning engineer in AmsterdamVacatures in AmsterdamVacatures bij JetBrains in Amsterdam ... 5\u20138 years of experience as a software or AI engineer, ideally with exposure to startups or product-driven environments; Cloud ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-21T09:44:59.449423"
+    },
+    "score": 0,
+    "reason": "Search results page. Mentions ML engineer roles which require 5-8 years AI/ML experience \u2014 wrong profile entirely.",
+    "embed_sim": 0.19879674911499023,
+    "ai_native_score": 0.49932995438575745
+  },
+  {
+    "job": {
+      "id": "cceab0e2ca7a4619c4436e9835776219",
+      "title": "AI Vacatures - TheAIDaily",
+      "company": "TheAIDaily",
+      "location": "",
+      "url": "https://theaidaily.nl/vacatures/",
+      "snippet": "Vind de beste AI-vacatures in Nederland. Remote, hybrid en kantoor banen voor junior tot lead niveau in AI, machine learning en data science.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-21T09:45:04.351209"
+    },
+    "score": 0,
+    "reason": "Job board directory page, not a specific listing. No actual position details.",
+    "embed_sim": 0.2728181481361389,
+    "ai_native_score": 0.6932029128074646
+  },
+  {
+    "job": {
+      "id": "c005f5a7c57a80b138799adb16bf852e",
+      "title": "12 vacatures voor Operations in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/operations-jobs-trabzon",
+      "snippet": "Pontic Greek Linguistic Projects (Remote) -- Sigma AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:20.271757"
+    },
+    "score": 0,
+    "reason": "Location is Trabzon, Turkey \u2014 completely outside Netherlands. Wrong geography.",
+    "embed_sim": 0.1300162971019745,
+    "ai_native_score": 0.5805317759513855
+  },
+  {
+    "job": {
+      "id": "beeb67b8965d3031fc0b336214341291",
+      "title": "430 vacatures voor Cm.com in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/cm.com-jobs",
+      "snippet": "Knowledge Management and AI Enablement Specialist. Mercedes-Benz Customer Assistance Center Maastricht NV.2 weken geleden. GTM engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:28.066196"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page. Lists multiple unrelated roles without details.",
+    "embed_sim": 0.1437479555606842,
+    "ai_native_score": 0.4944421648979187
+  },
+  {
+    "job": {
+      "id": "c4a8a0b3109dcdb99986744e1d75be3a",
+      "title": "287 vacatures voor Nvidia in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/nvidia-jobs?position=1&pageNum=0",
+      "snippet": "AI Research and Development Engineer (Physical AI). Intel. Nederland.Technology Enablement Manager. Super Micro Computer Spain, S.L. 's-Hertogenbosch.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:28.066216"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page. AI R&D Engineer and other roles mentioned are research/ML-focused, not AI adoption enablement.",
+    "embed_sim": 0.2837238907814026,
+    "ai_native_score": 0.5730100870132446
+  },
+  {
+    "job": {
+      "id": "62d93bda31d3dacd9ec8e68791c10b2b",
+      "title": "28 vacatures voor Support in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/support-jobs-trabzon",
+      "snippet": "TEKCE Real Estate. Trabzon, Trabzon, Turkije 4 maanden geleden. Pontic Greek Linguistic Projects (Remote) -- Sigma AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:28.066230"
+    },
+    "score": 0,
+    "reason": "Location is Trabzon, Turkey \u2014 completely outside Netherlands. Wrong geography.",
+    "embed_sim": 0.11737839877605438,
+    "ai_native_score": 0.5157188773155212
+  },
+  {
+    "job": {
+      "id": "9dd6932bd4c798b14330a69872a9938f",
+      "title": "39 vacatures voor Game Developer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/game-developer-jobs",
+      "snippet": "39 Game Developer vacatures in Nederland.Wees een van de eerste sollicitanten. 3 dagen geleden. Docent ICT met AI-profiel.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:32.452617"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not a specific job opening. Multiple unrelated vacancies (Game Developer, ICT Teacher). No actionable role information.",
+    "embed_sim": 0.26637157797813416,
+    "ai_native_score": 0.6983103156089783
+  },
+  {
+    "job": {
+      "id": "da43b09a7002fa20e16b8cee23aae4da",
+      "title": "255 vacatures voor Polish in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/polish-jobs?position=1&pageNum=0",
+      "snippet": "Polish - Fluent Speakers - AI Training - Netherlands. Prolific. Amsterdam 1 maand geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-21T09:45:47.353724"
+    },
+    "score": 0,
+    "reason": "AI Training data labeling role for Polish speakers. Not a developer role. Not aligned with AI adoption/enablement in engineering. Wrong domain entirely.",
+    "embed_sim": 0.09360545873641968,
+    "ai_native_score": 0.5150212049484253
   }
 ]
