@@ -15630,5 +15630,309 @@
     "reason": "AI Training data labeling role for Polish speakers. Not a developer role. Not aligned with AI adoption/enablement in engineering. Wrong domain entirely.",
     "embed_sim": 0.09360545873641968,
     "ai_native_score": 0.5150212049484253
+  },
+  {
+    "job": {
+      "id": "c7fe8170af1d5008744bad4afe86f186",
+      "title": "Data Engineering AWS/GCP in... | Magnet.me | #963153 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/963153/data-engineering-aws-gcp",
+      "snippet": "Dream big, engineer bigger. Do you see challenges as opportunities? At Accenture, we\u2019re looking for talented Data Engineers who are ready to reshape industries with cloud-driven solutions. By working with Fortune 500 clients, leveraging AWS, GCP, an\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-22T11:47:06.864694"
+    },
+    "score": 0,
+    "reason": "Data Engineering role focused on AWS/GCP cloud infrastructure and data pipelines \u2014 requires ML/data engineering expertise, not AI tool adoption. Wrong domain.",
+    "embed_sim": 0.3364700675010681,
+    "ai_native_score": 0.29817134141921997
+  },
+  {
+    "job": {
+      "id": "90419994467b65e07cc8f38b0210b640",
+      "title": "IT jobs at over 6,100 employers like Van der Valk, Mambu, Lunatech.",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://magnet.me/en/jobs/it?page=57",
+      "snippet": "Retail. \u2022 3,000 employees. AI Tooling Engineer. Utrecht. 4 - 12 years experience.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-22T11:47:06.864729"
+    },
+    "score": 8,
+    "reason": "AI Tooling Engineer in Utrecht \u2014 exact match for candidate's target role. Senior level (4-12 years). Perfect location. Likely focused on enabling teams to use AI tools.",
+    "embed_sim": 0.4914066791534424,
+    "ai_native_score": 0.6479988098144531
+  },
+  {
+    "job": {
+      "id": "9c2781b63d35e22000514285e6570423",
+      "title": "43 vacature(s) voor Email marketing and automation specialist in...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/email-marketing-and-automation-specialist-vacatures-SRCH_KO0,41.htm",
+      "snippet": "Vind de juiste vacature voor Email marketing and automation specialist met bedrijfsreviews en salarissen.We\u2019re looking for knowledgeable marketing automation specialists based in the EU or UK to support the training of AI systems focused on marketing automation,\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-22T11:47:10.943278"
+    },
+    "score": 0,
+    "reason": "Marketing automation specialist training AI systems \u2014 unrelated to developer productivity or engineering team adoption. Wrong domain entirely.",
+    "embed_sim": 0.29881808161735535,
+    "ai_native_score": 0.5273802876472473
+  },
+  {
+    "job": {
+      "id": "ce57e9d2e410889ded24311aecc31d40",
+      "title": "Werken bij Empower AI | Glassdoor",
+      "company": "Empower Ai",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Overzicht/Werken-bij-Empower-AI-EI_IE7457767.11,21.htm",
+      "snippet": "With its AI Services Framework, the company accelerates the government\u2019s adoption and expansion of AI to meet digital transformation and mission objectives for national security and citizen services.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-22T11:47:10.943315"
+    },
+    "score": 0,
+    "reason": "Government AI services framework role \u2014 no detail provided, but appears to be policy/government AI adoption, not developer-facing. Location unknown, likely not Utrecht area.",
+    "embed_sim": 0.40259331464767456,
+    "ai_native_score": 0.6342582106590271
+  },
+  {
+    "job": {
+      "id": "42dedcd57cad43ff829d78fc26295f68",
+      "title": "glassdoor.nl/Vacatures/KLM-Vacatures-E3486.htm?filter.radius=31",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacatures/KLM-Vacatures-E3486.htm?filter.radius=31",
+      "snippet": "Bekijk open vacatures bij KLM.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-22T11:47:10.943325"
+    },
+    "score": 0,
+    "reason": "Generic KLM vacancies listing with no specific job details. Cannot evaluate relevance. Appears to be a search results page, not a job posting.",
+    "embed_sim": -0.0007581636309623718,
+    "ai_native_score": 0.4795870780944824
+  },
+  {
+    "job": {
+      "id": "024185c37118f24e6a9f9590ca2358c4",
+      "title": "100+ vacatures voor Junior Ai Developer en werk: 9 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-junior-ai-developer-vacatures.html?vjk=740d2e339ed838f2",
+      "snippet": "Ben jij een developer met minimaal een jaar ervaring en werkervaring of een enorme passie voor AI? Volg jij de nieuwste ontwikkelingen op de voet, experimenteer je hier zelf actief mee en krijg je energie van het meenemen van anderen? Dan zijn wij bij OVSoftware op zoek naar jou. In deze rol werk je aan softwareoplossingen waarbij AI een integraal onderdeel is van je ontwikkelproces. Je ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-22T11:47:24.230023"
+    },
+    "score": 2,
+    "reason": "Junior AI Developer position \u2014 candidate is senior (13 years), not junior. Role appears focused on building AI solutions, not enabling adoption. OVSoftware listing suggests development work, not championing.",
+    "embed_sim": 0.34563565254211426,
+    "ai_native_score": 0.7227782011032104
+  },
+  {
+    "job": {
+      "id": "bc8eb718b3f8e385bbae788af5f9de7c",
+      "title": "ai model developer vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-model-developer-vacatures.html",
+      "snippet": "Experience in maintaining software packages and developing pipelines for AI models. Design and run experiments to benchmark model performance and reliability.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-22T11:47:24.230060"
+    },
+    "score": 1,
+    "reason": "AI Model Developer focused on pipelines and model performance benchmarking \u2014 pure ML/data science role. Requires deep ML expertise. Not a match.",
+    "embed_sim": 0.4269271492958069,
+    "ai_native_score": 0.5062847137451172
+  },
+  {
+    "job": {
+      "id": "5e3dc735387cf14f70baed4b5e507db0",
+      "title": "Uitzendbureau | Banen met werkplezier | Tempo-Team",
+      "company": "Banen met werkplezier",
+      "location": "",
+      "url": "https://www.tempo-team.nl/",
+      "snippet": "Uitzendbureau Tempo-Team heeft vacatures voor banen met werkplezier. Tijdelijk of vast werk, vakantiewerk, bijbanen: de keuze is aan jou!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-22T11:47:28.691869"
+    },
+    "score": 0,
+    "reason": "Generic temp agency landing page with no specific job listings. Cannot evaluate.",
+    "embed_sim": 0.13813871145248413,
+    "ai_native_score": 0.7238839864730835
+  },
+  {
+    "job": {
+      "id": "1c930606f2c23f55e864f3fb9514f1be",
+      "title": "Slo - vacatures - 15 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "Amersfoort",
+      "url": "https://nl.indeed.com/q-slo-vacatures.html?vjk=184fbc1eb8da5f12",
+      "snippet": "Alle vacatures voor SLO nationaal ... (32-40 uur) salarissen in Amersfoort \u00b7 Als Data & AI Platform Engineer werk je in enablement-teams die het platform en de delivery-capabilities neerzetten waar data- en AI-domeinen op kunnen\u2026...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-22T11:47:42.141613"
+    },
+    "score": 7,
+    "reason": "Data & AI Platform Engineer in Amersfoort (within 40km of Utrecht) \u2014 enablement-focused role for platform and delivery capabilities. Strong match if centered on AI tool adoption rather than pure data engineering.",
+    "embed_sim": 0.10973209142684937,
+    "ai_native_score": 0.5337181687355042
+  },
+  {
+    "job": {
+      "id": "531a5dd97eb91cd0d79c93a2ad329a64",
+      "title": "50+ vacatures voor Ai Student en werk in 3023 Rotterdam Delfshaven 1 juni 2026| Indeed",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.indeed.com/q-ai-student-l-3023-rotterdam-delfshaven-vacatures.html",
+      "snippet": "Alle vacatures voor TNO - Den Haag vacatures - vacatures voor Intern in Den Haag bekijken \u00b7 Zoeken op salaris: Internship | Test-Time Adaptation for Robust AI salarissen in Den Haag ... The AIDA program (AI, Data and Automation) operationalizes Royal IHC\u2019s AI strategy. Copilot adoption & enablement ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-22T11:47:42.141648"
+    },
+    "score": 0,
+    "reason": "Internship/student positions listed with TNO research institute \u2014 candidate is senior professional, not intern. Also research/academic focus, not dev team enablement. Location Den Haag is acceptable but role is wrong level.",
+    "embed_sim": 0.2787710428237915,
+    "ai_native_score": 0.7216120958328247
+  },
+  {
+    "job": {
+      "id": "6cbed7c1f0db6a0613d3f5b495860ba3",
+      "title": "9 vacatures voor Legal in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/legal-jobs-trabzon?position=1&pageNum=0",
+      "snippet": "You're now using AI-powered job search.Pontic Greek Linguistic Projects (Remote) -- Sigma AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:47:46.600633"
+    },
+    "score": 0,
+    "reason": "Location is Trabzon, Turkey - far outside Utrecht area. Not relevant to candidate's geographic preference.",
+    "embed_sim": 0.21971248090267181,
+    "ai_native_score": 0.5632747411727905
+  },
+  {
+    "job": {
+      "id": "f933652b767f0e9cfc6ae698e7277f9c",
+      "title": "8 vacatures voor Sap in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/sap-jobs/?f_C=1115,2573558,2818,166185,5822",
+      "snippet": "8 Sap vacatures in Nederland. AI Process Architect.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:47:46.600652"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not a specific job listing. No actionable job description provided.",
+    "embed_sim": 0.2352064549922943,
+    "ai_native_score": 0.5225729942321777
+  },
+  {
+    "job": {
+      "id": "90949c05aa4f76b3c0eae72158b0be04",
+      "title": "Senior Machine Learning Scientist - Booking.com - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/senior-machine-learning-scientist-booking-com/",
+      "snippet": "September 6, 2024 - Experience collaborating cross functionally in the development of machine learning products (e.g. Developers, ML Engineers, Product Managers, etc.).",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-22T11:47:50.403981"
+    },
+    "score": 1,
+    "reason": "Senior Machine Learning Scientist role - requires building ML products and models, not enabling teams to adopt AI tools. This is explicitly what candidate does NOT want.",
+    "embed_sim": 0.5145467519760132,
+    "ai_native_score": 0.6111367344856262
+  },
+  {
+    "job": {
+      "id": "357346ae9ec6e81ad6fbf3ae8c25ad0a",
+      "title": "HAI Agency zoekt een Creative in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/creative-at-hai-agency-4431123900?position=1&pageNum=0",
+      "snippet": "You work closely with the Creative Director to develop visual directions, create content, and explore new ways of working with AI. This is a hands-on role. You\u2019ll spend most of your time creating, testing, refining, and producing work. Some days you\u2019ll be building campaign assets.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:47:54.460972"
+    },
+    "score": 0,
+    "reason": "Creative/content production role at advertising agency. Not related to developer productivity, AI tool adoption, or SDLC practices.",
+    "embed_sim": 0.36763644218444824,
+    "ai_native_score": 0.6821211576461792
+  },
+  {
+    "job": {
+      "id": "6e51617d6d5f447d2c93126f8bb25efe",
+      "title": "Booking.com zoekt een Data & AI Governance Architect in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-governance-architect-at-booking-com-4429902317?position=1&pageNum=0",
+      "snippet": "Develop communities of practice to embed and evolve architecture ways of working and improve the quality of architectural decision making Create the culture, processes and principles that embed data quality and Governance by design.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:47:54.461000"
+    },
+    "score": 5,
+    "reason": "Data & AI Governance Architect at Booking.com has some appeal (governance, embedding practices, culture/processes) but likely requires deep data/AI infrastructure expertise rather than dev team AI enablement focus. Missing location detail.",
+    "embed_sim": 0.3413408398628235,
+    "ai_native_score": 0.6009200811386108
+  },
+  {
+    "job": {
+      "id": "7839a0afd49fee0a4829a7a8b67ffd18",
+      "title": "Miele zoekt een Knowledge Content & Operations Intern in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/knowledge-content-operations-intern-at-miele-4426239280",
+      "snippet": "A proactive, organized, and hands-on way of working Good attention to detail and the ability to manage different tasks Curiosity about AI, digital business, and collaboration in an international environment Basic experience with Clipchamp, Photoshop, PowerPoint, Excel, Canva or similar tools is a plus Show more",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:47:54.461043"
+    },
+    "score": 0,
+    "reason": "Intern position - candidate is senior with 13 years experience and does NOT want junior/intern roles.",
+    "embed_sim": 0.2745639681816101,
+    "ai_native_score": 0.6236922144889832
+  },
+  {
+    "job": {
+      "id": "258eb254bcaa0a074f86215e473acbd9",
+      "title": "326 vacatures voor Detailhandel in Doetinchem, Gelderland, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/detailhandel-jobs-doetinchem",
+      "snippet": "326 topvacatures voor Detailhandel in Doetinchem, Gelderland, Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Detailhandel toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-22T11:48:14.212000"
+    },
+    "score": 0,
+    "reason": "Generic retail job search results page in Doetinchem. Not a specific job listing, not relevant to candidate's domain.",
+    "embed_sim": 0.043511852622032166,
+    "ai_native_score": 0.551679253578186
+  },
+  {
+    "job": {
+      "id": "208e1f8f7fef8d4c6e41c363871bcab3",
+      "title": "289 vacatures voor ai machine learning in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-machine-learning-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+      "snippet": "Zoek vacatures voor Ai machine learning in Nederland met bedrijfsreviews en salarissen. 289 vacatures voor Ai machine learning in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-22T11:48:18.818440"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page for 289 AI/ML jobs. Not a specific job listing.",
+    "embed_sim": 0.21748068928718567,
+    "ai_native_score": 0.5587189197540283
+  },
+  {
+    "job": {
+      "id": "eb050d23dcb1750b3b3f57527c5e9a98",
+      "title": "11.763 vacatures voor ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-jobs-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
+      "snippet": "As an AI Filmmaker, you will leverage AI-based photo and video tools to conceptualize, create, and edit short films and videos. These videos will be used to tell stories, showcase products, and bring the visions of Tether and its affiliated companies to life.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-22T11:48:18.818461"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator. Shows example of 'AI Filmmaker' role creating video content - not relevant to developer productivity or SDLC AI enablement.",
+    "embed_sim": 0.25079867243766785,
+    "ai_native_score": 0.6692206859588623
   }
 ]
