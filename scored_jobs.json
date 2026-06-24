@@ -16238,5 +16238,293 @@
     "reason": "Digital Adoption & Engagement Consultant at NN Group. Adoption focus is good, but unclear if specifically about AI tools or broader digital transformation. Vague snippet doesn't confirm AI tooling enablement focus.",
     "embed_sim": 0.18988844752311707,
     "ai_native_score": 0.6447070837020874
+  },
+  {
+    "job": {
+      "id": "1c3f63291301f57d822b0d966737b90a",
+      "title": "Alle stage vacatures in AI - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/category/stages/feed/",
+      "snippet": "Digital media is a fast\u2011changing, data\u2011driven landscape in which AI plays an increasingly important role in how we reach new and existing customers. As an AI & Digital Media Analytics intern, you work at the intersection of data, media, and AI. You are energized by analyzing data, working with new technologies, and improving our digital media efforts.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-24T09:22:39.023819"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship position. Candidate explicitly does not want intern/trainee roles. Also appears to be a feed/category page, not a specific job listing.",
+    "embed_sim": 0.32523947954177856,
+    "ai_native_score": 0.6285448670387268
+  },
+  {
+    "job": {
+      "id": "0476a504e779d74984811ce9f538c0bf",
+      "title": "AI automation specialist in Eindhoven bij Online Klik | Magnet.me | #1025291 (nl)",
+      "company": "Online Klik",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1025291/ai-automation-specialist",
+      "snippet": "April 28, 2026 - Je kunt meerdere AI tools en systemen aan elkaar koppelen \u00b7 Je denkt in processen en ziet kansen om slimmer te werken \u00b7 Je hebt een developer mindset en vindt het leuk om te bouwen en te testen ... Bij ons draait het niet alleen om werk, maar ook om plezier, groei en samen mooie resultaten bereiken. Lijkt het jou een mooie uitdaging om deel uit te maken van ons team?Volledige vacaturetekst bekijken",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-24T09:22:47.187952"
+    },
+    "score": 3,
+    "reason": "AI automation specialist in Eindhoven (outside 40km radius from Utrecht). Role focuses on building automation systems and coupling AI tools rather than championing adoption within dev teams. Wrong location and wrong focus.",
+    "embed_sim": 0.3292725086212158,
+    "ai_native_score": 0.6806342005729675
+  },
+  {
+    "job": {
+      "id": "e5605461962a38ade88ddcd642ea3912",
+      "title": "300+ vacatures voor Ai Trainen en werk: 23 mei 2026| Indeed",
+      "company": "",
+      "location": "Amstelveen",
+      "url": "https://nl.indeed.com/q-ai-trainen-vacatures.html",
+      "snippet": "Als Lead voor de MDM-propositie binnen het AI & Data-team ben je verantwoordelijk voor het realiseren van datakwaliteit en integriteit \u2013 cruciaal voor het\u2026 \u00b7 Alle vacatures voor KPMG Nederland - Amstelveen vacatures - vacatures voor Data Scientist (m/v) in Amstelveen bekijken \u00b7 Zoeken op salaris: Senior Manager Master Data Management salarissen in Amstelveen \u00b7 Zie veelgestelde vragen en antwoorden over KPMG Nederland \u00b7 You are fluent in working across different cloud environments and help others",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-24T09:22:59.091217"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.25692033767700195,
+    "ai_native_score": 0.49883487820625305
+  },
+  {
+    "job": {
+      "id": "d6c62ca12e49987003464c8631117680",
+      "title": "2.000+ vacatures voor Ai Specialist en werk: 12 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-specialist-vacatures.html",
+      "snippet": "Alle vacatures voor pdz - Haarlem vacatures - vacatures voor Online Marketeer (m/v) in Haarlem bekijken \u00b7 Zoeken op salaris: SEA Specialist salarissen in Haarlem ... Met dit programma ontwikkel je jezelf tot specialist in rollen zoals Data Analist, AI-proces analist of Business Analist, en werk ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-24T09:22:59.091287"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.2740025520324707,
+    "ai_native_score": 0.5228763222694397
+  },
+  {
+    "job": {
+      "id": "8549c014649d679574bd4d715f95df47",
+      "title": "Principal Full Stack Engineer, AI Platform & Agents in Alphen aan den Rijn bij Wolters Kluwer | Magnet.me | #1024462 (nl)",
+      "company": "Wolters Kluwer",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1024462/principal-full-stack-engineer--ai-platform---agents",
+      "snippet": "Design and implement full-stack applications, AI agents, and platform components that enable rapid GenAI agent development, validation, and deployment. Build developer tooling, CI/CD, and observability for safe, fast iteration, including evals, ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-24T09:23:06.890388"
+    },
+    "score": 6,
+    "reason": "Principal Full Stack Engineer at Wolters Kluwer building AI platform and developer tooling for GenAI agents. Strong DevEx/platform focus aligns with candidate's goals. However, emphasis on building full-stack applications and infrastructure suggests more ML/platform engineering depth required than candidate's AI adoption champion role. Location (Alphen aan den Rijn) is within 40km of Utrecht. Could be good fit but leans more toward platform engineering than pure adoption advocacy.",
+    "embed_sim": 0.4820655882358551,
+    "ai_native_score": 0.6268256306648254
+  },
+  {
+    "job": {
+      "id": "57cbabb3780998477925a574720e4b32",
+      "title": "Bouw mee aan de AI & Automation revolutie in Rotterdam bij VionA | Magnet.me | #700471 (nl)",
+      "company": "Viona",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/700471/bouw-mee-aan-de-ai---automation-revolutie",
+      "snippet": "April 22, 2026 - Onze focus ligt hierbij op AI en RPA technologie, waarmee we saaie, repetitieve taken overnemen van de mensen die ze uitvoeren, zodat zij tijd hebben voor de uitdagende en creatieve onderdelen van hun baan. Lijkt het je wat? Stuur ons een bericht! Als je vragen hebt horen we dit natuurlijk ook graag.Volledige vacaturetekst bekijken",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-24T09:23:10.595782"
+    },
+    "score": 2,
+    "reason": "Focus on AI/RPA technology for process automation and task automation. Role appears to be about implementing AI solutions for business processes, not enabling dev teams to adopt AI tooling. Rotterdam location is outside preferred 40km radius. Wrong focus area.",
+    "embed_sim": 0.15078358352184296,
+    "ai_native_score": 0.5993177890777588
+  },
+  {
+    "job": {
+      "id": "c72343ad12c0f16fc57f9e015ae45806",
+      "title": "Magnet.me: Vind jouw perfecte baan, traineeship of stage",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/jobseekers",
+      "snippet": "Chat with your AI coach to discover which jobs you fit, prepare your job interviews, and take your next step with confidence. ... Connect with top employers and stay updated about their newest jobs. Discover jobs that match with your profile and preferences, and apply directly. Be approached by recruiters when you connect with a company or like a job. ... Magnet.me is a nice way to discover interesting employers.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-24T09:23:10.595810"
+    },
+    "score": 0,
+    "reason": "Landing page/marketing page for Magnet.me job platform, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.2380211502313614,
+    "ai_native_score": 0.5010212063789368
+  },
+  {
+    "job": {
+      "id": "ee1b108f0a907c2e4dbc0e37bdaf3985",
+      "title": "Programmatic specialist in Amsterdam bij Landal GreenParks | Magnet.me | #1030162 (nl)",
+      "company": "Landal Greenparks",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1030162/programmatic-specialist",
+      "snippet": "May 12, 2026 - Working with platforms like DV360, CM360 and other DSP environments \u00b7 Analyzing campaign performance and translating data into actionable insights and recommendations \u00b7 Supporting innovation projects around AI bidding, automation, DCO and ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-24T09:23:10.595839"
+    },
+    "score": 1,
+    "reason": "Programmatic specialist role focused on digital advertising platforms (DV360, CM360, DSP). While mentions AI bidding and automation, this is marketing/media buying domain, not software development team enablement. Wrong domain entirely.",
+    "embed_sim": 0.2561784088611603,
+    "ai_native_score": 0.46743327379226685
+  },
+  {
+    "job": {
+      "id": "f85b7a710ace3e1eb1c1dc86e53989de",
+      "title": "253 vacature(s) voor Junior data engineer in Nederland - Glassdoor",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.glassdoor.nl/Vacature/junior-data-engineer-vacatures-SRCH_KO0,20.htm",
+      "snippet": "Junior AI Engineer. Nederland. \u20ac 3.300 - \u20ac 4.200 (opgegeven ... UtrechtVacatures in UtrechtVacatures bij Rijksdienst voor Ondernemend Nederland in Utrecht.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-24T09:23:21.555655"
+    },
+    "score": 0,
+    "reason": "Junior Data Engineer/Junior AI Engineer position. Candidate explicitly does not want junior positions. Also appears to be a search results page aggregating multiple listings, not a specific job posting.",
+    "embed_sim": 0.12934039533138275,
+    "ai_native_score": 0.550849199295044
+  },
+  {
+    "job": {
+      "id": "d7fcbe60c07327b66cd8b0c31f8bb222",
+      "title": "Van Oord zoekt een Data & AI Engineer in Rotterdam - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-engineer-at-van-oord-4432410088",
+      "snippet": "You design, build and maintain modern data products that help teams make better decisions and create impact across the organisation. Working with technologies ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-24T09:23:31.264147"
+    },
+    "score": 2,
+    "reason": "Data & AI Engineer at Van Oord designing and building data products. This is a data engineering role focused on building data infrastructure and products, not enabling dev teams to adopt AI tools. Requires deep data engineering expertise, not AI adoption championing. Also Rotterdam location is outside preferred radius.",
+    "embed_sim": 0.2675076425075531,
+    "ai_native_score": 0.5141541361808777
+  },
+  {
+    "job": {
+      "id": "5a03e716e47573cc7b50fe9b85daae14",
+      "title": "Senior Agentic Workflow Engineer I - Alter Domus - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-agentic-workflow-engineer-i-at-alter-domus-4391108590",
+      "snippet": "We are seeking a talented Full Stack AI Engineer to join our Workflow Automations team in Hyderabad. In this role, you will design, develop, and deploy AI- ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-24T09:23:43.756533"
+    },
+    "score": 0,
+    "reason": "Location is Hyderabad, India \u2014 far outside Utrecht/Netherlands requirement. Role focuses on agentic workflow development, not AI tool adoption enablement for dev teams.",
+    "embed_sim": 0.49602463841438293,
+    "ai_native_score": 0.6995785236358643
+  },
+  {
+    "job": {
+      "id": "651f3f730e877653b835e25cb4e4e53d",
+      "title": "Vacatures voor Tools Programmer in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/tools-programmer-jobs",
+      "snippet": "1.000+ Tools Programmer vacatures in Nederland Senior Development Tooling Engineer Adyen Amsterdam Wees een van de eerste sollicitanten 1 week geleden",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-24T09:23:47.461400"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing multiple vacancies, not a specific job posting. Cannot evaluate without concrete job details.",
+    "embed_sim": 0.2958853840827942,
+    "ai_native_score": 0.6950459480285645
+  },
+  {
+    "job": {
+      "id": "472b80eefe3dddc315077777205e5ed7",
+      "title": "Prodrive Technologies zoekt een AI Engineer in Eindhoven ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-prodrive-technologies-4426490763",
+      "snippet": "Apply responsible-AI practices: safety, privacy, evaluation, and monitoring Develop reusable components and tooling to accelerate AI development across teams Collaborate with stakeholders to translate business needs into technical solutions Contribute to deployment and operational practices for reliable AI services",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-24T09:23:47.461428"
+    },
+    "score": 2,
+    "reason": "Location is Eindhoven (70km+ from Utrecht, outside 40km preference). Role appears focused on developing AI components and responsible-AI practices, not championing AI tool adoption for dev teams. Likely requires ML/AI engineering expertise rather than AI enablement.",
+    "embed_sim": 0.3845655918121338,
+    "ai_native_score": 0.6499742269515991
+  },
+  {
+    "job": {
+      "id": "964afb29b3488a799000c4175ff83f69",
+      "title": "Bold Company zoekt een AI Engineer in Rotterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-bold-company-4428913528",
+      "snippet": "2 days ago \u00b7 07:15:04 geplaatst. Als AI Engineer kom je terecht in een centraal AI-team waar innovatie en experimenteren centraal\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-24T09:23:47.461457"
+    },
+    "score": 3,
+    "reason": "Location is Rotterdam (50km+ from Utrecht, outside preference). Role description mentions 'central AI-team' focused on 'innovation and experimentation' \u2014 suggests building AI solutions rather than enabling teams to adopt AI tools. Insufficient details but positioning suggests wrong focus.",
+    "embed_sim": 0.35027816891670227,
+    "ai_native_score": 0.6796701550483704
+  },
+  {
+    "job": {
+      "id": "aed20686fbc4922b0e4386e150d11cf1",
+      "title": "Digital Adoption & Engagement Consultant - View vacancy - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=0c622f9c2f2af69e",
+      "snippet": "Kijk hoe de vacaturegegevens overeenkomen met je profiel. Salaris. \u20ac 3.891 - \u20ac 5.188 per maand ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-24T09:23:56.671280"
+    },
+    "score": 0,
+    "reason": "Title and snippet are generic/unclear. No location provided. URL structure suggests removed or archived listing. Insufficient information to evaluate relevance.",
+    "embed_sim": 0.08943435549736023,
+    "ai_native_score": 0.5795029997825623
+  },
+  {
+    "job": {
+      "id": "d1408e272fb37ed8c9b2aae8fcee6c77",
+      "title": "AI Automation Engineer in Utrecht at bol | Magnet.me | #1046009 (en)",
+      "company": "Magnet.me",
+      "location": "Utrecht",
+      "url": "https://magnet.me/en/opportunity/1046009/ai-automation-engineer",
+      "snippet": "9 jun 2026 \u00b7 AI Automation Engineer. Job \u2022 Utrecht, NL. Posted 9 Jun 2026. Share job ... AI to work flawlessly in production, not just in pitch decks.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-24T09:24:09.373892"
+    },
+    "score": 1,
+    "reason": "Location is Utrecht (excellent). However, 'AI Automation Engineer' role focused on making 'AI work flawlessly in production' suggests building/deploying AI systems, not enabling dev teams to adopt AI tools. Likely requires ML/systems engineering expertise. Wrong focus.",
+    "embed_sim": 0.33135294914245605,
+    "ai_native_score": 0.6586697101593018
+  },
+  {
+    "job": {
+      "id": "39f7cac4eb080b660f544a42be01f7ba",
+      "title": "Vacatures voor Artefact in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/artefact-jobs",
+      "snippet": "7 Artefact vacatures in Nederland \u00b7 Data & AI Engineer \u00b7 Research - Internship \u00b7 Infrastructure Engineer (Bare Metal) / Part Time \u00b7 Master's Thesis in Way of ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-24T09:24:09.373919"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing multiple Artefact vacancies, not a specific job posting. Cannot evaluate without concrete job details.",
+    "embed_sim": 0.059290673583745956,
+    "ai_native_score": 0.5221394300460815
+  },
+  {
+    "job": {
+      "id": "3ee90bf987ec84a6073468045af4ef86",
+      "title": "AI ABEL 2026 \u2013 AI Applications in Business and Everyday Life",
+      "company": "",
+      "location": "",
+      "url": "https://securitytalent.nl/events/ai-abel-2026---ai-applications-in-business-and-everyday-life-2026-06-08",
+      "snippet": "8 jun 2026 \u00b7 The event will delve into diverse aspects of AI, fostering collaboration, knowledge exchange, and the discovery of cutting-edge solutions. Join ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-24T09:24:09.373957"
+    },
+    "score": 0,
+    "reason": "This is an event listing (AI ABEL 2026 conference), not a job posting. Not relevant for employment matching.",
+    "embed_sim": 0.3922128677368164,
+    "ai_native_score": 0.5553703904151917
   }
 ]
