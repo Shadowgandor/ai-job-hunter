@@ -16526,5 +16526,325 @@
     "reason": "This is an event listing (AI ABEL 2026 conference), not a job posting. Not relevant for employment matching.",
     "embed_sim": 0.3922128677368164,
     "ai_native_score": 0.5553703904151917
+  },
+  {
+    "job": {
+      "id": "137db37536e148cf8a1ce393fc45d03f",
+      "title": "Product Manager \u2013 AI Efficiency in Utrecht at bol | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1024494/product-manager--ai-efficiency",
+      "snippet": "24 apr 2026 \u00b7 As Product Manager for the newly formed AI Efficiency team, you introduce AI agents that automate and accelerate operational workflows ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-25T08:56:00.110259"
+    },
+    "score": 7,
+    "reason": "Product Manager role focused on AI Efficiency and automation workflows. Located in Utrecht (perfect location). Strong match for AI adoption/enablement mindset, though PM perspective differs from hands-on technical champion role. No ML expertise required.",
+    "embed_sim": 0.2675507664680481,
+    "ai_native_score": 0.489433228969574
+  },
+  {
+    "job": {
+      "id": "e04b4eef236936e343922559717331f3",
+      "title": "340 vacatures voor machine learning software engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-machine-learning-software-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,44.htm",
+      "snippet": "Vacature-alert maken. Alleen Snelsollicitatie. Bedrijfsbedoordeling.Als AI Engineer heb je een essenti\u00eble rol in het bedenken, cre\u00ebren en verbeteren van AI-oplossingen die ge\u00efntegreerd kunnen worden in onze bestaande software of\u2026\u2026 30d+.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-25T08:56:12.994141"
+    },
+    "score": 1,
+    "reason": "Generic job search aggregator page for ML Software Engineers (340 vacancies). Not a specific job listing. Typically requires ML/TensorFlow/PyTorch expertise. Does not match candidate profile.",
+    "embed_sim": 0.25843334197998047,
+    "ai_native_score": 0.5768316984176636
+  },
+  {
+    "job": {
+      "id": "c58a3a20ea43d52c2610887a7631cb06",
+      "title": "Vacatures zoeken | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/",
+      "snippet": "Met Indeed kan je miljoenen vacatures online bekijken en de volgende stap in je carri\u00e8re vinden. Met middelen voor het zoeken naar vacatures, cvs, bedrijfsreviews en meer, steunen we je tijdens elke stap.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:16.882280"
+    },
+    "score": 0,
+    "reason": "Generic job search platform homepage. Not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.016406608745455742,
+    "ai_native_score": 0.4646543562412262
+  },
+  {
+    "job": {
+      "id": "dc8219c74636789cca433b8d3e1ea399",
+      "title": "11.000+ vacatures voor Marketing en werk: 6 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Marketing-vacatures",
+      "snippet": "Marketing Medewerker, Marketing Specialist, Marketeer en meer op Indeed.com.Werklocatie: Fysiek. Vacature rapporteren. Informatie over advertentietransparantie. Terug naar zoekresultaat.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:16.882313"
+    },
+    "score": 0,
+    "reason": "Generic marketing job search results page. Not a specific job listing. Unrelated to AI adoption/enablement roles.",
+    "embed_sim": 0.0659279003739357,
+    "ai_native_score": 0.4840869605541229
+  },
+  {
+    "job": {
+      "id": "24d56cc59d049bc5925e2d4a4da978d7",
+      "title": "100+ vacatures voor Marketing Specialist en werk: 10 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Marketing-Specialist-vacatures",
+      "snippet": "Marketing Specialist vacatures. Sorteer op: relevantie - datum.Je bent nieuwsgierig naar de mogelijkheden van AI binnen marketing en weet dit toe te passen; Salta zoekt een allround Online Marketing Specialist om het\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:16.882326"
+    },
+    "score": 1,
+    "reason": "Marketing Specialist role with AI curiosity mentioned. Not aligned with candidate's focus on dev team AI enablement or SDLC practices. Wrong domain entirely.",
+    "embed_sim": 0.09779316186904907,
+    "ai_native_score": 0.5202699899673462
+  },
+  {
+    "job": {
+      "id": "d037df9ebf8a4a23fdfe3cd0ba516f2d",
+      "title": "2 vacatures voor Consulting in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/consulting-jobs-trabzon",
+      "snippet": "We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results. Meer informatie. Ontvang meldingen over nieuwe vacatures voor Consulting in Trabzon, Turkije .",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-25T08:56:21.293585"
+    },
+    "score": 0,
+    "reason": "Consulting jobs in Trabzon, Turkey. Far from Utrecht (wrong location). Generic job search page, not a specific listing.",
+    "embed_sim": 0.06865623593330383,
+    "ai_native_score": 0.44818243384361267
+  },
+  {
+    "job": {
+      "id": "fcbc2c87bb73756c55db98c26a12e545",
+      "title": "9 vacatures voor Legal in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/legal-jobs-trabzon",
+      "snippet": "TEKCE Real Estate. Trabzon, Trabzon, Turkije 4 maanden geleden. Pontic Greek Linguistic Projects (Remote) -- Sigma AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-25T08:56:21.293615"
+    },
+    "score": 0,
+    "reason": "Legal jobs in Trabzon, Turkey. Wrong location and unrelated domain. Generic job search page.",
+    "embed_sim": 0.05294634401798248,
+    "ai_native_score": 0.5048330426216125
+  },
+  {
+    "job": {
+      "id": "dbc3c69784ecf9830d6a1a93b3fc9927",
+      "title": "400+ vacatures voor PHP Developer en werk: 5 mei 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/PHP-Developer-vacatures?sort=date",
+      "snippet": "PHP Developer, Stage Front-end Developer, Back End Developer en meer op Indeed.com.Fulltime. You\u2019ll collaborate with frontend developers, QA, AI engineers and product owners to bring impactful features to life. 5+ years of experience as a PHP Developer.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:34.396906"
+    },
+    "score": 2,
+    "reason": "PHP Developer role. Mentions collaboration with AI engineers but is not an AI adoption/enablement role. Candidate is not seeking traditional developer positions. Wrong fit.",
+    "embed_sim": 0.3373103141784668,
+    "ai_native_score": 0.5461790561676025
+  },
+  {
+    "job": {
+      "id": "e5f02f6c1ef88ec52bcd6329c401383a",
+      "title": "Full Stack Developer - AI Trainer - Utrecht - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=ea49e0c4cb137a9f",
+      "snippet": "DataAnnotation is committed to creating quality AI. Help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. We are looking for an existing Full Stack Developer - AI Trainer to help train AI models.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:34.396940"
+    },
+    "score": 0,
+    "reason": "Full Stack Developer - AI Trainer role at DataAnnotation focuses on training AI models (data annotation work), not on helping dev teams adopt AI tools. This is building AI, not enabling AI adoption. Wrong direction.",
+    "embed_sim": 0.41746053099632263,
+    "ai_native_score": 0.5282477736473083
+  },
+  {
+    "job": {
+      "id": "bd835e978e284f8841aaaeca1ca19e2c",
+      "title": "Msl - vacatures - 16 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/Msl-vacatures",
+      "snippet": "Msl vacatures. Liaison, Director of Training, Ai Model Developer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:56:34.396950"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page (MSL vacancies). Not a specific job listing. Cannot evaluate match.",
+    "embed_sim": 0.20506900548934937,
+    "ai_native_score": 0.5454748272895813
+  },
+  {
+    "job": {
+      "id": "581af32151ed11f2b893fcc75a1891d1",
+      "title": "Junior Consultant AI Strategy \u2013 Strategy & Consulting in Amsterdam bij parsionate | Magnet.me | #1050440 (nl)",
+      "company": "Parsionate",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1050440/junior-consultant-ai-strategy--strategy---consulting",
+      "snippet": "6 days ago - We bring together strategic visionaries, industry experts, practitioners from across every enterprise function, business intelligence professionals, change specialists, data and AI authorities, and many other specialized skills to co-create each client\u2019s unique path to reinvention.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-25T08:56:38.159173"
+    },
+    "score": 4,
+    "reason": "Junior level explicitly stated \u2014 candidate is senior. Strategy consulting could align conceptually but 'Junior Consultant' is wrong seniority level. Location unknown but likely not Utrecht area.",
+    "embed_sim": 0.4865412414073944,
+    "ai_native_score": 0.6675669550895691
+  },
+  {
+    "job": {
+      "id": "e641c393a5950ca8df970e434a5f108f",
+      "title": "Vacature: Engineer elektrotechniek... - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/engineer-elektrotechniek-RVB-2026-3485",
+      "snippet": "Engineer elektrotechniek. Rijksvastgoedbedrijf (Ministerie van BZK). Utrecht, Arnhem, Eindhoven, Assen - route. Hbo. 36 uur.Bewaar vacature: Engineer elektrotechniek. Solliciteren voor 9 juli 2026. Op deze pagina: Dit ga je doen.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-25T08:56:46.252568"
+    },
+    "score": 0,
+    "reason": "Electrical engineering role for government ministry. Completely unrelated to software development or AI tooling adoption.",
+    "embed_sim": 0.19066737592220306,
+    "ai_native_score": 0.6015982627868652
+  },
+  {
+    "job": {
+      "id": "2f2060b9df722724970feeacbdeee16b",
+      "title": "Meer dan 2.000 vacatures voor Linkedin in Nederland",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/linkedin-jobs?f_EA=true",
+      "snippet": "Junior Business Development Representative (parttime). Learned. Utrecht.Vacatures voor User Experience-designer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-25T08:57:01.990475"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page, not a specific job listing. No actual vacancy details provided.",
+    "embed_sim": 0.23023031651973724,
+    "ai_native_score": 0.522512674331665
+  },
+  {
+    "job": {
+      "id": "ffff7186db4b512a1cac4edbbf155cc6",
+      "title": "11 vacatures voor Engineering in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/engineering-jobs-trabzon?position=1&pageNum=0",
+      "snippet": "Backend Developer.Career growth \u2013 Internal development and support will be offered for candidates that are looking for a long-term career in the technology industry.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-25T08:57:01.990500"
+    },
+    "score": 0,
+    "reason": "Backend Developer in Trabzon, Turkey. Wrong location (not Netherlands, far from Utrecht). No AI enablement focus apparent.",
+    "embed_sim": 0.3312934637069702,
+    "ai_native_score": 0.5481269955635071
+  },
+  {
+    "job": {
+      "id": "97c8f5d9512c7a54bd3283271d16082a",
+      "title": "9.000+ vacatures voor Ai en werk in Nederland 9 april 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/Ai-vacatures-in-Netherlands",
+      "snippet": "Zoeken op salaris: Junior AI & Procesanalist salarissen in Utrecht \u00b7 Via een ambitieus programma leer je door te doen, krijg je volop begeleiding en werk je samen aan slimme data gedreven oplossingen die direct impact maken. Toon alle vacatures voor Coolblue - Vacatures in Rotterdam",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-25T08:57:05.672192"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page showing multiple listings without specifics. Not a single job posting. References 'Junior AI & Procesanalist' but no concrete role details.",
+    "embed_sim": 0.11300157010555267,
+    "ai_native_score": 0.5119779706001282
+  },
+  {
+    "job": {
+      "id": "1e9bdc62dffffda0bc522f11a2ab82c7",
+      "title": "glassdoor.nl/Vacatures/NBCUniversal-Vacatures-E32038.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacatures/NBCUniversal-Vacatures-E32038.htm",
+      "snippet": "Alle vacatures bij NBCUniversal bekijken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-25T08:57:09.646606"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor company page listing, not a specific job posting. No actual vacancy information provided.",
+    "embed_sim": 0.049382299184799194,
+    "ai_native_score": 0.555067241191864
+  },
+  {
+    "job": {
+      "id": "babac6b1e22ab9bcb5d51a0e85b7e312",
+      "title": "Cloudera: 616 sollicitatievragen en antwoorden (2026) | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Sollicitatiegesprek/Cloudera-Sollicitatievragen-E360671.htm",
+      "snippet": "Zoek naar vacatures om gepersonaliseerde vacature-aanbevelingen en -updates te krijgen.mind on things\u201d. Which is just a more impolite way to say that I am not a team player.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-25T08:57:09.646628"
+    },
+    "score": 0,
+    "reason": "Glassdoor interview guide page, not a job listing. No vacancy available.",
+    "embed_sim": 0.164957195520401,
+    "ai_native_score": 0.5238627791404724
+  },
+  {
+    "job": {
+      "id": "1be5cdb078ccd4cb882b5c35a2208f36",
+      "title": "glassdoor.nl/Vacature/nederland-bioinformatics-vacatures-SRCH_IL....",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-bioinformatics-vacatures-SRCH_IL.0,9_IN178_KO10,24.htm",
+      "snippet": "Vacatures voor Bioinformatics in Nederland | Glassdoor.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-25T08:57:09.646638"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator for bioinformatics roles. Not a specific posting. Bioinformatics is unrelated to candidate's profile (web development, AI tooling adoption).",
+    "embed_sim": 0.07978786528110504,
+    "ai_native_score": 0.5194580554962158
+  },
+  {
+    "job": {
+      "id": "13bb76aaeec6e1e57475722bb3c8106d",
+      "title": "300+ vacatures voor Kotlin Developers en werk: 10 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-kotlin-developers-vacatures.html?vjk=bcfc0dc8da85cbab",
+      "snippet": "Vergelijkbare vacatures bij deze werkgever bekijken \u00b7 We are looking for a proficient Full Stack Engineer - AI Trainer to help advance AI development.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-25T08:57:13.382433"
+    },
+    "score": 0,
+    "reason": "Generic Kotlin developers job search aggregator page. References 'Full Stack Engineer - AI Trainer' vaguely but no concrete role details. Likely focuses on training/building AI systems rather than adoption enablement.",
+    "embed_sim": 0.4213297665119171,
+    "ai_native_score": 0.6603530645370483
+  },
+  {
+    "job": {
+      "id": "333981f70ddeb782b02db0c228a0fc39",
+      "title": "Engineering vacatures | Pagina 93 | Magnet.me (nl)",
+      "company": "Pagina 93",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacatures/engineering?page=93",
+      "snippet": "De bedrijven met de meeste openstaande engineering vacatures zijn. Sweco (113). VDL Groep (108). TCPM Ingenieurs & Adviseurs (54).",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-25T08:57:17.412581"
+    },
+    "score": 0,
+    "reason": "Generic engineering jobs aggregator page showing company listings, not specific job postings. No actual vacancy information provided.",
+    "embed_sim": 0.1614735722541809,
+    "ai_native_score": 0.5309696197509766
   }
 ]
