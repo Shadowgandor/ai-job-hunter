@@ -182,14 +182,14 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/conversational-ai-engineer-essent/",
-      "snippet": "Conversational AI Engineer . De basis van ons conversational platform staat en is succesvol.",
+      "snippet": "Conversational AI Engineer. De basis van ons conversational platform staat en is succesvol.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-04-25T13:13:26.173717"
+      "date_found": "2026-06-26T08:59:25.107983"
     },
     "score": 2,
-    "reason": "Conversational AI Engineer building AI platforms/systems, not enabling dev teams to adopt AI tools. Requires AI development expertise.",
-    "embed_sim": 0.43797987699508667,
-    "ai_native_score": 0.7704311013221741
+    "reason": "Conversational AI Engineer building/maintaining a conversational platform. This is building AI products, not enabling team adoption. No location provided. Likely requires ML/NLP expertise.",
+    "embed_sim": 0.43797972798347473,
+    "ai_native_score": 0.7704309225082397
   },
   {
     "job": {
@@ -354,18 +354,18 @@
   {
     "job": {
       "id": "6e8e1fd565555c0851c705201a9f60f1",
-      "title": "glassdoor.nl/ Vacature /cto- vacatures -SRCH_KO0,3.htm",
+      "title": "glassdoor.nl/Vacature/cto-vacatures-SRCH_KO0,3.htm",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/cto-vacatures-SRCH_KO0,3.htm",
-      "snippet": "The site owner hides the web page description.",
+      "snippet": "vacatures voor CTO.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-04-25T13:14:20.770424"
+      "date_found": "2026-06-26T08:59:20.016100"
     },
     "score": 0,
-    "reason": "Search results page/category listing, not an actual job posting. No concrete role details available.",
-    "embed_sim": -0.026223717257380486,
-    "ai_native_score": 0.4964262843132019
+    "reason": "Generic CTO search results page with no specific job details, company, or location information.",
+    "embed_sim": -0.00695795938372612,
+    "ai_native_score": 0.5728847980499268
   },
   {
     "job": {
@@ -16846,5 +16846,261 @@
     "reason": "Generic engineering jobs aggregator page showing company listings, not specific job postings. No actual vacancy information provided.",
     "embed_sim": 0.1614735722541809,
     "ai_native_score": 0.5309696197509766
+  },
+  {
+    "job": {
+      "id": "769428725dc08413b67da2211b7d1a79",
+      "title": "Vacature in Utrecht: AI Specialist (Python, LLM & ML) Energietransitie",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.careervalue.nl/vacatures/big-data/vacature-in-utrecht-ai-specialist-python-llm-ml-energietransitie/",
+      "snippet": "4 days ago - 22 juni 2026/in /by Marco Veldman \u00b7 Vaste baan \u00b7 Utrecht \u00b7 3 dagen geleden geplaatst \u00b7 CareerValue BV \u00b7 Voor mijn klant ben ik op zoek naar een gedreven AI Specialist die zich wil inzetten voor projecten met \u00e9chte maatschappelijke impact.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-26T08:58:32.546195"
+    },
+    "score": 2,
+    "reason": "Python/LLM/ML specialist role focused on energy transition projects. Requires deep ML expertise and Python proficiency, not AI tool adoption coaching. Wrong specialization.",
+    "embed_sim": 0.3176657557487488,
+    "ai_native_score": 0.6441241502761841
+  },
+  {
+    "job": {
+      "id": "2525649ce5faf2e5ca0a0f7e9833df0f",
+      "title": "25+ vacatures voor Junior Ai Developer en werk: 25 juni 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-junior-ai-developer-vacatures.html",
+      "snippet": "Zoeken op salaris: Junior Web Developer salarissen in Utrecht \u00b7 Werkt dagelijks samen met developers, designers, projectmanagers en consultants; Heb je minimaal 1 jaar werkervaring opgedaan als developer binnen een bureau,\u2026 \u00b7 Alle vacatures voor Social Brothers - Utrecht vacatures - vacatures ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-26T08:58:36.616328"
+    },
+    "score": 0,
+    "reason": "Junior AI Developer positions. Candidate is senior-level (13 years experience). Junior/trainee roles explicitly excluded from requirements.",
+    "embed_sim": 0.2726038992404938,
+    "ai_native_score": 0.6311805248260498
+  },
+  {
+    "job": {
+      "id": "74899af13228c5c633a5dcaf8250d50d",
+      "title": "Deeploy zoekt een Solution Engineer, AI Governance in Utrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/solution-engineer-ai-governance-at-deeploy-4420965210",
+      "snippet": "At Deeploy, we help organizations deploy AI they can trust. As a Solution Engineer, you'll own the technical journey from first proof-of-concept to full ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-26T08:58:40.353646"
+    },
+    "score": 3,
+    "reason": "Solution Engineer for AI Governance at Deeploy. While governance/compliance angle is relevant, role appears focused on deploying/building AI systems (POC to production), not enabling dev teams to adopt AI tools. Governance angle alone doesn't match core champion/adoption mission.",
+    "embed_sim": 0.35990381240844727,
+    "ai_native_score": 0.6079431176185608
+  },
+  {
+    "job": {
+      "id": "bb08531ba610276eff46a0aaabc821f8",
+      "title": "TOPdesk zoekt een AI engineer in Delft - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-topdesk-4430715083",
+      "snippet": "Background in AI adoption enablement, training, or change management. What We Do Not Need. A PhD or research-track ML background; Pure software engineering ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-26T08:58:40.353657"
+    },
+    "score": 8,
+    "reason": "TOPdesk AI Engineer role. Explicitly mentions 'background in AI adoption enablement, training, or change management' as desired. Rejects 'PhD or research-track ML background' and 'pure software engineering.' Strong match for adoption/enablement focus. Location (Delft) is ~40km from Utrecht, acceptable range. Senior-level implied.",
+    "embed_sim": 0.4806286096572876,
+    "ai_native_score": 0.67462557554245
+  },
+  {
+    "job": {
+      "id": "de83f7e1b980a681ff51ce01f4f0ec74",
+      "title": "12 vacature(s) voor Maximo specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/maximo-specialist-vacatures-SRCH_KO0,17.htm",
+      "snippet": "Vind de juiste vacature voor Maximo specialist met bedrijfsreviews en salarissen. 12 vacatures voor Maximo specialist ... Maximo AI EAM Specialist. Netherlands.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-26T08:58:43.721950"
+    },
+    "score": 0,
+    "reason": "Maximo specialist vacancies are for enterprise asset management software, not AI tooling adoption. Wrong domain entirely.",
+    "embed_sim": 0.17534726858139038,
+    "ai_native_score": 0.5725206732749939
+  },
+  {
+    "job": {
+      "id": "65ddafce9832cc76caeec17d76b0779b",
+      "title": "1.455 vacatures voor machine learning in Londen, Engeland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/londen-machine-learning-vacatures-SRCH_IL.0,6_IC2671300_KO7,23.htm",
+      "snippet": "vidIQ. 4.5. AI / Machine Learning Engineer (Remote). Londen, Engeland. \u00a3 130K - \u00a3 160K (Schatting werkgever).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-26T08:58:53.923919"
+    },
+    "score": 0,
+    "reason": "Machine Learning roles in London, England. Far outside geographic requirement (Utrecht area, Netherlands). Pure ML focus, not adoption enablement.",
+    "embed_sim": 0.20304454863071442,
+    "ai_native_score": 0.4692882001399994
+  },
+  {
+    "job": {
+      "id": "58cae4819a994454bda059e4e82385e3",
+      "title": "Internship Semantics and Hybrid AI - TNO - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/internship-semantics-and-hybrid-ai-tno/",
+      "snippet": "We work on solutions which provide a way to implement knowledge representation and reasoning within different fields. We work together with our partners and clients on new innovative methods to incorporate different AI and data science solutions into various domains.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-06-26T08:59:01.762360"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate explicitly excludes intern/trainee roles and is senior-level (13 years experience). TNO research focus on knowledge representation/reasoning, not AI tool adoption for dev teams.",
+    "embed_sim": 0.4503422975540161,
+    "ai_native_score": 0.6204531192779541
+  },
+  {
+    "job": {
+      "id": "37f55abff58a3242a1a279ca370703a0",
+      "title": "AI-First Fullstack Developer Screening & Preventie - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1050393/ai-first-fullstack-developer-screening---preventie",
+      "snippet": "Als AI-first Fullstack Developer binnen Screening & Preventie werk je aan platformen voor bevolkingsonderzoeken, infectieziektebestrijding en ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-26T08:59:07.306008"
+    },
+    "score": 3,
+    "reason": "AI-First Fullstack Developer for public health screening platforms. While labeled 'AI-First,' role appears focused on building AI-integrated products for end-users, not enabling internal dev teams to adopt AI tools. Wrong application domain.",
+    "embed_sim": 0.30709290504455566,
+    "ai_native_score": 0.6459544897079468
+  },
+  {
+    "job": {
+      "id": "7d72c416815c535b650863a8457defcb",
+      "title": "AI Engineer in Amsterdam bij Lleverage | Magnet.me | #955994 (nl)",
+      "company": "Lleverage",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/955994/ai-engineer",
+      "snippet": "2 mei 2026 \u00b7 Strong proficiency in TypeScript, Next.js. Previous experience at early-stage startups or as a founding engineer. Background in SaaS or low-code ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-26T08:59:07.306019"
+    },
+    "score": 4,
+    "reason": "AI Engineer in Amsterdam requiring TypeScript/Next.js at early-stage SaaS startup. Right tech stack (TypeScript) and location (Amsterdam, ~40km from Utrecht), but appears to be product/platform building role, not AI adoption enablement. No mention of internal tooling, dev team enablement, or adoption coaching.",
+    "embed_sim": 0.3724532127380371,
+    "ai_native_score": 0.6745063662528992
+  },
+  {
+    "job": {
+      "id": "3cb3ffc999a2133446e2e6f1bfa47f97",
+      "title": "AI Automation & Agent Builder Internship - Monday Merch - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automation-agent-builder-internship-at-monday-merch-4411376861",
+      "snippet": "Build internal AI assistants for repeated team questions, customer updates, or operational checks. Turn scattered information from emails, spreadsheets, ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-26T08:59:11.664172"
+    },
+    "score": 0,
+    "reason": "AI Automation & Agent Builder Internship. Candidate excludes intern/trainee positions. Senior-level (13 years) seeking autonomous roles, not internships.",
+    "embed_sim": 0.49493375420570374,
+    "ai_native_score": 0.7101937532424927
+  },
+  {
+    "job": {
+      "id": "2ce831d7e6a979fc44469802344fd1ee",
+      "title": "42 vacatures voor ui web applications developer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ui-web-applications-developer-vacatures-SRCH_IL.0,9_IN178_KO10,39.htm",
+      "snippet": "Vacatures voor designer in Nederland Vacatures bij VALD in Nederland.We are committed to exploring new ways of working, and in this role, you\u2019ll have the opportunity to collaborate closely with our experienced professionals, helping to refine our development processes.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-26T08:59:20.016054"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not an actual job listing. Appears to be aggregator content without specific role details or company.",
+    "embed_sim": 0.1341436207294464,
+    "ai_native_score": 0.5262027978897095
+  },
+  {
+    "job": {
+      "id": "b8b9039d662c1df0639f140894149f2e",
+      "title": "27 vacatures voor machine learning engineer in Venlo | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/venlo-machine-learning-engineer-vacatures-SRCH_IL.0,5_IC3054830_KO6,31.htm",
+      "snippet": "You enjoy working with complex and imperfect datasets and see it as a challenge to extract meaningful patterns from them. You are comfortable with programming (preferably Python) and have experience with data analysis, statistics and machine learning.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-26T08:59:20.016092"
+    },
+    "score": 0,
+    "reason": "Machine Learning Engineer role requiring Python, data analysis, statistics, and ML expertise. Pure ML role, not AI enablement/adoption. Wrong location (Venlo, far from Utrecht).",
+    "embed_sim": 0.26896536350250244,
+    "ai_native_score": 0.42353546619415283
+  },
+  {
+    "job": {
+      "id": "208619db2e96b5fa6264797dc407af7e",
+      "title": "200+ vacatures voor Ai Customer Service en werk - Indeed",
+      "company": "",
+      "location": "Nieuwegein",
+      "url": "https://nl.indeed.com/q-ai-customer-service-vacatures.html",
+      "snippet": "Management of large key account(s). Onboarding & Adoption Specialist. Roxit. 3439 Nieuwegein. Bedrijfslaptop. Pensioen. Flexibele werkuren. Slim met data, AI ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-26T08:59:37.351368"
+    },
+    "score": 1,
+    "reason": "Search results aggregator page. While location matches (Nieuwegein), listing appears to be generic results for 'AI Customer Service' roles, not a specific job posting. Likely not relevant to AI enablement focus.",
+    "embed_sim": 0.16685068607330322,
+    "ai_native_score": 0.5539381504058838
+  },
+  {
+    "job": {
+      "id": "c5de10f7587df7d717b0d7b4e4d21408",
+      "title": "75+ vacatures voor Adoptie & Change Management en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-",
+      "snippet": "Ervaring met data-gedreven werken en/of het begeleiden van AI-adoptie in organisaties. Je werkt aan omvangrijke, complexe programma's met een\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-26T08:59:37.351381"
+    },
+    "score": 3,
+    "reason": "Adoption & Change Management search results mentioning AI adoption guidance. Generic aggregator page without specific role details. Could be tangentially relevant but no concrete job posting to evaluate.",
+    "embed_sim": 0.10450239479541779,
+    "ai_native_score": 0.6614048480987549
+  },
+  {
+    "job": {
+      "id": "f91290ac8da86b3e62a52d71f1bd6d57",
+      "title": "341 talent acquisition Jobs in Utrecht, June 2026 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.com/Job/utrecht-talent-acquisition-jobs-SRCH_IL.0,7_IC3045310_KO8,26.htm",
+      "snippet": "Collaborate with the Hyperautomation Development Scaling Manager and IT to ensure delivery alignment, focusing on business enablement and adoption at scale.\u2026 Skills: Engels, AI, Managementervaring, Communicatieve vaardigheden",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-26T08:59:41.131506"
+    },
+    "score": 1,
+    "reason": "Talent acquisition/recruitment role focused on hyperautomation. Wrong seniority/function (HR/recruiting, not engineering). Good location (Utrecht) but not a developer/engineering champion role.",
+    "embed_sim": 0.3112906217575073,
+    "ai_native_score": 0.5745767951011658
+  },
+  {
+    "job": {
+      "id": "e7b6510ed5dfe03d5406733db485841b",
+      "title": "36 vacature(s) voor Robotics internship in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Den Haag",
+      "url": "https://www.glassdoor.nl/Vacature/robotics-internship-vacatures-SRCH_KO0,19.htm",
+      "snippet": "Vacatures voor web developer in Den HaagVacatures in Den HaagVacatures bij United Nations in Den Haag ... Reviews van werknemers bij United NationsSollicitatie-ervaring bij United NationsWerken bij United Nations ... As an AI Enablement Intern within Solutions Design, you will work closely with Solutions Design professionals to explore how AI tools can support and enhance\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-26T08:59:44.737324"
+    },
+    "score": 0,
+    "reason": "Robotics/AI Enablement Intern position in Den Haag. Internship level explicitly disqualifies (candidate requires senior role). Too junior despite AI enablement mention. Wrong location.",
+    "embed_sim": 0.29624611139297485,
+    "ai_native_score": 0.6777490377426147
   }
 ]
