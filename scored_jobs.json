@@ -450,18 +450,18 @@
   {
     "job": {
       "id": "417ca8f2c63264f3d8c5dc6ba0a9781e",
-      "title": "41 integration engineer vacatures | 21 april 2026 | Nationale ...",
-      "company": "21 april 2026",
+      "title": "Integration Engineer vacatures - 18 juni 2026 | Nationale Vacaturebank",
+      "company": "Nationale Vacaturebank",
       "location": "",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/integration-engineer",
       "snippet": "Wil jij aan de slag als Integration Engineer? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Integration Engineer vacatures. Solliciteer direct!",
       "source": "ddg:web-nl",
-      "date_found": "2026-04-26T07:25:27.470161"
+      "date_found": "2026-06-27T08:33:29.391170"
     },
     "score": 0,
-    "reason": "Job listing aggregator page for Integration Engineers. No specific role details provided. Cannot assess fit.",
-    "embed_sim": 0.2819271683692932,
-    "ai_native_score": 0.6474437117576599
+    "reason": "Generic job search aggregator page for Integration Engineer roles. No specific job listing or details provided to evaluate.",
+    "embed_sim": 0.2792995572090149,
+    "ai_native_score": 0.6301235556602478
   },
   {
     "job": {
@@ -722,18 +722,18 @@
   {
     "job": {
       "id": "7db7301763ce14ad567eb8de5895d78f",
-      "title": "AI Vacatures Nederland | Werken met AI & Banen - Morgan Black",
-      "company": "Werken met AI & Banen - Morgan Black",
+      "title": "AI Vacatures Nederland 2026 | AI Engineer & Specialist",
+      "company": "AI Engineer & Specialist",
       "location": "",
       "url": "https://www.morganblack.nl/werken-met-ai-banen-salaris-vacatures/",
-      "snippet": "Feb 16, 2026 \u00b7 Ontdek AI-vacatures in Nederland. Lees welke banen er zijn, wat je verdient en hoe je een carri\u00e8re start in artificial intelligence.",
+      "snippet": "Bekijk actuele AI vacatures in Nederland. Van AI engineer tot AI specialist \u2014 ontdek salarissen, gevraagde skills en hoe jij een baan in AI via MorganBlack vindt.",
       "source": "ddg:web-nl",
-      "date_found": "2026-04-27T08:19:45.269239"
+      "date_found": "2026-06-27T08:33:29.391146"
     },
     "score": 0,
-    "reason": "Generic job board/portal page for AI jobs, not a specific role listing. No actual position details available.",
-    "embed_sim": 0.24723535776138306,
-    "ai_native_score": 0.7364415526390076
+    "reason": "Generic job search aggregator/landing page. No specific job listing to evaluate.",
+    "embed_sim": 0.3508017361164093,
+    "ai_native_score": 0.7156141996383667
   },
   {
     "job": {
@@ -17102,5 +17102,341 @@
     "reason": "Robotics/AI Enablement Intern position in Den Haag. Internship level explicitly disqualifies (candidate requires senior role). Too junior despite AI enablement mention. Wrong location.",
     "embed_sim": 0.29624611139297485,
     "ai_native_score": 0.6777490377426147
+  },
+  {
+    "job": {
+      "id": "3ce14ac0f36fec76163c57ced7978950",
+      "title": "GTM Engineer (Full-Stack) - Amsterdam - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=7300382a2bcff585",
+      "snippet": "Naptha AI is seeking a talented Go-to-Market Engineer with full-stack development skills to join our innovative AI startup. In this role, you'll design and build technical experiments that showcase our cutting-edge AI technology to developers.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:32:24.812159"
+    },
+    "score": 3,
+    "reason": "GTM role at AI startup focused on building/showcasing AI technology to developers, not enabling dev teams to adopt AI tools. Requires full-stack dev skills for product, not AI adoption/enablement.",
+    "embed_sim": 0.3922846019268036,
+    "ai_native_score": 0.5334157347679138
+  },
+  {
+    "job": {
+      "id": "8d64a89a8e47469a84782ba9a265304e",
+      "title": "LongevAI zoekt een Internship AI Developer in Randstad | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-ai-developer-at-longevai-4281479876",
+      "snippet": "In this role, you will gain hands-on experience developing AI solutions in the exciting and impactful health and longevity sector.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:32:29.136264"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate is senior with 13 years experience, not seeking junior/intern roles.",
+    "embed_sim": 0.3887658715248108,
+    "ai_native_score": 0.5760665535926819
+  },
+  {
+    "job": {
+      "id": "e7fa7151f2c6f8bab406b3abd6dfa8e3",
+      "title": "Reaktor zoekt een AI Developer - LLM Applications in Amsterdam Area",
+      "company": "LLM Applications in Amsterdam Area",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-llm-applications-at-reaktor-4379176144",
+      "snippet": "Experience working with AI software development technologies (LLMs, backend, frontend, ops, and consulting skills) in a production environment.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:32:29.136277"
+    },
+    "score": 2,
+    "reason": "AI Developer role at consulting firm building LLM applications. Requires backend/ops/consulting skills for AI development, not enabling team adoption of AI tools. Wrong focus area.",
+    "embed_sim": 0.47167742252349854,
+    "ai_native_score": 0.5679028034210205
+  },
+  {
+    "job": {
+      "id": "56c57682f7f71dd0c1976a3333bc2618",
+      "title": "Cleopatra Enterprise zoekt een AI Developer in Zwijndrecht - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-developer-at-cleopatra-enterprise-4428903659",
+      "snippet": "1-4 years of experience in developing AI solutions; Proficiency in Python, Java is a plus; Understanding of machine learning concepts and algorithms, including ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:32:29.136325"
+    },
+    "score": 1,
+    "reason": "AI Developer role requiring Python/Java and ML algorithm knowledge. Pure AI development, not AI adoption/enablement. Wrong skill focus and likely requires ML expertise.",
+    "embed_sim": 0.33629167079925537,
+    "ai_native_score": 0.6740059852600098
+  },
+  {
+    "job": {
+      "id": "911b80a171225eff4f2a3ea91a5008e0",
+      "title": "20 vacatures voor management consulting in Manamah | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/manamah-management-consulting-vacatures-SRCH_IL.0,7_IC2210234_KO8,29.htm",
+      "snippet": "4,5. AI Adoption Specialist. Manamah. Snelsollicitatie. 3\u20136 years of experience in consulting, training, technology adoption, or change management.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-27T08:32:37.590926"
+    },
+    "score": 2,
+    "reason": "AI Adoption Specialist in Manamah (Bahrain) \u2014 outside candidate's location preference (40km from Utrecht). Role concept partially matches but geography is disqualifying.",
+    "embed_sim": 0.28671419620513916,
+    "ai_native_score": 0.5738582015037537
+  },
+  {
+    "job": {
+      "id": "a10e193f25e59593cad41233697c0aca",
+      "title": "Vacatures voor Process support specialist in United... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/us-process-support-specialist-vacatures-SRCH_IL.0,2_IN1_KO3,29.htm",
+      "snippet": "85211 vacatures voor een process support specialist in Verenigde Staten.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-27T08:32:37.590945"
+    },
+    "score": 0,
+    "reason": "Process support specialist roles in United States. Wrong geography (candidate based in Netherlands) and wrong domain entirely.",
+    "embed_sim": 0.12231771647930145,
+    "ai_native_score": 0.4850199222564697
+  },
+  {
+    "job": {
+      "id": "550210587165cbe4b5919a77d2de5d94",
+      "title": "640 vacature(s) voor Customer service specialist in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/sakai-customer-service-specialist-vacatures-SRCH_IL.0,5_KO6,33.htm",
+      "snippet": "Onboarding & Adoption Specialist. Wil jij ervoor zorgen dat onze SaaS-oplossingen \u00e9cht impact maken bij overheden, bedrijven en inwoners?Heb je interesse in de vacature Onboarding & Adoption Specialist, of wil je meer weten over werken bij Roxit?",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-27T08:32:37.590969"
+    },
+    "score": 1,
+    "reason": "Generic listing page for customer service specialists with one mention of 'Onboarding & Adoption Specialist' for SaaS. Insufficient detail, likely not developer-focused AI adoption role.",
+    "embed_sim": 0.22462137043476105,
+    "ai_native_score": 0.5320762991905212
+  },
+  {
+    "job": {
+      "id": "b67c9e0db85d0bf01b169167325c2cfc",
+      "title": "Vacatures voor clinical support options | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Utrecht",
+      "url": "https://www.glassdoor.nl/Vacature/clinical-support-options-vacatures-SRCH_KE0,24.htm",
+      "snippet": "Zoeken naar vacatures met clinical support options.Er zijn openstaande vacatures voor een Clinical Support Options in verschillende steden, waaronder Amsterdam, Leiden, Best, Schiphol, Utrecht, Eindhoven, Vlissingen, Hoofddorp, Haarlem, Den Bosch.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-27T08:32:37.590976"
+    },
+    "score": 0,
+    "reason": "Generic clinical support options listing page. Unrelated to software development or AI adoption. Wrong domain entirely.",
+    "embed_sim": 0.09972097724676132,
+    "ai_native_score": 0.49015870690345764
+  },
+  {
+    "job": {
+      "id": "8025bb7dfe6c3eb9bb5309a07f8f58a3",
+      "title": "generative ai vacatures in Amsterdam",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-generative-ai-l-amsterdam-vacatures.html?vjk=e01074dfa4babb88",
+      "snippet": "Comfort with AI tools in your own workflow and the ability to explain generative AI - its capabilities, limitations and data/privacy considerations - in a way\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:32:41.805637"
+    },
+    "score": 5,
+    "reason": "Generic search results page for 'generative ai vacatures in Amsterdam.' Snippet mentions comfort with AI tools and explaining generative AI capabilities, which aligns with candidate's goals. However, insufficient detail to score higher \u2014 appears to be search index page, not specific job listing.",
+    "embed_sim": 0.3394937813282013,
+    "ai_native_score": 0.6737801432609558
+  },
+  {
+    "job": {
+      "id": "97aafea94ddfbf47fcc3d3c95498aa22",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 25 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=643f94524e053285",
+      "snippet": "You will need to be scrappy and lean, finding innovative ways to apply AI and automation within our existing tool stack without relying on additional budget or new software purchases. Iterate & Improve: Launch tools quickly, gather user feedback from internal stakeholders, and continuously refine your solutions based on real-world usage.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:32:41.805652"
+    },
+    "score": 6,
+    "reason": "AI Automation role focused on applying AI/automation within existing tools, gathering user feedback, and continuous refinement. Concept aligns with AI adoption and internal enablement. However, snippet is vague and appears to be search results index page rather than specific job listing. Location and seniority level unclear.",
+    "embed_sim": 0.3291861414909363,
+    "ai_native_score": 0.6182976961135864
+  },
+  {
+    "job": {
+      "id": "0ca1ee92c7c7dc2e9f2cd88ff1d1c470",
+      "title": "1 vacatures voor Human Resources in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/human-resources-jobs-trabzon",
+      "snippet": "You're now using AI-powered job search.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:32:45.825105"
+    },
+    "score": 0,
+    "reason": "Location is Trabzon, Turkey \u2014 far outside Utrecht area. HR role, not tech/engineering.",
+    "embed_sim": 0.2791244685649872,
+    "ai_native_score": 0.5540006756782532
+  },
+  {
+    "job": {
+      "id": "fd1dbf4f9fd9572580fbe1709e8ecda2",
+      "title": "Vacatures - Garansys",
+      "company": "Garansys",
+      "location": "Utrecht",
+      "url": "https://garansys.nl/vacatures",
+      "snippet": "Toe aan een nieuwe baan in de IT? Kom werken bij Garansys! Wij zijn d\u00e9 resultaatgerichte IT-dienstverlener in Utrecht. Bekijk onze vacatures.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-27T08:32:50.350124"
+    },
+    "score": 2,
+    "reason": "Generic IT services company listing page. No specific job details provided. Cannot assess relevance without actual role descriptions.",
+    "embed_sim": -0.07893050462007523,
+    "ai_native_score": 0.5754796862602234
+  },
+  {
+    "job": {
+      "id": "833c1b2859c5b3db100e6d20bf6571d6",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 25 juni 2026| Indeed",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=6e034245b60feadf",
+      "snippet": "Ai Automation vacatures. Ai & Data Starter Rotterdam, Automation Engineer, Ai Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:33:06.712755"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page, not a specific job listing. Location (Rotterdam) is acceptable but no actual role to evaluate.",
+    "embed_sim": 0.32993283867836,
+    "ai_native_score": 0.6198830008506775
+  },
+  {
+    "job": {
+      "id": "24e72cb5e21a5285f624e480ae3f1146",
+      "title": "100+ vacatures voor Artificial Intelligence Engineer en werk ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-engineer-vacatures.html?vjk=2d082e6fdb1afc73",
+      "snippet": "Alle vacatures voor Accenture - Stuttgart vacatures - vacatures voor Cloud Engineer (m/w/d) in Stuttgart bekijken Zoeken op salaris: Google Cloud AI Engineer (all genders) salarissen in Stuttgart Zie veelgestelde vragen en antwoorden over Accenture",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:33:06.712771"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page with mixed results (Stuttgart, Accenture). No specific job listing to evaluate.",
+    "embed_sim": 0.26065555214881897,
+    "ai_native_score": 0.5427060723304749
+  },
+  {
+    "job": {
+      "id": "e73814e1f471c6297156242e881bc93e",
+      "title": "1 vacatures voor Administrative Assistant in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/administrative-assistant-jobs-trabzon",
+      "snippet": "We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results. Meer informatie. Ontvang meldingen over nieuwe vacatures voor Administrative Assistant in Trabzon, Turkije .",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:33:10.862169"
+    },
+    "score": 0,
+    "reason": "Location is Trabzon, Turkey \u2014 far outside Utrecht area. Administrative Assistant role, not engineering/AI.",
+    "embed_sim": 0.1316521167755127,
+    "ai_native_score": 0.5352447628974915
+  },
+  {
+    "job": {
+      "id": "6d5fa7f77c82a990f3ca17eb0819826b",
+      "title": "76 vacatures voor Gamedesigner in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/gamedesigner-jobs?position=1&pageNum=0",
+      "snippet": "Visual Content Specialist (AI-driven).Working with a talented and cross-discipline team to grow the product by adding new levels while also continuously improving the existing game experience. Communicate design clearly and concisely with the team and throughout the studio.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:33:10.862189"
+    },
+    "score": 1,
+    "reason": "Game design roles with 'AI-driven' mention. Not about enabling dev teams to adopt AI tools. Wrong domain.",
+    "embed_sim": 0.3168443441390991,
+    "ai_native_score": 0.710625171661377
+  },
+  {
+    "job": {
+      "id": "482d11b5e981de842afceb95141d9151",
+      "title": "158 vacatures voor Conclusion in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/conclusion-jobs",
+      "snippet": "158 topvacatures voor Conclusion in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Conclusion toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-27T08:33:15.127995"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page for Conclusion company. No specific job listing with details to evaluate.",
+    "embed_sim": 0.05991942808032036,
+    "ai_native_score": 0.5963522791862488
+  },
+  {
+    "job": {
+      "id": "9aeeba2b5e996603899ee930df068477",
+      "title": "Forward Deployed Engineer - Unum in Amsterdam bij ML6 | Magnet.me | #1046369 (nl)",
+      "company": "Ml6",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1046369/forward-deployed-engineer---unum",
+      "snippet": "Trust & Adoption: Work directly with users and stakeholders to earn trust, clarify success, and drive adoption. You will not just ship features, but make sure they are used, understood, and delivering value. Agentic Workflows: Design how AI agents surface findings, request feedback, trigger approvals, and escalate when they get stuck.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-27T08:33:18.828093"
+    },
+    "score": 6,
+    "reason": "Forward Deployed Engineer role emphasizes adoption and trust-building with stakeholders. Strong DevEx/adoption focus. However, unclear if this is about AI tooling adoption for dev teams vs. deploying AI products to end users. Location (Amsterdam) is within acceptable range but snippet lacks clarity on SDLC/developer tooling focus.",
+    "embed_sim": 0.3919421434402466,
+    "ai_native_score": 0.6423691511154175
+  },
+  {
+    "job": {
+      "id": "2bb36acb608816e0010c7a1b6278a90a",
+      "title": "50+ vacatures voor Swift en werk in Zoeterwoude-Rijndijk 25 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-swift-l-zoeterwoude-rijndijk-vacatures.html",
+      "snippet": "This role combines AI adoption leadership with driving knowledge management across Swift. You will spearhead initiatives to increase AI literacy, maximize value\u2026 \u00b7 Alle vacatures voor SWIFT Financial Messaging Services - Leiden vacatures - vacatures voor Knowledge Management Specialist in Leiden ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-27T08:33:33.078366"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results page aggregate, not an actual job posting. No concrete role details, location unclear, URL is Indeed search page. Cannot evaluate as a real vacancy.",
+    "embed_sim": 0.347336083650589,
+    "ai_native_score": 0.5925010442733765
+  },
+  {
+    "job": {
+      "id": "af49866a9ecce3c39adaf17087a5090c",
+      "title": "Vacature Belader gemeente Rotterdam Lucie Parttime in Rotterdam",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://unique.nl/vacature/belader-gemeente-rotterdam-lucie-(v3779271)",
+      "snippet": "Vacatures in Utrecht.Vacature nummer. 2026-37379. Solliciteer nu.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-27T08:33:37.882418"
+    },
+    "score": 0,
+    "reason": "Loading position (Belader gemeente Rotterdam) is completely unrelated to AI adoption, software development, or engineering. Wrong domain entirely.",
+    "embed_sim": -0.013720909133553505,
+    "ai_native_score": 0.43513089418411255
+  },
+  {
+    "job": {
+      "id": "c4c2df816a4dde7d8bb8ea474971b74c",
+      "title": "Talentix lanceert AI-platform voor het volledige... - Recruitmenttech.nl",
+      "company": "Recruitmenttech.nl",
+      "location": "",
+      "url": "https://www.recruitmenttech.nl/2026/06/22/talentix-lanceert-ai-platform-voor-het-volledige-recruitmentproces/",
+      "snippet": "Talentix lanceert AI-platform dat vacature, sourcing, kandidaatcommunicatie en planning binnen \u00e9\u00e9n recruitmentproces samenbrengt.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-27T08:33:37.882450"
+    },
+    "score": 0,
+    "reason": "This is a news article about a recruitment platform launch, not a job listing. No actual position to apply for, no hiring information.",
+    "embed_sim": 0.35186195373535156,
+    "ai_native_score": 0.6965776681900024
   }
 ]
