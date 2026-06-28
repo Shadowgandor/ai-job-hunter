@@ -17438,5 +17438,245 @@
     "reason": "This is a news article about a recruitment platform launch, not a job listing. No actual position to apply for, no hiring information.",
     "embed_sim": 0.35186195373535156,
     "ai_native_score": 0.6965776681900024
+  },
+  {
+    "job": {
+      "id": "1bedfe0bdc8312f476a59da47cd64ee2",
+      "title": "Onboarding & Adoption Specialist in Zoetermeer bij Roxit | Magnet.me",
+      "company": "Roxit",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1046944/onboarding---adoption-specialist",
+      "snippet": "Wil jij ervoor zorgen dat onze SaaS-oplossingen \u00e9cht impact maken bij overheden, bedrijven en inwoners? Als Onboarding & Adoption Specialist ben jij de schakel tussen product en praktijk: je laat gebruikers vanaf dag \u00e9\u00e9n maximale waarde uit onze software halen. Slim met data, AI en je inlevingsvermogen, gewoon d\u00f3\u00e9n, samen verbeteren, elke gebruiker iets verder helpen. Herken je jezelf ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-28T08:47:30.505956"
+    },
+    "score": 4,
+    "reason": "Onboarding & Adoption role has relevant adoption focus, but for SaaS users, not developer teams. Location (Zoetermeer) is acceptable (~25km from Utrecht). However, snippet suggests data/AI as secondary aspect, not primary focus on AI tooling adoption for dev teams.",
+    "embed_sim": 0.27199310064315796,
+    "ai_native_score": 0.5312194228172302
+  },
+  {
+    "job": {
+      "id": "315958c1b09835efcf7ea57110c079af",
+      "title": "AI Consultant in Rotterdam bij DEPT\u00ae | Magnet.me",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022199/ai-consultant",
+      "snippet": "As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them with the support from our team of talented engineers and developers.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-28T08:47:30.506011"
+    },
+    "score": 7,
+    "reason": "AI Consultant role matches candidate's consulting/advisory preference. Focuses on AI adoption and implementation guidance. Location unknown but DEPT is Netherlands-based. Lacks specific mention of developer tooling focus (Copilot, Claude, etc.) but consulting model aligns well.",
+    "embed_sim": 0.48008590936660767,
+    "ai_native_score": 0.6153644919395447
+  },
+  {
+    "job": {
+      "id": "080f50721ac2bb201efcc913e8d1ee88",
+      "title": "Werken bij Semmtech | Vacatures | Magnet.me (nl)",
+      "company": "Semmtech",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/semmtech-b.v.",
+      "snippet": "Based on semantic modelling methods the team designs an information architecture to improve business processes. This is an iterative way of working with a lot of client interaction, advising the client on adjusting the process itself.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-28T08:47:44.195434"
+    },
+    "score": 1,
+    "reason": "Semmtech role focuses on semantic modelling and information architecture for business processes. No connection to AI tool adoption for developers. Completely different domain.",
+    "embed_sim": 0.2453829050064087,
+    "ai_native_score": 0.46336203813552856
+  },
+  {
+    "job": {
+      "id": "5763544911910a0ffbb7bdb332460f59",
+      "title": "400+ vacatures voor Ai Developer en werk in Almere 24 juni 2026 - Indeed",
+      "company": "",
+      "location": "Almere",
+      "url": "https://nl.indeed.com/q-ai-developer-l-almere-vacatures.html",
+      "snippet": "Ai Developer vacatures in Almere. Software Trainer, Full Stack Developer, Front End Developer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-28T08:47:53.258764"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing multiple vacancies, not a specific job posting. Cannot evaluate. Location (Almere) is ~35km from Utrecht but listing is not actionable.",
+    "embed_sim": 0.32398808002471924,
+    "ai_native_score": 0.6668186187744141
+  },
+  {
+    "job": {
+      "id": "6e7c0d598402cb95a47ee343806276f2",
+      "title": "Full Stack Developer - vacatures in Werk van thuis - 25 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-full-stack-developer-l-werk-van-thuis-vacatures.html",
+      "snippet": "Wij zoeken een gedreven Bachelor/Master Full Stack Developer voor onze AI Health Startup, gericht op het bouwen van een Minimum Viable Product (MVP).",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-28T08:47:53.258775"
+    },
+    "score": 2,
+    "reason": "Full Stack Developer role building MVP for AI Health Startup. This is a product engineering role, not AI adoption/enablement. Candidate explicitly does NOT want product-building roles. Role is focused on building AI products, not enabling teams to use AI tools.",
+    "embed_sim": 0.30580586194992065,
+    "ai_native_score": 0.5413661599159241
+  },
+  {
+    "job": {
+      "id": "5256c01841da3f2f213cc6802b409804",
+      "title": "AI Engineer - Sogeti",
+      "company": "Sogeti",
+      "location": "",
+      "url": "https://www.sogeti.nl/jobs/439611-nl_NL_SAPBTP/ai-engineer/",
+      "snippet": "Als AI Engineer bij Sogeti werk je aan AI-oplossingen die niet in een lab blijven hangen, maar daadwerkelijk worden gebruikt in de dagelijkse praktijk.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-28T08:48:03.106416"
+    },
+    "score": 3,
+    "reason": "AI Engineer at Sogeti mentions practical AI solutions implementation. Title and description suggest building/deploying AI systems rather than helping dev teams adopt AI tooling. Likely requires ML/implementation expertise. No location provided.",
+    "embed_sim": 0.30242741107940674,
+    "ai_native_score": 0.6637589335441589
+  },
+  {
+    "job": {
+      "id": "7b47098805d713c4648030b67d5aa6b2",
+      "title": "AI Enablement Engineer - 4181 Waardenburg - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob?jk=d4d17fd44d823ee5",
+      "snippet": "We are looking for an AI Enablement Engineer. Your mission is to develop and improve our AI capabilities, and make these available across the company.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-28T08:48:18.422438"
+    },
+    "score": 8,
+    "reason": "AI Enablement Engineer is near-perfect title match. Mission to develop and make AI capabilities available across company aligns with adoption/champion role. Location Waardenburg is ~35km from Utrecht (acceptable). Snippet suggests internal enablement focus rather than client-facing ML work.",
+    "embed_sim": 0.39605939388275146,
+    "ai_native_score": 0.701290488243103
+  },
+  {
+    "job": {
+      "id": "288e0d73020c2ad9e3b44e2a912a79d3",
+      "title": "bol zoekt een AI Automation Engineer in Utrecht - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-automation-engineer-at-bol-4425649732",
+      "snippet": "As an Engineer on the AI Efficiency Team, you'll design and build AI Agents that streamline and optimise operational workflows. The result: customers find the ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-28T08:48:21.906865"
+    },
+    "score": 2,
+    "reason": "AI Automation Engineer at bol designing/building AI Agents for operational workflows. This is product/system building, not developer tooling adoption. Focuses on automation agents, not helping dev teams adopt existing AI tools like Copilot.",
+    "embed_sim": 0.4108371436595917,
+    "ai_native_score": 0.6284419298171997
+  },
+  {
+    "job": {
+      "id": "7f9aa0921bebb7ea27114a15ae844d7f",
+      "title": "Vacatures bij Netflix voor een Ux manager in Menlo Park - Glassdoor",
+      "company": "Netflix Voor Een Ux Manager In Menlo Park - Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacatures/Netflix-Ux-manager-Menlo-Park-Vacatures-EI_IE11891.0,7_KO8,18_IL.19,29_IC1147371.htm",
+      "snippet": "Vacatures bij Netflix voor een Ux manager in Menlo Park \u00b7 Senior Product Designer, AI Enablement \u00b7 Engineering Manager, AI Observability \u00b7 Engineering Manager, ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-28T08:48:25.528739"
+    },
+    "score": 0,
+    "reason": "Netflix roles listed are in Menlo Park (California), far outside candidate's location requirement (Utrecht area or remote). Also appears to be a search results page with multiple unspecified roles, not a specific actionable posting.",
+    "embed_sim": 0.10519487410783768,
+    "ai_native_score": 0.4942828416824341
+  },
+  {
+    "job": {
+      "id": "14616e1d436160ce18c2969fab550d7c",
+      "title": "24 vacature(s) voor Sales enablement manager in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/sales-enablement-manager-vacatures-SRCH_KO0,24.htm",
+      "snippet": "Zoek vacatures voor Sales enablement manager. Vind de juiste vacature voor Sales enablement manager met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-28T08:48:25.528751"
+    },
+    "score": 0,
+    "reason": "Search results page for Sales enablement manager roles. Not a specific job posting. Sales enablement is different from developer AI adoption. Cannot evaluate.",
+    "embed_sim": 0.11105050146579742,
+    "ai_native_score": 0.45335930585861206
+  },
+  {
+    "job": {
+      "id": "beee334135cac290057898aae484f80b",
+      "title": "Software Engineer- AI Tooling in Rotterdam bij Mendix | Magnet.me",
+      "company": "Mendix",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1052097/software-engineer--ai-tooling",
+      "snippet": "Join Mendix, a Siemens company, as a Staff Software Engineer focused on AI Tooling, helping build the future of Generative AI.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-28T08:48:36.710001"
+    },
+    "score": 6,
+    "reason": "AI Tooling focus is strong match, but role is at Mendix (building AI products) not enabling teams to use them. Location (Rotterdam) is acceptable but 40km+ from Utrecht. Staff-level seniority fits. Likely requires building/architecting tooling rather than championing adoption.",
+    "embed_sim": 0.43497613072395325,
+    "ai_native_score": 0.7498055696487427
+  },
+  {
+    "job": {
+      "id": "637d66658e6654a0359136b5e867dbc9",
+      "title": "AI Automation Engineer in Utrecht bij bol | Magnet.me",
+      "company": "Bol",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1052342/ai-automation-engineer",
+      "snippet": "What you will do as AI Automation Engineer You'll design, build, and operate agentic systems that automate operational workflows across bol. You'll work in a cross-functional team alongside a Product Manager, data scientists, and domain stakeholders \u2014 turning messy manual processes into scalable, measurable, and trustworthy automated ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-28T08:48:36.710093"
+    },
+    "score": 2,
+    "reason": "AI Automation Engineer role focuses on building agentic systems and automating workflows \u2014 this is building AI solutions, not helping teams adopt AI tools. Requires data science collaboration and operational automation expertise, not championing Copilot/Claude adoption. Wrong problem space.",
+    "embed_sim": 0.4928605556488037,
+    "ai_native_score": 0.6204127669334412
+  },
+  {
+    "job": {
+      "id": "b949f8679c96f3adcad0988e0df40cba",
+      "title": "99 vacatures voor Digital Learning Consultant in Nederland - LinkedIn",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/digital-learning-consultant-jobs",
+      "snippet": "Digital Adoption Consultant - NL. Capgemini. Utrecht. Wees een van de ... Utrecht, Nederland 4 weken geleden. Junior Consultant Supply Chain & Network ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-28T08:48:43.660988"
+    },
+    "score": 0,
+    "reason": "Generic search results page with no specific job listing. Not a real job posting. Cannot evaluate.",
+    "embed_sim": 0.12549611926078796,
+    "ai_native_score": 0.590381383895874
+  },
+  {
+    "job": {
+      "id": "68a9c86f6dc54f0c215ffd34775adb22",
+      "title": "75 digitaal specialist vacatures | 25 juni 2026 - Nationale Vacaturebank",
+      "company": "25 juni 2026 - Nationale Vacaturebank",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/digitaal-specialist",
+      "snippet": "Wil jij aan de slag als Digitaal Specialist? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Digitaal Specialist vacatures. Solliciteer direct!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-28T08:48:43.661003"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page with no specific job content. Not a real job posting. Cannot evaluate.",
+    "embed_sim": 0.16466639935970306,
+    "ai_native_score": 0.6504473686218262
+  },
+  {
+    "job": {
+      "id": "03c3fb5569182d263a62c1cbe18e7e6c",
+      "title": "Zeno zoekt een AI Engineer (Product-focused) in Rotterdam",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-product-focused-at-zeno-4393290942",
+      "snippet": "Ervaren AI-engineer. Ervaren AI-engineer. Q42. Rotterdam \u20ac 4.500 - \u20ac 7.000 7 maanden geleden. Software Engineer- AI Tooling. Software Engineer- AI Tooling.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-28T08:48:48.520091"
+    },
+    "score": 0,
+    "reason": "Search results snippet showing multiple jobs without clear content. Not a real job posting. Cannot evaluate.",
+    "embed_sim": 0.360231876373291,
+    "ai_native_score": 0.6200136542320251
   }
 ]
