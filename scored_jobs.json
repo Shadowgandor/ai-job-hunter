@@ -17678,5 +17678,293 @@
     "reason": "Search results snippet showing multiple jobs without clear content. Not a real job posting. Cannot evaluate.",
     "embed_sim": 0.360231876373291,
     "ai_native_score": 0.6200136542320251
+  },
+  {
+    "job": {
+      "id": "cf97a0a286ff2ef69413cf145121cb8b",
+      "title": "Lead (AI) Platform Engineer in Utrecht at Capgemini | Magnet.me",
+      "company": "Magnet.me",
+      "location": "Utrecht",
+      "url": "https://magnet.me/en/opportunity/1015732/lead--ai--platform-engineer",
+      "snippet": "1 apr 2026 \u00b7 Lead (AI) Platform Engineer. Job \u2022 Utrecht, NL. Posted 1 Apr 2026.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-29T10:50:32.668354"
+    },
+    "score": 8,
+    "reason": "Lead AI Platform Engineer in Utrecht is a near-perfect location match and title suggests platform/DevEx focus with AI. Role aligns with helping teams adopt AI tooling. Senior level expected. Requires verification that it's not ML-focused.",
+    "embed_sim": 0.35126471519470215,
+    "ai_native_score": 0.7008163332939148
+  },
+  {
+    "job": {
+      "id": "e31d3baa8a3db320e53d3ec566ab510d",
+      "title": "AI Engineer in Barneveld bij Tosch Security | Magnet.me | #1027700 (nl)",
+      "company": "Tosch Security",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027700/ai-engineer",
+      "snippet": "5 mei 2026 \u00b7 Als AI Engineer bij Tosch help je onze klanten met het ontwikkelen en toepassen van slimme AI-oplossingen die \u00e9cht impact maken.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-29T10:50:32.668392"
+    },
+    "score": 2,
+    "reason": "AI Engineer at Tosch Security appears focused on 'developing and applying AI solutions' for clients \u2014 suggests building AI products/systems rather than enabling team adoption. Location (Barneveld) is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.24340595304965973,
+    "ai_native_score": 0.6687393188476562
+  },
+  {
+    "job": {
+      "id": "bdf861056b7684515b422ae7255f83e3",
+      "title": "Business development alle vacatures | Magnet.me (nl)",
+      "company": "Magnet.me (nl)",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacatures/business-development",
+      "snippet": "HBO & WO business development alle vacatures bij meer dan 5.900 werkgevers zoals Magnet.me, BNP Paribas, BrightAnalytics.business development alle vacatures. Sorteer op: Standaard.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-29T10:50:41.189156"
+    },
+    "score": 0,
+    "reason": "This is a search results/listing aggregation page, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.19740229845046997,
+    "ai_native_score": 0.44215741753578186
+  },
+  {
+    "job": {
+      "id": "7de58c1e23d7b41e533b5264c1394d6b",
+      "title": "IT internships | HBO & WO | Discover 3,218 internships | Magnet.me (en)",
+      "company": "Discover 3,218 internships",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/en/internships/it?page=3",
+      "snippet": "IT. \u2022 20 employees. Stage Frontend Developer. Amsterdam. Internship. 0 - 1 year experience. HBO or WO bachelor.Government. \u2022 90,000 employees. Open stage vacature Hbo/Wo. The Hague.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-29T10:50:41.189167"
+    },
+    "score": 0,
+    "reason": "Internship roles explicitly stated. Candidate is senior with 13 years experience; internships do not match seniority requirements.",
+    "embed_sim": 0.33128178119659424,
+    "ai_native_score": 0.5962043404579163
+  },
+  {
+    "job": {
+      "id": "709beeeed342516cf5a52bdeb3b27ac2",
+      "title": "Associate - McKinsey Tech & AI in... | Magnet.me | #989355 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/989355/associate---mckinsey-tech---ai",
+      "snippet": "This Associate role is part of McKinsey Tech & AI. You will work with C-suite executives and senior managers to solve key issues and provide actionable recommendations that combine technological know-how with strong business judgment.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-29T10:50:41.189179"
+    },
+    "score": 3,
+    "reason": "McKinsey Associate role is consulting-adjacent but appears to be junior/entry-level consulting focused on C-suite advising. Does not match senior IC/specialist level. Title suggests management consulting rather than hands-on AI tooling adoption.",
+    "embed_sim": 0.4497666656970978,
+    "ai_native_score": 0.6162917613983154
+  },
+  {
+    "job": {
+      "id": "15998e0893b6d548215ec76d198a3b36",
+      "title": "700+ vacatures voor React en werk: 21 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/React-vacatures",
+      "snippet": "React vacatures. Senior Software Engineer, Full Stack Developer, Software Trainer en meer op Indeed.com.As an Applied AI Engineer, you become part consultant, part builder and part problem solver. You embed directly with business teams to understand how work actually happens.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-29T10:50:49.564320"
+    },
+    "score": 4,
+    "reason": "Generic search results page mixing multiple job types. The snippet mentions 'Applied AI Engineer' embedding with business teams, which has some resonance, but page is not a specific posting and location is unknown.",
+    "embed_sim": 0.29683372378349304,
+    "ai_native_score": 0.5588995218276978
+  },
+  {
+    "job": {
+      "id": "2024cc9c7b474fc79dae0119ff3e40a0",
+      "title": "400+ vacatures voor Embedded Software Engineer en werk: 19 juni...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Embedded-Software-Engineer-vacatures",
+      "snippet": "Embedded Software Engineer vacatures. Sorteer op: relevantie - datum.Familiarity with Streamlit, Gradio, FastAPI, dbt or similar tooling for rapidly building internal applications; Experience using AI coding agents or AI-assisted development workflows in daily engineering work",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-29T10:50:49.564343"
+    },
+    "score": 2,
+    "reason": "Generic search results page. Snippet mentions AI coding agents and AI-assisted workflows, which is relevant, but this appears to be an Embedded Software Engineer aggregation page without specific role details or location.",
+    "embed_sim": 0.31110531091690063,
+    "ai_native_score": 0.6375659704208374
+  },
+  {
+    "job": {
+      "id": "03c8ccfd98827f0dea16060089eaaf05",
+      "title": "537 vacatures voor software applications engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-software-applications-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,40.htm",
+      "snippet": "Vacatures voor software engineer in Nederland Vacatures bij Booking.com in Nederland.This internship offers hands-on experience working with frontier AI technology, backed by industry veterans and technical leaders through NVIDIA Inception,\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-29T10:50:53.518434"
+    },
+    "score": 1,
+    "reason": "This is a Glassdoor search results page aggregating multiple roles, not a specific job posting. Cannot evaluate properly.",
+    "embed_sim": 0.2811734080314636,
+    "ai_native_score": 0.5800898671150208
+  },
+  {
+    "job": {
+      "id": "ea1020d2a29b50cf5e5cca85294d1336",
+      "title": "glassdoor.nl/Vacature/english-editor-vacatures-SRCH_KO0,14.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/english-editor-vacatures-SRCH_KO0,14.htm",
+      "snippet": "Vacatures.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-29T10:50:53.518469"
+    },
+    "score": 0,
+    "reason": "This appears to be a broken or irrelevant Glassdoor search results link for 'English Editor' vacancies. Completely unrelated to candidate profile.",
+    "embed_sim": 0.039980486035346985,
+    "ai_native_score": 0.6320055723190308
+  },
+  {
+    "job": {
+      "id": "e1048f5d2888ba364ba21335ddd1d21e",
+      "title": "DevOps Engineer bij Enexis | Vacature | Working Talent",
+      "company": "Enexis",
+      "location": "",
+      "url": "https://workingtalent.nl/vacatures/devops-engineer-enexis",
+      "snippet": "Ben jij analytisch sterk, heb je affiniteit met data en wil je werken op het snijvlak van IT en operations? Bij Enexis krijg je de kans om als DevOps Engineer te werken aan systemen die essentieel zijn voor de energievoorziening in Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:50:59.464897"
+    },
+    "score": 2,
+    "reason": "DevOps Engineer at Enexis is infrastructure/operations-focused, not AI enablement or tooling adoption. Data affinity mentioned but does not indicate AI champion or platform engineer role. Location unknown.",
+    "embed_sim": 0.38044261932373047,
+    "ai_native_score": 0.5926980376243591
+  },
+  {
+    "job": {
+      "id": "2d196dc9afa1378f7010133509a076e4",
+      "title": "Vertaler Engels - vacatures - 29 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-vertaler-engels-vacatures.html",
+      "snippet": "Vertaler Engels vacatures. Functioneel Beheerder, Dtp\u2019er, Business Analist en meer op Indeed.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:50:59.464921"
+    },
+    "score": 0,
+    "reason": "Translation role (English translator) \u2014 completely unrelated to software development, AI adoption, or engineering",
+    "embed_sim": 0.13599443435668945,
+    "ai_native_score": 0.5215790271759033
+  },
+  {
+    "job": {
+      "id": "b207e9c144184eb2453488c3d13f259c",
+      "title": "1.000+ vacatures voor Electrical Engineer en werk: 29 juni 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/Electrical-Engineer-vacatures",
+      "snippet": "Van der Sijs. 3454 Utrecht Vleuten-De Meern. Pensioen. Reiskostenvergoeding.Vergelijkbare vacatures bij deze werkgever bekijken. As a Maintenance Engineer you go beyond solving day-to-day issues and focus on structural improvements, innovation, and long-term system reliability.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:51:12.402931"
+    },
+    "score": 0,
+    "reason": "Electrical/Maintenance Engineer role \u2014 hardware/infrastructure focus, not software development or AI adoption",
+    "embed_sim": 0.1743146777153015,
+    "ai_native_score": 0.5859030485153198
+  },
+  {
+    "job": {
+      "id": "3da32127770190ad4c2ea3764cb3d2b2",
+      "title": "Digital Adoption Specialist with focus on AI - Jobbird.com - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/digital-adoption-specialist-with-focus-on-ai-jobbird-com-at-jobster-4431296210",
+      "snippet": "Develop and execute AI adoption initiatives as defined by the AI Center of Excellence. Minimum of 2 years of experience in change management, adoption planning,",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-29T10:51:19.406139"
+    },
+    "score": 7,
+    "reason": "Digital Adoption Specialist with AI focus \u2014 strong match on AI adoption and change management. Requires only 2 years change management experience (no ML background needed). Location unknown is minor concern but concept is excellent fit.",
+    "embed_sim": 0.478662371635437,
+    "ai_native_score": 0.7331507802009583
+  },
+  {
+    "job": {
+      "id": "4fc9665e245e432732c0ffd779e02a4f",
+      "title": "AI Engineer - Doghouse Recruitment - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-doghouse-recruitment-4426039791",
+      "snippet": "AI Engineer \u00b7 Senioriteitsniveau. Senior medewerker \u00b7 Soort baan. Fulltime \u00b7 Functie. Informatietechniek, Techniek en Consultancy \u00b7 Bedrijfstakken.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-29T10:51:24.350179"
+    },
+    "score": 2,
+    "reason": "AI Engineer role \u2014 title suggests potential but no details provided. Generic 'AI Engineer' title typically indicates ML/model building work, not AI adoption/enablement. Insufficient information and likely misaligned.",
+    "embed_sim": 0.5291681289672852,
+    "ai_native_score": 0.7603389024734497
+  },
+  {
+    "job": {
+      "id": "d8277e48d38290a23180c156d7861d0e",
+      "title": "200+ vacatures voor Ai Adoptie en werk: 26 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-adoptie-vacatures.html",
+      "snippet": "Volledige vacaturetekst Voor Gemeente West Betuwe zoeken wij een Communicatie Medewerker AI-Adoptie. Je ondersteunt het project 'Slimmer Werken' binnen het veranderprogramma 'Klantgericht West Betuwe' en helpt AI-toepassingen (zoals Microsoft 365 Copilot, Copilot Agents, spraakgestuurd rapporteren en RPA) adoptiegericht en veilig in te bedden in het dagelijkse werk van medewerkers. Je werkt ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:51:28.545821"
+    },
+    "score": 6,
+    "reason": "AI Adoption role with Microsoft 365 Copilot focus \u2014 strong conceptual match (adoption, Copilot tooling, change support). However, this appears to be a generic job listing page rather than a specific vacancy. Location unknown is also a concern.",
+    "embed_sim": 0.12544935941696167,
+    "ai_native_score": 0.7418337464332581
+  },
+  {
+    "job": {
+      "id": "30e501aed28a58b2d4ec921d3f09aacf",
+      "title": "Vacature Implementatie- en adoptiemanager AI 24u/w | Utrecht ...",
+      "company": "Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://www.werkzoeken.nl/vacature/15887434-implementatie-en-adoptiemanager-ai-24u-w/",
+      "snippet": "Vacature \u2713 Implementatie- en adoptiemanager AI 24u/w | Utrecht | DC Professionals op Werkzoeken.nl. \u2713 Standplaats: UTRECHT Duur: 31-07-2026 - 31-12-2026 Optie tot verlenging: Ja Reageren voor: 23-06-2026 Project: Slachtofferhulp Nederland heeft een AI-beleid, AI-gedragscode en AI-progr..",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:51:28.545846"
+    },
+    "score": 7,
+    "reason": "Implementatie- en adoptiemanager AI in Utrecht \u2014 excellent location match (Utrecht), perfect role concept (AI adoption/implementation management), senior level appropriate. 24u/w contract may not be full-time but matches AI adoption champion mandate.",
+    "embed_sim": 0.16241630911827087,
+    "ai_native_score": 0.6671960353851318
+  },
+  {
+    "job": {
+      "id": "f416376d4d98411615f76d6be76de7ca",
+      "title": "Vacature Adoptiemanager AI bij Belastingdienst in Utrecht ...",
+      "company": "Belastingdienst In Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacature/daf4610c-6f52-42df-9feb-fdc387d1e11a/adoptiemanager-ai",
+      "snippet": "Functieomschrijving Stichting Slachtofferhulp Nederland (SHN) Implementatie- en adoptiemanager AI Stichting Slachtofferhulp Nederland (SHN) Locatie: Utrecht, Utrecht Startdatum: 31 juli 2026 Uren p/w: 24 uur p/w Looptijd: 6 maanden Type: Interlancing / detachering Vakgebied: Bestuur & management Sluitingsdatum: 24-06-2026 10:00 Reageer direct Omschrijving opdracht",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-29T10:51:28.545857"
+    },
+    "score": 7,
+    "reason": "Adoptiemanager AI at Belastingdienst, Utrecht \u2014 strong match on location (Utrecht), AI adoption manager role is core fit. 24u/w contract and temporary nature (6 months) are minor concerns, but role concept is excellent.",
+    "embed_sim": 0.05795803666114807,
+    "ai_native_score": 0.5455103516578674
+  },
+  {
+    "job": {
+      "id": "81feca9f077fb693a83c011d7ed26433",
+      "title": "400+ vacatures voor Ai Automation en werk in Amsterdam 20 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-l-amsterdam-vacatures.html?vjk=02033655639d69ba",
+      "snippet": "Mindset and ways of working Hands-on, self-starter mentality with the ability to manage and prioritise multiple ad-hoc requests across stakeholders in a proactive and structured manner. Strong sense of ownership, accountability and confidentiality when handling sensitive information.",
+      "source": "ddg:indeed",
+      "date_found": "2026-06-29T10:51:35.718766"
+    },
+    "score": 2,
+    "reason": "AI Automation vacancies in Amsterdam \u2014 generic listing page without specific role details. Amsterdam is borderline acceptable (40km+) but unclear if development/adoption focused or infrastructure/process automation. Insufficient detail to assess.",
+    "embed_sim": 0.22619473934173584,
+    "ai_native_score": 0.6259989142417908
   }
 ]
