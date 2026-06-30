@@ -402,18 +402,18 @@
   {
     "job": {
       "id": "a2e37432868edfeabc13a38b73313ebb",
-      "title": "75+ vacatures voor Ai Engineer en werk in Eindhoven 10 april ...",
+      "title": "25+ vacatures voor Ai Engineer en werk in Eindhoven 20 november 2025| Indeed",
       "company": "",
       "location": "Eindhoven",
       "url": "https://nl.indeed.com/q-ai-engineer-l-eindhoven-vacatures.html",
-      "snippet": "Ai Engineer vacatures in Eindhoven. Senior Data Engineer, Senior Software Developer, Traineeship Data Science en meer op Indeed.com",
+      "snippet": "Ai Engineer vacatures in Eindhoven. Engineer, Data Scientist, Senior Frontend Developer en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-04-26T07:25:09.797244"
+      "date_found": "2026-06-30T09:28:20.023700"
     },
     "score": 0,
-    "reason": "Job listing aggregator page, not a specific role. Eindhoven location outside preference. Cannot assess actual job fit.",
-    "embed_sim": 0.2622712254524231,
-    "ai_native_score": 0.6747442483901978
+    "reason": "Indeed job search results page for AI Engineer in Eindhoven. Not a specific job listing. Eindhoven is also outside the preferred 40km radius from Utrecht unless role is fully remote (which is not specified).",
+    "embed_sim": 0.2857617139816284,
+    "ai_native_score": 0.6289682388305664
   },
   {
     "job": {
@@ -1442,18 +1442,18 @@
   {
     "job": {
       "id": "76afeffdabe3482f852937464bfef7c8",
-      "title": "Vacatures voor Machine learning in Australi\u00eb | Glassdoor",
+      "title": "700 vacatures voor machine learning in Australi\u00eb | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/australi\u00eb-machine-learning-vacatures-SRCH_IL.0,9_IN16_KO10,26.htm",
-      "snippet": "Vacatures. Bedrijven. Salarissen. Gesprekken. Voor werkgevers. Vacatures.Bachelor\u2019s or a higher education degree in Computer Science/Engineering, data science, statistics or related field. R, Groovy, Scala are a plus.\u2026",
+      "snippet": "Vacatures voor machine learning engineer in Sydney Vacatures in Sydney Vacatures bij TikTok in Sydney.Top-tier graduates in security, cybersecurity, computer science, AI, software engineering, mathematics, or related technology fields.&hellip",
       "source": "ddg:glassdoor",
-      "date_found": "2026-04-30T08:16:33.889967"
+      "date_found": "2026-06-30T09:28:16.024290"
     },
     "score": 0,
-    "reason": "Australia location, Machine Learning roles requiring Bachelor's in CS/data science - completely misaligned on geography and ML focus",
-    "embed_sim": 0.17175722122192383,
-    "ai_native_score": 0.40117117762565613
+    "reason": "Machine learning job search results page in Australia. Location is completely wrong (Sydney, not Netherlands), and machine learning roles don't match candidate profile.",
+    "embed_sim": 0.2526400685310364,
+    "ai_native_score": 0.5085950493812561
   },
   {
     "job": {
@@ -17966,5 +17966,437 @@
     "reason": "AI Automation vacancies in Amsterdam \u2014 generic listing page without specific role details. Amsterdam is borderline acceptable (40km+) but unclear if development/adoption focused or infrastructure/process automation. Insufficient detail to assess.",
     "embed_sim": 0.22619473934173584,
     "ai_native_score": 0.6259989142417908
+  },
+  {
+    "job": {
+      "id": "e39ed414ced3917a6deab917bd19f973",
+      "title": "856 vacatures voor Linkedin in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/linkedin-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.\u8fd0\u8425\u5b9e\u4e60\u751f\uff08AI \u5f00\u6e90\u9879\u76ee / \u4e2d\u82f1\u6587\u793e\u4ea4\u5a92\u4f53\u65b9\u5411\uff09| Intern - Social Media & Community Operations (AI Open Source, Bilingual).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:27:55.152477"
+    },
+    "score": 0,
+    "reason": "LinkedIn job search results page, not an actual job listing. No specific role information.",
+    "embed_sim": 0.1814449429512024,
+    "ai_native_score": 0.5874063372612
+  },
+  {
+    "job": {
+      "id": "c5a3a0adb2e797a7a5f9427814a8ce32",
+      "title": "Meer dan 1.000 vacatures voor Artificial Intelligence in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/artificial-intelligence-jobs",
+      "snippet": "1.000+ Artificial Intelligence vacatures in Nederland. AI Engineer. AI Engineer. Elektramat B.V. Enschede en omgeving. Wees een van de eerste sollicitanten. 3 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:27:55.152526"
+    },
+    "score": 0,
+    "reason": "LinkedIn job search results aggregation page, not a specific job listing. No details about actual positions.",
+    "embed_sim": 0.33258718252182007,
+    "ai_native_score": 0.7131686210632324
+  },
+  {
+    "job": {
+      "id": "92ebf1d85710bbced2144a47236fd5ed",
+      "title": "Business Developer AA & AI (Hay 12) - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1053171/business-developer-aa---ai--hay-12-",
+      "snippet": "Work closely with business teams, AI specialists, and product teams Support implementation of new processes and ways of working Contribute to continuous improvement initiatives Working environment The Finance & Risk Data Domain is part of Finance & Risk Business Grids (F&RBG), and plays an active role for all the Finance and Risk departments.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:12.004185"
+    },
+    "score": 3,
+    "reason": "Business Developer role in Finance & Risk Data Domain. Appears to be focused on business processes and data domain work, not AI tool adoption for developers. No indication of helping development teams use AI tools.",
+    "embed_sim": 0.36873525381088257,
+    "ai_native_score": 0.6304516196250916
+  },
+  {
+    "job": {
+      "id": "aed383afbc42bb5ca50718fa0ba6d0c0",
+      "title": "AI Transformation Consultant in Amsterdam bij Highberg B.V. | Magnet.me",
+      "company": "Highberg B.V.",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1019688/ai-transformation-consultant",
+      "snippet": "Culture as a catalyst: Our culture and way of collaborating are unique, creating immediate impact and driving sustainable results. Your work as AI Transformation Consultant at #Highberg Vision \u2014 you help clients define an inspiring AI vision and the guiding principles to make it real, while building genuine buy-in across leadership.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:12.004206"
+    },
+    "score": 7,
+    "reason": "AI Transformation Consultant at Highberg in Amsterdam. Helping clients define AI vision and guiding principles aligns with AI adoption/strategy work. Location is acceptable (Amsterdam, near Utrecht). Consulting/advisory nature matches candidate's interest in helping organizations adopt AI practices. Some concern about whether this focuses on developer tooling specifically vs. broader organizational transformation.",
+    "embed_sim": 0.41101208329200745,
+    "ai_native_score": 0.6974840760231018
+  },
+  {
+    "job": {
+      "id": "7ebd16d94600881c5af02408c9c5546a",
+      "title": "Business Developer AA & AI (Hay 11) - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1053188/business-developer-aa---ai--hay-11-",
+      "snippet": "Work closely with business teams, AI specialists, and product teams Support implementation of new processes and ways of working Contribute to continuous improvement initiatives Working environment The Finance & Risk Data Domain is part of Finance & Risk Business Grids (F&RBG), and plays an active role for all the Finance and Risk departments.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:12.004216"
+    },
+    "score": 3,
+    "reason": "Business Developer role in Finance & Risk Data Domain (Hay 11 level). Similar to listing [2] - appears process/business focused rather than developer tooling adoption focused.",
+    "embed_sim": 0.3824722170829773,
+    "ai_native_score": 0.6262653470039368
+  },
+  {
+    "job": {
+      "id": "fd34480fbe34ae4a8c51000e738104c3",
+      "title": "2.057 vacatures voor java software engineer in Palo Alto... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/palo-alto-java-software-engineer-vacatures-SRCH_IL.0,9_IC1147434_KO10,32_IP3.htm",
+      "snippet": "Vacature-alert maken. 2.057 vacature(s) voor Java software engineer in Palo Alto, CA. Relevantie. Logo van Software Enterprises.Familiarity with data analysis tools (e.g., JMP or similar). Experience with probe cards, PCB design, or hardware interface evaluation.&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:28:16.024331"
+    },
+    "score": 0,
+    "reason": "Java software engineer search results in Palo Alto, CA. Wrong location (USA not Netherlands) and no AI adoption/tooling focus indicated.",
+    "embed_sim": 0.2201947569847107,
+    "ai_native_score": 0.5602762699127197
+  },
+  {
+    "job": {
+      "id": "4651bca3b9ccf8f9c532b720e7592a4c",
+      "title": "148 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/facebook-ai-vacatures-SRCH_KE0,11.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:28:16.024342"
+    },
+    "score": 0,
+    "reason": "Glassdoor search results aggregation page for Facebook AI vacancies. Not a specific job listing, just a search page.",
+    "embed_sim": -0.0007257126271724701,
+    "ai_native_score": 0.4962126910686493
+  },
+  {
+    "job": {
+      "id": "f5d2fb6de08a078e6517e44c4802d861",
+      "title": "51 vacatures voor process integration engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/islamabad-process-integration-engineer-vacatures-SRCH_IL.0,9_IC3139539_KO10,38.htm",
+      "snippet": "Vacatures voor machine learning engineer in Pakistan Vacatures bij Makkays in Pakistan.Software Engineer \u2013 iOS. Pakistan. Stay updated with emerging iOS technologies and AI-assisted development tooling to improve productivity and user experience.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:28:16.024359"
+    },
+    "score": 0,
+    "reason": "Process integration engineer search results page. Not a specific job listing. Mentions AI-assisted iOS development tooling but role is process integration engineer, not AI adoption/tooling focus.",
+    "embed_sim": 0.31223899126052856,
+    "ai_native_score": 0.5700131058692932
+  },
+  {
+    "job": {
+      "id": "865e06a317f21dbf46f82c6ab8cfda8c",
+      "title": "50+ vacatures voor Prompt Engineer en werk: 29 juni 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-prompt-engineer-vacatures.html",
+      "snippet": "Prompt Engineer vacatures. Ai Engineer, Engineer, Data Scientist en meer op Indeed.com..NET/Azure AI Engineer. Dringend gezocht. DutchWorkz. 3543 Utrecht Leidsche Rijn. Dienstreizen vergoeding. Budget voor professionele ontwikkeling.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-30T09:28:24.011984"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page, not a specific job listing. Cannot evaluate a real vacancy.",
+    "embed_sim": 0.2501761317253113,
+    "ai_native_score": 0.6434569954872131
+  },
+  {
+    "job": {
+      "id": "efac9b1f892dc8abb84c78ee8bb7acaf",
+      "title": "Vacature: monteur Utrecht - 30-5-2026",
+      "company": "30-5-2026",
+      "location": "Utrecht",
+      "url": "https://www.uitzendbureau.nl/vacature/25057156-servicemonteur",
+      "snippet": "Zoek je werk in Utrecht als monteur? Bekijk snel deze vacature en solliciteer eenvoudig op Jobbird!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-30T09:28:24.012157"
+    },
+    "score": 0,
+    "reason": "Technician/service engineer role. Completely unrelated to AI adoption or software development.",
+    "embed_sim": 0.026250619441270828,
+    "ai_native_score": 0.5647240877151489
+  },
+  {
+    "job": {
+      "id": "970aa593d5ca101559311c46f588bfd7",
+      "title": "Bijbaan Promotor in Utrecht | Dutch speaking only",
+      "company": "Dutch speaking only",
+      "location": "",
+      "url": "https://www.studentjob.nl/vacatures/6653537-bijbaan-promotor-in-utrecht-dutch-speaking-only",
+      "snippet": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-30T09:28:24.012200"
+    },
+    "score": 0,
+    "reason": "Student part-time promoter role. Not relevant to senior engineering or AI enablement.",
+    "embed_sim": -0.03192249685525894,
+    "ai_native_score": 0.5358077883720398
+  },
+  {
+    "job": {
+      "id": "0a06fbd62938fb3bf1e0e7e213741ba6",
+      "title": "AI Strategy Lead in Amsterdam bij Conclusion | Magnet.me | #1032653 (nl)",
+      "company": "Conclusion",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1032653/ai-strategy-lead",
+      "snippet": "May 21, 2026 - Bij Conclusion Enablement ontwikkel en beheer je samen met experts al jaren applicaties, moderniseer je IT-omgevingen en neem je deze in beheer. Met de opkomst van AI staat deze wereld aan de vooravond van een fundamentele verandering.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:27.642563"
+    },
+    "score": 7,
+    "reason": "AI Strategy Lead role at Conclusion Enablement with focus on application modernization and AI transformation. Amsterdam location is acceptable range. Suggests strategic AI coordination aligned with candidate's goals, though snippet doesn't confirm hands-on technical aspects or DevEx focus.",
+    "embed_sim": 0.1964031159877777,
+    "ai_native_score": 0.7288437485694885
+  },
+  {
+    "job": {
+      "id": "4682603ce43c4780c9674ad34c424c20",
+      "title": "Platform Engineer in Utrecht bij Conclusion | Magnet.me | #864365 (nl)",
+      "company": "Conclusion",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/864365/platform-engineer",
+      "snippet": "Een laptop en telefoon voor je dagelijkse werkzaamheden inclusief allerlei soorten Conclusion Enablement merchandise; Je komt te werken bij een Microsoft Solutions Cloud Partner, inclusief specialisaties in Modern Work, Azure, Security, Data & AI, Digital & App Innovation, Business Applications, Workspace en Security en AWS Advanced Consulting Partner;",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:27.642577"
+    },
+    "score": 5,
+    "reason": "Platform Engineer at Conclusion with Data & AI specialization mentioned. Utrecht location is ideal. However, snippet is vague and doesn't clarify if this is AI tooling/adoption-focused or infrastructure/backend-focused. Requires deeper investigation.",
+    "embed_sim": 0.2948474884033203,
+    "ai_native_score": 0.467171311378479
+  },
+  {
+    "job": {
+      "id": "40db195e7fd0b4d08361e14ee4cad029",
+      "title": "Sr. Product Specialist Adoption Architect in Amsterdam bij Databricks ...",
+      "company": "Databricks ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/936309/sr.-product-specialist-adoption-architect",
+      "snippet": "Sr. Product Specialist Adoption Architect at Databricks At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes dat\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:37.551755"
+    },
+    "score": 2,
+    "reason": "Databricks Adoption Architect role. While 'adoption' is in title, Databricks is a data/ML platform company. Role likely focuses on data engineering and ML workflows, not general AI tool adoption for dev teams. Amsterdam location acceptable but wrong domain.",
+    "embed_sim": 0.2992520034313202,
+    "ai_native_score": 0.4748011827468872
+  },
+  {
+    "job": {
+      "id": "0d53ab48d8fc9f5c5844e352048b317f",
+      "title": "Alle vacatures | Magnet.me (nl)",
+      "company": "Magnet.me (nl)",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacatures",
+      "snippet": "HBO & WO alle vacatures bij meer dan 6.200 werkgevers zoals WerkenbijdeEU, Stedin, Young Colfield.Verzekeringen. \u2022 16.000 medewerkers. Reken-Engineer Calculation Services.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:41.543581"
+    },
+    "score": 0,
+    "reason": "This is a generic job board index page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.08256331831216812,
+    "ai_native_score": 0.5400764346122742
+  },
+  {
+    "job": {
+      "id": "ddbd37218a9e80005366f1e52d723ee3",
+      "title": "Engineering jobs | Page 34 | Magnet.me (en)",
+      "company": "Page 34",
+      "location": "",
+      "url": "https://magnet.me/en/jobs/engineering?page=34",
+      "snippet": "Engineering. \u2022 856 employees. Stagiair/Afstudeerder Bodem en water.\u2022 250 employees. Senior AI Developer. Zwolle. 5 - 10 years experience.",
+      "source": "ddg:magnet",
+      "date_found": "2026-06-30T09:28:41.543594"
+    },
+    "score": 0,
+    "reason": "This is a job listing page index/browse page, not a specific vacancy. Cannot evaluate.",
+    "embed_sim": 0.38241028785705566,
+    "ai_native_score": 0.5639786124229431
+  },
+  {
+    "job": {
+      "id": "408c929dc4932f9e0ce23e1b5a53180c",
+      "title": "888 vacatures voor Devx Engineer in Nederland - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/devx-engineer-jobs",
+      "snippet": "Developer Relations/Experience Engineer - Kimchi Cast AI Amsterdam Wees een van de eerste sollicitanten 1 maand geleden",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:28:57.256501"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page for DevX Engineer roles, not a specific job listing. Cannot evaluate without actual vacancy details.",
+    "embed_sim": 0.34985658526420593,
+    "ai_native_score": 0.7144794464111328
+  },
+  {
+    "job": {
+      "id": "ff1f30272c7f64c7eab61d0b921147fd",
+      "title": "Applied AI Engineer (Remote from Net) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-remote-from-net-at-jobgether-4431463642",
+      "snippet": "The environment is fast-moving, highly collaborative, and deeply technical, with a strong emphasis on reliability, scalability, and developer experience. This role is ideal for engineers who enjoy solving complex systems problems and enabling others to build better AI products.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:28:57.256517"
+    },
+    "score": 3,
+    "reason": "Applied AI Engineer role with emphasis on 'enabling others to build better AI products' suggests some enablement focus. However, snippet indicates deep technical complexity and 'systems problems' suggests infrastructure/ML engineering rather than AI tool adoption for dev teams. Remote from Netherlands acceptable but role design doesn't match core goals.",
+    "embed_sim": 0.49902528524398804,
+    "ai_native_score": 0.6884810924530029
+  },
+  {
+    "job": {
+      "id": "6636b9611d8e575eefa29e1914ba31a5",
+      "title": "229 vacatures voor Whisplyus Developer in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/whisplyus-developer-jobs",
+      "snippet": "5 days ago \u00b7 229 topvacatures voor Whisplyus Developer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Whisplyus Developer toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:28:57.256530"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.20036202669143677,
+    "ai_native_score": 0.6254826784133911
+  },
+  {
+    "job": {
+      "id": "76e5c8eb69edf9905d2c390f98142b96",
+      "title": "GitHub Copilot Expert / AI-Assisted Development Specialist",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/github-copilot-expert-ai-assisted-development-specialist-at-a2g-consulting-bv-a2g-technologies-4433242092?position=2&pageNum=0",
+      "snippet": "The ideal candidate will combine deep software development expertise with hands-on experience using GitHub Copilot and other AI-powered coding assistants. You will be responsible for driving developer adoption, establishing best practices, improving engineering productivity, and ensuring secure and compliant usage of AI-assisted development tools.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:28:57.256545"
+    },
+    "score": 9,
+    "reason": "Near-perfect match. GitHub Copilot Expert role explicitly focused on driving developer adoption, establishing best practices, improving engineering productivity, and ensuring secure AI tool usage. No ML expertise required. Location unknown but title and description align perfectly with candidate's core mission.",
+    "embed_sim": 0.5980516672134399,
+    "ai_native_score": 0.839124321937561
+  },
+  {
+    "job": {
+      "id": "eff839100191411523e09a46d47fbda5",
+      "title": "Meer dan 1.000 vacatures voor Data Analyst in Amsterdam Area",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/data-analyst-jobs-amsterdam-area-netherlands?countryRedirected=1",
+      "snippet": "Data Analyst \u2014 Analytics & AI Enablement. Travix.Data Engineer. Studocu. Amsterdam 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:29:01.218158"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page showing multiple unrelated roles (Data Analyst, Data Engineer). Cannot evaluate specific job relevance.",
+    "embed_sim": 0.2760239541530609,
+    "ai_native_score": 0.5616697072982788
+  },
+  {
+    "job": {
+      "id": "b529f22a8c6e49d9b43588ab09883138",
+      "title": "Vacatures voor Trainer in Amsterdam Area",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/trainer-jobs-amsterdam-area?countryRedirected=1",
+      "snippet": "Corporate Development Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote. 10x.Team. Amsterdam 6 dagen geleden.Sales & Partner Enablement Senior Manager.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-06-30T09:29:01.218179"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page. Shows Trainer roles but no specific job details to evaluate. Cannot assess relevance.",
+    "embed_sim": 0.3244282007217407,
+    "ai_native_score": 0.6440370678901672
+  },
+  {
+    "job": {
+      "id": "3d593ea33552da89a36a95e510f6102d",
+      "title": "479 vacatures voor business intelligence specialist in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/australi\u00eb-business-intelligence-specialist-vacatures-SRCH_IL.0,9_IN16_KO10,42.htm",
+      "snippet": "3,4. Adoption Services Consultant - ediscovery/Legal Data Intelligence.As a technical Business Analyst specialising in AI workflows, you'll play a key role in helping Virgin Australia identify, design and deliver the next\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:29:07.221003"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page with minimal details. Shows mixed roles (Business Intelligence, ediscovery). Cannot evaluate specific job relevance. Also references Australia location.",
+    "embed_sim": 0.4217779338359833,
+    "ai_native_score": 0.5329010486602783
+  },
+  {
+    "job": {
+      "id": "a9c29a28baa64a2b5b89a339ff363cd4",
+      "title": "glassdoor.nl/Vacature/manager-vacatures-SRCH_KO0,7.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/manager-vacatures-SRCH_KO0,7.htm",
+      "snippet": "Vacatures voor Oracle Data Warehouse Developer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:29:07.221016"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page with no actual job postings. Cannot evaluate relevance.",
+    "embed_sim": 0.13056764006614685,
+    "ai_native_score": 0.4455372393131256
+  },
+  {
+    "job": {
+      "id": "4613a329b33bf316270b9cdc7511fccc",
+      "title": "Vacatures voor Applications support specialist | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/applications-support-specialist-vacatures-SRCH_KO0,31.htm",
+      "snippet": "Zoek de juiste vacature voor Applications support specialist met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-06-30T09:29:07.221027"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page for Applications Support Specialist. No specific job details provided. Cannot evaluate relevance.",
+    "embed_sim": 0.14425629377365112,
+    "ai_native_score": 0.4246574342250824
+  },
+  {
+    "job": {
+      "id": "04674b32d041bb6c6c8516cfb282ea1c",
+      "title": "Data, AI & Analytics vacatures in Nederland | DataJobs",
+      "company": "DataJobs",
+      "location": "",
+      "url": "https://www.datajobs.nl/vacatures",
+      "snippet": "Data & Analytics vacatures in Nederland. 294 vacatures gevonden.De mogelijkheden om AI in te zetten zijn de afgelopen jaren exponentieel toegenomen, ook in economisch\u2026 32-36 uur per week Vast dienstverband \u20ac4.024,00 - \u20ac7.747,00.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-30T09:29:15.703108"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page showing 294 data/analytics vacatures. No specific job details provided. Cannot evaluate relevance.",
+    "embed_sim": 0.1539764404296875,
+    "ai_native_score": 0.45743870735168457
+  },
+  {
+    "job": {
+      "id": "7bd8fd91ae0df9d499f92417aaf20674",
+      "title": "AI Engineer in Utrecht - ZZP ICT opdracht op www.it-contracts.nl",
+      "company": "ZZP ICT opdracht op www.it-contracts.nl",
+      "location": "Utrecht",
+      "url": "https://www.it-contracts.nl/vacature_AI_Engineer_287077/ict_project",
+      "snippet": "Voor onze eindklant Hogeschool Utrecht is Harvey Nash op zoek naar een AI Engineer. Startdatum: 16-03-2026 Einddatum: 31-07-2026 (met mogelijk verlenging tot einde jaar) Locatie: Utrecht, hybride Aantal uren per week: 32-40 uur Reageren kan tot: 27-02 voor 12:00 uur.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-06-30T09:29:15.703125"
+    },
+    "score": 2,
+    "reason": "AI Engineer title is misleading - this is likely an academic institution (Hogeschool Utrecht) hiring for a 4-month contract ending July 2026. Title 'AI Engineer' typically implies ML model building, not AI tool adoption. Insufficient details confirm actual role scope. Location is Utrecht (good) but contract duration and academic context suggest this is not the right fit.",
+    "embed_sim": 0.29711514711380005,
+    "ai_native_score": 0.6734030246734619
   }
 ]
