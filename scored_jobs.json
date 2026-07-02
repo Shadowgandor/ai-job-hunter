@@ -18670,5 +18670,325 @@
     "reason": "Implementation/Business Transformation consultant role. No AI enablement or tooling focus mentioned. Wrong domain for candidate's AI adoption champion mission.",
     "embed_sim": 0.23814010620117188,
     "ai_native_score": 0.5604576468467712
+  },
+  {
+    "job": {
+      "id": "245a4287d98f9a3475c32cbe40d6cbde",
+      "title": "198 vacatures voor adoption specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 198 vacatures voor Adoption specialist in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-02T08:51:51.784419"
+    },
+    "score": 0,
+    "reason": "This is a search results page/listing aggregator, not an actual job posting. No specific role details, company, or location information provided.",
+    "embed_sim": 0.17133893072605133,
+    "ai_native_score": 0.6230175495147705
+  },
+  {
+    "job": {
+      "id": "417d677338682ac5c294891f95f4f127",
+      "title": "91 vacatures voor Sp\u00e9cialiste en adoption in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-sp\u00e9cialiste-en-adoption-vacatures-SRCH_IL.0,9_KO10,33.htm",
+      "snippet": "Zoek naar vacatures voor Sp\u00e9cialiste en adoption. Zoek de juiste vacature voor Sp\u00e9cialiste en adoption met bedrijfsreviews en salarissen. 91 vacatures voor Sp\u00e9cialiste en adoption.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-02T08:51:51.784465"
+    },
+    "score": 0,
+    "reason": "This is a search results page/listing aggregator, not an actual job posting. No specific role details, company, or location information provided.",
+    "embed_sim": 0.1847357451915741,
+    "ai_native_score": 0.6516889333724976
+  },
+  {
+    "job": {
+      "id": "50276e39d7698d2dec5119c1af1e970c",
+      "title": "73 vacatures voor Bioinformatics in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/bioinformatics-jobs?position=1&pageNum=0",
+      "snippet": "73Bioinformatics vacatures in Nederland. R Developer with Life Science Background.(Senior) Scientist AI/ML for Protein and Metabolic Engineering. dsm-firmenich. Delft 13 uur geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:51:56.354329"
+    },
+    "score": 0,
+    "reason": "Bioinformatics roles focused on ML/protein engineering. Wrong domain entirely \u2014 not about AI tool adoption for development teams.",
+    "embed_sim": 0.18986043334007263,
+    "ai_native_score": 0.4864036738872528
+  },
+  {
+    "job": {
+      "id": "5cd20f3880c919baf74696a5fc3ea2ba",
+      "title": "200 vacatures voor Video Editor in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/video-editor-jobs?countryRedirected=1&position=1&pageNum=0",
+      "snippet": "AI Filmmaker (100% Remote). Tether.io. Nederland 5 dagen geleden.Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Netherlands).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:51:56.354340"
+    },
+    "score": 0,
+    "reason": "Video editor and filmmaker roles. Completely unrelated to software development, AI tool adoption, or engineering workflows.",
+    "embed_sim": 0.2763942778110504,
+    "ai_native_score": 0.6714630722999573
+  },
+  {
+    "job": {
+      "id": "c32cc5d3dea1736072bdc14f2ebb10b1",
+      "title": "Vacancies | Page 658 | Magnet.me (en)",
+      "company": "Page 658",
+      "location": "Rotterdam",
+      "url": "https://magnet.me/en/opportunities?page=658",
+      "snippet": "Senior Test Engineer. Rotterdam. 5 - 50 years experience.\u2022 250 employees. Graduate Program Data & Generative AI.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-02T08:52:00.626391"
+    },
+    "score": 0,
+    "reason": "Search results page listing multiple unrelated roles. No specific job posting details. Location is Rotterdam (outside preferred 40km radius of Utrecht).",
+    "embed_sim": 0.32728642225265503,
+    "ai_native_score": 0.5846481919288635
+  },
+  {
+    "job": {
+      "id": "8d60d4275ee5cb33b3c5efde1ba02f70",
+      "title": "34 vacatures voor Mollie in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/mollie-jobs?position=1&pageNum=0",
+      "snippet": "Talent Sourcer - Working Student (part time).AI Engineering Director. Riverflex. Amsterdam 3 weken geleden. Senior Platform Engineer \u2014 AI Cloud.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:52:11.157320"
+    },
+    "score": 0,
+    "reason": "Search results page with mixed roles including talent sourcer, AI engineering director, and platform engineer. No specific job details to evaluate. Requires access to individual postings.",
+    "embed_sim": 0.272665411233902,
+    "ai_native_score": 0.5862084031105042
+  },
+  {
+    "job": {
+      "id": "375642183a613e88ac718b92efc274b3",
+      "title": "692 vacatures voor Freelance Illustrator in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/freelance-illustrator-jobs?position=1&pageNum=0",
+      "snippet": "Visual Content Specialist (AI-driven). PS. food & lifestyle. Best 1 maand geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:52:11.157346"
+    },
+    "score": 0,
+    "reason": "Freelance illustrator and visual content specialist roles. Unrelated to software development or AI tool adoption in engineering.",
+    "embed_sim": 0.2558175027370453,
+    "ai_native_score": 0.6472489237785339
+  },
+  {
+    "job": {
+      "id": "e4b8b10115f1647ab3a67a2750a79359",
+      "title": "Vacature voor een functie als Associate Back-end Developer AOT bij PwC in Amsterdam | Glassdoor",
+      "company": "Pwc In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/associate-back-end-developer-aot-pwc-JV_IC3064478_KO0,32_KE33,36.htm?jl=1010172663892",
+      "snippet": "You have a proactive, goal-oriented, reliable and self-structured way of working;",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-02T08:52:23.977697"
+    },
+    "score": 2,
+    "reason": "Associate Back-end Developer (junior level) at PwC. Wrong seniority level (candidate is senior with 13 years experience). No mention of AI tool adoption or enablement focus. Backend development, not AI strategy/championing.",
+    "embed_sim": 0.2006257176399231,
+    "ai_native_score": 0.538219153881073
+  },
+  {
+    "job": {
+      "id": "54f2088ae054e0c0ac7f136e5ed8788d",
+      "title": "1.000+ vacatures voor Software Engineer en werk: 22 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Software-Engineer-vacatures",
+      "snippet": "Software Engineer, Senior Software Engineer, Software Trainer en meer op Indeed.com.Vergelijkbare vacatures bij deze werkgever bekijken. Proven experience of software engineering in either Java or C# with enterprise frameworks such as Spring or .Net .",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:52:57.636306"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator for software engineer roles. No specific job posting, company, location, or AI-related details provided.",
+    "embed_sim": 0.3321457505226135,
+    "ai_native_score": 0.7246595025062561
+  },
+  {
+    "job": {
+      "id": "e69176a01f01ba2ea51a125562ea8fb3",
+      "title": "198 vacatures voor business analyst in Oostenrijk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-business-analyst-vacatures-SRCH_IL.0,9_IN18_KO10,26.htm",
+      "snippet": "Meer vacatures weergeven. Vacature-alert maken. Terug naar Zoeken. Ayvens. 3,2. IT Requirements Engineer & Business Analyst (w/m/d). Wenen. Solliciteren op site van werkgeverNu solliciteren.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:52:57.636333"
+    },
+    "score": 0,
+    "reason": "Business analyst search results page listing roles in Austria (Wien/Vienna). Outside Netherlands entirely. Not actual job postings.",
+    "embed_sim": 0.21105602383613586,
+    "ai_native_score": 0.5291038751602173
+  },
+  {
+    "job": {
+      "id": "8127a97dc13373fb7cc918741ad74671",
+      "title": "AI Engineer ENTRNCE in Arnhem bij... | Magnet.me | #1054331 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1054331/ai-engineer-entrnce",
+      "snippet": "Geplaatst 1 jul. 2026. Vacature delen.At ENTRNCE, as an AI Engineer Proposition & Market Design, you turn market questions into working AI applications. Short iterations, visible results, and you are the one who makes the abstract tangible.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:52:57.636348"
+    },
+    "score": 2,
+    "reason": "AI Engineer role but focused on 'turning market questions into working AI applications' \u2014 appears to be about building AI products/applications, not enabling teams to adopt AI tools. No indication of DevEx/tooling focus. Location (Arnhem) is 80+ km from Utrecht.",
+    "embed_sim": 0.3579602837562561,
+    "ai_native_score": 0.6941143870353699
+  },
+  {
+    "job": {
+      "id": "1f56e3301d3cd3bdf419502c9b3c1035",
+      "title": "367 vacatures voor Software Engineer in Zwijndrecht, Zuid-Holland...",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/software-engineer-jobs-zwijndrecht?position=1&pageNum=0",
+      "snippet": "367Software Engineer vacatures in Zwijndrecht, Zuid-Holland, Nederland.Software Engineer- AI Tooling. Mendix. Rotterdam 3 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:53:01.962719"
+    },
+    "score": 7,
+    "reason": "Software Engineer - AI Tooling role in Rotterdam (60km from Utrecht, acceptable commute). Title explicitly mentions AI Tooling, which aligns well with candidate's goal of helping teams adopt AI tools. However, limited details provided; cannot confirm seniority level or exact scope.",
+    "embed_sim": 0.18426728248596191,
+    "ai_native_score": 0.6217947006225586
+  },
+  {
+    "job": {
+      "id": "eefc2fbd8ff344aa2aa017ba9eff9e3e",
+      "title": "51 vacatures voor Eaton in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/eaton-jobs?position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Field Service Engineer-Graduate Development Program. Eaton. Hengelo.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:53:01.962755"
+    },
+    "score": 0,
+    "reason": "Search results page with mixed job listings (Field Service Engineer, Graduate Development Program). No specific job details. Not an actual job posting.",
+    "embed_sim": 0.23372004926204681,
+    "ai_native_score": 0.5687606334686279
+  },
+  {
+    "job": {
+      "id": "6fd53ff28b84a0a52a25bedf88e36d06",
+      "title": "115 vacatures voor Servicemonteur Buitendienst in Tilburg...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/servicemonteur-buitendienst-jobs-tilburg?countryRedirected=1",
+      "snippet": "Field Service Engineer. Alliance Machine Systems International, LLC. Bladel. Wees een van de eerste sollicitanten. 1 week geleden.Service Tooling Engineer Internship. Tesla. Tilburg.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-02T08:53:01.962765"
+    },
+    "score": 0,
+    "reason": "Search results page mixing unrelated roles (Service Monteur, Field Service Engineer, internship position). Not a specific job posting. No AI tooling adoption focus evident.",
+    "embed_sim": 0.1849348247051239,
+    "ai_native_score": 0.4845224916934967
+  },
+  {
+    "job": {
+      "id": "5c4815cbbf1681f00b34a4699c0b26f1",
+      "title": "28 vacatures voor consultant process excellence change enablement...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/duitsland-consultant-process-excellence-change-enablement-change-management-vacatures-SRCH_IL.0,9_IN96_KO10,75.htm",
+      "snippet": "Vacatures in Munich Vacatures bij Premier Marketing Group Holding in Munich.stakeholder communication) Maintain and develop the Key User community setup as first level support by training, enablement, and change management initiatives for Purchasing users.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-02T08:53:12.201009"
+    },
+    "score": 0,
+    "reason": "Process excellence/change management consulting role in Germany. Unrelated to AI tooling adoption for developers. Wrong location (Munich).",
+    "embed_sim": 0.2008512318134308,
+    "ai_native_score": 0.5170513391494751
+  },
+  {
+    "job": {
+      "id": "ac04ce1777e7bebfd0b67b1313e1551d",
+      "title": "Komodo Health: 209 sollicitatievragen en antwoorden (2026) | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Sollicitatiegesprek/Komodo-Health-Sollicitatievragen-E1595573.htm",
+      "snippet": "Vacatures van Komodo Health. 27 vacatures in Nederland. AI Enablement Lead (Mavens). New City, NY. \u00b7 US$ 144K - US$ 215K /jr. (opgegeven door werkgever). Vacature weergeven. AI Enablement Lead (Mavens). San Francisco, CA.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-02T08:53:12.201035"
+    },
+    "score": 3,
+    "reason": "AI Enablement Lead title is promising, but listings show US locations (New York, San Francisco) \u2014 far outside Netherlands/Utrecht area. Candidate requires Netherlands-based role.",
+    "embed_sim": 0.04987895488739014,
+    "ai_native_score": 0.5195033550262451
+  },
+  {
+    "job": {
+      "id": "1d90953ad352970a674a5d5f37388800",
+      "title": "Factory Zero - vacatures - 30 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-factory-zero-vacatures.html",
+      "snippet": "Factory Zero vacatures. Technical Project Manager, Product Manager, Management Trainee en meer op Indeed.com.The role also drives the adoption of emerging technologies, including AI, by establishing architecture principles, governance frameworks, and roadmaps that\u2026",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:53:17.455521"
+    },
+    "score": 4,
+    "reason": "Role mentions 'driving adoption of emerging technologies, including AI' and 'establishing architecture principles & governance' \u2014 some alignment with AI enablement, but appears to be Technical Project Manager or Management role focused on architecture/governance rather than hands-on team enablement. No location details provided.",
+    "embed_sim": 0.2269897758960724,
+    "ai_native_score": 0.4948026239871979
+  },
+  {
+    "job": {
+      "id": "d7858baa12223743f2b971b727e39c79",
+      "title": "nederlandvacature.nl",
+      "company": "",
+      "location": "",
+      "url": "https://nederlandvacature.nl/",
+      "snippet": "Avatar for Nederland Vacature.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:53:17.455565"
+    },
+    "score": 0,
+    "reason": "Landing page with no actual job listing or content.",
+    "embed_sim": 0.059052132070064545,
+    "ai_native_score": 0.5598622560501099
+  },
+  {
+    "job": {
+      "id": "c802f6440255ffa98c3e2f64021d8f80",
+      "title": "Vacature Woonondersteuner - Hostel Hogelanden - Lister in Utrecht",
+      "company": "Lister in Utrecht",
+      "location": "",
+      "url": "https://medivacature.nl/vacatures/woonondersteuner-hostel-hogelanden/utrecht/lister/utrecht/showvac/793102",
+      "snippet": "Vacature Woonondersteuner - Hostel Hogelanden. Vroege dienst: 07:30 tot 16:00 uur.Heb je al ervaring in de (o)ggz? Dan zijn we daar extra blij mee! Kennis van de diverse culturen die voorkomen in Nederland is een pluspunt.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-02T08:53:17.455584"
+    },
+    "score": 0,
+    "reason": "Housing support worker (Woonondersteuner) in hostel \u2014 completely unrelated to software engineering or AI tooling. Wrong domain entirely.",
+    "embed_sim": -0.021476197987794876,
+    "ai_native_score": 0.5761693120002747
+  },
+  {
+    "job": {
+      "id": "35f14ad48ada0a4da4174e3c8dfb77bd",
+      "title": "300+ vacatures voor Customer Service Manager en werk: 29 april 2025",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Customer-Service-Manager-vacatures?sort=date",
+      "snippet": "Alle vacatures voor AI-InfraSolutions - Eelde vacatures - vacatures voor Customer Specialist in Eelde bekijken. Zoeken op salaris: Customer Support Specialist (Dutch Speaking) salarissen.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-02T08:53:22.493381"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page for Customer Service Manager roles. Not a specific job posting. No AI tooling or software engineering relevance.",
+    "embed_sim": 0.15592257678508759,
+    "ai_native_score": 0.4078730642795563
   }
 ]
