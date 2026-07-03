@@ -1778,18 +1778,18 @@
   {
     "job": {
       "id": "f389aff04118fba16af898075a235744",
-      "title": "Junior AI Developer - Stedin - ... - Werken in AI",
-      "company": "Werken in AI",
+      "title": "Junior AI Developer - Stedin - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/junior-ai-developer-stedin/",
-      "snippet": "Als Artificial Intelligence (AI) Developer werk je in het Digitale Innovatie team van Stedin. Het team focust zich op AI SaaS oplossingen. Daarbij gebruiken wij diverse vehicles: software en fysieke robots, mixed reality en drones. Hoe jouw dag als AI Developer eruitziet bij Stedin?",
+      "snippet": "August 26, 2024 - Je bent een AI Developer die graag de verantwoordelijkheid op zich neemt. Naast affiniteit met de techniek en operatie, gaat je hart sneller kloppen van digitalisering en AI en blijf jij je ontwikkelen in deze domeinen.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-03T07:59:01.343060"
+      "date_found": "2026-07-03T08:58:54.815265"
     },
     "score": 1,
-    "reason": "Junior AI Developer position. Candidate is senior-level web developer, not junior. Role focuses on AI SaaS solutions and robots/drones \u2014 not developer AI tool adoption. Wrong seniority level.",
-    "embed_sim": 0.38338032364845276,
-    "ai_native_score": 0.7222370505332947
+    "reason": "Junior AI Developer role at Stedin (dated Aug 2024, likely expired). Junior-level position explicitly excluded. No indication of AI adoption/tooling focus vs. building ML systems.",
+    "embed_sim": 0.4215790629386902,
+    "ai_native_score": 0.7847325205802917
   },
   {
     "job": {
@@ -18990,5 +18990,309 @@
     "reason": "Search results aggregation page for Customer Service Manager roles. Not a specific job posting. No AI tooling or software engineering relevance.",
     "embed_sim": 0.15592257678508759,
     "ai_native_score": 0.4078730642795563
+  },
+  {
+    "job": {
+      "id": "3b03f777a76f290716a78631ab9cf353",
+      "title": "Tata Steel Nederland zoekt een AI adoption & incubation lead in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-incubation-lead-at-tata-steel-nederland-4435178322?position=4&pageNum=0",
+      "snippet": "As AI adoption & incubation lead at Tata Steel, you will drive the acceleration of Generative AI, Agentic AI and Microsoft Copilot across the enterprise. You operate at the intersection of business, technology and change. You will identify where AI creates real business value and help turn ideas into scalable, adopted solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:57:44.068493"
+    },
+    "score": 9,
+    "reason": "Nearly perfect match \u2014 AI adoption & incubation lead role driving Copilot and Agentic AI adoption across enterprise. Exactly the champion/enablement position candidate seeks. Location unknown but company is Tata Steel Nederland suggesting Netherlands presence.",
+    "embed_sim": 0.32562392950057983,
+    "ai_native_score": 0.7063826322555542
+  },
+  {
+    "job": {
+      "id": "91b0b68e314001e89985ffa55f6c7960",
+      "title": "Meer dan 1.000 vacatures voor Artificial Intelligence Specialist in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/artificial-intelligence-specialist-jobs",
+      "snippet": "Meer dan 1.000 topvacatures voor Artificial Intelligence Specialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Artificial Intelligence Specialist toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:57:44.068506"
+    },
+    "score": 0,
+    "reason": "Generic job search listing page, not an actual job posting. No specific role details available.",
+    "embed_sim": 0.26749706268310547,
+    "ai_native_score": 0.7429160475730896
+  },
+  {
+    "job": {
+      "id": "b94619544cd54a620627bc25696b976b",
+      "title": "Meer dan 1.000 vacatures voor Adoptiespecialist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/adoptiespecialist-jobs",
+      "snippet": "Meer dan 1.000 topvacatures voor Adoptiespecialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Adoptiespecialist toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:57:44.068516"
+    },
+    "score": 0,
+    "reason": "Generic job search listing page, not an actual job posting. No specific role details available.",
+    "embed_sim": 0.1262979805469513,
+    "ai_native_score": 0.6788375973701477
+  },
+  {
+    "job": {
+      "id": "804506b730ebbac62f8fc1e8726f07dd",
+      "title": "DEPT\u00ae zoekt een AI Consultant in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-consultant-at-dept\u00ae-4403536630",
+      "snippet": "As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them with the support from our team of talented engineers and developers.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:57:44.068531"
+    },
+    "score": 8,
+    "reason": "AI Consultant role at DEPT in Amsterdam (within candidate's 40km range) focused on client AI adoption and implementation guidance. Strong match for consulting/advisory track of AI enablement work.",
+    "embed_sim": 0.46519866585731506,
+    "ai_native_score": 0.6425138711929321
+  },
+  {
+    "job": {
+      "id": "ca907522df576dba8dde4f4e3c4f0d60",
+      "title": "151 vacatures voor machine learning engineer in Hilversum | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/hilversum-machine-learning-engineer-vacatures-SRCH_IL.0,9_IC3063935_KO10,35.htm",
+      "snippet": "Working alongside top-tier data scientists, engineers, and domain experts, you\u2019ll bring models from concept to production with speed, rigour, and creativity.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:57:48.667173"
+    },
+    "score": 1,
+    "reason": "Machine learning engineer role requiring work with models in production \u2014 classic ML engineering position. Candidate explicitly does NOT want ML/model training roles. Wrong career track entirely.",
+    "embed_sim": 0.23975755274295807,
+    "ai_native_score": 0.36294305324554443
+  },
+  {
+    "job": {
+      "id": "b292ed6f5bcb3b3412a9bec41e27f00b",
+      "title": "Werken bij Abnormal AI | Glassdoor",
+      "company": "Abnormal Ai",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Overzicht/Werken-bij-Abnormal-AI-EI_IE3146005.11,22.htm",
+      "snippet": "Zoek naar vacatures om gepersonaliseerde vacature-aanbevelingen en -updates te krijgen.It's the foundation we\u2019re built on. We just launched Transforming in Public, where you can see real examples of Abnormal employees using AI to transform the way we work.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:57:48.667192"
+    },
+    "score": 0,
+    "reason": "Generic company overview page, not a specific job posting. No actual role or requirements visible.",
+    "embed_sim": 0.2720615863800049,
+    "ai_native_score": 0.6765846014022827
+  },
+  {
+    "job": {
+      "id": "632e3093509b3a2ec717019497fd9cf2",
+      "title": "1.102 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/concept-plus-vacatures-SRCH_KE0,12.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken.Opportunities to work with terabytes of data, and to work with AI hands on to solve concrete client requests. You will collaborate with internal stakeholders to\u2026\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:57:48.667215"
+    },
+    "score": 0,
+    "reason": "Generic job search results page aggregator, not a specific job posting. Insufficient details to evaluate.",
+    "embed_sim": 0.126914381980896,
+    "ai_native_score": 0.537921130657196
+  },
+  {
+    "job": {
+      "id": "cb920d2ce0929b2ef3950bda01eabfec",
+      "title": "Vacatures - Timing Uitzendbureau",
+      "company": "Timing Uitzendbureau",
+      "location": "",
+      "url": "https://www.timing.nl/",
+      "snippet": "Uitzendbureau Timing is specialist in uitvoerend werk en heeft veel vacatures in de productie, logistiek, schoonmaak, administratie, zorg en het callcenter.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-03T08:57:58.017142"
+    },
+    "score": 0,
+    "reason": "Temp agency general listing page, not a specific AI-related position. Focuses on production/logistics/admin work.",
+    "embed_sim": 0.12659132480621338,
+    "ai_native_score": 0.6259064078330994
+  },
+  {
+    "job": {
+      "id": "0fb55b682c530beb73dbabe0443e9700",
+      "title": "Vacature Integration Engineer bij Gradyent... | Nationale Vacaturebank",
+      "company": "Gradyent...",
+      "location": "Rotterdam",
+      "url": "https://www.nationalevacaturebank.nl/vacature/6a348244-0b22-44ad-9f35-b64533f6e155/integration-engineer",
+      "snippet": "Ge\u00efnteresseerd in de volgende banen? Integration Engineer. GradyentRotterdam.What we do. We offer a SaaS solution to create digital twins of heating networks. These digital twins, powered by AI and analytics, optimise (district) heating networks from heat sources to customers.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-03T08:57:58.017176"
+    },
+    "score": 2,
+    "reason": "Integration Engineer role at Gradyent in Rotterdam (outside preferred 40km range from Utrecht). Role appears technical/product-focused on digital twins rather than AI tool adoption enablement.",
+    "embed_sim": 0.22225996851921082,
+    "ai_native_score": 0.5750055909156799
+  },
+  {
+    "job": {
+      "id": "db1833fb164659dae5590fa27d737334",
+      "title": "Entry Level - vacatures in Eindhoven - 30 mei 2026 | Indeed",
+      "company": "Indeed",
+      "location": "Eindhoven",
+      "url": "https://nl.indeed.com/Entry-Level-vacatures-in-Eindhoven",
+      "snippet": "Alle vacatures voor GXO Logistics - Eindhoven vacatures - vacatures voor Director of Solutions Design in Eindhoven bekijken. Zoeken op salaris: INTERNSHIP - AI Enablement for Solutions Design salarissen. Zie veelgestelde vragen en antwoorden over GXO Logistics.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-03T08:58:11.138204"
+    },
+    "score": 0,
+    "reason": "Entry-level/internship position in Eindhoven (outside candidate's preferred range). Candidate explicitly seeks senior-level roles, not traineeships.",
+    "embed_sim": 0.21418380737304688,
+    "ai_native_score": 0.5366378426551819
+  },
+  {
+    "job": {
+      "id": "edf8efb72263d2ed5e5c9b694d351a7d",
+      "title": "368 vacatures voor developer in Karachi | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/karatschi-developer-vacatures-SRCH_IL.0,9_IC3212296_KO10,19.htm",
+      "snippet": "Vacatures voor web developer in Karachi Vacatures in Karachi Vacatures bij Quality Vertex Integrated System Engineering Pvt, Ltd. in Karachi.We\u2019re looking for an experienced Full Stack Developer to build scalable web applications and AI-powered .\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:58:15.413580"
+    },
+    "score": 0,
+    "reason": "Location mismatch (Karachi, Pakistan). Not relevant to Netherlands-based search.",
+    "embed_sim": 0.22226962447166443,
+    "ai_native_score": 0.44521528482437134
+  },
+  {
+    "job": {
+      "id": "8715e5dcf864f55f025e2305ae85a5a5",
+      "title": "574 vacature(s) voor Web developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-web-developer-vacatures-SRCH_IL.0,9_KO10,23.htm",
+      "snippet": "Vacature Front-end developer. Den Bosch.Degree/diploma in IT, engineering, or something similar. At least 2 years of experience as a Full Stack Developer. Proficiency in HTML5, CSS, JavaScript, and relevant back-end languages (e.g., PHP, Node.js, Ruby).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:58:15.413618"
+    },
+    "score": 0,
+    "reason": "Generic job search results page, not a specific job listing. Multiple junior/mid-level roles aggregated without AI adoption focus.",
+    "embed_sim": 0.3364712595939636,
+    "ai_native_score": 0.5192589163780212
+  },
+  {
+    "job": {
+      "id": "bb0c602594d925b54e62bf31b283ea48",
+      "title": "140 vacatures voor software developer in Kopenhagen... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/copenhagen-software-developer-vacatures-SRCH_IL.0,10_IC2218704_KO11,29.htm",
+      "snippet": "Software Engineer - QuantumBlack, AI by McKinsey. Kopenhagen. Demonstrated experience working collaboratively with other developers, as well as technical and non-technical people within software teams.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-03T08:58:15.413632"
+    },
+    "score": 0,
+    "reason": "Location mismatch (Copenhagen, Denmark). QuantumBlack McKinsey role likely focuses on ML/data science consulting, not AI tooling adoption.",
+    "embed_sim": 0.3527059257030487,
+    "ai_native_score": 0.6353939771652222
+  },
+  {
+    "job": {
+      "id": "a6416d80b4c8509093475b676b36e9a2",
+      "title": "130 vacatures voor Computer Science Internship in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/computer-science-internship-jobs?position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Software Engineer Intern. C-Cube International. Delft 1 maand geleden. AI-Driven Frontend Internship.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:58:21.303273"
+    },
+    "score": 0,
+    "reason": "Internship/traineeship positions explicitly excluded from candidate's criteria. Generic search results page.",
+    "embed_sim": 0.34830957651138306,
+    "ai_native_score": 0.6920377016067505
+  },
+  {
+    "job": {
+      "id": "543a98cd81c9a8e32c2be2dd23ca193f",
+      "title": "938 vacatures voor Artificial Intelligence Intern in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/artificial-intelligence-intern-jobs?position=1&pageNum=0",
+      "snippet": "Junior AI Engineer. Kracht Recruitment. Arnhem-Nijmegen en omgeving.AI engineer. Do Data. 's-Hertogenbosch 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:58:21.303302"
+    },
+    "score": 0,
+    "reason": "Intern/junior positions explicitly excluded. Generic search results page with no specific role details.",
+    "embed_sim": 0.4544810652732849,
+    "ai_native_score": 0.7328224182128906
+  },
+  {
+    "job": {
+      "id": "b4a4eabb031357af40024b71a31dbf2d",
+      "title": "Vacatures voor Docent in Brugge, Vlaanderen, Belgi\u00eb",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/docent-jobs-centrum?countryRedirected=1&position=1&pageNum=0",
+      "snippet": "Solution Enablement Engineer. Tekst. Gent, Vlaanderen, Belgi\u00eb.Junior researcher - AI-Supported EMC Investigation & Simulation Environmen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:58:21.303320"
+    },
+    "score": 0,
+    "reason": "Location mismatch (Belgium, Brugge/Gent). Generic search results page with no specific relevant roles identified.",
+    "embed_sim": 0.17844584584236145,
+    "ai_native_score": 0.49500080943107605
+  },
+  {
+    "job": {
+      "id": "cebed6715b4315a88ba5aa41bfd1e5f3",
+      "title": "50+ vacatures voor Artificial Intelligence Onderzoek en werk: 22 oktober 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-onderzoek-vacatures.html",
+      "snippet": "Artificial Intelligence Onderzoek vacatures. Stagiair, PHP Developer, Traineeship Data Science en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-03T08:59:03.375397"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregation page. No specific job listing details. Mix of internships, traineeships, and unrelated roles.",
+    "embed_sim": 0.2515410780906677,
+    "ai_native_score": 0.6060912013053894
+  },
+  {
+    "job": {
+      "id": "f94012180cd182ff1d515c41d23bf80e",
+      "title": "Fluence zoekt een AI Use Case Developer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-use-case-developer-at-fluence-4429552328",
+      "snippet": "3+ years of hands-on experience with Salesforce automation, including Salesforce Flow, Process Builder, or equivalent declarative tools Demonstrated experience with LLM APIs, prompt engineering, or AI agent frameworks \u2014 you have built agents or automated workflows using language models",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:59:08.418310"
+    },
+    "score": 2,
+    "reason": "Amsterdam location (acceptable). Requires 3+ years Salesforce + LLM API/prompt engineering experience. Focus appears to be building AI agents/workflows, not championing adoption across dev teams. Narrower skillset requirement than candidate's profile.",
+    "embed_sim": 0.45903319120407104,
+    "ai_native_score": 0.5893561840057373
+  },
+  {
+    "job": {
+      "id": "450041f24ee268ba7a65be7e6115ec69",
+      "title": "Senior Software Engineer, AI-Native Medtech - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-ai-native-medtech-at-eyox-4436357893",
+      "snippet": "Native mobile development experience (iOS or Android) A strong plus: experience building mobile apps that talk to and control external hardware over USB-C or BLE (device control, real-time capture) Fluent with AI tooling. You use it daily and get genuine leverage from it",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-03T08:59:08.418324"
+    },
+    "score": 4,
+    "reason": "Senior level, AI-native focus, mentions 'fluent with AI tooling, use it daily'. However, medtech mobile development (iOS/Android/hardware control) is niche technical specialization. Location unclear. Role appears to be building AI-powered products rather than enabling adoption within organizations.",
+    "embed_sim": 0.5951200127601624,
+    "ai_native_score": 0.6889702081680298
   }
 ]
