@@ -1202,18 +1202,18 @@
   {
     "job": {
       "id": "bb42b2cf972e828327ffb4a01ca921ce",
-      "title": "AI Engineer in Amsterdam bij Huracan Technical Advisory ...",
-      "company": "Huracan Technical Advisory ...",
+      "title": "AI Engineer in Amsterdam bij Huracan Technical Advisory | Magnet.me",
+      "company": "Huracan Technical Advisory",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1023773/ai-engineer",
-      "snippet": "Apr 22, 2026 \u00b7 Essential skills and qualifications To excel as an AI Engineer at Hurac\u00e1n, candidates should possess a strong foundation in AI solution development, particularly in machine learning and deep learning techniques. Proficiency in Python, along with experience in AI frameworks such as TensorFlow or PyTorch, is essential.",
+      "snippet": "At Hurac\u00e1n, you will contribute to AI solution development focused on personalized and secure technologies. You will work in a dynamic, international environment alongside AI engineers and Dev-ops professionals, contributing to research and development and helping create localized AI tooling tailored to client needs.",
       "source": "ddg:magnet",
-      "date_found": "2026-04-29T08:11:29.066958"
+      "date_found": "2026-07-04T08:32:58.952376"
     },
-    "score": 1,
-    "reason": "AI Engineer role explicitly requires strong ML/deep learning background, Python proficiency, AI frameworks (TensorFlow, etc.) \u2014 pure ML engineer position, not AI enablement",
-    "embed_sim": 0.4948720335960388,
-    "ai_native_score": 0.6451693177223206
+    "score": 2,
+    "reason": "Amsterdam-based AI Engineer at Huracan. Role focuses on 'AI solution development' and 'research and development' \u2014 building AI systems, not enabling team adoption. Requires AI engineering expertise, not team enablement.",
+    "embed_sim": 0.503774881362915,
+    "ai_native_score": 0.6669620871543884
   },
   {
     "job": {
@@ -19294,5 +19294,213 @@
     "reason": "Senior level, AI-native focus, mentions 'fluent with AI tooling, use it daily'. However, medtech mobile development (iOS/Android/hardware control) is niche technical specialization. Location unclear. Role appears to be building AI-powered products rather than enabling adoption within organizations.",
     "embed_sim": 0.5951200127601624,
     "ai_native_score": 0.6889702081680298
+  },
+  {
+    "job": {
+      "id": "40fa60e104894a34cab31d7243232cb5",
+      "title": "2.384 vacature(s) voor Werken als ai specialist in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-werken-als-ai-specialist-vacatures-SRCH_IL.0,9_KO10,34.htm",
+      "snippet": "Zoek vacatures voor Werken als ai specialist in Nederland met bedrijfsreviews en salarissen. 2.384 vacatures voor Werken als ai specialist in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-04T08:32:22.473863"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.17814716696739197,
+    "ai_native_score": 0.6296895146369934
+  },
+  {
+    "job": {
+      "id": "1ee3494c52d841609735daba2d2050bc",
+      "title": "700+ vacatures voor Java Developer en werk: 24 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-java-developer-vacatures.html",
+      "snippet": "Java Developer, Senior Java Developer, Full Stack Developer en meer op Indeed.com.Vergelijkbare vacatures bij deze werkgever bekijken. Help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-04T08:32:42.113359"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Java Developer roles. Not a specific job listing. The mention of 'train AI chatbots' is vague and doesn't match the candidate's profile.",
+    "embed_sim": 0.3303033709526062,
+    "ai_native_score": 0.6567232012748718
+  },
+  {
+    "job": {
+      "id": "ebd610096fcdd3047cd43f27aa81ba10",
+      "title": "Young Professional Track Java in Utrecht bij Capgemini | Magnet.me | #1054895 (nl)",
+      "company": "Capgemini",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1054895/young-professional-track-java",
+      "snippet": "Kies je voor Sogeti, dan kies je voor persoonlijke groei en ontwikkeling, met een sterke focus op AI en slimme softwareontwikkeling. Je begint samen met andere starters in een intensief programma waarin je aan uitdagende opdrachten werkt, coaching krijgt en je skills ontwikkelt zoals samenwerken, communiceren en persoonlijk leiderschap. Daarnaast ontwikkel je jezelf technisch verder als Java developer binnen onze Java community.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-04T08:32:51.134316"
+    },
+    "score": 1,
+    "reason": "Young Professional/trainee track at Capgemini. Candidate explicitly does NOT want junior/trainee positions. Wrong seniority level.",
+    "embed_sim": 0.22806362807750702,
+    "ai_native_score": 0.7065892219543457
+  },
+  {
+    "job": {
+      "id": "ed8995064fdae150e99e523cdf6e05ad",
+      "title": "AI Engineer in Rotterdam bij Pararius | Magnet.me",
+      "company": "Pararius",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1055193/ai-engineer",
+      "snippet": "Je verbindt disciplines, engineering, product, data en business en zorgt dat AI-initiatieven niet op een eiland blijven liggen; Je jaagt versnelling aan en faciliteert die: je tilt de AI-werkwijze van onze engineers naar een hoger niveau en helpt teams effectiever met tooling als Cursor en Claude te werken;",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-04T08:32:58.952358"
+    },
+    "score": 9,
+    "reason": "Near-perfect match. AI Engineer role at Pararius in Rotterdam (within 40km of Utrecht). Focus on helping teams adopt AI tooling (Cursor, Claude). Connects disciplines and lifts AI workflows. Senior level implied. Exactly the candidate's target role.",
+    "embed_sim": 0.4040164351463318,
+    "ai_native_score": 0.7524597644805908
+  },
+  {
+    "job": {
+      "id": "cd9a40ab14e57cd49af9a0db004585c4",
+      "title": "Meer dan 1.000 vacatures voor Booking.com in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/booking.com-jobs?position=1&pageNum=0",
+      "snippet": "Hybrid working including flexible working arrangements, and up to 20 days per year working from abroad (home country). Industry leading product discounts - up to 1400 per year - for yourself, including automatic Genius Level 3 status and Booking.com wallet credit.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-04T08:33:06.410578"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Booking.com jobs. Not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.10203169286251068,
+    "ai_native_score": 0.5306983590126038
+  },
+  {
+    "job": {
+      "id": "421469a68f8c2d0d31009124cdbefe19",
+      "title": "35 vacatures voor Freelance Designer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/freelance-designer-jobs?f_AL=true&position=1&pageNum=0",
+      "snippet": "Digital Designer (Email & AI Creative).Visual Content Specialist (AI-driven). PS. food & lifestyle. Best 1 maand geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-04T08:33:06.410600"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Freelance Designer roles. Unrelated to the candidate's profile and AI tool adoption focus.",
+    "embed_sim": 0.3186190128326416,
+    "ai_native_score": 0.66062992811203
+  },
+  {
+    "job": {
+      "id": "ad206de22501bb3d9f9a5c7ebc3969c8",
+      "title": "45 vacatures voor Atos in Nederland",
+      "company": "",
+      "location": "Amstelveen",
+      "url": "https://nl.linkedin.com/jobs/atos-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Senior AI Consultant - AI Trust & Governance. Atos. Amstelveen 1 week geleden. SAP BTP AI lead consultant.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-04T08:33:06.410610"
+    },
+    "score": 5,
+    "reason": "Atos jobs listing page in Amstelveen (near Utrecht, acceptable location). Mentions 'Senior AI Consultant - AI Trust & Governance' and 'SAP BTP AI lead' but these are generic results snippets. Likely includes ML/data-heavy roles. Cannot properly evaluate without full job descriptions. Partial match on seniority and location.",
+    "embed_sim": 0.33170634508132935,
+    "ai_native_score": 0.6976156830787659
+  },
+  {
+    "job": {
+      "id": "35ec3dea3a4fa1783c07c8cd42bc528b",
+      "title": "Meer dan 1.000 vacatures voor Data Analyst in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/data-analyst-jobs?position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-04T08:33:06.410617"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Data Analyst roles. Not relevant to the candidate's AI tool adoption focus. Likely involves data science/ML work.",
+    "embed_sim": 0.17794916033744812,
+    "ai_native_score": 0.5477039217948914
+  },
+  {
+    "job": {
+      "id": "e32b066d2ba132222b8d3ab91d48690c",
+      "title": "81 vacatures voor Russian in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/russian-jobs?countryRedirected=1&position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-04T08:33:06.410625"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Russian language jobs. Completely unrelated to the candidate's profile.",
+    "embed_sim": 0.023128779605031013,
+    "ai_native_score": 0.575925886631012
+  },
+  {
+    "job": {
+      "id": "6f8f05b0ab97aab1d978fcbcdabef168",
+      "title": "14 vacatures voor avanade in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-avanade-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
+      "snippet": "14 vacature(s) voor Avanade in Nederland. Relevantie. Logo van Avanade.Deze stage richt zich op het ontwikkelen van een AI-agent die fungeert als een \u201cAI-specialist\u201d ter ondersteuning van sales executives tijdens klantinteracties .\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-04T08:33:31.508307"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page listing 14 Avanade positions, not a specific job listing. Cannot evaluate relevance without actual job details. The snippet mentions an internship building an AI-agent product, which doesn't match the candidate's senior profile or adoption focus.",
+    "embed_sim": 0.13688945770263672,
+    "ai_native_score": 0.6494210958480835
+  },
+  {
+    "job": {
+      "id": "dc95ec0ee12f07744f95ae98b9c11b1a",
+      "title": "26 vacatures voor finance associate intern in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-finance-associate-intern-vacatures-SRCH_IL.0,9_IN178_KO10,34.htm",
+      "snippet": "3,7. AI Adoption & Enablement Specialist.Vacature-alert maken. Terug naar Zoeken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-04T08:33:31.508319"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page for 'finance associate intern' positions, not a specific job listing. While the snippet mentions 'AI Adoption & Enablement Specialist' which sounds promising, this appears to be a search aggregate without actionable job details or confirmed location/seniority match.",
+    "embed_sim": 0.2326171100139618,
+    "ai_native_score": 0.6363471150398254
+  },
+  {
+    "job": {
+      "id": "68b2df22385c3c218b38e41b5fe6cb23",
+      "title": "25+ vacatures voor Responsible Ai en werk: 1 juni 2026| Indeed",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.indeed.com/q-responsible-ai-vacatures.html",
+      "snippet": "Verder zet jij jouw ervaring en overtuigingskracht in voor het 'responsible by design' maken van AI-producten. ... Alle vacatures voor BDO - Eindhoven vacatures - vacatures voor Responsible Gaming Officer Igaming (m/v) in Eindhoven bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-04T08:33:35.192505"
+    },
+    "score": 2,
+    "reason": "Located in Eindhoven (too far from Utrecht, 80+ km). Role appears focused on 'responsible by design' for AI-products (building AI systems) rather than enabling teams to adopt AI tools. Likely requires ML/responsible AI expertise, not the candidate's adoption-focused profile.",
+    "embed_sim": 0.143095463514328,
+    "ai_native_score": 0.6045522093772888
+  },
+  {
+    "job": {
+      "id": "01536935f0cdf4efd32d9c7ee5512882",
+      "title": "75+ vacatures voor Human Ai Interaction en werk: 25 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-human-ai-interaction-vacatures.html",
+      "snippet": "With our AI-powered Customer Engagement Platform, we connect conversations, customer data and payments through AI Agents. Alle vacatures voor CM.com - Arnhem vacatures - vacatures voor Principal Cloud Architect in Arnhem bekijken \u00b7 Zoeken op salaris: Principal Developer (Mobile Service Cloud) salarissen in Arnhem ... Thesis Internship - focused on conducting research and writing your master thesis within the domain of Digital Product Strategy.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-04T08:33:35.192553"
+    },
+    "score": 0,
+    "reason": "This is a Indeed search results page aggregating 75+ positions about 'Human AI Interaction', not a specific job listing. The snippet references CM.com's AI-powered engagement platform and shows unrelated roles (Cloud Architect). Cannot evaluate without actual job details.",
+    "embed_sim": 0.3369936943054199,
+    "ai_native_score": 0.5245237350463867
   }
 ]

@@ -1,64 +1,4 @@
 {
-  "ceff822b8b2f073e018052f14e947fca": {
-    "title": "International software engineer jobs in the Netherlands",
-    "company": "",
-    "url": "https://www.welcome-to-nl.nl/jobs/",
-    "date": "2026-05-05T08:05:43.302376"
-  },
-  "067ec2b4bcee4a0ecd0df9464bc2c96c": {
-    "title": "Flowtec Group hiring Junior DevOps Engineer in Brussels... | LinkedIn",
-    "company": "LinkedIn",
-    "url": "https://be.linkedin.com/jobs/view/junior-devops-engineer-at-flowtec-group-4184172966",
-    "date": "2026-05-05T08:06:01.517325"
-  },
-  "0e4e6f4139a4684e71817c193304df84": {
-    "title": "Stagiair retail commercie (marketing) - Utrecht | Werken bij NS",
-    "company": "Ns",
-    "url": "https://www.werkenbijns.nl/vacatures/stagiair-retail-commercie-marketing-utrecht-utrecht-1295640",
-    "date": "2026-05-05T08:06:01.517348"
-  },
-  "73c32645cc60428b1f7968d91cd011ac": {
-    "title": "231 vacatures voor Data scientist in Hyderabad, India, Juli... | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/haiderabad-data-scientist-vacatures-SRCH_IL.0,10_IM1076_KO11,25.htm",
-    "date": "2026-05-05T08:06:10.962654"
-  },
-  "05bce4c00605d394bd73f7532df13b49": {
-    "title": "Vacatures voor It support analyst | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/it-support-analyst-vacatures-SRCH_KO0,18.htm",
-    "date": "2026-05-05T08:06:10.962665"
-  },
-  "bb71e3302121cc34098d5e58db729e81": {
-    "title": "Vacatures voor Data scientist in China, September 2022 | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/china-data-scientist-vacatures-SRCH_IL.0,5_IN48_KO6,20.htm",
-    "date": "2026-05-05T08:06:10.962678"
-  },
-  "70ec98c91d4823816e92bad52068d5d4": {
-    "title": "Full-Stack Developer - AI Trainer (Netherlands) - LinkedIn",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-ai-trainer-netherlands-at-anyone-ai-4410228476",
-    "date": "2026-05-05T08:06:24.219020"
-  },
-  "07694f0a5c90f6fb7b0b1d4949b8ca8d": {
-    "title": "Senior Software Engineer | AI SaaS Software Role - LinkedIn",
-    "company": "AI SaaS Software Role - LinkedIn",
-    "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-ai-saas-software-role-at-jobgether-4406967476",
-    "date": "2026-05-05T08:06:24.219053"
-  },
-  "3eb325522aedb817bb2c36981a63a4cb": {
-    "title": "Plat4mation zoekt een AI Subject Matter Expert - LinkedIn",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/view/ai-subject-matter-expert-\u2013-servicenow-at-plat4mation-4351224500",
-    "date": "2026-05-05T08:06:24.219068"
-  },
-  "e612651a059a837aaf3074039752b522": {
-    "title": "4.090 vacatures voor Senior engineer in Nederland | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/senior-engineer-vacatures-SRCH_KO0,15.htm",
-    "date": "2026-05-05T08:06:36.531096"
-  },
   "dbd9d61d490149b2e2583811794e0c0c": {
     "title": "Vacatures voor Asml Tooling in Nederland - LinkedIn",
     "company": "",
@@ -6574,5 +6514,89 @@
     "company": "",
     "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-ai-native-medtech-at-eyox-4436357893",
     "date": "2026-07-03T08:59:08.418324"
+  },
+  "40fa60e104894a34cab31d7243232cb5": {
+    "title": "2.384 vacature(s) voor Werken als ai specialist in Nederland - Glassdoor",
+    "company": "",
+    "url": "https://www.glassdoor.nl/Vacature/nederland-werken-als-ai-specialist-vacatures-SRCH_IL.0,9_KO10,34.htm",
+    "date": "2026-07-04T08:32:22.473863"
+  },
+  "1ee3494c52d841609735daba2d2050bc": {
+    "title": "700+ vacatures voor Java Developer en werk: 24 juni 2026| Indeed",
+    "company": "",
+    "url": "https://nl.indeed.com/q-java-developer-vacatures.html",
+    "date": "2026-07-04T08:32:42.113359"
+  },
+  "ebd610096fcdd3047cd43f27aa81ba10": {
+    "title": "Young Professional Track Java in Utrecht bij Capgemini | Magnet.me | #1054895 (nl)",
+    "company": "Capgemini",
+    "url": "https://magnet.me/nl-NL/vacature/1054895/young-professional-track-java",
+    "date": "2026-07-04T08:32:51.134316"
+  },
+  "ed8995064fdae150e99e523cdf6e05ad": {
+    "title": "AI Engineer in Rotterdam bij Pararius | Magnet.me",
+    "company": "Pararius",
+    "url": "https://magnet.me/nl-NL/vacature/1055193/ai-engineer",
+    "date": "2026-07-04T08:32:58.952358"
+  },
+  "bb42b2cf972e828327ffb4a01ca921ce": {
+    "title": "AI Engineer in Amsterdam bij Huracan Technical Advisory | Magnet.me",
+    "company": "Huracan Technical Advisory",
+    "url": "https://magnet.me/nl-NL/vacature/1023773/ai-engineer",
+    "date": "2026-07-04T08:32:58.952376"
+  },
+  "cd9a40ab14e57cd49af9a0db004585c4": {
+    "title": "Meer dan 1.000 vacatures voor Booking.com in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/booking.com-jobs?position=1&pageNum=0",
+    "date": "2026-07-04T08:33:06.410578"
+  },
+  "421469a68f8c2d0d31009124cdbefe19": {
+    "title": "35 vacatures voor Freelance Designer in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/freelance-designer-jobs?f_AL=true&position=1&pageNum=0",
+    "date": "2026-07-04T08:33:06.410600"
+  },
+  "ad206de22501bb3d9f9a5c7ebc3969c8": {
+    "title": "45 vacatures voor Atos in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/atos-jobs",
+    "date": "2026-07-04T08:33:06.410610"
+  },
+  "35ec3dea3a4fa1783c07c8cd42bc528b": {
+    "title": "Meer dan 1.000 vacatures voor Data Analyst in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/data-analyst-jobs?position=1&pageNum=0",
+    "date": "2026-07-04T08:33:06.410617"
+  },
+  "e32b066d2ba132222b8d3ab91d48690c": {
+    "title": "81 vacatures voor Russian in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/russian-jobs?countryRedirected=1&position=1&pageNum=0",
+    "date": "2026-07-04T08:33:06.410625"
+  },
+  "6f8f05b0ab97aab1d978fcbcdabef168": {
+    "title": "14 vacatures voor avanade in Nederland | Glassdoor",
+    "company": "Glassdoor",
+    "url": "https://www.glassdoor.nl/Vacature/nederland-avanade-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
+    "date": "2026-07-04T08:33:31.508307"
+  },
+  "dc95ec0ee12f07744f95ae98b9c11b1a": {
+    "title": "26 vacatures voor finance associate intern in Nederland | Glassdoor",
+    "company": "Glassdoor",
+    "url": "https://www.glassdoor.nl/Vacature/nederland-finance-associate-intern-vacatures-SRCH_IL.0,9_IN178_KO10,34.htm",
+    "date": "2026-07-04T08:33:31.508319"
+  },
+  "68b2df22385c3c218b38e41b5fe6cb23": {
+    "title": "25+ vacatures voor Responsible Ai en werk: 1 juni 2026| Indeed",
+    "company": "",
+    "url": "https://nl.indeed.com/q-responsible-ai-vacatures.html",
+    "date": "2026-07-04T08:33:35.192505"
+  },
+  "01536935f0cdf4efd32d9c7ee5512882": {
+    "title": "75+ vacatures voor Human Ai Interaction en werk: 25 juni 2026| Indeed",
+    "company": "",
+    "url": "https://nl.indeed.com/q-human-ai-interaction-vacatures.html",
+    "date": "2026-07-04T08:33:35.192553"
   }
 }
