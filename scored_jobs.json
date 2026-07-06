@@ -19646,5 +19646,213 @@
     "reason": "Integration engineer for judicial/legal system (IVO Rechtspraak) \u2014 infrastructure/DevOps role, no AI component, unrelated to candidate's AI adoption mission despite Utrecht location",
     "embed_sim": 0.1696181297302246,
     "ai_native_score": 0.6368070244789124
+  },
+  {
+    "job": {
+      "id": "0812cdea72e0c594cf37c86eafcc6b80",
+      "title": "771 vacatures voor solutions engineer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Almere",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-solutions-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,28.htm",
+      "snippet": "Luchtverkeersleiding Nederland. 3,7. Engineer Operationele Werkplekken.AI Solutions Engineer. Almere. Je hebt een relevante achtergrond in software, IT, AI, communicatietechnologie of een vergelijkbaar vakgebied.\u2026 Meer ontdekken. 30d+.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:10:49.554927"
+    },
+    "score": 2,
+    "reason": "Generic solutions engineer listing with no clear AI adoption/enablement focus. Almere is acceptable distance but job description is too vague to confirm it matches the candidate's core need.",
+    "embed_sim": 0.2523460388183594,
+    "ai_native_score": 0.6103781461715698
+  },
+  {
+    "job": {
+      "id": "1ad638990ec97b8ca6e1a0f714bb971d",
+      "title": "Software Engineering Vacatures Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.codeguild.nl/software-engineering-vacatures/",
+      "snippet": "Software engineering vacatures. Welkom bij het actuele vacatureaanbod binnen de CodeGuild Hall!Hecht jij ook veel waarde aan een kleine transparante omgeving met veel ruimte voor R&D, experimenteren met nieuwe tech/tooling en veel vrijheid?",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:10:49.554943"
+    },
+    "score": 1,
+    "reason": "Generic software engineering job board with no specific role details, location, or AI adoption focus. Cannot assess relevance.",
+    "embed_sim": 0.23331351578235626,
+    "ai_native_score": 0.734740674495697
+  },
+  {
+    "job": {
+      "id": "1171d099b9ef850533914c9b8cfa1318",
+      "title": "Vacature AI Developer - The AI Company",
+      "company": "The AI Company",
+      "location": "",
+      "url": "https://www.so-mc.nl/vacature-ai-developer/",
+      "snippet": "\u2014 AI Agents, AI Trainingen & AI Consultancy. AI IN 2026.9.00 \u2013 11.00 uur AI in 2026; wat staat ons te wachten? 11.00 \u2013 11.30 uur Napraten & netwerken. Locatie De sessie wordt georganiseerd in Heinkenszand, bij Cerfix in het gebouw; Dani\u00eblsweg 17, 4451 HP Heinkenszand.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:11:03.240625"
+    },
+    "score": 1,
+    "reason": "Listing appears to be about an event ('AI in 2026' seminar), not a job posting. No actual vacancy information provided.",
+    "embed_sim": 0.41334670782089233,
+    "ai_native_score": 0.7451590895652771
+  },
+  {
+    "job": {
+      "id": "c302dbad41cf7adda5a5ca4663dea643",
+      "title": "Generative AI Designer at Jobgether | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "",
+      "url": "https://www.aivacatures.com/jobs/generative-ai-designer-a14e39c6",
+      "snippet": "Proven experience working with generative AI tools for image creation (e.g., Midjourney, DALL\u00b7E, Stable Diffusion, or similar platforms). Advanced proficiency in photo editing and retouching software such as Photoshop or equivalent tools.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:11:03.240651"
+    },
+    "score": 0,
+    "reason": "Generative AI Designer focused on image creation (Midjourney, DALL\u00b7E). Completely unrelated to developer tooling adoption or SDLC enablement.",
+    "embed_sim": 0.3441108465194702,
+    "ai_native_score": 0.7026368975639343
+  },
+  {
+    "job": {
+      "id": "e2054944f17dd90e5f31da0d3b7cdfea",
+      "title": "Vacature AI & automation developer| Booosters - Booosters",
+      "company": "Booosters",
+      "location": "",
+      "url": "https://www.booosters.nl/vacature-ai-automation-developer-data-intelligentie/",
+      "snippet": "Gezocht: AI & automation developer. AI is magisch, maar zonder goede data is het waardeloos. Garbage in, garbage out. Bij Booosters bouwen we hard aan onze eigen AI-infrastructuur, waaronder een custom omgeving op basis van Open WebUI.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:11:03.240668"
+    },
+    "score": 1,
+    "reason": "AI & automation developer building custom AI infrastructure and data pipelines. This is ML/data engineering focused (building AI systems), not enabling dev teams to adopt AI tools. Wrong direction.",
+    "embed_sim": 0.3458922505378723,
+    "ai_native_score": 0.700325608253479
+  },
+  {
+    "job": {
+      "id": "d2bb3d52050d1ab38212b51e67dcef41",
+      "title": "577 vacatures voor data scientist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-data-scientist-vacatures-SRCH_IL.0,9_IN178_KO10,24_IP2.htm",
+      "snippet": "Innovation exposure: The opportunity to contribute to forward-looking initiatives in AI and data-driven ways of working. Read more about our employee benefits here.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-06T10:11:11.824633"
+    },
+    "score": 0,
+    "reason": "Generic Data Scientist job board listing. No specific role details. Data science is antithetical to candidate's profile (no ML/data science background desired).",
+    "embed_sim": 0.2690388560295105,
+    "ai_native_score": 0.5349210500717163
+  },
+  {
+    "job": {
+      "id": "10f1379ca091394176372afa18487b04",
+      "title": "101 vacatures voor Unilever in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/unilever-jobs?position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Research and Development Internship 26' - Product Development Chef (Hive). Unilever. Wageningen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-06T10:11:16.076849"
+    },
+    "score": 0,
+    "reason": "Generic Unilever job listing with no specific role details. Appears to be a search results page, not a specific vacancy.",
+    "embed_sim": 0.18604066967964172,
+    "ai_native_score": 0.5342602729797363
+  },
+  {
+    "job": {
+      "id": "2792fe3436eca4e4a9150a2449a55cca",
+      "title": "589 vacatures voor Chief Development Officer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/chief-development-officer-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-06T10:11:30.359332"
+    },
+    "score": 0,
+    "reason": "Generic Chief Development Officer job board listing with no specific role details. C-level executive position, not aligned with candidate's hands-on technical AI adoption focus.",
+    "embed_sim": 0.22610530257225037,
+    "ai_native_score": 0.6753653883934021
+  },
+  {
+    "job": {
+      "id": "0e8a7cfc98a5f07716983c56879cf8c8",
+      "title": "39 vacatures voor Photographer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/photographer-jobs?position=1&pageNum=0",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures. We doen ons best om alle filters terug te halen, maar in de tussentijd kunt u ze rechtstreeks in uw zoekopdracht typen om uw resultaten te verfijnen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-06T10:11:30.359360"
+    },
+    "score": 0,
+    "reason": "Photographer job listing. Completely unrelated to software development or AI adoption.",
+    "embed_sim": -0.017865261062979698,
+    "ai_native_score": 0.4151304066181183
+  },
+  {
+    "job": {
+      "id": "2c254ae5616fbb8828b717fc786cb860",
+      "title": "AI Data Engineer, \u20ac5.000 - \u20ac6.500 | Breda/Zoetermeer in Zoetermeer bij Whitevision | Magnet.me | #1027399 (nl)",
+      "company": "Whitevision",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1027399/ai-data-engineer--5.000---6.500---breda-zoetermeer",
+      "snippet": "May 5, 2026 - Minimaal 3 jaar ervaring in een rol als data-engineer of ML/AI-engineer, bij voorkeur met productie-omgeving en cloud-infrastructuur; Sterke kennis van SQL, NoSQL, Python; ervaring met ML-frameworks (zoals TensorFlow, PyTorch) en tools voor MLOps (zoals MLflow, Kubeflow); Ervaring met infrastructuur (cloud \u2014 bijv. AWS, GCP, maar bij voorkeur Azure), containerisatie (Docker, Kubernetes) en data-architectuur; Ervaring met deployment zoals Github en Terraform tooling.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-06T10:11:51.134869"
+    },
+    "score": 0,
+    "reason": "AI Data Engineer requiring 3+ years as data-engineer/ML-engineer, SQL, NoSQL, Python, TensorFlow, PyTorch, MLOps. Pure ML/data engineering role. Explicitly mismatches candidate's profile (no ML expertise desired).",
+    "embed_sim": 0.41187942028045654,
+    "ai_native_score": 0.25353124737739563
+  },
+  {
+    "job": {
+      "id": "0dc2fa9094f99ec44f1077b5aed4ddba",
+      "title": "Vacature: schoonmaker Rosmalen - 2-7-2026",
+      "company": "2-7-2026",
+      "location": "",
+      "url": "https://www.uitzendbureau.nl/vacature/25321368-vakantiewerk-schoonmaak-vivent",
+      "snippet": "Zoek je werk in Rosmalen als schoonmaker? Bekijk snel deze vacature en solliciteer eenvoudig op Jobbird!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-06T10:12:00.133886"
+    },
+    "score": 0,
+    "reason": "Cleaning/janitorial position in Rosmalen. Completely unrelated to software development or AI. Wrong domain entirely.",
+    "embed_sim": 0.0965414047241211,
+    "ai_native_score": 0.4305359423160553
+  },
+  {
+    "job": {
+      "id": "42f768cffeb905159907da9bfaa53997",
+      "title": "glassdoor.nl/Vacature/android-developer-vacatures-SRCH_KO0,17....",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/android-developer-vacatures-SRCH_KO0,17.htm",
+      "snippet": "android developer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-06T10:12:05.679149"
+    },
+    "score": 0,
+    "reason": "Search results page, not a job listing. No actual job description, company, or location information provided. Cannot evaluate.",
+    "embed_sim": 0.1470826268196106,
+    "ai_native_score": 0.573977530002594
+  },
+  {
+    "job": {
+      "id": "7cd5f768b6979aa1b8a7b64774029cb8",
+      "title": "478 vacatures voor pl sql in Bengaluru | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/bangalore-pl-sql-vacatures-SRCH_IL.0,9_IC2940587_KO10,16.htm",
+      "snippet": "Experience in working on relevant latest technologies / AI concepts will be an added advantage.\u20b9 495K - \u20b9 750K (Schat. van Glassdoor). We\u2019re looking for a skilled PowerBuilder Developer with strong hands-on experience in PowerBuilder (Classic/PB.NET) and Oracle databases.&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-06T10:12:05.679183"
+    },
+    "score": 0,
+    "reason": "PL/SQL/PowerBuilder developer role in Bengaluru, India. Location is far outside Utrecht area (not in Netherlands). Role is traditional database development, not AI adoption/enablement. Wrong geography and wrong function.",
+    "embed_sim": 0.200646311044693,
+    "ai_native_score": 0.4384063482284546
   }
 ]
