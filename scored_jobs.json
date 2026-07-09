@@ -552,12 +552,12 @@
       "url": "https://werkeninai.nl/technical-solution-lead-ai-acceleration-team-alliander/",
       "snippet": "Het AI Acceleration team is een platformteam en de engineers trainen dus zelf geen modellen, maar ondersteunen andere teams hierin. Het Team biedt een gestandaardiseerde en geconfigureerde omgeving met tooling voor data analytics, MLOps en access tot data aan.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-04-26T07:26:11.079637"
+      "date_found": "2026-07-09T09:33:50.204381"
     },
-    "score": 4,
-    "reason": "Platform team supporting AI/ML adoption is conceptually close, but the role centers on MLOps, data analytics tooling, and supporting model training workflows \u2014 not on helping dev teams adopt AI coding tools like Copilot/Claude. Requires ML/data infrastructure expertise candidate doesn't target.",
-    "embed_sim": 0.3881738781929016,
-    "ai_native_score": 0.687920868396759
+    "score": 6,
+    "reason": "Platform team supporting other engineers with ML tooling/infrastructure - right concept (enablement, not building models) but location unknown, may require more MLOps depth than ideal",
+    "embed_sim": 0.3881738483905792,
+    "ai_native_score": 0.6879206895828247
   },
   {
     "job": {
@@ -20558,5 +20558,165 @@
     "reason": "Generic search results page for AI Developer vacancies in Utrecht province, not a specific job posting. Cannot evaluate actual role requirements or relevance.",
     "embed_sim": 0.1999318152666092,
     "ai_native_score": 0.6512214541435242
+  },
+  {
+    "job": {
+      "id": "62de784974ff3dda295e119fd83b0b89",
+      "title": "Vacature voor een functie als Developer Intern (AI) bij AKQA in Amsterdam | Glassdoor",
+      "company": "Akqa In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/developer-intern-ai-akqa-JV_IC3064478_KO0,19_KE20,24.htm?jl=1010169810663",
+      "snippet": "Research and experiment with emerging AI tooling and agentic frameworks to push the boundaries of automated creative content production. Work in a fast-paced environment with a high level of accuracy and attention to detail, taking ownership of tasks from brief through to deployment, while learning the day-to-day dynamics of a creative agency. ... Strong software development fundamentals, with experience in a language such as Python or TypeScript and a solid grasp of clean, maintainable code.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-09T09:32:36.912978"
+    },
+    "score": 0,
+    "reason": "Intern position - candidate requires senior level only",
+    "embed_sim": 0.4911889433860779,
+    "ai_native_score": 0.8208937644958496
+  },
+  {
+    "job": {
+      "id": "cef71663afc96828496f7ed79987d522",
+      "title": "Vacature voor een functie als Junior/Medior R&D Engineer Artificial Intelligence bij Nederlands Lucht- en Ruimtevaartcentrum in Amsterdam | Glassdoor",
+      "company": "Nederlands Lucht- En Ruimtevaartcentrum In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/junior-medior-rd-engineer-artificial-intelligence-nederlands-lucht-en-ruimtevaartcentrum-JV_IC3064478_KO0,49_KE50,88.htm?jl=1009934942071",
+      "snippet": "Je hebt ervaring met het toepassen van AI-technieken, waaronder deep learning, computer vision, generatieve AI, NLP en reinforcement learning; Je hebt kennis van softwareontwikkeling en best practices, zowel wat betreft processen als tooling;",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-09T09:32:48.898377"
+    },
+    "score": 1,
+    "reason": "Junior/Medior R&D role requiring deep learning, computer vision, NLP expertise - pure ML focus, not AI adoption enablement",
+    "embed_sim": 0.3787078857421875,
+    "ai_native_score": 0.7784407734870911
+  },
+  {
+    "job": {
+      "id": "518ac9ce4a544c3b8176a35bca0e4305",
+      "title": "Entry-level Machine Learning Engineer in Groningen bij TNO | Magnet.me | #1053820 (nl)",
+      "company": "Tno",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1053820/entry-level-machine-learning-engineer",
+      "snippet": "Exploring the latest AI techniques and assessing their applicability in critical infrastructures and in interaction with physical processes. Working with clients and partners to solve existing and new challenges using state-of-the-art ML technology.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-09T09:33:01.814762"
+    },
+    "score": 0,
+    "reason": "Entry-level ML Engineer in Groningen - wrong seniority, wrong location (>40km), requires ML expertise candidate doesn't want",
+    "embed_sim": 0.4663887619972229,
+    "ai_native_score": 0.4705686867237091
+  },
+  {
+    "job": {
+      "id": "7198d89d4d94e4a7d62e347e1a34a9bf",
+      "title": "Specialistisch Dienjaar HR & AI in Hoogerheide bij Ministerie van Defensie | Magnet.me | #1048562 (nl)",
+      "company": "Ministerie Van Defensie",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1048562/specialistisch-dienjaar-hr---ai",
+      "snippet": "Maak een profiel aan en ontvang ... vacatures. ... Bij het Ministerie van Defensie ga je tijdens het Specialistisch Dienjaar fulltime aan de slag als AI Specialist HR-processen binnen de Koninklijke Luchtmacht....",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-09T09:33:01.814787"
+    },
+    "score": 0,
+    "reason": "Military service specialization in HR - unrelated to software development or AI tooling adoption",
+    "embed_sim": 0.1741546094417572,
+    "ai_native_score": 0.5544201135635376
+  },
+  {
+    "job": {
+      "id": "5d98a6d38bff4bb14177347a7b70e25c",
+      "title": "Medior Front-End Developer in Utrecht bij Clever Franke | Magnet.me | #1054182 (nl)",
+      "company": "Clever Franke",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1054182/medior-front-end-developer",
+      "snippet": "1 week ago - We\u2019re continuously exploring and innovating, and like to work with emerging technologies like AI, AR/VR and physical interfaces. Though we always adapt our approach to the requirements of a specific project, the development workflow of a typical C\u00b0F project will generally include submitting pull requests that trigger CI/CD pipelines with various code-quality checks and automated deployment to a serverless platform like Vercel or other cloud platforms.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-09T09:33:01.814812"
+    },
+    "score": 2,
+    "reason": "Front-end developer role that occasionally uses AI - not focused on AI adoption or enablement, web dev role rather than AI champion role",
+    "embed_sim": 0.27919089794158936,
+    "ai_native_score": 0.49959033727645874
+  },
+  {
+    "job": {
+      "id": "8467d391cd741e21d9d25f2bf1867bb0",
+      "title": "Corporate Recruiter in Rotterdam bij Van Oord | Magnet.me | #1055333 (nl)",
+      "company": "Van Oord",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1055333/corporate-recruiter",
+      "snippet": "5 days ago - You are curious, organised and confident in working with different stakeholders. You easily switch between strategic conversations and day to day recruitment activities, while keeping quality and results in focus. You enjoy using data and market insights to improve your approach and are always looking for better ways of working.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-09T09:33:01.814828"
+    },
+    "score": 0,
+    "reason": "Corporate recruiter position - completely unrelated to software development or AI tooling",
+    "embed_sim": 0.1992982029914856,
+    "ai_native_score": 0.4487689733505249
+  },
+  {
+    "job": {
+      "id": "0b5ee133bd729b44ab85bb781cb86cf0",
+      "title": "Vacature voor een functie als Onboarding & Adoption Specialist bij Roxit in Nieuwegein | Glassdoor",
+      "company": "Roxit In Nieuwegein",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/onboarding-adoption-specialist-roxit-JV_IC3045531_KO0,30_KE31,36.htm?jl=1010163223741",
+      "snippet": "Je wordt onderdeel van een gedreven team van Onboarding en Adoptie specialisten. Samen met je team draag je de verantwoordelijkheid om continu bij te dragen aan waardemaximalisatie van onze Rx.Base plansoftware voor de gebruikers.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-09T09:33:05.553790"
+    },
+    "score": 3,
+    "reason": "Onboarding & Adoption Specialist for planning software - right concept (adoption) but not about AI tools or developer enablement, location match (Nieuwegein)",
+    "embed_sim": 0.28623759746551514,
+    "ai_native_score": 0.6663302779197693
+  },
+  {
+    "job": {
+      "id": "db6c370917e084ca490d64bef9ebf73d",
+      "title": "168 vacatures voor openai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-openai-vacatures-SRCH_IL.0,11_IN178_KO12,18.htm",
+      "snippet": "Vacatures voor director machine learning engineer in NederlandVacatures bij EPAM Systems in Nederland ... Reviews van werknemers bij EPAM SystemsSollicitatie-ervaring bij EPAM SystemsWerken bij EPAM Systems ... Acting as a trusted advisor to C-suite executives, you will drive the design, deployment and adoption of AI and agentic solutions that deliver measurable\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-09T09:33:05.553817"
+    },
+    "score": 0,
+    "reason": "Aggregated search results page, not a real job listing - no actual position details",
+    "embed_sim": 0.23778510093688965,
+    "ai_native_score": 0.5284283757209778
+  },
+  {
+    "job": {
+      "id": "4cd93dd0b04fc4afd176b6ad7e82ab95",
+      "title": "Vacature voor een functie als Low Code Specialist bij TMC in Eindhoven | Glassdoor",
+      "company": "Tmc In Eindhoven",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/low-code-specialist-tmc-JV_IC3043137_KO0,19_KE20,23.htm?jl=1010174125034",
+      "snippet": "Contribute to the implementation of the Low Code adoption strategy to increase adoption of the Power Platform and Copilot Studio.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-09T09:33:05.553844"
+    },
+    "score": 4,
+    "reason": "Low Code Specialist with Power Platform/Copilot Studio adoption focus - adoption mindset relevant but location is Eindhoven (>40km from Utrecht), not developer-focused AI tooling",
+    "embed_sim": 0.1800539195537567,
+    "ai_native_score": 0.7493917942047119
+  },
+  {
+    "job": {
+      "id": "976979eb25eacbe6b2e4eb51705eb1fb",
+      "title": "AI Developer vacatures in Utrecht - Careerjet",
+      "company": "Careerjet",
+      "location": "Utrecht",
+      "url": "https://www.careerjet.nl/vacatures-ai-developer/Utrecht",
+      "snippet": "Zoek voor de nieuwste AI Developer vacatures in Utrecht op Careerjet, de vacature zoekmachine voor alle locaties en sectoren.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-09T09:34:07.921282"
+    },
+    "score": 0,
+    "reason": "This is a job search aggregator page, not an actual job listing. It's a meta-page linking to multiple vacancies, not a specific role to evaluate.",
+    "embed_sim": 0.3537536859512329,
+    "ai_native_score": 0.6952177286148071
   }
 ]
