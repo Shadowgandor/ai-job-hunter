@@ -2114,18 +2114,18 @@
   {
     "job": {
       "id": "6f50a08eafdf9d6e35b10b458ef00a9d",
-      "title": "683 vacature(s) voor Tooling engineer in Nederland - Glassdoor",
+      "title": "769 vacature(s) voor Tooling engineer in Nederland - Glassdoor",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-tooling-engineer-vacatures-SRCH_IL.0,9_KO10,26.htm",
-      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 683 vacatures voor Tooling engineer in Nederland.",
+      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 769 vacatures voor Tooling engineer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-07T08:30:35.336676"
+      "date_found": "2026-07-10T09:29:36.297869"
     },
     "score": 0,
-    "reason": "Generic search results aggregator page, not an actual job listing. No specific role, company, or location information.",
-    "embed_sim": 0.21679317951202393,
-    "ai_native_score": 0.6286899447441101
+    "reason": "This is a Glassdoor search results page for Tooling Engineer roles in Netherlands, not a specific job listing. Cannot evaluate without individual posting details.",
+    "embed_sim": 0.2189219743013382,
+    "ai_native_score": 0.6061471104621887
   },
   {
     "job": {
@@ -20718,5 +20718,133 @@
     "reason": "This is a job search aggregator page, not an actual job listing. It's a meta-page linking to multiple vacancies, not a specific role to evaluate.",
     "embed_sim": 0.3537536859512329,
     "ai_native_score": 0.6952177286148071
+  },
+  {
+    "job": {
+      "id": "2634aec5832246d72529332399971b5e",
+      "title": "Vacatures, nieuws en kennisdeling in AI Artifiicial Intelligence",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.aicarriere.nl/",
+      "snippet": "Als Model Risk Management Specialist (Medior/Senior) bij ASN Bank speel je een cruciale rol in het waarborgen van de betrouwbaarheid en naleving van o... ASN Bank \u00b7 5.179 - 6.906 \u00b7 Medior, Senior \u00b7 Utrecht \u00b7 Vacature \u2022 16 Jun 2026 \u00b7 As a Databricks Champion - Platform Solution Architect at NN Group, you drive secure adoption of new Databricks services, define reference architectur...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-10T09:28:54.060519"
+    },
+    "score": 0,
+    "reason": "This appears to be a news/job board aggregator page, not a specific job listing. URL is a general AI careers website. Cannot evaluate a real position.",
+    "embed_sim": 0.3467608094215393,
+    "ai_native_score": 0.6256354451179504
+  },
+  {
+    "job": {
+      "id": "a37370b3e70714a4d131265b88014dd1",
+      "title": "Vacature voor een functie als AI Enablement Engineer bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-enablement-engineer-extenda-retail-JV_IC3036215_KO0,22_KE23,37.htm?jl=1010159661180",
+      "snippet": "We are looking for an AI Enablement Engineer. Your mission is to develop and improve our AI capabilities, and make these... Bekijk deze en vergelijkbare vacatures op Glassdoor",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-10T09:29:06.461944"
+    },
+    "score": 7,
+    "reason": "AI Enablement Engineer role matches core mandate perfectly \u2014 develop and improve AI capabilities within organization and make them accessible. Title and mission align with candidate's sweet spot. Unknown location is a minor concern but role concept is strong.",
+    "embed_sim": 0.3123207688331604,
+    "ai_native_score": 0.708809494972229
+  },
+  {
+    "job": {
+      "id": "fa1cd4cbb43445f735f6180cc3c25627",
+      "title": "Software Engineer- AI Tooling in Rotterdam at Mendix | Magnet ...",
+      "company": "Magnet ...",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1052097/software-engineer--ai-tooling",
+      "snippet": "Jun 24, 2026 \u00b7 Join Mendix, a Siemens company, as a Staff Software Engineer focused on AI Tooling, helping build the future of Generative AI.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-10T09:29:10.363169"
+    },
+    "score": 6,
+    "reason": "AI Tooling focus at Mendix is relevant, but listing emphasizes 'build the future of Generative AI' which suggests building AI systems rather than enabling teams to adopt existing tools. Rotterdam is ~60km from Utrecht (slightly outside preference). Staff-level matches seniority.",
+    "embed_sim": 0.3672993779182434,
+    "ai_native_score": 0.7096806168556213
+  },
+  {
+    "job": {
+      "id": "b2a2c2196a7459b0a17c3f78b1912576",
+      "title": "136 Artificial Intelligence Consultant vacatures in Nederland - LinkedIn",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/artificial-intelligence-consultant-jobs",
+      "snippet": "AI & Automation Consultant. RoboRana. Utrecht, Nederland 2 weken geleden ... Forward Deployed AI Engineer / Technical Consultant. Nebul. Leiden 2 weken ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-10T09:29:18.823087"
+    },
+    "score": 0,
+    "reason": "This is a LinkedIn search results page listing multiple AI Consultant roles, not a specific job posting. Cannot evaluate without individual job details.",
+    "embed_sim": 0.3783915042877197,
+    "ai_native_score": 0.7439143061637878
+  },
+  {
+    "job": {
+      "id": "9a25be4ceb3b721d447f94b5c284682d",
+      "title": "Jobgether zoekt een Senior Learning Engineer [Lab Schools ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-learning-engineer-lab-schools-focus-at-jobgether-4431587523",
+      "snippet": "Jun 30, 2026 \u00b7 Our partner is looking for a Senior Learning Engineer [Lab Schools Focus] based in Netherlands. This is a high-impact, mission-driven role at the intersection of education, AI, and instructional design, supporting a pioneering network of lab schools rethinking how teaching and learning are shaped in the age of artificial intelligence.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-10T09:29:32.488351"
+    },
+    "score": 1,
+    "reason": "Senior Learning Engineer in education/lab schools context. Focused on instructional design and teaching methodology, not engineering team AI adoption. Unrelated to candidate's domain and goals.",
+    "embed_sim": 0.41004982590675354,
+    "ai_native_score": 0.625907301902771
+  },
+  {
+    "job": {
+      "id": "49743662b9da446283727c37e27e4199",
+      "title": "Vibe Coder / Full Stack AI Developer in Ermelo bij LeadLogic | Magnet.me | #1037678 (nl)",
+      "company": "Leadlogic",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1037678/vibe-coder---full-stack-ai-developer",
+      "snippet": "Je werkt samen met senior developers voor code reviews en security audits. Je deelt je kennis en visie binnen de AI-werkgroep om onze dienstverlening naar het volgende niveau te tillen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-10T09:29:49.581026"
+    },
+    "score": 2,
+    "reason": "Vibe Coder/Full Stack AI Developer at LeadLogic in Ermelo. Focused on building AI solutions, code reviews, and development work \u2014 not on enabling/adopting AI tools within teams. Wrong direction. Ermelo is ~70km from Utrecht.",
+    "embed_sim": 0.2953903079032898,
+    "ai_native_score": 0.7029090523719788
+  },
+  {
+    "job": {
+      "id": "48816e55ca9a7e0276b908728319a7ea",
+      "title": "AI Engineer in Amsterdam at DEPT\u00ae | Magnet.me | #1055566 (en)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1055566/ai-engineer",
+      "snippet": "4 days ago - Experience with cloud platforms (AWS, Azure, GCP) and their respective AI services (SageMaker, Azure ML, Vertex AI). Solid proficiency in Python and experience writing clean, testable, reusable code in professional software development environments.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-10T09:29:49.581104"
+    },
+    "score": 1,
+    "reason": "AI Engineer at DEPT in Amsterdam requires MSc in technical field and strong Python/cloud ML expertise (SageMaker, Vertex AI, Azure ML). This is a data science/ML engineer role, not AI enablement. Requires background candidate explicitly does NOT have.",
+    "embed_sim": 0.5198031663894653,
+    "ai_native_score": 0.584436297416687
+  },
+  {
+    "job": {
+      "id": "a0eed1a194e9c8a918a30c59f07cff5d",
+      "title": "AI Engineer in Amsterdam bij DEPT\u00ae | Magnet.me | #1055566 (nl)",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1055566/ai-engineer",
+      "snippet": "4 days ago \u00b7 MSc degree in a technical field with a strong focus on software, data, and AI (e.g. Data Science, Computer Science, Artificial Intelligence, Software Engineering, or a related discipline). Strong communication skills with ability to clearly explain technical concepts to business stakeholders. We offer Please note that benefits may vary by location.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-10T09:29:53.610553"
+    },
+    "score": 1,
+    "reason": "AI Engineer at DEPT requires MSc degree in Computer Science, Data Science, or AI with focus on data and ML. Heavy Python/ML stack implied. This is a data scientist/ML engineer position, not an AI adoption/enablement role. Wrong skill profile entirely.",
+    "embed_sim": 0.5236899256706238,
+    "ai_native_score": 0.7315633296966553
   }
 ]
