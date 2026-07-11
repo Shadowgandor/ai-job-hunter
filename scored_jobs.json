@@ -20846,5 +20846,229 @@
     "reason": "AI Engineer at DEPT requires MSc degree in Computer Science, Data Science, or AI with focus on data and ML. Heavy Python/ML stack implied. This is a data scientist/ML engineer position, not an AI adoption/enablement role. Wrong skill profile entirely.",
     "embed_sim": 0.5236899256706238,
     "ai_native_score": 0.7315633296966553
+  },
+  {
+    "job": {
+      "id": "4b29a8408767916b6a310bcb520a8a71",
+      "title": "Vacature voor een functie als Sr. Administrative Business... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/sr-administrative-business-partner-baker-tilly-advisory-group-lp-JV_IC1158535_KO0,34_KE35,64.htm?jl=1010178585267&cs=1_72ddf2ff&s=142&t=FJ&pos=104&src=GD_JOB_AD&guid=0000019f34d0f217a3931cf1e2a530b0&jobListingId=1010178585267&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1jsqd1sig2ese000-2c4d0169184edd20&cb=1783297536690&ctt=1783298526615",
+      "snippet": "Overview Baker Tilly is a leading advisory, tax and assurance firm, providing clients with a genuine coast-to-coast and ... Bekijk deze en vergelijkbare vacatures op Glassdoor.Meer vacatures zoals deze. Op zoek naar iets vergelijkbaars? We hebben nog meer opties.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:41.421424"
+    },
+    "score": 0,
+    "reason": "Administrative Business Partner role - completely unrelated to AI adoption, engineering, or developer enablement",
+    "embed_sim": 0.1297082006931305,
+    "ai_native_score": 0.5289978981018066
+  },
+  {
+    "job": {
+      "id": "8f2433df32dc84e05a9f0415eb2aa84d",
+      "title": "324 vacatures voor training specialist in Berlijn | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/berlin-training-specialist-vacatures-SRCH_IL.0,6_IS4694_KO7,26.htm",
+      "snippet": "3,5. AI Training & Adoption Specialist (m/f/d). Berlijn.Meer vacatures weergeven. Vacature-alert maken. Terug naar Zoeken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:41.421437"
+    },
+    "score": 0,
+    "reason": "Search results page without specific job details; location is Berlin (outside 40km Utrecht radius)",
+    "embed_sim": 0.19169093668460846,
+    "ai_native_score": 0.5878258347511292
+  },
+  {
+    "job": {
+      "id": "e08f06dc9a7ea14633f6aa1517213a51",
+      "title": "77 vacatures voor overnight in Berlijn | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/berlijn-overnight-vacatures-SRCH_IL.0,7_IS4694_KO8,17.htm",
+      "snippet": "77 vacature(s) voor Overnight in Berlijn. Relevantie. Corroventa Group.3,5. AI Training & Adoption Specialist (m/f/d).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:41.421464"
+    },
+    "score": 0,
+    "reason": "Search results page without specific job details; location is Berlin (outside requirement)",
+    "embed_sim": 0.06764934957027435,
+    "ai_native_score": 0.5024421215057373
+  },
+  {
+    "job": {
+      "id": "f7ece2d4a34bae0f33a15ac9b8ed7d1d",
+      "title": "Computer Science | Artificial Intelligence internship: AI knowledge ...",
+      "company": "Artificial Intelligence internship: AI knowledge ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/computer-science-artificial-intelligence-internship-ai-knowledge-assistant-studentjob-nl-at-jobster-4437990559",
+      "snippet": "The IT R&D Software Delivery department supports more than 7,000 software developers at ASML. The team provides a stable and scalable engineering environment used daily to build complex software products. Fast and reliable access to design knowledge is essential for this work. This internship focuses on improving that experience by creating an AI Knowledge Assistant that helps developers ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-11T07:49:49.863337"
+    },
+    "score": 0,
+    "reason": "Computer Science internship at ASML - candidate explicitly excludes internships/traineeships; appears to be student-focused role",
+    "embed_sim": 0.4799773395061493,
+    "ai_native_score": 0.6343123912811279
+  },
+  {
+    "job": {
+      "id": "0ab1d62ceb6db5240138a34ad4a9bcc3",
+      "title": "16 vacatures voor software engineer iii in Berlijn | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/berlijn-software-engineer-iii-vacatures-SRCH_IL.0,7_IS4694_KO8,29.htm",
+      "snippet": "Vacature-alert maken. 16 vacature(s) voor Software engineer iii in Berlijn.You bring 3-6 years of data science, software engineering, consulting, or product management experience that includes customer-facing work or product ownership.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:58.334368"
+    },
+    "score": 0,
+    "reason": "Search results page without specific job details; Berlin location; mentions data science background requirement",
+    "embed_sim": 0.31268173456192017,
+    "ai_native_score": 0.6661898493766785
+  },
+  {
+    "job": {
+      "id": "ea447eda3bf268f8d650b31950a71e22",
+      "title": "Vacature voor een functie als Project Engineer bij TMC in... | Glassdoor",
+      "company": "Tmc In...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/project-engineer-tmc-JV_KO0,16_KE17,20.htm?jl=1010131859214",
+      "snippet": "We are a global high-tech consultancy company with a team of entrepreneurial engineers, scientists, and digital experts from around the world. Together we form a fast-growing and proud community. We offer consultancy services to high-profile clients globally in diverse service areas, such as",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:58.334404"
+    },
+    "score": 0,
+    "reason": "Project Engineer at TMC - generic high-tech consultancy role with no mention of AI adoption, developer enablement, or tooling focus",
+    "embed_sim": 0.31034350395202637,
+    "ai_native_score": 0.5353395938873291
+  },
+  {
+    "job": {
+      "id": "14ac011588f4ab807fa5825aa98e81b9",
+      "title": "Vacature voor een functie als Quality Engineer bij... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/quality-engineer-prodrive-technologies-JV_IC3043137_KO0,16_KE17,38.htm?jl=1009929877553",
+      "snippet": "Are you passionate about quality engineering and ready to make a real impact in a high\u2011tech environment? At Prodrive Technologies, we are looking for an experienced Quality Engineer to strengthen our R&D project engineering team.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-11T07:49:58.334421"
+    },
+    "score": 0,
+    "reason": "Quality Engineer at Prodrive Technologies - focused on R&D testing/quality, not AI tool adoption or developer enablement",
+    "embed_sim": 0.2585439085960388,
+    "ai_native_score": 0.621962308883667
+  },
+  {
+    "job": {
+      "id": "799f8ba3546b9bee6f255c40a04aa598",
+      "title": "Vacature AI Trainer/ Coach | Utrecht | Haystack People",
+      "company": "Utrecht",
+      "location": "",
+      "url": "https://www.werkzoeken.nl/vacature/15928788-ai-trainer-coach/",
+      "snippet": "Experience in AI adoption, L&D, enablement, coaching, product ops or similar roles. \u00b7 Experience facilitating workshops or coaching teams in new ways of working.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-11T07:50:02.298577"
+    },
+    "score": 8,
+    "reason": "AI Trainer/Coach in Utrecht - strong match. Focuses on AI adoption, enablement, coaching, and workshops. Located in Utrecht (perfect location). Requires experience facilitating teams in new ways of working with AI tools",
+    "embed_sim": 0.42921459674835205,
+    "ai_native_score": 0.7353172898292542
+  },
+  {
+    "job": {
+      "id": "a18fb28f1d801cb09d7c66d4d97964ea",
+      "title": "1.000+ vacatures voor Ai en werk in Den Haag 11 juli 2026| Indeed",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.indeed.com/q-ai-l-den-haag-vacatures.html",
+      "snippet": "Ai vacatures in Den Haag. Product Owner, Stagiair, Teamleider en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-11T07:50:22.708415"
+    },
+    "score": 0,
+    "reason": "Generic search results page without specific job listing details or content",
+    "embed_sim": 0.03213845565915108,
+    "ai_native_score": 0.5667309165000916
+  },
+  {
+    "job": {
+      "id": "500dece0c45fd67d6bb882acca1fb69d",
+      "title": "300+ vacatures voor Ai Tooling Developer en werk: 30 juni 2026 ... - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-tooling-developer-vacatures.html",
+      "snippet": "Alle vacatures voor iO - Utrecht vacatures - vacatures voor AI Engineer in Utrecht bekijken Zoeken op salaris: Applied AI Engineer salarissen in Utrecht",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-11T07:50:39.562320"
+    },
+    "score": 0,
+    "reason": "Generic search results page without specific job listing details; cannot evaluate actual AI Tooling Developer role without content",
+    "embed_sim": 0.3246224820613861,
+    "ai_native_score": 0.6584159135818481
+  },
+  {
+    "job": {
+      "id": "ec4a988be5987f2264b2e00def7a7a69",
+      "title": "Meer dan 139.000 vacatures voor Data Analist in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/data-analist-jobs?f_EA=true",
+      "snippet": "Next-Gen AI Applications Internship. Trend Locals. Amsterdam.Wees een van de eerste sollicitanten. 3 uur geleden. RegTech Working Student.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-11T07:50:57.379061"
+    },
+    "score": 0,
+    "reason": "Search results page listing generic data analyst roles, not a specific job posting. Appears to be a LinkedIn search results page rather than an actual job listing.",
+    "embed_sim": 0.32069259881973267,
+    "ai_native_score": 0.5680269002914429
+  },
+  {
+    "job": {
+      "id": "c2a6fb413c36a7f7854ee73884bce418",
+      "title": "Meer dan 1.000 vacatures voor Research Assistant in Nederland",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/research-assistant-jobs",
+      "snippet": "Human-AI Interaction and Medical Decision-Making. Erasmus MC-Klinische Chemie. Rotterdam 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-11T07:50:57.379078"
+    },
+    "score": 0,
+    "reason": "Search results page for research assistant roles. Not a specific job posting. Academic/research focus with no indication of AI tool adoption or developer enablement work.",
+    "embed_sim": 0.3231271207332611,
+    "ai_native_score": 0.7532541155815125
+  },
+  {
+    "job": {
+      "id": "ecace73ace390c7f38d712b4b7ac6401",
+      "title": "70 vacatures voor Uber in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/uber-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-11T07:50:57.379094"
+    },
+    "score": 0,
+    "reason": "Generic search results listing for Uber jobs. Not a specific job posting. Insufficient information to evaluate.",
+    "embed_sim": 0.04751710966229439,
+    "ai_native_score": 0.5413524508476257
+  },
+  {
+    "job": {
+      "id": "6fce370053f49da886cf1eb5702cf670",
+      "title": "117 vacatures voor Logitech in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/logitech-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-11T07:50:57.379100"
+    },
+    "score": 0,
+    "reason": "Generic search results listing for Logitech jobs. Not a specific job posting. Insufficient information to evaluate.",
+    "embed_sim": 0.053166233003139496,
+    "ai_native_score": 0.5668716430664062
   }
 ]
