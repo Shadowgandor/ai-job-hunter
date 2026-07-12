@@ -2354,18 +2354,18 @@
   {
     "job": {
       "id": "8b9871b7e301377bcbdf1ab943696315",
-      "title": "Associate AI Adoption & Change (Amsterdam, Rotterdam)",
-      "company": "",
+      "title": "Associate AI Adoption & Change (Amsterdam, Rotterdam) in Rotterdam bij PwC | Magnet.me | #1023911 (nl)",
+      "company": "Pwc",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1023911/associate-ai-adoption---change--amsterdam--rotterdam-",
-      "snippet": "Apr 22, 2026 \u00b7 Als Associate AI Adoption & Change werk je op het snijvlak van AI, change management en organisatieontwikkeling. Je helpt klanten binnen Tax, Legal en Workforce om AI-oplossingen succesvol te laten landen in hun organisatie.",
+      "snippet": "April 22, 2026 - Je analyseert werkprocessen en helpt bepalen hoe AI effectief kan worden ingebed in de dagelijkse praktijk \u00b7 Je draagt bij aan communicatie- en trainingsactiviteiten die gebruikers helpen nieuwe werkwijzen toe te passen \u00b7 Je werkt samen met klanten, technische teams en change specialisten om adoptie-uitdagingen inzichtelijk te maken en aan te pakken",
       "source": "ddg:magnet",
-      "date_found": "2026-05-09T07:53:23.090270"
+      "date_found": "2026-07-12T08:12:18.161356"
     },
-    "score": 7,
-    "reason": "AI Adoption & Change role bridging AI, change management, and org development. Strong match on adoption principles and helping organizations implement AI solutions. Amsterdam/Rotterdam location is acceptable (within 40km+ range). Only minor concern: change management focus vs. pure dev tooling focus, but clearly aligned with embedding AI practices.",
-    "embed_sim": 0.2573825418949127,
-    "ai_native_score": 0.7629185318946838
+    "score": 6,
+    "reason": "AI Adoption & Change role with process analysis and training activities. Good conceptual fit for adoption champion. However, listed as Associate-level (too junior for 13-year senior developer), and location unclear (Rotterdam mentioned but far from Utrecht). Some relevance but missing seniority and proximity match.",
+    "embed_sim": 0.20481741428375244,
+    "ai_native_score": 0.7042597532272339
   },
   {
     "job": {
@@ -21070,5 +21070,245 @@
     "reason": "Generic search results listing for Logitech jobs. Not a specific job posting. Insufficient information to evaluate.",
     "embed_sim": 0.053166233003139496,
     "ai_native_score": 0.5668716430664062
+  },
+  {
+    "job": {
+      "id": "82aaf92fd50259bd8dd42412d86f0e35",
+      "title": "glassdoor.nl/Vacature/data-analyst-vacatures-SRCH_KO0,12.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/data-analyst-vacatures-SRCH_KO0,12.htm",
+      "snippet": "Vacatures voor Data Analyst.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-12T08:11:17.736417"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not an actual job listing. Cannot evaluate.",
+    "embed_sim": 0.1503051519393921,
+    "ai_native_score": 0.48243850469589233
+  },
+  {
+    "job": {
+      "id": "545ec46afdbabebb4be87a1fd2b06d7b",
+      "title": "1.507 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/accuracy-vacatures-SRCH_KE0,8.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-12T08:11:17.736428"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.009808601811528206,
+    "ai_native_score": 0.5109900832176208
+  },
+  {
+    "job": {
+      "id": "852168aaf4c9014bde445eef7108f5a7",
+      "title": "Vacature voor een functie als International Mechanical... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/international-mechanical-install-engineer-asml-JV_IC3041764_KO0,41_KE42,46.htm?jl=1010175690735",
+      "snippet": "Introduction to the job Are you ready to take on a global challenge? In this role, you will be responsible for installin... Bekijk deze en vergelijkbare vacatures op Glassdoor.Remain a structured way of working in a dynamic environment; Flexible; Stress resistant",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-12T08:11:17.736442"
+    },
+    "score": 0,
+    "reason": "Mechanical engineer installation role at ASML. Completely unrelated to AI adoption or software development.",
+    "embed_sim": 0.09158607572317123,
+    "ai_native_score": 0.6031430959701538
+  },
+  {
+    "job": {
+      "id": "b860772b632550840fdc9a218839a81a",
+      "title": "Internship: AI Adoption & Capability Building - Philips - LinkedIn",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/internship-ai-adoption-capability-building-at-philips-4437049261",
+      "snippet": "Utrecht, Nederland 5 dagen geleden. AI solutions consultant. AI solutions ... Vacatures voor Software-ingenieur. LinkedIn \u00a9 2026; Info \u00b7 Toegankelijkheid ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-12T08:11:24.963522"
+    },
+    "score": 1,
+    "reason": "Internship position. Candidate seeks senior-level role, not internship/traineeship. Also AI adoption at Philips could be good fit, but internship designation disqualifies.",
+    "embed_sim": 0.3840411603450775,
+    "ai_native_score": 0.698356568813324
+  },
+  {
+    "job": {
+      "id": "48bd09893a4295609c92fa4e151712bc",
+      "title": "50+ vacatures voor Adoptie & Change Management en werk - Indeed",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/q-adoptie-&-change-management-vacatures.html",
+      "snippet": "Adoption & Changemanagement Specialist. Reageert vaak binnen 1 dag. Forvis ... AI Consultant - Utilities & Water. CGI. Rotterdam. Bedrijfslaptop. Pensioen ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-12T08:11:24.963563"
+    },
+    "score": 0,
+    "reason": "Generic search results page with change management focus. Not a specific job listing. Location is Rotterdam (outside preferred range).",
+    "embed_sim": 0.19053977727890015,
+    "ai_native_score": 0.6116475462913513
+  },
+  {
+    "job": {
+      "id": "4601b4173b97f2bf04e6953c5323a4fd",
+      "title": "AI Engineer vacature in Utrecht | - | Capgemini",
+      "company": "-",
+      "location": "",
+      "url": "https://www.datajobs.nl/vacatures/ai-engineer-bij-capgemini",
+      "snippet": "6 days ago \u00b7 Een dag als AI Engineer bij Capgemini is een mix van innovatie, engineering en samenwerking. Het ene moment ben je misschien aan het experimenteren met de nieuwste GenAI-modellen, het ontwerpen van prompts of het bouwen van multi-agentoplossingen in Python, en het volgende moment werk je samen met data scientists, cloud engineers, architecten en klanten om die idee\u00ebn in productie te brengen ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-12T08:11:33.202341"
+    },
+    "score": 2,
+    "reason": "AI Engineer at Capgemini mentions building GenAI models, prompts, and multi-agent solutions in Python. This is ML/model-building focused, not AI adoption/enablement. Candidate explicitly does NOT want this type of role.",
+    "embed_sim": 0.2786117494106293,
+    "ai_native_score": 0.6181852221488953
+  },
+  {
+    "job": {
+      "id": "6d69e3b6b120857ab74f6d472b3fdc8e",
+      "title": "Meer dan 18.000 vacatures voor Data Analist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/data-analist-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Consultant Data Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-12T08:11:37.375046"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator for Data Analyst roles. Not a specific job posting.",
+    "embed_sim": 0.20382021367549896,
+    "ai_native_score": 0.5102352499961853
+  },
+  {
+    "job": {
+      "id": "ff573b46f8c0ce96dc6f2a9700f56208",
+      "title": "220 vacatures voor Jobcoach in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/jobcoach-jobs?f_EA=true",
+      "snippet": "Lead software engineer. Belastingdienst.Employment Lawyer - AI Trainer - Freelance - 8-20 hrs/week - Remote. 10x.Team.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-12T08:11:37.375057"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator. Contains job coach and unrelated positions. Not a specific posting.",
+    "embed_sim": 0.35675883293151855,
+    "ai_native_score": 0.6289339065551758
+  },
+  {
+    "job": {
+      "id": "a8fc2ce305ea86a3be946b21b1cdf8f5",
+      "title": "78 vacatures voor Timing in Waalwijk, Noord-Brabant, Nederland",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.linkedin.com/jobs/timing-jobs-waalwijk?position=1&pageNum=0",
+      "snippet": "Physical Design Engineer. Axelera AI. Eindhoven 2 maanden geleden. Business Analist.Service Tooling Engineer Internship. Tesla. Tilburg.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-12T08:11:37.375068"
+    },
+    "score": 0,
+    "reason": "Generic search results page for 'Timing' keyword in Waalwijk. Location is Eindhoven (outside preferred 40km range from Utrecht). Not a specific job posting.",
+    "embed_sim": 0.18789616227149963,
+    "ai_native_score": 0.5450282692909241
+  },
+  {
+    "job": {
+      "id": "7ab35d291cafd221e80a768d08e2d0c7",
+      "title": "72 vacatures voor algorithm developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-algorithm-developer-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+      "snippet": "Collaborate with data scientists, software engineers, and domain experts to translate business requirements into AI models and solutions, ensuring alignment\u2026\u2026 Vaardigheden: TensorFlow, Analytisch vermogen, Deep learning, Schaalbaarheid, Zakelijke vereisten ... Vacatures voor machine learning engineer in DelftVacatures in DelftVacatures bij Devon Energy in Delft ... Reviews van werknemers bij Devon EnergySollicitatie-ervaring bij Devon EnergyWerken bij Devon Energy ... Proven experience in Python",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-12T08:11:49.656698"
+    },
+    "score": 1,
+    "reason": "Algorithm developer search results requiring TensorFlow, deep learning, ML model skills. This is pure ML/data science work, explicitly NOT what candidate seeks. Generic search page, not specific listing.",
+    "embed_sim": 0.21627499163150787,
+    "ai_native_score": 0.40836602449417114
+  },
+  {
+    "job": {
+      "id": "6a4854e99b80b91cfa08bad92b1f8265",
+      "title": "100+ vacatures voor Unity en werk: 4 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Unity-vacatures",
+      "snippet": "Unity vacatures. Solutions Engineer, Product Manager, Senior User Experience Designer en meer op Indeed.com.In this role, you combine strong software engineering capabilities with an AI-first way of working. You use AI coding agents as a force multiplier while\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-12T08:12:05.154390"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page with no specific role details, location, or company information. Cannot assess match.",
+    "embed_sim": 0.2741166949272156,
+    "ai_native_score": 0.6793663501739502
+  },
+  {
+    "job": {
+      "id": "7ce25c9e7491e131da23e226a87032be",
+      "title": "Data Science Lead - Generative AI in... | Magnet.me | #899303 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/899303/data-science-lead---generative-ai",
+      "snippet": "Over 3 years of working experience in AI. Master\u2019s or PhD in Computer Science, Statistics, Mathematics, or a related field. Extensive experience in developing and leading generative AI projects from concept to deployment.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-12T08:12:13.853603"
+    },
+    "score": 1,
+    "reason": "Data Science Lead requiring Master's/PhD in CS/Statistics/Math and extensive generative AI project development experience. Pure ML/data science role \u2014 not AI adoption/enablement.",
+    "embed_sim": 0.4008655250072479,
+    "ai_native_score": 0.7015672326087952
+  },
+  {
+    "job": {
+      "id": "94f2666888f97ee76876510d6625776c",
+      "title": "Onboarding Specialist in Amsterdam bij Effectory | Magnet.me | #1053015 (nl)",
+      "company": "Effectory",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1053015/onboarding-specialist",
+      "snippet": "2 weeks ago - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... As an Onboarding Specialist at Effectory, you ensure customers are set up for long-term success by guiding them through a smooth, engaging, and impactful onboarding experience.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-12T08:12:18.161381"
+    },
+    "score": 0,
+    "reason": "Onboarding Specialist at Effectory \u2014 HR/customer success onboarding role unrelated to developer tools, AI adoption in engineering, or technical leadership.",
+    "embed_sim": 0.23531438410282135,
+    "ai_native_score": 0.5346251130104065
+  },
+  {
+    "job": {
+      "id": "4d5c988fd4b9615655eee0a7397aca2f",
+      "title": "Meer dan 1.000 vacatures voor Booking.com in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/booking.com-jobs?f_EA=true",
+      "snippet": "OTA Specialist. OTA Specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-12T08:12:34.982045"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page with no specific role details. Cannot assess match.",
+    "embed_sim": 0.16306310892105103,
+    "ai_native_score": 0.5797559022903442
+  },
+  {
+    "job": {
+      "id": "76073eb2fde6bdaac4af570ce9ac2d46",
+      "title": "Meer dan 1.000 vacatures voor Holland Casino in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/holland-casino-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.OTA Specialist. Meer Leisure.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-12T08:12:34.982092"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page with no specific role details. Cannot assess match.",
+    "embed_sim": 0.031163610517978668,
+    "ai_native_score": 0.6164311170578003
   }
 ]
