@@ -21310,5 +21310,181 @@
     "reason": "Generic job listing aggregator page with no specific role details. Cannot assess match.",
     "embed_sim": 0.031163610517978668,
     "ai_native_score": 0.6164311170578003
+  },
+  {
+    "job": {
+      "id": "9076446507dec8eaf9abaa8b3d41eaf7",
+      "title": "Vacature voor een functie als Junior AI Engineer bij GTE in Nieuwegein | Glassdoor",
+      "company": "Gte In Nieuwegein",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/junior-ai-engineer-gte-JV_IC3045531_KO0,18_KE19,22.htm?jl=1010043590162",
+      "snippet": "Ervaring met Python, APIs, automation tools, AI frameworks of LLM tooling is een vereiste. ... Het minimumsalaris is \u20ac 3.000 en het maximumsalaris is \u20ac 5.000. \u20ac 3.000 \u2013 \u20ac 5.000/mnd (opgegeven door werkgever) ... Als een werkgever een salaris of salarisbereik bij de vacature vermeldt, ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-13T09:19:12.892021"
+    },
+    "score": 1,
+    "reason": "Junior-level position requiring Python/ML frameworks expertise. Candidate is senior web developer, not junior ML engineer. Wrong seniority and skill focus.",
+    "embed_sim": 0.17231245338916779,
+    "ai_native_score": 0.5998956561088562
+  },
+  {
+    "job": {
+      "id": "05bf36722084747057148d0b1d3c2ded",
+      "title": "Meer dan 1.000 vacatures voor Graduate Software Engineer in...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/graduate-software-engineer-jobs",
+      "snippet": "Meer dan 1.000 topvacatures voor Graduate Software Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan.Junior Python Engineer \u2013 Internal Tools & AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-13T09:19:18.186976"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not a specific job listing. No actual position details available.",
+    "embed_sim": 0.30248817801475525,
+    "ai_native_score": 0.7339983582496643
+  },
+  {
+    "job": {
+      "id": "0662c09d5eec33d59aceb4d6ed2b5e85",
+      "title": "223 vacatures voor Freelance in Nederland",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/freelance-jobs?f_AL=true",
+      "snippet": "Lead AI Engineer. Enjins. Utrecht. Wees een van de eerste sollicitanten. 1 maand geleden. Quality Assurance Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-13T09:19:18.187003"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page. No specific job listing or details provided. Cannot evaluate.",
+    "embed_sim": 0.3266119956970215,
+    "ai_native_score": 0.6795143485069275
+  },
+  {
+    "job": {
+      "id": "3749d7869c007094135cacc7a75be18b",
+      "title": "412 vacatures voor Part Time Work From Home in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/part-time-work-from-home-jobs",
+      "snippet": "412 topvacatures voor Part Time Work From Home in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Part Time Work From Home toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-13T09:19:18.187021"
+    },
+    "score": 0,
+    "reason": "Generic search results page for part-time work. No specific job listing details available.",
+    "embed_sim": 0.1437191367149353,
+    "ai_native_score": 0.5353761911392212
+  },
+  {
+    "job": {
+      "id": "a0e4814d7ce2dca984700aa7beb5f3c6",
+      "title": "AI Risk Officer in Rotterdam bij Deloitte | Magnet.me | #965383 (nl)",
+      "company": "Deloitte",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/965383/ai-risk-officer",
+      "snippet": "May 21, 2026 - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Ben jij de expert die ervoor zorgt dat onze organisatie AI op een veilige, ethische en compliant manier inzet? Heb jij diepgaande kennis van de EU AI Act en kun je beleidskader omzetten naar concrete, operationele richtlijnen?",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-13T09:19:35.338520"
+    },
+    "score": 2,
+    "reason": "AI Risk Officer role focused on compliance, ethics, and EU AI Act policy. Requires deep governance/legal expertise, not AI adoption enablement or developer tooling champion work. Rotterdam location is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.250014066696167,
+    "ai_native_score": 0.6983392238616943
+  },
+  {
+    "job": {
+      "id": "47fed80ae75356654bdf3206a36ea3b4",
+      "title": "iOS Developer BUUT in Amsterdam bij... | Magnet.me | #898466 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/898466/ios-developer-buut",
+      "snippet": "Word onderdeel van BUUT! Are you a talented iOS Developer with a passion for transforming user stories into a breathtaking user experience? Do you have a passion for clean code and well-structured architecture, thriving in a team-oriented environmen\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-13T09:19:54.538255"
+    },
+    "score": 0,
+    "reason": "iOS Developer role. Candidate's native iOS background is outdated (13 years web dev primary). No AI adoption/enablement angle mentioned. Different domain entirely.",
+    "embed_sim": 0.321139931678772,
+    "ai_native_score": 0.6619424819946289
+  },
+  {
+    "job": {
+      "id": "df2a99e5df209990878035f3ebf1a591",
+      "title": "Intern of everything @AI-start-up in... | Magnet.me | #745529 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/745529/intern-of-everything--ai-start-up",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures.Effortlessly craft user manuals straight from the code with cutting-edge AI, delivering the smoothest, most user-friendly experience. AI start-up built by experienced founders.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-13T09:19:54.538268"
+    },
+    "score": 0,
+    "reason": "Intern-level position at AI start-up. Candidate requires senior-level roles. Not an AI adoption/enablement role\u2014appears to be product-focused.",
+    "embed_sim": 0.36181333661079407,
+    "ai_native_score": 0.6816695928573608
+  },
+  {
+    "job": {
+      "id": "d471b2f54e60af7c8c0a6da7a8690e8d",
+      "title": "203 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-dsv-vacatures-SRCH_IL.0,9_IN178_KE10,13.htm",
+      "snippet": "Vacatures voor customer relations in Nederland Vacatures bij DSV in Nederland.With your eagerness to learn and drive, your colleagues will train you within a few months to become a specialist in ocean freight.\u2026 Meer ontdekken.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-13T09:20:04.833607"
+    },
+    "score": 0,
+    "reason": "Generic search results page aggregator. No specific job listing details provided.",
+    "embed_sim": 0.08187985420227051,
+    "ai_native_score": 0.49248358607292175
+  },
+  {
+    "job": {
+      "id": "d088d7b5238e042f6f4e6fbcdde3fb3a",
+      "title": "Vacatures voor food for thought | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Utrecht",
+      "url": "https://www.glassdoor.nl/Vacature/food-for-thought-vacatures-SRCH_KE0,16.htm",
+      "snippet": "Zoeken naar vacatures met food for thought.Junior Adoption Specialist - YPPIT. Utrecht. \u20ac 1K (Schatting werkgever). You will develop strategies to increase adoption and usage of products and services for our colleagues. You will work closely with IT and business teams to\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-13T09:20:17.529797"
+    },
+    "score": 2,
+    "reason": "Junior Adoption Specialist role in Utrecht (good location). Adoption focus is relevant, but junior-level and likely product adoption vs. AI tool adoption for engineering teams. Salary range (\u20ac1K) suggests entry-level position.",
+    "embed_sim": 0.06115330010652542,
+    "ai_native_score": 0.4866727888584137
+  },
+  {
+    "job": {
+      "id": "12ff4a9f1517505166a18a2136412969",
+      "title": "Aanbevolen voor jou | Glassdoor-vacatures zoeken",
+      "company": "Glassdoor-vacatures zoeken",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/index.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen. Glassdoor helpt je bij het vinden van je droombaan.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-13T09:20:17.529808"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor job search landing page. No specific job listing or details.",
+    "embed_sim": 0.04734961315989494,
+    "ai_native_score": 0.4923095405101776
+  },
+  {
+    "job": {
+      "id": "a82eef6cafe664461edf2c082cbec609",
+      "title": "5 vacatures voor Driessen in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/driessen-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-13T09:20:36.177377"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 this is a search/navigation page for Driessen job vacancies. No actual position information provided, no role details, no location specifics. Cannot evaluate against candidate criteria.",
+    "embed_sim": 0.027025321498513222,
+    "ai_native_score": 0.5614787936210632
   }
 ]
