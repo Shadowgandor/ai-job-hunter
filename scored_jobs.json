@@ -21486,5 +21486,245 @@
     "reason": "Not a job listing \u2014 this is a search/navigation page for Driessen job vacancies. No actual position information provided, no role details, no location specifics. Cannot evaluate against candidate criteria.",
     "embed_sim": 0.027025321498513222,
     "ai_native_score": 0.5614787936210632
+  },
+  {
+    "job": {
+      "id": "a13740fca97b3dcc30b566c499db9a73",
+      "title": "CIMSOLUTIONS zoekt een Java Software Engineer in... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/java-software-engineer-at-cimsolutions-4439155473",
+      "snippet": "Als Java Software Engineer werk je mee in uitdagende state-of-the-art opdrachten en hightech\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:56:55.696112"
+    },
+    "score": 0,
+    "reason": "Java Software Engineer role \u2014 pure backend development, no AI enablement or adoption focus mentioned",
+    "embed_sim": 0.2765541672706604,
+    "ai_native_score": 0.6937929391860962
+  },
+  {
+    "job": {
+      "id": "54233045a6fa73431262ae538fffc56e",
+      "title": "274 vacatures voor Nvidia in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/nvidia-jobs",
+      "snippet": "AI Research Engineer (Kernel & Inference Optimization). Tether.io. Nederland.2 weken geleden. (Sr.) Technology Enablement Manager.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:56:55.696125"
+    },
+    "score": 0,
+    "reason": "Listing is an aggregate/search results page (274 vacancies), not a specific job; cannot assess relevance",
+    "embed_sim": 0.12923628091812134,
+    "ai_native_score": 0.41448771953582764
+  },
+  {
+    "job": {
+      "id": "8befc7109a54c3d1964500d0d2b7f9d0",
+      "title": "Vacature: Solution architect AI, IVO Rechtspraak - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/solution-architect-ai-RO-2026-1128",
+      "snippet": "Solution architect AI in Utrecht voor 32-36 uur bij IVO Rechtspraak",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-14T07:57:03.434621"
+    },
+    "score": 4,
+    "reason": "Solution architect AI in Utrecht (good location) but likely requires deep AI/ML architecture expertise rather than developer tooling adoption; unclear if focused on implementation vs. enablement",
+    "embed_sim": 0.2671470642089844,
+    "ai_native_score": 0.7464812397956848
+  },
+  {
+    "job": {
+      "id": "8dce6ddbfd10707bafeea3fa96e5c229",
+      "title": "LLM Application Engineer | Werken bij NS",
+      "company": "Ns",
+      "location": "Utrecht",
+      "url": "https://www.werkenbijns.nl/vacatures/llm-application-engineer-utrecht-a03sh00000piriziao",
+      "snippet": "1 day ago ... Utrecht. Einddatum: 01-08-2027. 36 uur. Startdatum: 01-08-2026 ... Als LLM Application Engineer bij ComAI bouw je impactvolle Generatieve AI ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-14T07:57:07.939360"
+    },
+    "score": 2,
+    "reason": "LLM Application Engineer building generative AI applications \u2014 this is building AI products, not enabling teams to adopt AI tools; requires ML/LLM expertise candidate doesn't want",
+    "embed_sim": 0.16232459247112274,
+    "ai_native_score": 0.49646642804145813
+  },
+  {
+    "job": {
+      "id": "131d550864d991ff3a3ec20b7c7c8954",
+      "title": "Senior Machine Learning Scientist - Adyen - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/senior-machine-learning-scientist-adyen/",
+      "snippet": "Senior Machine Learning Scientist Adyen is looking for a Senior Machine Learning Scientist to join our team in Amsterdam, a person sitting at the cornerstone of algorithms, mathematics, and engineering, who can solve problems by designing and implementing production-ready machine learning solutions.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-14T07:57:20.413562"
+    },
+    "score": 0,
+    "reason": "Senior Machine Learning Scientist \u2014 pure ML role requiring algorithm design and production ML systems; explicitly NOT a match for candidate",
+    "embed_sim": 0.44577527046203613,
+    "ai_native_score": 0.5693914294242859
+  },
+  {
+    "job": {
+      "id": "2bcb66b649c18be28254c7e956e03d88",
+      "title": "Manager Artificial Intelligence & Automation - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/manager-artificial-intelligence-automation-deloitte/",
+      "snippet": "Vacature: Deloitte in Amsterdam zoekt een Manager Artificial Intelligence & Automation - public sector voor 32 tot 40 uur per week | Fulltime of Parttime. What impact will you make? Ministeries, grote gemeenten, uitvoeringsorganisaties en andere publieke organisaties vertrouwen steeds meer op data, analytics en AI om mensgerichte, effectieve en effici\u00ebnte dienstverlening te bieden aan de ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-14T07:57:20.413587"
+    },
+    "score": 3,
+    "reason": "Manager AI & Automation at Deloitte \u2014 management/consulting on AI adoption, but likely requires data science/ML background and is in Amsterdam (acceptable but not ideal location)",
+    "embed_sim": 0.4191686511039734,
+    "ai_native_score": 0.6544478535652161
+  },
+  {
+    "job": {
+      "id": "d34b5e7af6e41f22ed939dc0cd78692e",
+      "title": "AI Business Consultant - Handpicked - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/ai-business-consultant-handpicked/",
+      "snippet": "Vacature: Handpicked in Breda zoekt een AI Business Consultant voor 32 tot 40 uur per week | Salaris: van \u20ac2500 tot \u20ac4000 per maand |",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-14T07:57:20.413599"
+    },
+    "score": 2,
+    "reason": "AI Business Consultant in Breda \u2014 location too far from Utrecht; unclear if technical enablement vs. pure business consulting; likely requires ML/AI domain expertise",
+    "embed_sim": 0.37613725662231445,
+    "ai_native_score": 0.6024157404899597
+  },
+  {
+    "job": {
+      "id": "47714e6656e25837a6b96719688f3610",
+      "title": "Tech Enablement Specialist - Change & Adoption",
+      "company": "Change & Adoption",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1057627/tech-enablement-specialist--change---adoption",
+      "snippet": "Tech Enablement Specialist - Change & Adoption Tech Academy is a strategic partner to Adyen's global Tech organization - Engineering, Product, and Product experience - making teams faster and more effective by giving them the skills and know-how they need to ship products and solve real customer problems.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-14T07:57:24.768838"
+    },
+    "score": 7,
+    "reason": "Tech Enablement Specialist focused on making teams faster and more effective with skills/knowledge \u2014 strong match for AI enablement vision; location unknown but Adyen has Utrecht presence; fits platform/enablement profile",
+    "embed_sim": 0.33645397424697876,
+    "ai_native_score": 0.771634042263031
+  },
+  {
+    "job": {
+      "id": "dfe79a2db7a98136a13a9c63c30d9584",
+      "title": "AI Specialist in Utrecht bij Strukton | Magnet.me",
+      "company": "Strukton",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1056776/ai-specialist",
+      "snippet": "Bij Strukton Civiel NL krijg je als AI Specialist de kans om AI concreet te maken op de werkvloer en collega's te begeleiden in het gebruik ervan.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-14T07:57:24.768939"
+    },
+    "score": 6,
+    "reason": "AI Specialist to make AI concrete on the work floor and guide colleagues \u2014 matches enablement/adoption concept; location shows 'Unknown' but Strukton Civiel is Dutch; could be good fit if near Utrecht",
+    "embed_sim": 0.2514248788356781,
+    "ai_native_score": 0.660041332244873
+  },
+  {
+    "job": {
+      "id": "b6bf6be205db244d86ac43861f885708",
+      "title": "KPMG Nederland zoekt een Senior Consultant SAP... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-consultant-sap-procurement-at-kpmg-nederland-4374600282?position=49&pageNum=0",
+      "snippet": "As a Senior Consultant SAP Procurement, you will work with clients to design, optimize, and\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:57:44.132979"
+    },
+    "score": 0,
+    "reason": "Senior Consultant SAP Procurement \u2014 ERP/procurement specialist role, unrelated to AI enablement or development tooling",
+    "embed_sim": 0.23665212094783783,
+    "ai_native_score": 0.526387095451355
+  },
+  {
+    "job": {
+      "id": "54dfe2dab1e9bf1026296b7a41ee43fe",
+      "title": "Meer dan 8.000 vacatures voor Assistent Landmeter in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/assistent-landmeter-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:57:44.133010"
+    },
+    "score": 0,
+    "reason": "Not a job listing \u2014 appears to be a search results page aggregator for surveyor assistant positions with generic AI search mention. No actual job posting available.",
+    "embed_sim": 0.1086302101612091,
+    "ai_native_score": 0.6034193634986877
+  },
+  {
+    "job": {
+      "id": "76dcd7d2aceb06e24468a3799e99d53e",
+      "title": "KPMG Nederland zoekt een Senior Consultant SAP Finance... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-consultant-sap-finance-at-kpmg-nederland-4319110066?position=5&pageNum=0",
+      "snippet": "30 vacation days (on a full-time basis) and the option to buy more days or sell your vacation days. At KPMG we work hybrid, so you can work from home or at the office.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:57:52.583751"
+    },
+    "score": 0,
+    "reason": "SAP Finance consultant role at KPMG \u2014 unrelated to AI tooling adoption, developer enablement, or engineering practices. Wrong domain entirely.",
+    "embed_sim": 0.09044088423252106,
+    "ai_native_score": 0.388933002948761
+  },
+  {
+    "job": {
+      "id": "1d2dfef580a5ab6ce3bcd63ee96044ee",
+      "title": "125 vacatures voor Capgemini in Nederland",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/capgemini-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.AI-Ready Data Senior Consultant - NL. Capgemini. Utrecht.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-14T07:57:52.583780"
+    },
+    "score": 2,
+    "reason": "Listed as 'AI-Ready Data Senior Consultant' at Capgemini Utrecht \u2014 likely a data science/ML consulting role, not AI adoption/enablement for dev teams. No detail provided but title signals analytics/data focus rather than developer tooling.",
+    "embed_sim": 0.09526282548904419,
+    "ai_native_score": 0.5368140339851379
+  },
+  {
+    "job": {
+      "id": "ad0382ea60ff2c8858ccca2bb2ad752a",
+      "title": "50+ vacatures voor Parttime Developer en werk in Rotterdam 17 juni...",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/Parttime-Developer-vacatures-in-Rotterdam",
+      "snippet": "Parttime Developer vacatures in Rotterdam.Help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. We are looking for an existing Full Stack Developer - AI\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-14T07:58:16.047345"
+    },
+    "score": 1,
+    "reason": "Part-time role training AI chatbots in Rotterdam \u2014 appears to be data labeling/annotation work, not developer experience or AI adoption. Wrong location (Rotterdam vs. Utrecht area) and wrong focus.",
+    "embed_sim": 0.2949376106262207,
+    "ai_native_score": 0.5123052597045898
+  },
+  {
+    "job": {
+      "id": "e5c90dc216c60ab859b5bfc7c717738a",
+      "title": "300+ vacatures voor Cloud Computing en werk: 11 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Cloud-Computing-vacatures",
+      "snippet": "Vergelijkbare vacatures bij deze werkgever bekijken. + Integreren van AI-gedreven systemen binnen bestaande API\u2019s, microservices en cloud-omgevingen, zodat eindgebruikers direct profiteren van automatisering",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-14T07:58:20.235565"
+    },
+    "score": 0,
+    "reason": "Aggregate search results page for cloud computing jobs, not a specific job listing. No actionable posting to evaluate. Generic mention of 'AI-driven systems integration' doesn't constitute a real opportunity.",
+    "embed_sim": 0.163238063454628,
+    "ai_native_score": 0.3181731402873993
   }
 ]
