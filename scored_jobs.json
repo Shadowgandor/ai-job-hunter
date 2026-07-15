@@ -21726,5 +21726,181 @@
     "reason": "Aggregate search results page for cloud computing jobs, not a specific job listing. No actionable posting to evaluate. Generic mention of 'AI-driven systems integration' doesn't constitute a real opportunity.",
     "embed_sim": 0.163238063454628,
     "ai_native_score": 0.3181731402873993
+  },
+  {
+    "job": {
+      "id": "497139e03c96f675d971e216d73e1c93",
+      "title": "VIE - HR Specialist - Amsterdam - 24 months in Amsterdam bij Danone | Magnet.me | #1050480 (nl)",
+      "company": "Danone",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1050480/vie---hr-specialist---amsterdam---24-months",
+      "snippet": "1 month ago - Maak een profiel aan en ontvang ... gelikete vacatures. ... Join Danone\u2019s Cycles & Procurement (C&P) function, a dynamic global organization of 1500 people managing around \u20ac20bn of spend across sourcing, ingredients, manufacturing equipment and services. As HR Specialist (VIE), you will play a key role in supporting the C&P HR team in driving the adoption of skills-based development and AI capabilities ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-15T08:01:55.924730"
+    },
+    "score": 0,
+    "reason": "HR Specialist role at Danone \u2014 completely unrelated to software development, AI tooling adoption, or engineering practices. Wrong domain entirely.",
+    "embed_sim": 0.22288472950458527,
+    "ai_native_score": 0.6215415596961975
+  },
+  {
+    "job": {
+      "id": "91bda521cafbd7af0215f4e210ec407e",
+      "title": "Vacature voor een functie als Data Engineer bij HeadFirst Group in Hoofddorp | Glassdoor",
+      "company": "Headfirst Group In Hoofddorp",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/data-engineer-headfirst-group-JV_IC3063772_KO0,13_KE14,29.htm?jl=1010132097239",
+      "snippet": "What makes this role unique? You are not joining a traditional data team focused only on reporting or ETL. You will help build a modern global data platform where data engineering, AI enablement and platform scalability come together.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-15T08:02:08.603158"
+    },
+    "score": 3,
+    "reason": "Data Engineer role focused on building data platforms and ETL. While it mentions 'AI enablement', the core responsibility is data engineering infrastructure, not helping development teams adopt AI tools. Requires data engineering expertise, not web dev background.",
+    "embed_sim": 0.3452329933643341,
+    "ai_native_score": 0.5304862856864929
+  },
+  {
+    "job": {
+      "id": "31f36b790fe498b9bf448df201e06c45",
+      "title": "Vacature voor een functie als Lead Data & AI Platform Engineer bij OrderYOYO in Amsterdam | Glassdoor",
+      "company": "Orderyoyo In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/lead-data-ai-platform-engineer-orderyoyo-JV_IC3064478_KO0,30_KE31,40.htm?jl=1010132802038",
+      "snippet": "Your mission is to lead the continuity, modernisation, and AI-enablement of OrderYOYO\u2019s data platform during a critical scaling phase.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-15T08:02:08.603176"
+    },
+    "score": 2,
+    "reason": "Lead Data & AI Platform Engineer \u2014 primarily about building/modernizing data infrastructure and platforms. 'AI-enablement' here means data platform capabilities, not developer tool adoption. Requires deep data engineering background.",
+    "embed_sim": 0.22148892283439636,
+    "ai_native_score": 0.4764746129512787
+  },
+  {
+    "job": {
+      "id": "344427ea089b403a252bad1ccae056af",
+      "title": "88.000+ vacatures voor Ai Dutch en werk: 27 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/jobs?from=mobRdr&q=Ai+Dutch",
+      "snippet": "Some of these duties will include heating and cooling of air and water, power supply, generators, UPS systems, electrical distribution and control and monitoring systems. You regularly help inspect, maintain and repair various data center systems such as piping and non-critical electrical or mechanical system components). You provide daily assistance to senior technicians as you read blueprints/schematics, conduct tours of systems and assess their working order.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-15T08:02:12.870893"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page with unrelated snippet about data center maintenance. Not a job listing.",
+    "embed_sim": 0.21645855903625488,
+    "ai_native_score": 0.5164902210235596
+  },
+  {
+    "job": {
+      "id": "332330dc4ca2f38626c6b763eb729d77",
+      "title": "Vacatures voor Ai Developers | Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/browsejobs/Softwareontwikkeling/Ai-Developers",
+      "snippet": "Ai Developers vacatures. Indeed.nl. \u00e9\u00e9n klik. alle vacatures.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-15T08:02:28.278961"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job browse page, not an actual job listing. No substantive content.",
+    "embed_sim": 0.3665303587913513,
+    "ai_native_score": 0.6987243890762329
+  },
+  {
+    "job": {
+      "id": "bedaef4ceaf4090a696aba33825994b1",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 11 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=af46fede39eb3ab3",
+      "snippet": "Experience with outcome-based OKRs, hypothesis-driven development, and iterative delivery. Awareness of EU AI Act implications and responsible AI practices in a personal-data-intensive context.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-15T08:02:28.279001"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results aggregation page. Not a specific job listing with meaningful details.",
+    "embed_sim": 0.426187664270401,
+    "ai_native_score": 0.7167593836784363
+  },
+  {
+    "job": {
+      "id": "94005c72011afbab9e5568c59c5b1d4f",
+      "title": "SevenLab zoekt een AI solutions engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-engineer-at-sevenlab-4437253937",
+      "snippet": "2 days ago \u00b7 Juist daarom zoeken we een engineer die moderne tooling slim inzet en tegelijk scherp blijft op kwaliteit, structuur en productiegeschiktheid. Daarom zoeken we geen traditionele developer die vooral tickets wegwerkt, maar een AI solutions engineer: iemand die technisch sterk is, graag bouwt, snel kan schakelen en met AI-tools als versneller ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-15T08:02:33.523526"
+    },
+    "score": 6,
+    "reason": "AI Solutions Engineer at SevenLab \u2014 mentions leveraging modern tooling and working with quality/structure, suggesting DevEx/engineering-focused role. However, 'solutions engineer' typically implies building AI products/solutions rather than championing adoption within teams. Location (Amsterdam) is acceptable (near Utrecht). Ambiguous scope keeps score moderate.",
+    "embed_sim": 0.36571189761161804,
+    "ai_native_score": 0.6496241688728333
+  },
+  {
+    "job": {
+      "id": "4153bb65cab61731d475462d32b0d4f6",
+      "title": "AXVECO zoekt een Senior AI Consultant in Utrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-consultant-at-axveco-4436311456",
+      "snippet": "Jul 2, 2026 \u00b7 Ben jij een ervaren technisch AI-specialist met affiniteit voor Generative AI? Bij AXVECO werk je aan concrete AI-oplossingen voor uiteenlopende klanten en draag je bij aan de opbouw en het onderhoud van onze interne tooling. AXVECO is een onafhankelijk AI-adviesbureau, actief in Nederland en internationaal. Wij leveren inhoudelijk sterk werk en hechten waarde aan een directe, professionele ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-15T08:02:33.523597"
+    },
+    "score": 4,
+    "reason": "Senior AI Consultant at AXVECO in Utrecht \u2014 good location match and consulting fits 'advisory' criteria. However, role description emphasizes 'concrete AI-solutions for various clients' and building/maintaining internal tooling, suggesting product/solution building rather than helping dev teams adopt existing AI tools. 'AI-specialist' language suggests generalist AI expertise needed beyond web dev background.",
+    "embed_sim": 0.41753262281417847,
+    "ai_native_score": 0.7525768280029297
+  },
+  {
+    "job": {
+      "id": "ef41831b7c86b2914163034ffa27963f",
+      "title": "Mistral zoekt een Applied AI Engineer, Site Reliability ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-site-reliability-engineer-emea-at-mistral-ai-4421331156",
+      "snippet": "About You Fluent in English 5+ years in SRE, Production Engineering, or DevOps, with a record of shipping tooling Strong multi-tenant Kubernetes fluency, namespace segmentation, network policy, RBAC, admission control, operations at scale On-call discipline: incident response, blameless post-mortem culture, runbook-first mindset",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-15T08:02:33.523613"
+    },
+    "score": 1,
+    "reason": "Applied AI Engineer (SRE/DevOps) at Mistral \u2014 infrastructure/platform engineering role requiring 5+ years SRE/production engineering. While 'tooling' is mentioned, this is about shipping infrastructure tools at scale (Kubernetes, networks), not helping teams use AI tools. Wrong specialization and likely location not specified.",
+    "embed_sim": 0.3314819633960724,
+    "ai_native_score": 0.5678223967552185
+  },
+  {
+    "job": {
+      "id": "ef6cb2978719b22812718ffc6c167fe4",
+      "title": "getlandy zoekt een AI Engineer (LLMs / RAG / Knowledge ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-llms-rag-knowledge-systems-at-getlandy-4382177262",
+      "snippet": "Opportunity matching becomes inefficient. Landy is building the AI-native identity layer for professional talent. We transform fragmented career data \u2014 projects, work history, outputs, decisions, and context \u2014 into a structured professional identity graph that represents what someone has actually done and what they\u2019re capable of.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-15T08:02:37.979885"
+    },
+    "score": 1,
+    "reason": "AI Engineer at getlandy building LLMs/RAG/Knowledge systems \u2014 clearly a product engineering role focused on building AI systems (identity graphs, career data structures). Requires deep ML/AI expertise. Not about enabling team adoption of existing tools.",
+    "embed_sim": 0.47190040349960327,
+    "ai_native_score": 0.5696929693222046
+  },
+  {
+    "job": {
+      "id": "0b82a4c647a00f9e560c9a095b7ad960",
+      "title": "Do Data zoekt een AI engineer in 's-Hertogenbosch | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/a\u0131-engineer-at-do-data-4432097981",
+      "snippet": "Doel van de rol Do Data bouwt en beheert de platformen die organisaties grip op hun data geven. Als AI Engineer breng je daar een nieuwe laag aan toe: je maakt toepassingen rondom large language models en generatieve AI die boven op de bestaande infrastructuur draaien. Je zorgt dat die toepassingen verder komen dan een proof of concept en betrouwbaar onderdeel worden van de ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-15T08:02:37.979934"
+    },
+    "score": 2,
+    "reason": "Do Data builds data platforms and LLM applications on infrastructure. Role focuses on building AI applications (generative AI, LLMs) rather than enabling teams to adopt AI tools. Requires ML/infrastructure engineering expertise, not AI adoption/enablement. Also location ('s-Hertogenbosch) is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.22426508367061615,
+    "ai_native_score": 0.567103385925293
   }
 ]
