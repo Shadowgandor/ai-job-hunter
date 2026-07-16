@@ -3912,12 +3912,12 @@
       "url": "https://werkeninai.nl/ai-integration-automation-engineer-eo/",
       "snippet": "Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-16T07:59:58.948158"
+      "date_found": "2026-07-16T08:07:50.658861"
     },
-    "score": 6,
-    "reason": "AI Integration & Automation Engineer at EO in Hilversum (good location, 20km from Utrecht). Likely involves implementing AI workflows, but unclear if focused on team enablement vs. internal automation. Lacks detail on whether this is about helping teams adopt AI tools or building AI systems.",
-    "embed_sim": 0.46982502937316895,
-    "ai_native_score": 0.6679246425628662
+    "score": 5,
+    "reason": "AI Integration & Automation Engineer at EO in Hilversum. Good location (Hilversum is within 40km of Utrecht). But 'Integration & Automation Engineer' suggests technical implementation of AI systems rather than enabling developer team adoption. Unclear if this is about tooling adoption or building automation pipelines.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
   },
   {
     "job": {
@@ -21902,5 +21902,357 @@
     "reason": "Do Data builds data platforms and LLM applications on infrastructure. Role focuses on building AI applications (generative AI, LLMs) rather than enabling teams to adopt AI tools. Requires ML/infrastructure engineering expertise, not AI adoption/enablement. Also location ('s-Hertogenbosch) is outside preferred 40km radius of Utrecht.",
     "embed_sim": 0.22426508367061615,
     "ai_native_score": 0.567103385925293
+  },
+  {
+    "job": {
+      "id": "b15cd7c77007a199a3ed8ae59145dfd5",
+      "title": "Vacature voor een functie als Service Tooling Engineer... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/service-tooling-engineer-tesla-JV_IC3038541_KO0,24_KE25,30.htm?jl=1010188194582",
+      "snippet": "(Technical Publications, Service Tooling Engineering, Body Repair Tooling, Service Development and Tooling Readiness). This position is a key contributor to our Service Organization and is based in Tilburg NL.Vacatures voor Service Tooling Engineer in Tilburg.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:41.988258"
+    },
+    "score": 0,
+    "reason": "Service Tooling Engineer at Tesla in Tilburg - automotive/mechanical tooling role, completely unrelated to AI adoption or software development practices. Wrong domain entirely.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "f3d39f541e54869dcf29152eecb49c27",
+      "title": "Vacature voor een functie als Project Engineer bij Novartis... | Glassdoor",
+      "company": "Novartis...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/project-engineer-novartis-JV_IC3038732_KO0,16_KE17,25.htm?jl=1010107745430&cs=1_403f34a7&s=58&t=SR&pos=104&src=GD_JOB_AD&guid=0000019f5a48157c9096983f9033d14b&jobListingId=1010107745430&ao=1136043&vt=w&jrtk=5-yul1-0-1jtd4g5dkl53v800-1ecb6a1de98f77da&cb=1783926101669&ctt=1783926274071",
+      "snippet": "Summary #LI-Hybrid Location: Baarle Nassau, Netherlands Relocation Support: This role is based in Baarle Nassau, Netherl... Bekijk deze en vergelijkbare vacatures op Glassdoor.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:41.988299"
+    },
+    "score": 0,
+    "reason": "Project Engineer at Novartis in Baarle Nassau - pharmaceutical/life sciences engineering role. No connection to AI tooling adoption or software development. Wrong domain and location (far from Utrecht).",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "0ca059931642ec0776d8e98f0bd6db5d",
+      "title": "205 vacatures voor senior software engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/huntingdon-senior-software-engineer-vacatures-SRCH_IL.0,10_IC2662560_KO11,35.htm",
+      "snippet": "Senior Software Engineer - AI Tooling. Cambridge, East of England, England.Collaborate with engineers, technicians, and project managers to deliver high\u2011quality design solutions. Contribute to the continuous improvement of tools, standards, and digital design practices.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:41.988316"
+    },
+    "score": 6,
+    "reason": "Senior Software Engineer - AI Tooling in Cambridge, UK. Title suggests AI tooling focus which matches candidate's interest, but location is Cambridge (outside Netherlands, far from Utrecht). Without full job details, unclear if role is about building AI tools vs. enabling teams to use them. Title is promising but geography is a dealbreaker.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "5d6c66f528dceb2c98651f717f776ad2",
+      "title": "Vacature voor een functie als Cost Engineer bij TMC in... | Glassdoor",
+      "company": "Tmc In...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/cost-engineer-tmc-JV_IC3043137_KO0,13_KE14,17.htm?jl=1010195466354",
+      "snippet": "As a Cost Engineer, you are responsible for independently evaluating, calculating, and preparing quotes for complex machining products. You analyze quotation requests for completeness and manufacturability, determine the most efficient production routing...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:41.988330"
+    },
+    "score": 0,
+    "reason": "Cost Engineer at TMC - manufacturing/machining cost analysis role. Completely unrelated to software development, AI adoption, or engineering practices. Wrong domain.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "f02048d4d2dfab85b6b45a5f21d10ec7",
+      "title": "155 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Den Haag",
+      "url": "https://www.glassdoor.nl/Vacature/guild-vacatures-SRCH_KE0,5.htm",
+      "snippet": "Vacature: AI Engineer - View vacancy. Den Haag.Flexible working hours, the possibility to work parttime (32 or 36 hours) and the possibility of working from home. Extensive relocation package for international candidates. A good pension scheme.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:46.695102"
+    },
+    "score": 2,
+    "reason": "AI Engineer in Den Haag - location is acceptable (within 40km of Utrecht), but snippet provides no details about role focus. Could be ML/data science (which candidate doesn't want) or AI tooling (which candidate does want). Insufficient information and generic title suggests likely not a match.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "2e456046a928172369ab7df4f2363d04",
+      "title": "glassdoor.nl/Job/netherlands-java-developer-jobs-SRCH_IL.0,11_IN...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/netherlands-java-developer-jobs-SRCH_IL.0,11_IN178_KO12,26.htm",
+      "snippet": "Vacatures bekijken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:46.695111"
+    },
+    "score": 0,
+    "reason": "Java Developer jobs search page - generic search results page, not a specific job listing. No job content, no location, no details. Cannot evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "ab29039ba40a13670dd6557ab2d88e9e",
+      "title": "glassdoor.nl/Job/architect-designer-jobs-SRCH_KO0,18.htm",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/architect-designer-jobs-SRCH_KO0,18.htm",
+      "snippet": "Vacatures bekijken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-16T08:06:46.695119"
+    },
+    "score": 0,
+    "reason": "Architect/Designer jobs search page - generic search results page, not a specific job listing. No job content, no location, no details. Cannot evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "74b32b9b77899c80dd0f06e43c24849e",
+      "title": "AI Backend engineer in Amsterdam bij ABN AMRO | Magnet.me | #1057703 (nl)",
+      "company": "Abn Amro",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1057703/ai-backend-engineer",
+      "snippet": "3 days ago - You take ownership from initial cloud architecture design to production deployment, and ensure systems continue to run smoothly. You move quickly from idea to working system without needing heavy direction.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-16T08:06:55.183059"
+    },
+    "score": 3,
+    "reason": "AI Backend Engineer at ABN AMRO in Amsterdam. Location is good (within 40km of Utrecht). However, 'backend engineer' suggests building systems/infrastructure rather than championing AI adoption among teams. Likely requires deep ML/backend expertise and cloud architecture knowledge rather than enablement/coaching focus. Wrong angle.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "b87ee718c092abc8da4753f06e8bc44f",
+      "title": "Onderzoeksstage AI, Design Research & Innovatie in Zwolle bij De Nieuwe Zaak | Magnet.me | #1057295 (nl)",
+      "company": "De Nieuwe Zaak",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1057295/onderzoeksstage-ai--design-research---innovatie",
+      "snippet": "6 days ago - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Zoek jij een grensverleggende onderzoeksstage of afstudeerstage op het gebied van AI en Design? Wil jij ontdekken hoe kunstmatige intelligentie de toekomst van het creatieve proces vormgeeft?",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-16T08:06:55.183131"
+    },
+    "score": 0,
+    "reason": "Onderzoeksstage (Research Internship) in Zwolle - explicitly an internship/stage position. Candidate explicitly doesn't want junior/intern/traineeship roles. Also location (Zwolle) is outside 40km radius of Utrecht. Disqualified on both counts.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "db3cc4e535bbf5d37445e477e793c05d",
+      "title": "3.000+ vacatures voor Innovatie Ai en werk: 7 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-innovatie-ai-vacatures.html",
+      "snippet": "Innovatie Ai vacatures. Ai Engineer, Product Owner, Architect en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-16T08:06:58.860681"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page for 'Innovation AI' vacancies - not a specific job listing. No company, location, or job details provided. Cannot evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "8297ce03b1e267cc9444f2764ccbf66e",
+      "title": "Back-end Developer in Den Haag bij SDU | Magnet.me",
+      "company": "Sdu",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/871317/back-end-developer",
+      "snippet": "Back-end developer Wij zoeken een gedreven back-end developer met interesse in AI die ons energieke en innovatieve team komt versterken. Samen bouwen we aan de nieuwe generatie onderzoeksmogelijkheden voor advocaten en fiscalisten. Generative AI is\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-16T08:07:02.663991"
+    },
+    "score": 2,
+    "reason": "Back-end developer role building legal research tools. AI interest mentioned but fundamentally a backend development position, not AI adoption/enablement. No indication of developer experience or tooling focus.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "931d7519d4c2813be2a1a94c63e786b1",
+      "title": "Senior Software Engineer - Developer Experience in Amsterdam ...",
+      "company": "Developer Experience in Amsterdam ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/915230/senior-software-engineer---developer-experience",
+      "snippet": "Strong passion for improving developer workflows, productivity and infrastructure. Good understanding of the software development lifecycle and challenges faced by developers operating at scale. Experience building internal developer tools, CI/CD systems, or related infrastructure.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-16T08:07:02.664040"
+    },
+    "score": 8,
+    "reason": "Senior Software Engineer - Developer Experience in Amsterdam. Strong match: DevEx focus, developer workflows/productivity, CI/CD infrastructure. Right seniority level. Amsterdam is within acceptable range. Main uncertainty: unclear if AI tooling adoption is central to role.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "cd94d2819e16fb2436b5bcd6c334a946",
+      "title": "Senior Software Developer (AI) in Utrecht bij Conclusion | Magnet.me | #1059116 (nl)",
+      "company": "Conclusion",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1059116/senior-software-developer--ai-",
+      "snippet": "1 day ago - Werken als Senior Software Developer (AI) bij Conclusion Enablement De toekomst van softwareontwikkeling is AI-gedreven. Bij Conclusion Enablement zoeken we een Senior Software Developer (AI) die moderne cloud-native oplossingen bouwt \u00e9n AI ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-16T08:07:19.046700"
+    },
+    "score": 4,
+    "reason": "Senior Software Developer (AI) in Utrecht at Conclusion. Right location and seniority, but snippet emphasizes 'building cloud-native solutions' and 'AI-driven' development. Likely focuses on building AI systems rather than enabling teams to adopt AI tools. Needs more clarity but suspect mismatch.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "9ae71689c387cf51cb4f083dec0ea956",
+      "title": "Robeco - vacatures - 16 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/Robeco-vacatures",
+      "snippet": "Robeco vacatures. Sales Manager, Purchasing Specialist, Product Owner en meer op Indeed.com.Toon alle vacatures in Rotterdam. Zoeken op salaris: Senior AI and Data Engineer salarissen in Rotterdam.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-16T08:07:29.899654"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page listing multiple positions (Sales Manager, Purchasing Specialist, Product Owner). Not a specific job listing. Location is Rotterdam (too far). Cannot evaluate.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "fbac08538447d4566c6391827ae07968",
+      "title": "100+ vacatures voor SEO Specialist en werk: 7 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/SEO-Specialist-vacatures",
+      "snippet": "SEO Specialist, Content Medewerker en meer op Indeed.com.Is jouw interesse gewekt? Ga dan samen samen met ons de uitdaging aan en solliciteer snel! ** Acquisitie naar aanleiding van deze vacature stellen wij niet op prijs **.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-16T08:07:29.899687"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page for SEO Specialist positions. Not a specific job listing. Completely unrelated to candidate's profile.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "f96dc811e3cd388cc80e7d5414e67668",
+      "title": "ABN AMRO Bank N.V. zoekt een Head of AI ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-ai-analytics-model-risk-at-abn-amro-bank-n-v-4410525724",
+      "snippet": "Working environment The AI & Analytics Model Risk department is part of ABN AMRO\u2019s Model Risk Management & Model Validation (MRM&MV) department. There are three other model risk teams within the MRM&MV department: Financial Markets Model Risk, Retail Credit Model Risk, Non-Retail Credit Model Risk.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:37.619980"
+    },
+    "score": 1,
+    "reason": "Head of AI & Analytics Model Risk at ABN AMRO. This is a model risk management role focused on financial models and regulatory compliance, not developer experience or AI tool adoption. Requires deep data science/ML knowledge. Wrong domain entirely.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "ab2ce0eac7abf7e0b17c4be6051482d5",
+      "title": "Airwallex zoekt een Workplace Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/workplace-specialist-at-airwallex-4408431052",
+      "snippet": "You use AI to work smarter and solve problems faster. Here, you\u2019ll tackle complex, high\u2011visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let\u2019s build what\u2019s next. What You\u2019ll Do We are seeking a highly organised and detail-oriented Workplace Assistant.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:37.620031"
+    },
+    "score": 0,
+    "reason": "Workplace Specialist at Airwallex. HR/admin focused role. Unrelated to candidate's software development background and AI adoption mission.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "6deed93a575a1d45977b5d9bd3a11fe9",
+      "title": "Organon Northwest Europe zoekt een AI & Technology ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-technology-specialist-ii-at-organon-northwest-europe-4438876318",
+      "snippet": "6 days ago \u00b7 You will actively help the business discover what is possible, experiment with AI-powered ways of working, and translate that potential into concrete, measurable results.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:37.620045"
+    },
+    "score": 7,
+    "reason": "AI & Technology Specialist II at Organon Northwest Europe. Good match: helping business discover AI possibilities, experimenting with AI-powered ways of working, translating potential into measurable results. Consultant/champion role. Uncertainty: location unknown, seniority level unclear from snippet.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "6e5097fed2a901d56882394094456ea7",
+      "title": "Accenture the Netherlands zoekt een Internship \u2013 Digital ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-\u2013-digital-product-strategy-song-at-accenture-the-netherlands-4409710666",
+      "snippet": "Build Custom AI Agents that drive Product Creation Vibe Coding The Reinvention of Human-AI Interaction Working Internship: As a working intern, you\u2019ll become part of our day-to-day consultancy environment and contribute directly to our work, innovation initiatives, and capability development within the team.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:37.620064"
+    },
+    "score": 0,
+    "reason": "Internship \u2013 Digital Product Strategy at Accenture. Explicitly an internship/junior position. Candidate explicitly does not want junior/intern roles. Does not match seniority requirement.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "89078bb45a5592cee6ccb0c30b22e02f",
+      "title": "Meer dan 1.000 vacatures voor Junior Java Developer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/junior-java-developer-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Ontvang meldingen over nieuwe vacatures voor Junior Java Developer in Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:55.783879"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing 1000+ junior Java developer positions, not an actual job listing. Not accepting direct applications.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "fb40a73a342b69141bbe8b8aec631521",
+      "title": "9 vacatures voor Administrative in Trabzon, Turkije",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/administrative-jobs-trabzon?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures. We doen ons best om alle filters terug te halen, maar in de tussentijd kunt u ze rechtstreeks in uw zoekopdracht typen om uw...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:07:55.783923"
+    },
+    "score": 0,
+    "reason": "This is a search results page for administrative positions in Trabzon, Turkey. Not an actual job listing and wrong location/field.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "7ae235bb9cc22ab81069ff37e416d7fb",
+      "title": "Meer dan 1.000 vacatures voor Elektrotechniek in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/elektrotechniek-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Field Service Engineer (Solar & Battery Systems). Emaldo Power.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-16T08:08:01.604599"
+    },
+    "score": 0,
+    "reason": "This is a search results page for electrical engineering positions in the Netherlands. Not an actual job listing and wrong domain.",
+    "embed_sim": 0.0,
+    "ai_native_score": 0.0
   }
 ]
