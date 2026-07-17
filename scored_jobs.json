@@ -1864,12 +1864,12 @@
       "url": "https://nl.indeed.com/q-mojogear-vacatures.html",
       "snippet": "Alle vacatures voor MOJOGEAR BV - Goirle vacatures - vacatures voor Specialist (m/v) in Goirle bekijken. Zoeken op salaris: Vacature: AI & Workflow Automation Specialist (Projectbasis) salarissen in Goirle.",
       "source": "ddg:indeed",
-      "date_found": "2026-05-04T08:27:04.341487"
+      "date_found": "2026-07-17T08:04:19.539574"
     },
-    "score": 0,
-    "reason": "Location in Goirle (southeast Netherlands, far from Utrecht); vague job board listing without substantive role details",
-    "embed_sim": 0.16023918986320496,
-    "ai_native_score": 0.5340531468391418
+    "score": 1,
+    "reason": "Generic Indeed search results page. Snippet mentions 'AI & Workflow Automation Specialist' in Goirle but no actual job description, and Goirle is too far from Utrecht. Cannot assess relevance from this aggregation page.",
+    "embed_sim": 0.16023923456668854,
+    "ai_native_score": 0.5340532660484314
   },
   {
     "job": {
@@ -22254,5 +22254,165 @@
     "reason": "This is a search results page for electrical engineering positions in the Netherlands. Not an actual job listing and wrong domain.",
     "embed_sim": 0.0,
     "ai_native_score": 0.0
+  },
+  {
+    "job": {
+      "id": "ff3d2b901e0c46dd30c6da2eca2428ce",
+      "title": "Junior AI Consultant in Rotterdam bij Riverwise | Magnet.me | #645232 (nl)",
+      "company": "Riverwise",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/645232/junior-ai-consultant",
+      "snippet": "Je hebt een achtergrond in AI/data-technieken met gezonde interesse in business en/of een studie achtergrond in business/economie/econometrie met affiniteit met en interesse in AI/data-technieken ... Informele activiteiten zoals borrels, barbecues, het kerstdiner, sportevenementen en jaarlijkse skitrip. Twijfel je nog of heb je nog een aantal vragen? Maak dan eerst kennis met \u00e9\u00e9n van onze consultants via een Virtual Coffee. Stuur een bericht naar nicoline.hoekstra@riverwise.nl en we plannen snel",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-17T08:03:45.079763"
+    },
+    "score": 2,
+    "reason": "Junior position with required background in AI/data techniques or econometrics. Candidate is senior web developer, not junior, and role appears to require data science background, not AI adoption enablement.",
+    "embed_sim": 0.318695068359375,
+    "ai_native_score": 0.5615995526313782
+  },
+  {
+    "job": {
+      "id": "13bda3ea9b33faca22e12804fe76e60e",
+      "title": "Wave5 zoekt een AI Agent Consultant in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-agent-consultant-at-wave5-4304983166",
+      "snippet": "You\u2019ll work at the intersection of data, AI, and user experience to bring copilots and AI agents to life\u2014enhancing productivity, decision-making, and customer interaction. You will be part of a collaborative, hands-on consulting team that translates real business problems into powerful AI-driven solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-17T08:03:58.315591"
+    },
+    "score": 6,
+    "reason": "AI Agent Consultant role at Wave5 involves translating business problems into AI-driven solutions and working with copilots/AI agents. Aligns with AI enablement but 'consultant' framing and Amsterdam location are acceptable. Some ambiguity on whether this is consulting for clients vs. internal AI adoption coaching.",
+    "embed_sim": 0.44970598816871643,
+    "ai_native_score": 0.637224018573761
+  },
+  {
+    "job": {
+      "id": "459cc28651e5cbea3e32736506d601c2",
+      "title": "bloomon zoekt een Range & Merchandising Working Student in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/range-merchandising-working-student-at-bloomon-4427973414",
+      "snippet": "Jun 12, 2026 \u00b7 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-17T08:03:58.315607"
+    },
+    "score": 0,
+    "reason": "Working Student position in Range & Merchandising. Completely unrelated to candidate's profile and seniority level.",
+    "embed_sim": 0.3739244341850281,
+    "ai_native_score": 0.5636230111122131
+  },
+  {
+    "job": {
+      "id": "8e40bc58ffcbf723512ff9e3f7ed1dd2",
+      "title": "Gartner zoekt een VP Analyst \u2013 Analyst, CIO Enterprise AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/vp-analyst-\u2013-analyst-cio-enterprise-ai-strategy-at-gartner-4438314513",
+      "snippet": "Jul 10, 2026 \u00b7 Experience developing enterprise artificial intelligence (AI) strategies connected with AI value realization programs. Track record as a business and technology strategy executive and thought leader. Proven ability to influence business executives and Board of Directors by translating complex data into actionable insights.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-17T08:03:58.315639"
+    },
+    "score": 3,
+    "reason": "VP Analyst role at Gartner focused on enterprise AI strategy. While strategic, this is analyst/research position, not hands-on AI adoption enablement. Requires executive background and Board-level influence, different from candidate's dev team coaching focus.",
+    "embed_sim": 0.38352927565574646,
+    "ai_native_score": 0.660958468914032
+  },
+  {
+    "job": {
+      "id": "8768d2a765232aaa502c3b8327bff03e",
+      "title": "Meer dan 1.000 vacatures voor Elektrotechniek in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/elektrotechniek-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Discipline Specialist hoogspanning. Tata Steel Nederland. IJmuiden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-17T08:04:02.154154"
+    },
+    "score": 0,
+    "reason": "Generic search results page for electrical engineering jobs in Netherlands. Not an actual job listing. No relevant content.",
+    "embed_sim": 0.1794477105140686,
+    "ai_native_score": 0.6657813191413879
+  },
+  {
+    "job": {
+      "id": "2a6102441af0323efd6a8129bcf36f8f",
+      "title": "Meer dan 1.000 vacatures voor Gmb in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/gmb-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures. We doen ons best om alle filters terug te halen, maar in de tussentijd kunt u ze rechtstreeks in uw zoekopdracht typen om uw...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-17T08:04:02.154180"
+    },
+    "score": 0,
+    "reason": "Generic search results page for 'Gmb' jobs. Not an actual job listing. No relevant content.",
+    "embed_sim": -0.0027296682819724083,
+    "ai_native_score": 0.435959130525589
+  },
+  {
+    "job": {
+      "id": "b78b8c515b6ea2a46dad83a07f9cda30",
+      "title": "Vacature AI-Developer bij The Automation Group | ai.nl",
+      "company": "The Automation Group",
+      "location": "",
+      "url": "https://www.ai.nl/artikelen/vacature-ai-developer-bij-the-automation-group",
+      "snippet": "The Automation Group zoekt een ambitieuze AI-developer voor het bouwen van applicaties op basis van Large Language Models zoals GPT en Retrieval Augmented Generation. Remy Gieling Gepubliceerd 7 februari 2024 Bijgewerkt 15 juni 2026 2 min lezen.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-17T08:04:24.763818"
+    },
+    "score": 2,
+    "reason": "AI-Developer role focused on building LLM applications and RAG systems. This is building AI products/systems, not enabling teams to adopt AI tools. Requires technical AI/ML expertise, opposite of candidate's desired focus.",
+    "embed_sim": 0.4115898609161377,
+    "ai_native_score": 0.7577601075172424
+  },
+  {
+    "job": {
+      "id": "ef7f903bf8275c33c29664be0ccd7fe4",
+      "title": "927 vacatures voor technology manager in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-technology-manager-vacatures-SRCH_IL.0,9_IN178_KO10,28.htm",
+      "snippet": "Meer vacatures weergeven. Vacature-alert maken. Terug naar Zoeken.The ability to manage and execute a full IST and previous experience in the past is essential. The development of all required IST documentation and to manage the completion of same on a digital platform.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-17T08:04:24.763846"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor search results page for 'technology manager' positions. Not an actual job listing. No relevant content provided.",
+    "embed_sim": 0.12410347163677216,
+    "ai_native_score": 0.5280446410179138
+  },
+  {
+    "job": {
+      "id": "4913e1912a2297ccf5840236b20929ac",
+      "title": "26.000+ vacatures voor English Speaking en werk: 5 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/English-Speaking-vacatures",
+      "snippet": "English Speaking vacatures. Order Picker, Project Manager, Logistics Associate en meer op Indeed.com.Help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. If you pass that assessment, you'll receive an email\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-17T08:04:58.693270"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results aggregation page. Mentions training AI chatbots remotely but this appears to be data labeling work, not AI adoption enablement. No substantive job details provided.",
+    "embed_sim": 0.27631962299346924,
+    "ai_native_score": 0.6356980204582214
+  },
+  {
+    "job": {
+      "id": "6a852194b0cf4256e1ffcf0cf328874d",
+      "title": "1.000+ vacatures voor Engineer en werk in Amsterdam 11 juni 2026",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Engineer-vacatures-in-Amsterdam",
+      "snippet": "Werkgevers / Plaats vacature. Begin van hoofdcontent.In this role, you combine strong software engineering capabilities with an AI-first way of working. You use AI coding agents as a force multiplier while\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-17T08:04:58.693284"
+    },
+    "score": 0,
+    "reason": "Listing is a job board index/search results page, not an actual job posting. No specific role, company, or application details available. Cannot evaluate as a genuine opportunity.",
+    "embed_sim": 0.32719144225120544,
+    "ai_native_score": 0.7170805335044861
   }
 ]
