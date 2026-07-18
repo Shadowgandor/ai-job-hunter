@@ -22414,5 +22414,133 @@
     "reason": "Listing is a job board index/search results page, not an actual job posting. No specific role, company, or application details available. Cannot evaluate as a genuine opportunity.",
     "embed_sim": 0.32719144225120544,
     "ai_native_score": 0.7170805335044861
+  },
+  {
+    "job": {
+      "id": "f341628d2a715d9edc1cb6db8885e886",
+      "title": "Vacature voor een functie als Product Engineer... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/product-engineer-fmd-hybrid-x-cago-JV_IC3054174_KO0,27_KE28,34.htm?jl=1010199853105",
+      "snippet": "The AI-augmented generalist: You embrace the compression of tech roles. You are excited to own both the UX design thinking and the frontend execution, using modern AI tools to accelerate your workflow.Vacatures voor Product Engineer (f/m/d) - Hybrid in Roermond.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-18T07:43:35.133984"
+    },
+    "score": 0,
+    "reason": "Location is Roermond (160+ km from Utrecht), far outside acceptable range. Generic product engineer role with AI tools mentioned but no indication of AI adoption/enablement focus.",
+    "embed_sim": 0.3459165096282959,
+    "ai_native_score": 0.5680538415908813
+  },
+  {
+    "job": {
+      "id": "9dd90899cb9c4903859aa300f26f8253",
+      "title": "Meer dan 1.000 vacatures voor Embedded Software Engineer in...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/embedded-software-engineer-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Ontvang meldingen over nieuwe vacatures voor Embedded Software Engineer in Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-18T07:43:45.624615"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. No actual job to evaluate.",
+    "embed_sim": 0.26275014877319336,
+    "ai_native_score": 0.6664947271347046
+  },
+  {
+    "job": {
+      "id": "e352c3757c8d3d21ec77c6de7d92b378",
+      "title": "146 vacatures voor Service Ingenieur in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/service-ingenieur-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Field service engineer. Tect. Overijssel, Nederland. Wees een van de eerste sollicitanten.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-18T07:43:45.624632"
+    },
+    "score": 0,
+    "reason": "Search results page for field service engineers. Not relevant to candidate's profile or AI adoption focus.",
+    "embed_sim": 0.18532750010490417,
+    "ai_native_score": 0.5155779123306274
+  },
+  {
+    "job": {
+      "id": "b32968db34026c53e84e6acc922e1a7a",
+      "title": "Meer dan 1.000 vacatures voor Ict Expert in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/ict-expert-jobs?f_AL=true",
+      "snippet": "Desktop Support Engineer \u2013 Elite Quant Fund \u2013 Amsterdam - Up to \u20ac100,000 Starting base + Exceptional benefits/bonus package.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-18T07:43:45.624641"
+    },
+    "score": 0,
+    "reason": "Search results page aggregator. Desktop Support Engineer in Amsterdam mentioned but no details on AI adoption or relevance to candidate's goals.",
+    "embed_sim": 0.25876399874687195,
+    "ai_native_score": 0.6079968810081482
+  },
+  {
+    "job": {
+      "id": "edc630e6926370e904895ba8fc618a74",
+      "title": "100+ vacatures voor SEO Specialist en werk: 17 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-seo-specialist-vacatures.html",
+      "snippet": "seo specialist vacatures. Sorteer op: relevantie - datum.Tuinmeubelshop is de toonaangevende specialist in buitenleven van Nederland. Een professioneel marketingteam met specialisten binnen verschillende disciplines.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-18T07:43:51.024773"
+    },
+    "score": 0,
+    "reason": "SEO specialist search results page. Completely unrelated to AI adoption, engineering, or development roles.",
+    "embed_sim": 0.14890159666538239,
+    "ai_native_score": 0.5289684534072876
+  },
+  {
+    "job": {
+      "id": "83d6c3d57752826d8bcd3ef064c5cd7e",
+      "title": "Tomoro hiring Australia AI Adoption Specialist in... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://au.linkedin.com/jobs/view/australia-ai-adoption-specialist-at-tomoro-4400557911?position=18&pageNum=0",
+      "snippet": "As an AI Adoption Specialist, your job is to help enterprise teams work better with AI by changing how work gets done.Get notified about new Adoption Specialist jobs in Melbourne, Victoria, Australia.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-18T07:43:51.024798"
+    },
+    "score": 0,
+    "reason": "Location is Australia (Melbourne). Far outside Netherlands/Utrecht region. Candidate explicitly requires roles within 40km of Utrecht.",
+    "embed_sim": 0.33456650376319885,
+    "ai_native_score": 0.6565064787864685
+  },
+  {
+    "job": {
+      "id": "99aa6a77d0c244289fc2544160dbf381",
+      "title": "Meer dan 1.000 vacatures voor Management Consultant in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/management-consultant-jobs?f_AL=true",
+      "snippet": "AI Business Strategy Manager. ITDS Business Consultants. Amsterdam Area 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-18T07:44:32.199540"
+    },
+    "score": 0,
+    "reason": "Search results aggregator page. AI Business Strategy Manager mentioned in Amsterdam but no actual job details provided to evaluate.",
+    "embed_sim": 0.22447100281715393,
+    "ai_native_score": 0.616672694683075
+  },
+  {
+    "job": {
+      "id": "a00c288c0387b5fe2a74135acc3a449a",
+      "title": "Akqa vacatures. Designer, Ai Developer en meer op Indeed.com",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/Akqa-vacatures",
+      "snippet": "Toon alle vacatures in Amsterdam. Zoeken op salaris: Developer Intern (AI) salarissen in Amsterdam.Working at the intersection of code and creativity, they collaborate in a multidisciplinary environment to develop labours of love that delight customers and deliver results for clients.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-18T07:44:41.030840"
+    },
+    "score": 0,
+    "reason": "Search results page for AKQA job listings. Developer Intern (AI) mentioned but candidate explicitly excludes junior/intern positions and requires seniority level.",
+    "embed_sim": 0.29896652698516846,
+    "ai_native_score": 0.67940753698349
   }
 ]
