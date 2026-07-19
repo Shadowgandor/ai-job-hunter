@@ -1704,10 +1704,10 @@
       "url": "https://nl.linkedin.com/jobs/view/ai-automation-engineer-at-samotics-4389489867",
       "snippet": "The Role \ud83d\udc65 We are looking for an AI Automation Engineer to build the internal systems and workflows that make Samotics more effective. In this role, you will identify high-impact opportunities for automation across the business and turn them into scalable solutions using GenAI, APIs, internal tooling, and lightweight software.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-03T07:58:17.154157"
+      "date_found": "2026-07-19T08:10:45.148010"
     },
-    "score": 6,
-    "reason": "AI Automation Engineer building internal systems and workflows using GenAI and APIs. Good alignment with AI enablement and automation. Leiden is reasonable proximity to Utrecht. However, 'scalable solutions' language suggests some technical depth that may lean toward building rather than enabling.",
+    "score": 3,
+    "reason": "Role focuses on building internal automation systems and workflows using GenAI/APIs\u2014more like AI product development than enabling dev teams to adopt AI tools. Leiden location is acceptable. Title suggests engineering-heavy rather than enablement-focused.",
     "embed_sim": 0.5131080746650696,
     "ai_native_score": 0.6104066967964172
   },
@@ -3650,18 +3650,18 @@
   {
     "job": {
       "id": "40fd24dff50ba6d91b7262266553cf04",
-      "title": "Senior Program Manager, AI & Tech Enablement - Community ... - LinkedIn",
+      "title": "Senior Program Manager, AI & Tech Enablement - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/program-leader-support-ai-enablement-mobility-emea-commops-at-uber-4333411921",
-      "snippet": "Partner with global product, engineering, and operations stakeholders to translate business needs into scalable AI-based support features. Evangelize AI solutions across EMEA, building trust,...",
+      "snippet": "Oct 31, 2025 \u00b7 Act as the central point of contact for GenAI support product enablement across EMEA Mobility CommOps. Deeply understand product functionality and influence the roadmap by bringing in the voice of the customer and the unique needs of EMEA markets. Partner with global product, engineering, and operations stakeholders to translate business needs into scalable AI-based support features ...",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-15T08:46:40.810824"
+      "date_found": "2026-07-19T08:10:54.318558"
     },
-    "score": 6,
-    "reason": "Senior Program Manager role with AI & Tech Enablement focus. Concept aligns well (evangelize AI solutions, enable teams), but appears to be EMEA-wide/global scope and program management rather than hands-on technical implementation. Location unknown. Could be strong match if based near Utrecht with more technical involvement.",
-    "embed_sim": 0.4748804569244385,
-    "ai_native_score": 0.6277213096618652
+    "score": 2,
+    "reason": "Role is 'Program Manager, AI & Tech Enablement' for Uber EMEA, but appears to focus on support product enablement and customer advocacy, not engineering team AI tooling adoption. No location specified, likely not Utrecht-area. Seniority level unclear.",
+    "embed_sim": 0.3998934328556061,
+    "ai_native_score": 0.5864240527153015
   },
   {
     "job": {
@@ -4978,18 +4978,18 @@
   {
     "job": {
       "id": "74d7e51fb2859b969506a22056ac92c6",
-      "title": "25+ vacatures voor Digital Adoption Specialist en werk: 29 ...",
+      "title": "100+ vacatures voor Digital Adoption Specialist en werk: 3 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-digital-adoption-specialist-vacatures.html",
-      "snippet": "Digital Adoption Specialist vacatures. Customer Success Manager, Technical Specialist, Student Intern en meer op Indeed.com",
+      "snippet": "Digital Adoption Specialist vacatures. Paid Search Manager, Digital Adoption Specialist, Customer Experience Specialist en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-05-18T09:56:50.185734"
+      "date_found": "2026-07-19T08:11:54.093802"
     },
     "score": 0,
-    "reason": "This is a search results page listing multiple unrelated positions (Digital Adoption Specialist, Customer Success Manager, Student Intern), not a specific job posting. Cannot evaluate relevance without concrete job details. Also appears to be a search aggregation page rather than a real listing.",
-    "embed_sim": 0.209840789437294,
-    "ai_native_score": 0.6711589694023132
+    "reason": "This is a search results page listing 100+ generic Digital Adoption Specialist vacancies, not a specific job posting. Cannot evaluate a meta-listing.",
+    "embed_sim": 0.1941731870174408,
+    "ai_native_score": 0.6391441226005554
   },
   {
     "job": {
@@ -22542,5 +22542,325 @@
     "reason": "Search results page for AKQA job listings. Developer Intern (AI) mentioned but candidate explicitly excludes junior/intern positions and requires seniority level.",
     "embed_sim": 0.29896652698516846,
     "ai_native_score": 0.67940753698349
+  },
+  {
+    "job": {
+      "id": "45ad893727fde5a12bdddec62f958fe6",
+      "title": "Vacature voor een functie als Project Engineer bij ASSA... | Glassdoor",
+      "company": "Assa...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/project-engineer-assa-abloy-JV_IC3041764_KO0,16_KE17,27.htm?jl=1010183010296&cs=1_40e7eee4&s=58&t=SR&pos=103&src=GD_JOB_AD&guid=0000019f7109ceda818700abc5bdd3c2&jobListingId=1010183010296&ao=1136043&vt=w&jrtk=5-yul1-0-1jtogjjoaj73q800-e060843cd9652cd4&cb=1784307896378&ctt=1784308000385",
+      "snippet": "These tools help us efficiently identify candidates whose qualifications and skills align with the job description. We use AI in a responsible manner and in accordance with applicable data privacy laws and regulations.Vacatures voor Project Engineer in Veldhoven.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:10:41.299082"
+    },
+    "score": 0,
+    "reason": "Location is Veldhoven (60+ km from Utrecht), outside preferred range. Role appears to be project engineering, not AI enablement. Insufficient detail to assess match.",
+    "embed_sim": 0.32172876596450806,
+    "ai_native_score": 0.6502441167831421
+  },
+  {
+    "job": {
+      "id": "a32a0247238643b322a4896fc0cb031f",
+      "title": "57 vacatures voor full stack engineer in Almere | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Amersfoort",
+      "url": "https://www.glassdoor.nl/Vacature/almere-full-stack-engineer-vacatures-SRCH_IL.0,6_IC4991967_KO7,26.htm",
+      "snippet": "Vacatures voor devops engineer (m/v/x) in Amersfoort Vacatures in Amersfoort Vacatures bij Energie Data Services Nederland in Amersfoort.Consense Arbo. AI Software Engineer. Velserbroek. \u20ac 5.000 (opgegeven door werkgever).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:10:41.299123"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page, not a specific job posting. No actionable role information. Location Almere is borderline but listing is not a real vacancy.",
+    "embed_sim": 0.25486406683921814,
+    "ai_native_score": 0.5556259751319885
+  },
+  {
+    "job": {
+      "id": "aca767799c2a587bcf3718d10d220b14",
+      "title": "ITDS Business Consultants zoekt een AI Engineer in Amsterdam ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-itds-4439671143",
+      "snippet": "Als AI Engineer bij ITDS krijg je de kans om mee te bouwen aan slimme oplossingen voor toonaangevende bedrijven in de financi\u00eble sector. Je vertaalt AI-uitdagingen naar concrete resultaten, werkt samen met gedreven collega\u2019s en ontwikkelt je razendsnel tot een echte expert op het snijvlak van business en technologie.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:10:45.147977"
+    },
+    "score": 4,
+    "reason": "Title is 'AI Engineer' but snippet suggests building AI solutions for clients in finance, not enabling dev teams to adopt AI tools. Likely requires ML/solution architecture expertise rather than AI tooling champion role. Amsterdam location is acceptable but role mismatch is significant.",
+    "embed_sim": 0.311542809009552,
+    "ai_native_score": 0.6422419548034668
+  },
+  {
+    "job": {
+      "id": "63886c6603ac068333bf4188fb9c40d7",
+      "title": "Intern \u2013 FP&A Forecasting Process Improvement & AI Enablement",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/intern-\u2013-fp-a-forecasting-process-improvement-ai-enablement-at-here-technologies-4425613683",
+      "snippet": "What's the role? What is the internship ? We are looking for a highly analytical and proactive FP&A Intern to run a focused project on improving and documenting our end \u2011 to \u2011 end spend forecasting process in Finance . This role goes beyond traditional finance internships\u2014it combines process understanding , assessment , and applied AI to deliver tangible improvements in how forecasting ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:10:54.318603"
+    },
+    "score": 0,
+    "reason": "Explicitly an internship position. Candidate is senior with 13+ years experience. Does not match seniority requirement.",
+    "embed_sim": 0.3374561071395874,
+    "ai_native_score": 0.6012669205665588
+  },
+  {
+    "job": {
+      "id": "ce8a75b4848f612785b95c1d4d115df0",
+      "title": "8 vacatures voor Backbase in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/backbase-jobs",
+      "snippet": "8 topvacatures voor Backbase in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Backbase toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:10:54.318615"
+    },
+    "score": 0,
+    "reason": "Generic job board aggregation page for 'Backbase' company vacancies, not a specific job posting. No actionable role information or location details.",
+    "embed_sim": 0.09806328266859055,
+    "ai_native_score": 0.47905707359313965
+  },
+  {
+    "job": {
+      "id": "1164cba5d2d3391bdbc43b9701cd8a33",
+      "title": "500+ vacatures voor Tooling Engineer en werk: 7 augustus 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/m/jobs?q=Tooling+Engineer",
+      "snippet": "Op de hoogte blijven van ontwikkelingen binnen LLM\u2019s, generative AI en tooling. ... Alle vacatures voor Every Day\u00ae - Roosendaal vacatures - vacatures voor Engineer (m/v) in Roosendaal bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-19T08:11:02.290775"
+    },
+    "score": 0,
+    "reason": "Generic job board search results aggregation page, not a specific job posting. Snippet mentions LLM/GenAI tooling but no concrete role description, company, location, or seniority level provided.",
+    "embed_sim": 0.15728671848773956,
+    "ai_native_score": 0.572813868522644
+  },
+  {
+    "job": {
+      "id": "2fcd7d22b0b7035ce2ddc698f0567899",
+      "title": "337 artificial intelligence Jobs in Netherlands, July 2026 | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.com/Job/netherlands-artificial-intelligence-jobs-SRCH_IL.0,11_IN178_KO12,35.htm",
+      "snippet": "Je onderzoekt, selecteert en ontwerpt mogelijkheden op het gebied van Data & AI om onze interne processen te verbeteren en innovatieve oplossingen te kunnen\u2026\u2026 Skills: Analytisch vermogen, Risicomanagement, Python, Nederlands",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-19T08:11:06.701371"
+    },
+    "score": 0,
+    "reason": "Generic job board category page (337 AI jobs in Netherlands), not a specific job posting. No actionable role information. Snippet mentions Data & AI improving internal processes, but context is too vague.",
+    "embed_sim": 0.41512301564216614,
+    "ai_native_score": 0.6603198051452637
+  },
+  {
+    "job": {
+      "id": "5b3f180ca73433ca9afafc14d2a4c908",
+      "title": "Erasmus MC zoekt een Radiology AI Integration Specialist in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/radiology-ai-integration-specialist-at-erasmus-mc-4430975006",
+      "snippet": "Jun 19, 2026 \u00b7 Job Description The Radiology AI Integration Specialist serves as the clinical and workflow expert in the development, implementation, and evaluation of Artificial Intelligence (AI) and Generative AI solutions within radiology environments. The role focuses on translating clinical requirements into effective software functionality, ensuring seamless integration of AI results into PACS ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:11:14.818176"
+    },
+    "score": 2,
+    "reason": "Role is 'Radiology AI Integration Specialist' at Erasmus MC (medical/healthcare domain). Focuses on clinical AI solutions in radiology, not helping engineering teams adopt AI development tools. Completely different domain from candidate's web dev/engineering focus.",
+    "embed_sim": 0.3709530830383301,
+    "ai_native_score": 0.622954785823822
+  },
+  {
+    "job": {
+      "id": "3e680aa4d0438d647bfd9f3fad0c6a7b",
+      "title": "UMC Utrecht zoekt een Microsoft 365 Adoptie Specialist in ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/microsoft-365-adoptie-specialist-at-umc-utrecht-4396329068",
+      "snippet": "Het UMC Utrecht is een grote organisatie met ruim 13.000 medewerkers in de zorg, het onderzoek, het onderwijs en de bedrijfsvoering. Microsoft 365 is het centrale samenwerkingsplatform, maar de mate van adoptie verschilt sterk per afdeling en doelgroep. Waar sommige teams al volop werken met Teams en SharePoint, zijn andere afdelingen nog aan het ontdekken wat de mogelijkheden zijn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:11:14.818183"
+    },
+    "score": 6,
+    "reason": "Microsoft 365 adoption role in Utrecht is locationally perfect and adoption-focused, but it's about Microsoft 365 collaboration tools, not AI tooling adoption. Not aligned with the core mission of enabling AI practices in SDLC.",
+    "embed_sim": 0.1299845576286316,
+    "ai_native_score": 0.5855751037597656
+  },
+  {
+    "job": {
+      "id": "d54d6b9123e405ae293e897584af8fa0",
+      "title": "579 vacatures voor Adoptie Consultant in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/adoptie-consultant-jobs",
+      "snippet": "579 topvacatures voor Adoptie Consultant in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Adoptie Consultant toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-19T08:11:14.818196"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing 579 generic adoption consultant vacancies, not a specific job posting. Cannot evaluate a meta-listing.",
+    "embed_sim": 0.15794479846954346,
+    "ai_native_score": 0.6297338008880615
+  },
+  {
+    "job": {
+      "id": "4774408d0cf93cee058debd698d60aac",
+      "title": "Internship assignment - Supporting IS/IT communications with AI in...",
+      "company": "Supporting IS/IT communications with AI in...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/820929/internship-assignment----supporting-is-it-communications-with-ai",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures.You will be working with other AI-minded individuals and enthusiasts to set the stage for the future adoption of AI within IS/IT.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-19T08:11:25.533409"
+    },
+    "score": 0,
+    "reason": "Internship position. Candidate explicitly seeks senior-level roles, not internships or traineeships.",
+    "embed_sim": 0.32703447341918945,
+    "ai_native_score": 0.7280411720275879
+  },
+  {
+    "job": {
+      "id": "299aff0070875d4f56a475e9f3455269",
+      "title": "49 vacatures voor software development engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/vincennes-software-development-engineer-vacatures-SRCH_IL.0,9_IC3039591_KO10,39.htm",
+      "snippet": "Software Engineer \u2013 AI Developer Experience (DevEx) F/H.In addition to an environment that promotes career development, we offer benefits for a healthy lifestyle and a rewarding future, designed to take care of you and your family, in various stages of life.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:29.467529"
+    },
+    "score": 7,
+    "reason": "Software Engineer \u2013 AI Developer Experience (DevEx) role is a strong conceptual match for AI tooling adoption and developer enablement. However, location is unclear (Glassdoor listing page, not specific job), and no clarity on whether it requires ML expertise or is truly a dev-focused enablement role.",
+    "embed_sim": 0.5199605822563171,
+    "ai_native_score": 0.7306193113327026
+  },
+  {
+    "job": {
+      "id": "1c20daa5bef1be6859649b4a107ac6b1",
+      "title": "Vacature voor een functie als Process Engineer bij Michael... | Glassdoor",
+      "company": "Michael...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/process-engineer-michael-kors-JV_IC3054830_KO0,16_KE17,29.htm?jl=1010174446373&cs=1_1ec340ce&s=58&t=SR&pos=116&src=GD_JOB_AD&guid=0000019f68d845d88b256f0b6f3d6a9d&jobListingId=1010174446373&ao=1136043&vt=w&jrtk=5-yul1-0-1jtkdghg0gbko801-a947c89fd3a8654a&cb=1784170432240&ctt=1784274630017",
+      "snippet": "Ability to work both independently and collaboratively in teams; PRINCE2 or an equivalent project management qualification; Lean and Six Sigma experience is considered a plus; Knowledge of AI applications in supply chain, logistics or process improvement is considered a plus",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:29.467585"
+    },
+    "score": 1,
+    "reason": "Process Engineer at Michael Kors in supply chain/logistics. AI is mentioned as a minor plus, not the core mission. Completely different domain from software development lifecycle and developer tooling adoption.",
+    "embed_sim": 0.30710864067077637,
+    "ai_native_score": 0.5272406935691833
+  },
+  {
+    "job": {
+      "id": "790d43440bb751f4e8455ad5450ea1c3",
+      "title": "81 vacatures voor junior software developer in Frankrijk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/france-junior-software-developer-vacatures-SRCH_IL.0,6_IN86_KO7,32.htm",
+      "snippet": "Software Engineer \u2013 AI Developer Experience (DevEx) F/H. Parijs. Au sein de l\u2019\u00e9quipe Engineering Enablement de la Plateforme, tu rejoindras la squad Enabling AI dont l\u2019objectif est double : outiller les d\u00e9veloppeurs avec de\u2026\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:29.467600"
+    },
+    "score": 7,
+    "reason": "Software Engineer \u2013 AI Developer Experience (DevEx) in Paris, within Engineering Enablement squad focused on 'enabling developers with tools.' Strong conceptual match, but location is Paris (outside 40km of Utrecht), and candidate prefers Netherlands-based roles.",
+    "embed_sim": 0.5431561470031738,
+    "ai_native_score": 0.8140006065368652
+  },
+  {
+    "job": {
+      "id": "8683c04586447f7d4b6dc1d4478e57b2",
+      "title": "Vacature voor een functie als Head of AI bij AdResults in Utrecht | Glassdoor",
+      "company": "Adresults In Utrecht",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/head-of-ai-follo-JV_IC3045310_KO0,10_KE11,16.htm?jl=1010172686045",
+      "snippet": "Bruto maandsalaris tussen \u20ac 5.500 en \u20ac 8.500 (40 uur), plus een bonusstructuur gekoppeld aan adoption- en businessmetrics. Groei je? Dan groeit je salaris mee. Een directe lijn met de CEO en een plek aan tafel bij strategische beslissingen ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:33.132969"
+    },
+    "score": 4,
+    "reason": "Head of AI at AdResults in Utrecht has the location and seniority level, and mentions adoption metrics. However, title is 'Head of AI' which typically implies building AI products/strategy rather than championing adoption of existing AI tools within an engineering org. Unclear scope.",
+    "embed_sim": 0.20487740635871887,
+    "ai_native_score": 0.6443963050842285
+  },
+  {
+    "job": {
+      "id": "0a4458c913bbd36a746acd9b45103880",
+      "title": "Vacature voor een functie als Junior AI specialist bij winparts.nl in Groningen | Glassdoor",
+      "company": "Winparts.Nl In Groningen",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/junior-ai-specialist-winparts-nl-JV_IC3063595_KO0,20_KE21,32.htm?jl=1010192820265",
+      "snippet": "Als Junior AI solution specialist maak je onderdeel uit van het Data Science & AI-team en werk je nauw samen met collega's uit de hele organisatie. Jij bent de brug tussen business en techniek: use-cases ontdekken, experimenteren, adoptie stimuleren ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:33.132984"
+    },
+    "score": 2,
+    "reason": "Junior AI specialist in Groningen (outside acceptable radius) in a Data Science & AI team. Role is about discovering use-cases and experimentation, not about helping dev teams adopt AI tooling. Also likely requires data science background which candidate doesn't have.",
+    "embed_sim": 0.4412640929222107,
+    "ai_native_score": 0.6947565078735352
+  },
+  {
+    "job": {
+      "id": "d32d4c502969ea998af4976283a1d0ba",
+      "title": "20 vacatures voor chemical engineer in Venlo | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/venlo-chemical-engineer-vacatures-SRCH_IL.0,5_IC3054830_KO6,23.htm",
+      "snippet": "Vacatures voor process engineer in Nederland Vacatures bij TMC in Nederland.The PD researcher will develop and validate an AI-enhanced, solvent-based recycling process for complex plastic waste streams such as multilayer packaging and e\u2026\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:58.138609"
+    },
+    "score": 0,
+    "reason": "Chemical engineer in Venlo focused on plastic waste recycling with AI-enhanced processes. Completely outside candidate's domain (web development, SDLC, developer tooling). Also wrong location.",
+    "embed_sim": 0.152707040309906,
+    "ai_native_score": 0.5404071807861328
+  },
+  {
+    "job": {
+      "id": "2197cfcd5abd97e8e59bee817eebf6ac",
+      "title": "Vacature voor een functie als Product circularity engineer... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/product-circularity-engineer-signify-JV_KO0,28_KE29,36.htm?jl=1010187332299",
+      "snippet": "We\u2019ll help you learn and progress in a way that\u2019s right for you, with coaching and mentoring along the way. We\u2019ll listen to you too, because we see and value every one of our 27,000+ people.Vacatures bij Signify in Netherlands. Salarissen voor Product circularity engineer in Netherlands.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:11:58.138630"
+    },
+    "score": 0,
+    "reason": "Product circularity engineer at Signify - completely unrelated to AI adoption/enablement. Industrial/manufacturing focus, not software development or AI tooling.",
+    "embed_sim": 0.1991550475358963,
+    "ai_native_score": 0.5404511094093323
+  },
+  {
+    "job": {
+      "id": "54af49873dd84e5e5a6d5bddf8add1d3",
+      "title": "404 vacatures voor systems quality assurance engineer in... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/singapore-systems-quality-assurance-engineer-vacatures-SRCH_IL.0,9_IC3235921_KO10,44.htm",
+      "snippet": "Vacatures voor quality engineer in Singapore Vacatures in Singapore Vacatures bij Applied Materials in Singapore.Darwinbox. 3,4. AI Enablement Engineer. Singapore. SGD 120K - SGD 180K (Schat. van Glassdoor).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:12:02.018292"
+    },
+    "score": 0,
+    "reason": "Search results page (404 error implied by '404 vacatures' phrasing), not an actual job listing. Location is Singapore, not Netherlands. Cannot evaluate as valid posting.",
+    "embed_sim": 0.14677457511425018,
+    "ai_native_score": 0.49359798431396484
+  },
+  {
+    "job": {
+      "id": "c46a6e0a5e601b229901d42b3f843b79",
+      "title": "892 vacatures voor systems engineer in Irving, TX | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/irving-systems-engineer-vacatures-SRCH_IL.0,6_IC1140006_KO7,23.htm?locKeyword=Irving%2C%20TX",
+      "snippet": "4,2. Senior SCADA Engineer - Ignition Platform. Dallas, TX. US$ 65K - US$ 169K (opgegeven door werkgever).Principal Systems Integration & Tech Enablement Engineer (Onsite). Richardson, TX.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-19T08:12:02.018335"
+    },
+    "score": 0,
+    "reason": "Search results page for systems engineers in Irving, TX. Not an actual job listing. Location is USA (Texas), not Netherlands. Cannot evaluate as valid posting.",
+    "embed_sim": 0.16074416041374207,
+    "ai_native_score": 0.5516392588615417
   }
 ]
