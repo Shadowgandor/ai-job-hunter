@@ -22862,5 +22862,229 @@
     "reason": "Search results page for systems engineers in Irving, TX. Not an actual job listing. Location is USA (Texas), not Netherlands. Cannot evaluate as valid posting.",
     "embed_sim": 0.16074416041374207,
     "ai_native_score": 0.5516392588615417
+  },
+  {
+    "job": {
+      "id": "b58ceb9d3400f4d2512a6e081b9488ef",
+      "title": "Vacature voor een functie als Project Engineer bij ASSA... | Glassdoor",
+      "company": "Assa...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/project-engineer-assa-abloy-JV_IC3041764_KO0,16_KE17,27.htm?jl=1010183010296&cs=1_b3eb393c&s=58&t=SR&pos=104&src=GD_JOB_AD&guid=0000019f759afa05a179a510932d6f49&jobListingId=1010183010296&ao=1136043&vt=w&jrtk=5-yul1-0-1jtqpluhal6ib800-e060843cd9652cd4&cb=1784384518927&ctt=1784384773680",
+      "snippet": "These tools help us efficiently identify candidates whose qualifications and skills align with the job description. We use AI in a responsible manner and in accordance with applicable data privacy laws and regulations.Vacatures voor Project Engineer in Veldhoven.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:51:37.946993"
+    },
+    "score": 0,
+    "reason": "Location is Veldhoven (far from Utrecht), unclear job details, appears to be a generic project engineer role not focused on AI adoption or developer tooling.",
+    "embed_sim": 0.32172876596450806,
+    "ai_native_score": 0.6502441167831421
+  },
+  {
+    "job": {
+      "id": "1e938bf4a92ad33e3eee99515c70d269",
+      "title": "Full-Stack Developer in Groenlo bij Nedap | Magnet.me",
+      "company": "Nedap",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1059961/full-stack-developer",
+      "snippet": "2 days ago \u00b7 As a Full-Stack Developer in the Virtuele Assistent team, you\u2019ll build AI-powered software that helps healthcare professionals spend less time on repetitive administrative work and more time on people. The Virtuele Assistent supports care organisati\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-20T08:51:49.863045"
+    },
+    "score": 2,
+    "reason": "Full-stack developer building AI-powered healthcare software in Groenlo (wrong location, far from Utrecht). This is about building AI products, not enabling teams to adopt AI tools.",
+    "embed_sim": 0.3316827416419983,
+    "ai_native_score": 0.6764287948608398
+  },
+  {
+    "job": {
+      "id": "e0ee0d07680b1d696af90ff924b0f221",
+      "title": "Senior Full-stack Developer - Digital Experience Platforms",
+      "company": "Digital Experience Platforms",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1059510/senior-full-stack-developer---digital-experience-platforms",
+      "snippet": "3 days ago \u00b7 Daar hebben we ervaren developers voor nodig die verder kijken dan alleen de code. Als Senior Full-stack Developer \u2013 Digital Experience Platforms help je organisaties bij het bouwen, verbeteren en toekomstbestendig maken van digitale platformen die daadwerkelijk gebruikt worden.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-20T08:51:49.863063"
+    },
+    "score": 1,
+    "reason": "Senior full-stack role building digital experience platforms. No mention of AI tooling adoption, developer enablement, or AI championship. Pure software development role.",
+    "embed_sim": 0.35432034730911255,
+    "ai_native_score": 0.6100221872329712
+  },
+  {
+    "job": {
+      "id": "6ef815ec62367011083bff071da67ce2",
+      "title": "Salaris: Crm Specialist (Juni 2026) | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Salarissen/crm-specialist-salarissen-SRCH_KO0,14.htm",
+      "snippet": "Het gemiddelde salaris voor Crm Specialist in Nederland is \u20ac 54.000 per jaar. Klik hier en bekijk het totale salaris, recent gedeelde salarissen en meer!",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:52:06.091198"
+    },
+    "score": 0,
+    "reason": "This is a salary information page, not a job listing. Not relevant.",
+    "embed_sim": 0.11050410568714142,
+    "ai_native_score": 0.4146943688392639
+  },
+  {
+    "job": {
+      "id": "5ed8cdc498fb03e3b4364023002eaf79",
+      "title": "AutoForm Engineering B.V. , Netherlands zoekt een Project... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/project-engineer-full-time-m-f-4437756676?position=9&pageNum=0",
+      "snippet": "Experience with programming and data analysis; knowledge of MATLAB is required. Affinity with simulation software; experience with experimental testing is a plus.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-20T08:52:10.012142"
+    },
+    "score": 0,
+    "reason": "Project engineer role requiring MATLAB and simulation software expertise. Not related to AI tool adoption or developer enablement.",
+    "embed_sim": 0.22081038355827332,
+    "ai_native_score": 0.5725243091583252
+  },
+  {
+    "job": {
+      "id": "e5504662a072276bc28400ff512bb218",
+      "title": "Meer dan 1.000 vacatures voor Ingenieur in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ingenieur-jobs?f_EA=true",
+      "snippet": "Development Engineer - Uitzendbureau.nl. Jobster. Leeuwarden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-20T08:52:10.012184"
+    },
+    "score": 0,
+    "reason": "Generic search results page listing multiple engineering positions without specific details. Cannot assess relevance.",
+    "embed_sim": 0.29668286442756653,
+    "ai_native_score": 0.655995786190033
+  },
+  {
+    "job": {
+      "id": "ac14d59d909d5ab88e3f134b9e4c137e",
+      "title": "10 vacatures voor Praktijkondersteuner in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/praktijkondersteuner-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-20T08:52:10.012194"
+    },
+    "score": 0,
+    "reason": "Generic search results page for healthcare practice assistant roles. Not relevant to the candidate's profile.",
+    "embed_sim": 0.020883964374661446,
+    "ai_native_score": 0.5804685950279236
+  },
+  {
+    "job": {
+      "id": "08626aced5cc4570e375e71a726a8e66",
+      "title": "Vacature voor een functie als EU Engineer bij The Meher... | Glassdoor",
+      "company": "The Meher...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/eu-engineer-meher-eu-JV_KO0,11_KE12,20.htm?jl=1010183924346&cs=1_02bdbb32&s=58&t=SR&pos=128&src=GD_JOB_AD&guid=0000019f6f02af2585763671b692a789&jobListingId=1010183924346&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1jtng5bqhkgon802-b482085d76a9c2e2&cb=1784273874983&ctt=1784274104792",
+      "snippet": "Job SummaryThe position will require the candidate to work closely with several key staff to understand existing and new... Bekijk deze en vergelijkbare vacatures op Glassdoor.Vacatures bij The Meher Group in Netherlands. Salarissen voor EU Engineer in Netherlands.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:52:13.987704"
+    },
+    "score": 0,
+    "reason": "EU Engineer role with insufficient details provided. Appears to be a generic engineering position not related to AI adoption or developer tooling.",
+    "embed_sim": 0.21164736151695251,
+    "ai_native_score": 0.6163129210472107
+  },
+  {
+    "job": {
+      "id": "e0b38e4669393e711dfe5ddf839ce170",
+      "title": "607 vacatures voor Business development associate | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/business-development-associate-vacatures-SRCH_KO0,30.htm",
+      "snippet": "Zoek de juiste vacature voor Business development associate met bedrijfsreviews en salarissen.Experience at a management consulting firm or business development/(corporate) strategy department within a relevant industry (e.g., commodity trading).\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:52:13.987717"
+    },
+    "score": 0,
+    "reason": "Generic search results page for business development associate roles. Not relevant to software development or AI tooling adoption.",
+    "embed_sim": 0.2882326543331146,
+    "ai_native_score": 0.5206817984580994
+  },
+  {
+    "job": {
+      "id": "87198e028f70b1579b3340bbba2572ae",
+      "title": "Vacature voor een functie als Medior Python Backend Developer bij Futurewhiz in Amsterdam | Glassdoor",
+      "company": "Futurewhiz In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/medior-python-backend-developer-futurewhiz-JV_IC3064478_KO0,31_KE32,42.htm?jl=1010170134512",
+      "snippet": "Use AI tooling as your default way of working: delegate well-scoped implementation to coding agents, run explorations in parallel, and review the output with strong engineering judgment",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:52:21.642128"
+    },
+    "score": 6,
+    "reason": "Medior Python Backend Developer in Amsterdam with explicit mention of using AI tooling as default working method and coding agents. Amsterdam is acceptable distance from Utrecht. However, scored 6 not higher because: (1) medior level (candidate is senior), (2) requires Python expertise (not candidate's primary stack), (3) focused on developer doing the work rather than champion enabling others, (4) appears to be building backend systems rather than championing AI adoption across teams.",
+    "embed_sim": 0.4074501395225525,
+    "ai_native_score": 0.7224500179290771
+  },
+  {
+    "job": {
+      "id": "260cd4f7edfce7283b025c5b0922dce5",
+      "title": "Vacature voor een functie als Lead Product Designer (YouTrack) bij JetBrains in Amsterdam | Glassdoor",
+      "company": "Jetbrains In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/lead-product-designer-youtrack-jetbrains-JV_IC3064478_KO0,30_KE31,40.htm?jl=1010195177315",
+      "snippet": "You will establish a reliable critique rhythm and a structured way of working that helps your designers grow. Within your first few months, delivering clear patterns for our AI capabilities, paying down accumulated UX debt, and ensuring YouTrack ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-20T08:52:21.642193"
+    },
+    "score": 2,
+    "reason": "Lead Product Designer role at JetBrains \u2014 focuses on UX/design patterns for AI capabilities, not on helping development teams adopt AI tools. Wrong discipline (design leadership vs. engineering enablement).",
+    "embed_sim": 0.2125527560710907,
+    "ai_native_score": 0.593747615814209
+  },
+  {
+    "job": {
+      "id": "800ee4af6880481d8d873686607e00b2",
+      "title": "Werken bij Effectory | Vacatures | Magnet.me (nl)",
+      "company": "Effectory",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/bedrijf/effectory",
+      "snippet": "Alle vacatures bekijken. Data AI Engineer.Dit zeggen medewerkers. Michel Clerger. Software Support Engineer.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-20T08:52:25.739285"
+    },
+    "score": 0,
+    "reason": "Incomplete listing with no job description. Mentions 'Data AI Engineer' but no details provided. Cannot assess relevance.",
+    "embed_sim": 0.21627545356750488,
+    "ai_native_score": 0.5980312824249268
+  },
+  {
+    "job": {
+      "id": "e5f08f2d637c31445fe18db8c259ac60",
+      "title": "216.000+ vacatures voor & en werk: 29 oktober 2025| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-&-vacatures.html",
+      "snippet": "Alle vacatures voor Platform Engineering Masters - Amsterdam vacatures - vacatures voor Content Manager in Amsterdam bekijken \u00b7 Zoeken op salaris: Content Operations Manager salarissen in Amsterdam \u00b7 Architect systems that will power thousands of interoperating AI agents.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-20T08:52:40.972691"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not an actual job listing. No specific role details, company context, or application information provided.",
+    "embed_sim": 0.26484236121177673,
+    "ai_native_score": 0.5363306999206543
+  },
+  {
+    "job": {
+      "id": "cf87ad3baa819a7a7526a09a72dc3a0a",
+      "title": "Meer dan 1.000 vacatures voor Ingenieur in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ingenieur-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-20T08:52:56.682005"
+    },
+    "score": 0,
+    "reason": "Generic search results page listing 1,000+ engineering vacancies in the Netherlands. Not a specific job listing; no role details provided.",
+    "embed_sim": 0.10634385794401169,
+    "ai_native_score": 0.6219568252563477
   }
 ]
