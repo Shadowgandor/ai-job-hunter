@@ -4482,18 +4482,18 @@
   {
     "job": {
       "id": "d658490569f7c645369cf0653d8b077c",
-      "title": "Machine Learning Engineer - Enexis - Werken in AI",
-      "company": "Werken in AI",
+      "title": "Machine Learning Engineer - Enexis - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/machine-learning-engineer-enexis/",
-      "snippet": "Vacature: Enexis in Den Bosch zoekt een Machine Learning Engineer | Salaris: \u20ac 3.863,- en \u20ac 5.519,- | Startdatum: onbekend",
+      "snippet": "August 26, 2024 - Vacature: Enexis in Den Bosch zoekt een Machine Learning Engineer | Salaris: \u20ac 3.863,- en \u20ac 5.519,- | Startdatum: onbekend",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-17T08:17:54.105247"
+      "date_found": "2026-07-21T08:21:57.774071"
     },
     "score": 1,
-    "reason": "Machine Learning Engineer role - pure ML position requiring model development, not AI tool adoption/enablement for development teams",
-    "embed_sim": 0.43108975887298584,
-    "ai_native_score": 0.5292235612869263
+    "reason": "Machine Learning Engineer role focused on building ML models, not AI tool adoption. Wrong career track entirely.",
+    "embed_sim": 0.4559336304664612,
+    "ai_native_score": 0.5585708022117615
   },
   {
     "job": {
@@ -23086,5 +23086,277 @@
     "reason": "Generic search results page listing 1,000+ engineering vacancies in the Netherlands. Not a specific job listing; no role details provided.",
     "embed_sim": 0.10634385794401169,
     "ai_native_score": 0.6219568252563477
+  },
+  {
+    "job": {
+      "id": "23c39c69c66d06baad3bb63e8f6ba30e",
+      "title": "Vacature voor een functie als GRADUATE SOFTWARE... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/graduate-software-engineer-imc-financial-markets-JV_IC1128808_KO0,26_KE27,48.htm?jl=1010187254705&cs=1_b0de1f38&s=21&t=ESR&pos=104&src=GD_JOB_AD&guid=0000019f7dec4efba6091ffe0ae69fb6&jobListingId=1010187254705&ao=1136043&vt=w&jrtk=5-yul1-0-1jtuuojr32kqf000-da46ef6cae12cac4&cb=1784524066790&ctt=1784524187813&srs=EI_JOBS",
+      "snippet": "Bekijk deze en vergelijkbare vacatures op Glassdoor.Develop expertise within the entire software development lifecycle. Learn new technologies and programming languages in a dynamic environment. Your Skills and Experience",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:12.520654"
+    },
+    "score": 0,
+    "reason": "Graduate/entry-level software engineer position. Candidate is senior with 13 years experience; this is a traineeship-level role.",
+    "embed_sim": 0.2499353587627411,
+    "ai_native_score": 0.6605624556541443
+  },
+  {
+    "job": {
+      "id": "0d1f64c2a6c8acdce6decfdbf6d5a5f4",
+      "title": "Vacature voor een functie als Process Engineer bij Michael... | Glassdoor",
+      "company": "Michael...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/process-engineer-michael-kors-JV_IC3054830_KO0,16_KE17,29.htm?jl=1010174446373&cs=1_2dc8a120&s=58&t=SR&pos=130&src=GD_JOB_AD&guid=0000019f7940f729a9a14e897a503562&jobListingId=1010174446373&ao=1136043&vt=w&jrtk=5-yul1-0-1jtsk1tqfi97r803-a947c89fd3a8654a&cb=1784445728841&ctt=1784446121147",
+      "snippet": "Ability to work both independently and collaboratively in teams; PRINCE2 or an equivalent project management qualification; Lean and Six Sigma experience is considered a plus; Knowledge of AI applications in supply chain, logistics or process improvement is considered a plus",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:12.520685"
+    },
+    "score": 0,
+    "reason": "Process Engineer in supply chain/logistics. No connection to software development, AI tool adoption, or developer enablement.",
+    "embed_sim": 0.30710864067077637,
+    "ai_native_score": 0.5272406935691833
+  },
+  {
+    "job": {
+      "id": "a35a4eeabb69504a0de0f11fdfdc0425",
+      "title": "Cadence Design Systems Company Updates | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Updates/Cadence-Design-Systems-Company-Updates-E1217.htm?updateId=2246026",
+      "snippet": "Zoek naar vacatures om gepersonaliseerde vacature-aanbevelingen en -updates te krijgen.Introducing environmental impact (E) to the traditional power, performance, area, and cost (PPAC) model during the early stages of development is key to sustainable progress.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:12.520718"
+    },
+    "score": 0,
+    "reason": "Company update page, not a job listing. No substantive content to evaluate.",
+    "embed_sim": 0.07438250631093979,
+    "ai_native_score": 0.3967099189758301
+  },
+  {
+    "job": {
+      "id": "a254ab2dbdb790161570a97c66b32d7f",
+      "title": "Meer dan 7.000 vacatures voor Operator in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/operator-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-21T08:22:31.189198"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page for 'Operator' roles. Not a specific job listing.",
+    "embed_sim": 0.10027097910642624,
+    "ai_native_score": 0.5615648031234741
+  },
+  {
+    "job": {
+      "id": "fb8ac7bcdba55a5fc2f6041f1e436fa9",
+      "title": "Build lasting relationships with future hires. | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/employers",
+      "snippet": "We turn your existing traffic into a growing, engaged talent community that you can always reach. Our AI automatically converts candidates when the timing is right, making your recruitment spend work harder without any extra effort.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-21T08:22:42.322093"
+    },
+    "score": 0,
+    "reason": "Recruitment platform marketing page, not a job listing for the candidate.",
+    "embed_sim": 0.36396628618240356,
+    "ai_native_score": 0.6721729636192322
+  },
+  {
+    "job": {
+      "id": "371000ffd74bcac53aeca3ec727279ed",
+      "title": "Senior Product Manager - Shop Insights Platform in Utrecht bij bol | Magnet.me | #1052328 (nl)",
+      "company": "Bol",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1052328/senior-product-manager---shop-insights-platform",
+      "snippet": "Technical translator: You explain complex technical decisions to business stakeholders without losing the engineers in the room, and the other way around. Vision setter: A mostly blank AI roadmap is the most beautiful starting point of all, and a fully drawn one is a fulfilling achievement.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-21T08:22:42.322106"
+    },
+    "score": 2,
+    "reason": "Senior PM role at Bol (Utrecht location is positive), but focuses on product management and business strategy for Shop Insights Platform. Not about AI tool adoption for dev teams or developer enablement.",
+    "embed_sim": 0.3017178177833557,
+    "ai_native_score": 0.46459320187568665
+  },
+  {
+    "job": {
+      "id": "2690aee1387d9646d0bc4cb530804ef9",
+      "title": "Business Intelligence Analyst (Junior) in... | Magnet.me | #896075 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/896075/business-intelligence-analyst--junior-",
+      "snippet": "Prior experience in customer facing role across functions is good to have. In-depth understand of data modelling and basics of azure environment. Solid understanding and working experience of other BI tools and powerapps. Profound knowledge of the English language.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-21T08:22:46.737528"
+    },
+    "score": 0,
+    "reason": "Junior Business Intelligence Analyst role. Too junior for candidate's seniority; focused on BI/data analytics, not AI tool adoption or developer productivity.",
+    "embed_sim": 0.49804452061653137,
+    "ai_native_score": 0.36798202991485596
+  },
+  {
+    "job": {
+      "id": "11e11e77a7e1c510a16abd9dd54ad53a",
+      "title": "Platform Engineer Internship - Observability... | Magnet.me | #980112 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/980112/platform-engineer-internship---observability-platform",
+      "snippet": "Observability Platform is responsible for managing the capabilities that help identifying the issues within TomTom\u2019s online products and ensure they are timely fixed to enable best customer experience.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-21T08:22:46.737545"
+    },
+    "score": 0,
+    "reason": "Platform Engineer Internship - explicitly an internship/entry-level position. Candidate is senior professional; seniority mismatch.",
+    "embed_sim": 0.2703629434108734,
+    "ai_native_score": 0.5307598114013672
+  },
+  {
+    "job": {
+      "id": "bef9d1425769622f92a564530adbcb97",
+      "title": "Cadence Design Systems Company Updates | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Updates/Cadence-Design-Systems-Company-Updates-E1217.htm?updateId=2483804",
+      "snippet": "Vacatures.Agentic AI in engineering has moved from concept to reality at remarkable speed. What began as isolated AI-assisted workflows is rapidly evolving into fully autonomous systems capable of reasoning, planning, and executing complex engineering tasks.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:51.748029"
+    },
+    "score": 0,
+    "reason": "Company update page about agentic AI in engineering design tools. Not a job listing; appears to be editorial content.",
+    "embed_sim": 0.3398265838623047,
+    "ai_native_score": 0.6335182785987854
+  },
+  {
+    "job": {
+      "id": "36d6a675f83311600e2b4d67e7481e6a",
+      "title": "Vacature voor een functie als USA Innovations Engineer... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/usa-innovations-engineer-jendamark-JV_IC3055159_KO0,24_KE25,34.htm?jl=1010188036022&cs=1_6fa60562&s=58&t=SR&pos=126&src=GD_JOB_AD&guid=0000019f754965e89fc29ad8f6441ea4&jobListingId=1010188036022&ao=1136043&vt=w&jrtk=5-yul1-0-1jtqkiph2j0qv800-a207eafbb4d43001&cb=1784379172619&ctt=1784379316835",
+      "snippet": "Bekijk deze en vergelijkbare vacatures op Glassdoor.Bachelor\u2019s degree in Mechanical Engineering, Electrical Engineering, Industrial Engineering, Mechatronics, or a related engineering discipline is preferred. Equivalent practical experience will also be considered.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:51.748060"
+    },
+    "score": 0,
+    "reason": "Mechanical/Industrial Engineering role, completely unrelated to software development or AI tooling adoption",
+    "embed_sim": 0.2319945991039276,
+    "ai_native_score": 0.661540150642395
+  },
+  {
+    "job": {
+      "id": "19ef68a6bd579662624e9534df1d82de",
+      "title": "11 vacatures voor ramp agent in New Delhi | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/new-delhi-ramp-agent-vacatures-SRCH_IL.0,9_IC2891681_KO10,20.htm",
+      "snippet": "Frontend Platform Engineer, AI Enablement (Angular). India. Snelsollicitatie.He/she will work closely with Technical Architect, Business Analyst, user interaction designers, and other software engineers to develop new product offerings and improve existing ones.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:51.748074"
+    },
+    "score": 0,
+    "reason": "Location is India (New Delhi), far outside Utrecht area requirement; listing appears to be a search results page rather than a specific job posting",
+    "embed_sim": 0.29583048820495605,
+    "ai_native_score": 0.5780827403068542
+  },
+  {
+    "job": {
+      "id": "c1a52f05c434b8279f240c56b7ede363",
+      "title": "10.824 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-vacatures-SRCH_KE0,2.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen.This role is for engineers who want to work close to the metal, enabling private and fast on-device AI without relying on cloud infrastructure.\u2026 Meer ontdekken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:51.748089"
+    },
+    "score": 0,
+    "reason": "Generic search results page, not a specific job listing; on-device AI inference is ML infrastructure work, not AI adoption enablement",
+    "embed_sim": 0.1101502925157547,
+    "ai_native_score": 0.5116093158721924
+  },
+  {
+    "job": {
+      "id": "c7ed2be7d563c2b63168159c6439dca4",
+      "title": "Vacatures bij Google - 15 openstaande vacatures | Glassdoor",
+      "company": "Google - 15 Openstaande Vacatures",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Jobs/Google-Jobs-E9079.htm",
+      "snippet": "15 vacatures bij Google, met salarissen, beoordelingen en reviews die zijn geplaatst door werknemers van Google.\u20ac 182K - \u20ac 197K (opgegeven door werkgever). 16d. AI Sales Specialist III, Google Cloud. Amsterdam. \u20ac 126K - \u20ac 134K (opgegeven door werkgever).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-21T08:22:56.812445"
+    },
+    "score": 0,
+    "reason": "Generic Google jobs page showing multiple roles (AI Sales Specialist, etc.); no specific job details; sales roles are not a match",
+    "embed_sim": 0.0641479566693306,
+    "ai_native_score": 0.4549877643585205
+  },
+  {
+    "job": {
+      "id": "e7d606898d1e5c49b1ab82c3015aedc7",
+      "title": "Data en AI engineer at Uncommon People | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "",
+      "url": "https://www.aivacatures.com/jobs/data-en-ai-engineer-417b75e4",
+      "snippet": "Modern Development: Familiarity with low-code platforms and AI tools to accelerate development. API Integration: Proficiency in working with APIs and processing JSON files. Protocols: Interest in or experience with the Model Context Protocol (MCP).",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-21T08:23:01.512979"
+    },
+    "score": 3,
+    "reason": "Mentions MCP and AI tools (positive), but 'Data and AI Engineer' title and focus on low-code platforms/API integration suggests data engineering role rather than AI adoption enablement; location unknown",
+    "embed_sim": 0.49235832691192627,
+    "ai_native_score": 0.5807973146438599
+  },
+  {
+    "job": {
+      "id": "81153f9b8ab6b244098641749f8577c6",
+      "title": "Meer dan 1.000 vacatures voor Ict Expert in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ict-expert-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.IT Operations & Security Specialist. Simplicate. Groningen, Nederland. Wees een van de eerste sollicitanten. 8 uur geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-21T08:23:16.167307"
+    },
+    "score": 0,
+    "reason": "Generic search results page for ICT Expert roles in Netherlands; not a specific job posting; location appears to be Groningen (outside Utrecht area)",
+    "embed_sim": 0.2619361877441406,
+    "ai_native_score": 0.6648569107055664
+  },
+  {
+    "job": {
+      "id": "9d0f07dda2e6e87fb8f22199bd81b438",
+      "title": "Vacature: Specialist Werktuigbouw... - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/specialist-werktuigbouw-operator-DEF-2026-2709",
+      "snippet": "Bewaar vacature: Specialist Werktuigbouw Operator. Solliciteren voor 6 augustus 2026.Deze vacature is zowel in- als extern opengesteld. Bij geschiktheid hebben interne kandidaten de voorkeur. Een veiligheidsonderzoek maakt deel uit van de selectieprocedure.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-21T08:23:24.620848"
+    },
+    "score": 0,
+    "reason": "Mechanical Engineering operator role ('Werktuigbouw Operator'), completely unrelated to software development or AI tooling",
+    "embed_sim": 0.1841091811656952,
+    "ai_native_score": 0.6350025534629822
+  },
+  {
+    "job": {
+      "id": "ab86c0a9d135aded608d66bfe143a66b",
+      "title": "Werken bij Boston Consulting Group | Vacatures | Magnet.me (nl)",
+      "company": "Boston Consulting Group",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/bedrijf/bcg",
+      "snippet": "AI Engineer, Internship, Netherlands - BCG X. Amsterdam. Stage.+ nog 13 vacatures van Boston Consulting Group.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-21T08:23:30.095497"
+    },
+    "score": 0,
+    "reason": "Internship position at BCG; candidate is senior-level professional, not seeking internships; generic jobs page rather than specific posting",
+    "embed_sim": 0.29042887687683105,
+    "ai_native_score": 0.6621425151824951
   }
 ]
