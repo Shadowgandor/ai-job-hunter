@@ -4343,11 +4343,11 @@
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-game-developer-vacatures-SRCH_IL.0,9_IN178_KO10,24.htm",
       "snippet": "Bedrijfsbedoordeling. 86 vacature(s) voor Game developer in Nederland. Relevantie.Solid experience with TypeScript and front-end development. Affinity with UX/UI and experience with design systems. You need to have a true start-up mindset.&hellip",
-      "source": "ddg:web-nl",
-      "date_found": "2026-05-17T08:17:10.188932"
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-22T08:23:28.487724"
     },
     "score": 0,
-    "reason": "Game developer roles - completely unrelated domain, not an AI adoption/enablement role",
+    "reason": "Game developer listing - completely unrelated domain. No AI enablement or tooling aspects mentioned.",
     "embed_sim": 0.20986998081207275,
     "ai_native_score": 0.6090183258056641
   },
@@ -4770,18 +4770,18 @@
   {
     "job": {
       "id": "c164f8356aebc6aa8d0af9f35af18b7b",
-      "title": "655 vacatures voor Ontwikkelaar in Nederland - LinkedIn",
+      "title": "663 vacatures voor Ontwikkelaar in Nederland - LinkedIn",
       "company": "",
-      "location": "Utrecht",
+      "location": "Amsterdam",
       "url": "https://nl.linkedin.com/jobs/ontwikkelaar-jobs",
-      "snippet": "React app developer stage Coffee IT - Ontwikkelaar van Mobiele en Web-apps (Part of The Digital Club) Utrecht 8 maanden geleden",
+      "snippet": "Developer Relations/Experience Engineer - Kimchi Cast AI Amsterdam Wees een van de eerste sollicitanten 1 maand geleden",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-18T09:56:14.581368"
+      "date_found": "2026-07-22T08:23:13.838839"
     },
     "score": 0,
-    "reason": "Generic developer job search aggregator page (LinkedIn search results), not an actual job posting. Cannot evaluate specific role requirements.",
-    "embed_sim": 0.12904275953769684,
-    "ai_native_score": 0.35229969024658203
+    "reason": "Generic LinkedIn search results page listing 663 developer vacancies. Contains only a single mention of 'Developer Relations/Experience Engineer' at Cast AI but no details. Not a specific job posting that can be evaluated.",
+    "embed_sim": 0.2532424032688141,
+    "ai_native_score": 0.6776835918426514
   },
   {
     "job": {
@@ -5446,14 +5446,14 @@
       "company": "AI Change and Adoption",
       "location": "",
       "url": "https://www.consultant.nl/vacatures/vacature/1305/senior-consultant-ai-change-and-adoption",
-      "snippet": "Bekijk hier de laatste consultancy vacatures en freelance opdrachten op Consultant.nl!",
+      "snippet": "Bekijk 3132 actuele consultant vacatures en consultancy vacatures bij bedrijven en organisaties in Nederland. Filter op functie en locatie en solliciteer direct met je consultant-profiel.",
       "source": "ddg:web-nl",
-      "date_found": "2026-05-20T09:26:25.591367"
+      "date_found": "2026-07-22T08:22:29.004480"
     },
-    "score": 6,
-    "reason": "Senior Consultant - AI Change and Adoption \u2014 strong conceptual match for change management + AI adoption. However, listing lacks critical details (company, location, specific scope). Consulting angle is acceptable but unclear if focused on dev teams vs. general organizational AI adoption.",
-    "embed_sim": 0.3227536082267761,
-    "ai_native_score": 0.7333660125732422
+    "score": 0,
+    "reason": "Listing appears to be a search results page showing 3132 vacancies, not an actual job posting. No specific role details, company information, or application link provided. Cannot evaluate.",
+    "embed_sim": 0.25362536311149597,
+    "ai_native_score": 0.6854449510574341
   },
   {
     "job": {
@@ -23358,5 +23358,181 @@
     "reason": "Internship position at BCG; candidate is senior-level professional, not seeking internships; generic jobs page rather than specific posting",
     "embed_sim": 0.29042887687683105,
     "ai_native_score": 0.6621425151824951
+  },
+  {
+    "job": {
+      "id": "783b68384e20d5ac6c10313af5d67bed",
+      "title": "AI Engineer in Veenendaal bij Cegeka | Magnet.me | #1032085 (nl)",
+      "company": "Cegeka",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1032085/ai-engineer",
+      "snippet": "May 19, 2026 - ... Voor onze divisie Data & AI zijn wij op zoek naar een ervaren AI Engineer die verantwoordelijk is voor het vertalen van data- en AI-architecturen naar concrete, schaalbare technische oplossingen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-22T08:22:32.627622"
+    },
+    "score": 2,
+    "reason": "AI Engineer role at Cegeka focused on 'translating data and AI architectures into technical solutions' \u2014 this is ML/data engineering, not AI adoption enablement. Requires data architecture expertise, not developer tooling champion work.",
+    "embed_sim": 0.2969721555709839,
+    "ai_native_score": 0.630642831325531
+  },
+  {
+    "job": {
+      "id": "885ec59034bc2137a4ad4fc78a69397e",
+      "title": "Vacature voor een functie als Senior Product Manager, AI Editing bij VEED.IO in Amsterdam | Glassdoor",
+      "company": "Veed.Io In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/senior-product-manager-ai-editing-veed-io-JV_IC3064478_KO0,33_KE34,41.htm?jl=1010198349405",
+      "snippet": "AI-native working style, using AI tools to increase personal effectiveness and applying that lens to how users work \u00b7 Bonus: Experience at a GenAI or AI-native company, experience with GenAI video creation and editing, developer-facing APIs, ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-22T08:22:45.415844"
+    },
+    "score": 4,
+    "reason": "Product Manager role at video editing company. While it mentions 'AI-native working style' and using AI tools, this is a product management position for an AI product, not an AI adoption/enablement role for dev teams. Wrong focus.",
+    "embed_sim": 0.38699913024902344,
+    "ai_native_score": 0.6742616891860962
+  },
+  {
+    "job": {
+      "id": "731a21ef15d98a8d8e8fb7cd97589aa0",
+      "title": "Vacature voor een functie als Computer Vision Expert bij Nedap in Groenlo | Glassdoor",
+      "company": "Nedap In Groenlo",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/computer-vision-expert-nedap-JV_IC3034266_KO0,22_KE23,28.htm?jl=1010163028043",
+      "snippet": "Jij gaat veel samenwerken met jouw teamgenoten, maar bent ook veel in gesprek met andere teams en disciplines binnen R&D. De teams richten zich op software voor zowel boeren in de melkveehouderij als voor onze wereldwijde business partners. Zo streven wij er naar het leven op de boerderij steeds verder te verbeteren. De teams zijn multidisciplinair en werken volgens onze Agile way of working.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-22T08:22:45.415925"
+    },
+    "score": 0,
+    "reason": "Computer Vision Expert at Nedap in Groenlo \u2014 pure ML/CV role. Also Groenlo is 60+ km from Utrecht, outside preferred radius. No match.",
+    "embed_sim": 0.28123241662979126,
+    "ai_native_score": 0.746779203414917
+  },
+  {
+    "job": {
+      "id": "dddd5c04eac22414ecf6bad291a29352",
+      "title": "0 vacatures voor Adoptiespecialist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/adoption-change-consultant-connected-workforce-solutions-at-insight-2575596333?refId=64//B+CEa6gB3wuG3alJ3A==&trackingId=w8o+GHqWGzmdfWIG0NLhLA==",
+      "snippet": "Populairste 0 vacatures voor Adoptiespecialist in Nederland. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures in Adoptiespecialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-22T08:22:49.760485"
+    },
+    "score": 0,
+    "reason": "Search results page showing '0 vacatures' \u2014 no actual job listing. Cannot evaluate.",
+    "embed_sim": 0.047587521374225616,
+    "ai_native_score": 0.6080215573310852
+  },
+  {
+    "job": {
+      "id": "f8b9589439e17f3628412dd78c3ef080",
+      "title": "100+ vacatures voor Ai Research Engineer en werk: 7 juli 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-research-engineer-vacatures.html",
+      "snippet": "Strong software engineering skills with the ability to bridge AI research/concepts and robust, production-ready engineering implementations. Alle vacatures voor CHAPTR GmbH - Werk van thuis vacatures - vacatures voor Senior Engineer in Werk van thuis bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-22T08:22:54.455680"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page for 'AI Research Engineer' \u2014 not a specific job posting. Lists 100+ vacancies without details. Cannot evaluate individual role fit.",
+    "embed_sim": 0.3554397523403168,
+    "ai_native_score": 0.7089096307754517
+  },
+  {
+    "job": {
+      "id": "6cb885a5eae11cc22fef889f9513bd0a",
+      "title": "ITproposal zoekt een AI / GenAI Developer (Java | Agentic AI ...",
+      "company": "Agentic AI ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-genai-developer-java-agentic-ai-chatbots-10704006-at-itproposal-4428600934?position=25&pageNum=0",
+      "snippet": "6\u20138 years of software development experience Strong proficiency in Java and/or Kotlin Hands-on experience with Spring Boot Exposure to AI / GenAI tools and platforms (e.g., ChatGPT, LLMs, RAG frameworks) Experience with Azure Cloud services Familiarity with chatbot development and conversational interfaces Strong communication skills in English Proactive mindset with a strong eagerness to ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-22T08:23:13.838818"
+    },
+    "score": 3,
+    "reason": "AI/GenAI Developer role requiring 6-8 years Java/Kotlin, Spring Boot, chatbot development, and LLM/RAG frameworks. This is ML/AI product development, not AI adoption enablement. Candidate's web stack doesn't match required Java expertise.",
+    "embed_sim": 0.4236705005168915,
+    "ai_native_score": 0.7052149176597595
+  },
+  {
+    "job": {
+      "id": "16b8107c46051f6ee10f18efd75a9ce3",
+      "title": "VIVADATA zoekt een Data & AI Engineer in Utrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-engineer-at-vivadata-4402800411",
+      "snippet": "2 to 5 years of relevant experience (or equivalent), in Data Engineer, AI Engineer or similar role Strong Python and SQL skills, with a focus on production-quality code.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-22T08:23:13.838850"
+    },
+    "score": 1,
+    "reason": "Data & AI Engineer at VIVADATA requiring 2-5 years experience in Data/AI engineering with strong Python and SQL. This is a data engineering role, not AI adoption/enablement. Requires Python expertise candidate doesn't prioritize.",
+    "embed_sim": 0.3570353388786316,
+    "ai_native_score": 0.46581771969795227
+  },
+  {
+    "job": {
+      "id": "bafaf588f1abb76a8bdfd4b45f940867",
+      "title": "14 vacatures voor chemical engineer co op in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-chemical-engineer-co-op-vacatures-SRCH_IL.0,9_IN178_KO10,33.htm",
+      "snippet": "Vacatures voor integration engineer in Netherlands Vacatures bij ZEFIRA B.V. in Netherlands.By the end of 2026, strategic sourcing plans will be defined for the major equipment and construction packages, and the long-lead equipment supplier landscape\u2026\u2026 Meer ontdekken.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-22T08:23:23.125105"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor search results showing 14 chemical engineer co-op positions. Not software/AI related and not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.19167420268058777,
+    "ai_native_score": 0.5558144450187683
+  },
+  {
+    "job": {
+      "id": "3f04663260930ec6ed0618c0d61f7793",
+      "title": "Vacature voor een functie als Project Engineer bij ASSA... | Glassdoor",
+      "company": "Assa...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/project-engineer-assa-abloy-JV_IC3041764_KO0,16_KE17,27.htm?jl=1010183010296&cs=1_004196f6&s=58&t=SR&pos=104&src=GD_JOB_AD&guid=0000019f7940f729a9a14e897a503562&jobListingId=1010183010296&ao=1136043&vt=w&jrtk=5-yul1-0-1jtsk1tqfi97r803-e060843cd9652cd4&cb=1784445728836&ctt=1784446001126",
+      "snippet": "Experience in machine building or high-tech system integration. Knowledge of production processes such as inkjet, laser, vision, or motion systems. Experience with FAT/SAT execution and customer interaction. Experience in leading or coordinating small teams.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-22T08:23:28.487739"
+    },
+    "score": 0,
+    "reason": "Machine building/high-tech system integration role - hardware/manufacturing focus. No connection to AI adoption or software development practices.",
+    "embed_sim": 0.24128273129463196,
+    "ai_native_score": 0.5330277681350708
+  },
+  {
+    "job": {
+      "id": "4558051143f57eb8b13fb4d194f2e94a",
+      "title": "Vacature voor een functie als Development Engineer... | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/development-engineer-location-eindhoven-intralox-JV_IC3043137_KO0,39_KE40,48.htm?jl=1010143683765&cs=1_c2dc0959&s=58&t=SR&pos=129&src=GD_JOB_AD&guid=0000019f7940f729a9a14e897a503562&jobListingId=1010143683765&ao=1136043&vt=w&jrtk=5-yul1-0-1jtsk1tqfi97r803-cecc082eca6fd8d1&cb=1784445728841&ctt=1784446121666",
+      "snippet": "As a Development Engineer, you will focus on analytical development and software tooling for machine control systems. You\u2019ll use modeling, simulation, and data-driven analysis to support the design and optimization of mechatronic systems...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-22T08:23:28.487769"
+    },
+    "score": 0,
+    "reason": "Mechatronic systems development engineer in Eindhoven - hardware/modeling focus, far from Utrecht location requirement, no AI tool adoption or developer enablement aspects.",
+    "embed_sim": 0.2728751301765442,
+    "ai_native_score": 0.5844718813896179
+  },
+  {
+    "job": {
+      "id": "621c43198a5f5fba3e848b117e8714a1",
+      "title": "Associate Back-end Developer AOT in... | Magnet.me | #982058 (nl)",
+      "company": "Magnet.me",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/982058/associate-back-end-developer-aot",
+      "snippet": "Associate Back-end Developer AOT. Baan \u2022 Amsterdam, NL.You feel comfortable advising/guiding others on backend development. You have experience with Python and the Python Django framework. You have experience with code repositories using Git version control.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-22T08:23:38.482595"
+    },
+    "score": 1,
+    "reason": "Associate Back-end Developer - junior-level Python/Django role. Candidate is senior web dev seeking AI enablement, not a backend developer position. Also 'Associate' suggests junior level which doesn't match.",
+    "embed_sim": 0.36749207973480225,
+    "ai_native_score": 0.4442631006240845
   }
 ]
