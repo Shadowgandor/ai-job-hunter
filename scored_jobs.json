@@ -5366,14 +5366,14 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/machine-learning-graduate-internship-boskalis/",
-      "snippet": "MSc students in the field of Computer Science, Data science, Signal Processing, Electrical Engineering, Dredging and Offshore Technology, or Artificial Intelligence. Good command of the Dutch and/or English language. Experience with using machine learning within Python. Strong analytical skills.",
+      "snippet": "Work with engineers from the offshore and dredging divisions to identify the most important signals and processes for the various Boskalis fleets. Research and develop efficient methods for classification, exploring both AI-based approaches and hybrid models which integrate physics-based principles with semi-supervised machine learning algorithms.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-20T09:25:46.446433"
+      "date_found": "2026-07-25T08:02:58.900883"
     },
     "score": 0,
-    "reason": "Machine Learning Graduate Internship \u2014 explicitly targets MSc students and interns. Candidate is senior-level with 13 years experience. Wrong seniority level.",
-    "embed_sim": 0.44975656270980835,
-    "ai_native_score": 0.5760407447814941
+    "reason": "Machine Learning Graduate Internship \u2014 explicitly an internship (candidate only seeks senior roles) focused on developing ML classification models and research. Not a match on seniority, role type, or candidate background.",
+    "embed_sim": 0.31857943534851074,
+    "ai_native_score": 0.3983622193336487
   },
   {
     "job": {
@@ -6354,18 +6354,18 @@
   {
     "job": {
       "id": "cf2171444a326231dd18bed82923babe",
-      "title": "Supermicro zoekt een (Sr.) Technology Enablement Manager in 's ...",
+      "title": "Supermicro zoekt een (Sr.) Technology Enablement Manager in ...",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/sr-technology-enablement-manager-at-supermicro-4277294221",
-      "snippet": "We seek talented, passionate, and committed engineers, technologists, and business leaders to join us to drive accelerated growth and technology-led innovation in the global marketplace.",
+      "snippet": "Jul 28, 2025 \u00b7 Job Summary The (Sr.) Technology Enablement Manager will be part of a growing, dynamic, highly focused Technology Enablement team responsible for developing new, and expanding existing opportunities in the global IT market with a focus on AI/ML workloads, GPU Acceleration and the suites of advanced solutions supporting these subject domains.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-23T08:14:18.695003"
+      "date_found": "2026-07-25T08:02:07.781618"
     },
     "score": 2,
-    "reason": "Technology Enablement Manager at hardware company (Supermicro) \u2014 wrong industry context. Role focuses on product/hardware enablement, not developer AI tool adoption. Location not specified clearly.",
-    "embed_sim": 0.23760589957237244,
-    "ai_native_score": 0.5323324203491211
+    "reason": "Technology Enablement Manager at infrastructure/hardware company focused on AI/ML workloads and GPU acceleration \u2014 this is about selling/enabling enterprise AI infrastructure, not helping dev teams adopt coding AI tools. Mismatch in focus area.",
+    "embed_sim": 0.28360646963119507,
+    "ai_native_score": 0.52338045835495
   },
   {
     "job": {
@@ -24046,5 +24046,117 @@
     "reason": "Internship position \u2014 candidate seeks senior roles, not graduate/intern level traineeships",
     "embed_sim": 0.44398823380470276,
     "ai_native_score": 0.6903762221336365
+  },
+  {
+    "job": {
+      "id": "d1561befee24e722e7323402cab9e968",
+      "title": "Full stack AI developer in Deventer bij Witteveen+Bos | Magnet.me",
+      "company": "Witteveen+Bos",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/816092/full-stack-ai-developer",
+      "snippet": "De opkomst van AI-technologie markeert een nieuw tijdperk, waarvan wij als Witteveen+Bos de meerwaarde optimaal willen benutten. Om ons groeiende AI-team te versterken zoeken wij een full stack AI developer.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-25T08:02:03.318524"
+    },
+    "score": 2,
+    "reason": "Full stack AI developer at engineering firm \u2014 likely focused on building AI solutions/models, not enabling dev teams to adopt AI tools. Location (Deventer) is ~60km from Utrecht, outside preferred range. No indication of DevEx/adoption focus.",
+    "embed_sim": 0.39802372455596924,
+    "ai_native_score": 0.6697127223014832
+  },
+  {
+    "job": {
+      "id": "86cb2207a5d940285f14052b0aa65413",
+      "title": "Sectra zoekt een AI Adoption Specialist in Almere | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-sectra-4445218457",
+      "snippet": "1 day ago \u00b7 As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes. Sectra\u2019s Amplifier Services is a new and growing part of our portfolio, designed to make AI adoption smoother, smarter, and more scalable.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-25T08:02:07.781591"
+    },
+    "score": 3,
+    "reason": "AI Adoption Specialist title is promising, but Sectra operates in medical imaging/healthcare AI \u2014 likely requires domain expertise and focuses on clinical workflows, not dev team tooling adoption. Not a software engineering AI adoption role.",
+    "embed_sim": 0.34092462062835693,
+    "ai_native_score": 0.5769466757774353
+  },
+  {
+    "job": {
+      "id": "cff77f1abd7e3cd1d8ed77218b817ab2",
+      "title": "266 vacatures voor Hpc in Nederland - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/hpc-jobs",
+      "snippet": "266 topvacatures voor Hpc in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Hpc toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-25T08:02:07.781648"
+    },
+    "score": 0,
+    "reason": "This is a job search listing page (266 HPC vacancies), not an actual job posting. Not a valid job to score.",
+    "embed_sim": 0.05461709201335907,
+    "ai_native_score": 0.5081587433815002
+  },
+  {
+    "job": {
+      "id": "5b265b2feb01b750697b4b46ad931868",
+      "title": "Begin niet voor elke vacature opnieuw. | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/werkgevers",
+      "snippet": "AI matcht jouw vacatures met het juiste talent, zodat je community kandidaten en hires oplevert zonder extra moeite. Jouw connecties ori\u00ebnteren en bereiden zich voor met hun AI career coach.BrightAnalytics logo. Astrid Houthoofd. Talent acquisition specialist.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-25T08:02:35.511025"
+    },
+    "score": 0,
+    "reason": "This is a Magnet.me employer landing page promoting their recruiting platform, not an actual job listing. Not a valid job to score.",
+    "embed_sim": 0.1594310700893402,
+    "ai_native_score": 0.5768850445747375
+  },
+  {
+    "job": {
+      "id": "58a465d84484430031ac62f94fbd8e93",
+      "title": "Niah IT Recruitment zoekt een Senior AI Engineer ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-niah-it-recruitment-4431876243",
+      "snippet": "Jun 24, 2026 \u00b7 \u2022 Sterke ervaring binnen AI, software engineering of machine learning \u2022 Ervaring met Python en moderne AI/LLM tooling \u2022 Ervaring met production-ready software \u2022 Je beweegt makkelijk tussen business en techniek \u2022 Je neemt verantwoordelijkheid zonder dat iemand je hoeft te vertellen wat je moet doen",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-25T08:02:43.833350"
+    },
+    "score": 1,
+    "reason": "Senior AI Engineer requiring strong Python and ML/LLM tooling experience \u2014 this is a machine learning/data science engineer role, not an AI adoption/enablement role. Directly conflicts with candidate's non-interest in building ML models.",
+    "embed_sim": 0.4802359938621521,
+    "ai_native_score": 0.6507080793380737
+  },
+  {
+    "job": {
+      "id": "84763502a5c37478a4fd43a33e040220",
+      "title": "Generatieve AI Specialist \u2013 Coolblue - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/generatieve-ai-specialist-coolblue/",
+      "snippet": "Als Generatieve AI Specialist werk je aan chatbots voor klanten om een conversationele klantreis te cre\u00ebren. Je schrijft de prompt, test het prototype en evalueert op grote schaal de uitkomsten. Ook Prompt Engineer worden bij Coolblue? Lees dan snel verder! Als toekomstig prompt engineer schrijf jij je motivatiebrief natuurlijk met AI.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-25T08:02:58.900868"
+    },
+    "score": 1,
+    "reason": "Generatieve AI Specialist focused on building chatbots and prompt engineering for customer-facing products. This is about building AI applications, not enabling dev teams to adopt AI tools in their workflows.",
+    "embed_sim": 0.4285374581813812,
+    "ai_native_score": 0.7690792679786682
+  },
+  {
+    "job": {
+      "id": "144ee1d69563b766d83417047cf70166",
+      "title": "Parttime pedagogisch begeleider in Utrecht in Utrecht... | Alles Over 030",
+      "company": "Alles Over 030",
+      "location": "Utrecht",
+      "url": "https://allesover030.nl/vacatures/parttime-pedagogisch-begeleider-in-utrecht-utrecht-0ad743/?lang=en",
+      "snippet": "Utrecht \u2014 goed bereikbaar met openbaar vervoer en eigen vervoer vanuit de gehele regio Midden-Nederland. Interesse in deze vacature? Klik op de sollicitatieknop hieronder voor meer informatie.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-25T08:03:09.437027"
+    },
+    "score": 0,
+    "reason": "Parttime pedagogisch begeleider (part-time pedagogical supervisor) in education/childcare. Completely unrelated to software engineering, AI tooling, or the candidate's profile.",
+    "embed_sim": -0.009719397872686386,
+    "ai_native_score": 0.54022216796875
   }
 ]
