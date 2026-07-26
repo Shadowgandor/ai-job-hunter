@@ -5654,14 +5654,14 @@
       "company": "Werken in AI",
       "location": "Utrecht",
       "url": "https://werkeninai.nl/machine-learning-specialist-de-volksbank/",
-      "snippet": "Vacature: De Volksbank in Utrecht zoekt een Machine Learning Specialist voor 36 uur per week | Salaris: van \u20ac 4.739,11 tot \u20ac 6.318,81 per maand | Sluitingsdatum: onbekend.",
+      "snippet": "Vacature: De Volksbank in Utrecht zoekt een Machine Learning Specialist voor 36 uur per week | Salaris: tot \u20ac 6.318,81 per maand.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-21T09:35:26.684516"
+      "date_found": "2026-07-26T08:21:52.293389"
     },
     "score": 1,
-    "reason": "Machine Learning Specialist at De Volksbank in Utrecht. Good location. However, role is ML-focused, not about AI tool adoption for dev teams. Requires data science/ML expertise candidate explicitly does not want.",
-    "embed_sim": 0.30334022641181946,
-    "ai_native_score": 0.415718138217926
+    "reason": "Machine Learning Specialist role at De Volksbank in Utrecht. Explicitly requires ML expertise (model training, data science). Directly contradicts candidate's stated non-match criteria (pure ML/Data Science roles).",
+    "embed_sim": 0.29673320055007935,
+    "ai_native_score": 0.4239237904548645
   },
   {
     "job": {
@@ -24158,5 +24158,117 @@
     "reason": "Parttime pedagogisch begeleider (part-time pedagogical supervisor) in education/childcare. Completely unrelated to software engineering, AI tooling, or the candidate's profile.",
     "embed_sim": -0.009719397872686386,
     "ai_native_score": 0.54022216796875
+  },
+  {
+    "job": {
+      "id": "bc4b646f75794c1da8566dd7a0784c83",
+      "title": "27.000+ vacatures voor Engineering en werk: 22 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Engineering-vacatures",
+      "snippet": "Vergelijkbare vacatures bij deze werkgever bekijken. You write high-quality code and evaluate AI outputs with engineering rigor. You have a strong background in Computer Science or a related engineering discipline\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-26T08:21:39.985140"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job listing page, not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.25375494360923767,
+    "ai_native_score": 0.6211900115013123
+  },
+  {
+    "job": {
+      "id": "8c3a865559e68afdb62808855ee6ba86",
+      "title": "1.000+ vacatures voor Programmeur en werk: 22 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Programmeur-vacatures",
+      "snippet": "Builder, Devops Engineer, Software Engineer en meer op Indeed.com.Vergelijkbare vacatures bij deze werkgever bekijken. You\u2019ll deliver real-time customer impact from day one. Working in a builder pod, a cross-functional team that collaborates to design, build, and deploy AI\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-26T08:21:39.985158"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job listing page, not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.2730589807033539,
+    "ai_native_score": 0.5299685597419739
+  },
+  {
+    "job": {
+      "id": "f661d2508c9cfa557534d4e914cb6a04",
+      "title": "AI Engineering bij LINKIT",
+      "company": "Linkit",
+      "location": "Utrecht",
+      "url": "https://careers.linkit.nl/l/en/ai-engineering",
+      "snippet": "Onze AI Engineering vacature. AI Engineer. De Meern, Utrecht, Netherlands. View job.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-26T08:21:44.303510"
+    },
+    "score": 3,
+    "reason": "AI Engineering role at Linkit in Utrecht (good location), but title suggests ML/model-building focus rather than AI adoption enablement. Insufficient detail to confirm match, but 'AI Engineer' titles typically require ML expertise which candidate doesn't want.",
+    "embed_sim": 0.4913136661052704,
+    "ai_native_score": 0.7151017189025879
+  },
+  {
+    "job": {
+      "id": "99ad4a0dc351374b8607254cc9202e06",
+      "title": "2.457 vacatures voor financial assistant in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Utrecht",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-financial-assistant-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+      "snippet": "Vacatures voor accountant (m/v/x) in Nederland Vacatures bij Good Company (Netherlands) in Nederland.Utrecht. \u20ac 4.000 - \u20ac 5.500 (opgegeven door werkgever). Ruimte voor persoonlijke ontwikkeling (begeleiding, training).",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-26T08:21:44.303591"
+    },
+    "score": 0,
+    "reason": "Financial assistant role with no AI or engineering relevance. Wrong domain entirely.",
+    "embed_sim": 0.11866556107997894,
+    "ai_native_score": 0.5653703808784485
+  },
+  {
+    "job": {
+      "id": "a23152dec40bc0c49e42287e82a34d7e",
+      "title": "Hb Works - vacatures - 29 juni 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/q-hb-works-vacatures.html",
+      "snippet": "Hb Works vacatures. Wholesale Manager, Pedagogisch Medewerker, Regulatory Specialist en meer op Indeed.com.Hybrid way of working and travel- or working from home -allowance; Yearly bonus",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-26T08:21:48.207705"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job listing page for Hb Works, not a specific job posting. Roles listed (Wholesale Manager, Pedagogical Worker, Regulatory Specialist) have no AI/engineering relevance.",
+    "embed_sim": 0.12447064369916916,
+    "ai_native_score": 0.47363564372062683
+  },
+  {
+    "job": {
+      "id": "e504befeb2ae872adb170e446a9dd076",
+      "title": "15 vacatures voor Workwize in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/workwize-jobs/?f_C=72188985",
+      "snippet": "Business Development Representative DACH. Workwize. Amsterdam 6 dagen geleden.Strategy Associate Intern (Data & AI experience). Workwize.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-26T08:22:38.009094"
+    },
+    "score": 0,
+    "reason": "Generic Workwize job listing page. Roles listed (BDR DACH, Strategy Associate Intern) don't match. Intern-level position also explicitly disqualified by candidate.",
+    "embed_sim": 0.2508557140827179,
+    "ai_native_score": 0.5783661007881165
+  },
+  {
+    "job": {
+      "id": "0324f5cece697132091a9cfb32311046",
+      "title": "14 vacatures voor Prorail in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/prorail-jobs/?f_C=7113",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-26T08:22:38.009110"
+    },
+    "score": 0,
+    "reason": "Generic ProRail job listing page, not a specific job posting. Cannot evaluate relevance.",
+    "embed_sim": 0.06300664693117142,
+    "ai_native_score": 0.5752100944519043
   }
 ]

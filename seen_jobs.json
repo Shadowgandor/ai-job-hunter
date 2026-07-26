@@ -1,76 +1,4 @@
 {
-  "0f661a10ab440494b9063a1f917e8333": {
-    "title": "Associate AI Adoption & Change (Amsterdam, Rotterdam)",
-    "company": "",
-    "url": "https://magnet.me/nl-NL/vacature/1023910/associate-ai-adoption---change--amsterdam--rotterdam-",
-    "date": "2026-05-26T09:45:47.250227"
-  },
-  "3fb70327b25790a750e98d3600d5a6e3": {
-    "title": "ING internship - AI Adoption within Global Investment Center",
-    "company": "AI Adoption within Global Investment Center",
-    "url": "https://magnet.me/nl-NL/vacature/1029026/ing-internship---ai-adoption-within-global-investment-center",
-    "date": "2026-05-26T09:45:47.250275"
-  },
-  "53982b7dd31efe55759675248321e2c6": {
-    "title": "C004127 Digital Adoption Specialist - THU 20 Mar",
-    "company": "THU 20 Mar",
-    "url": "https://magnet.me/nl-NL/vacature/845745/c004127-digital-adoption-specialist---thu-20-mar",
-    "date": "2026-05-26T09:45:47.250309"
-  },
-  "a29e13a7cd04ad14fe3ed4d2eab7f940": {
-    "title": "Vacature Medewerker landelijke meldkamer P1 Parttime in Voorburg",
-    "company": "",
-    "url": "https://unique.nl/vacature/medewerker-landelijke-meldkamer-p1-(v3697735)",
-    "date": "2026-05-26T09:45:56.644967"
-  },
-  "0a472f5c8805e05a7a7f4228339b6411": {
-    "title": "Vacatures voor Internship Data Engineering in Nederland - LinkedIn",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/internship-data-engineering-jobs",
-    "date": "2026-05-26T09:46:36.526655"
-  },
-  "d946c38daa8f942e864c37327d8a3436": {
-    "title": "494 vacatures voor Digital Learning in Nederland - LinkedIn",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/digital-learning-jobs",
-    "date": "2026-05-26T09:46:36.526666"
-  },
-  "49cfebdcc95aefb80410613f402056e9": {
-    "title": "9 integration engineer vacatures in de branche ict | 16 maart 2026 ...",
-    "company": "16 maart 2026 ...",
-    "url": "https://www.nationalevacaturebank.nl/vacatures/functie/integration-engineer/branche-ict",
-    "date": "2026-05-26T09:47:04.544962"
-  },
-  "541bd3d253f6bd90627bb19fe70636d3": {
-    "title": "PhD Researcher in Legal and ethical governance of AI in healthcare",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/view/phd-researcher-in-legal-and-ethical-governance-of-ai-in-healthcare-at-university-of-amsterdam-4402263782",
-    "date": "2026-05-26T09:47:18.423369"
-  },
-  "52465c375011c1ae130ab0e46e1fd2d9": {
-    "title": "600+ vacatures voor Ai Student en werk - Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/m/jobs",
-    "date": "2026-05-26T09:47:27.697671"
-  },
-  "d36c2efab285791db45d3b6d11c3d0da": {
-    "title": "Staff Software Engineer - Developer Experience in Amsterdam bij ...",
-    "company": "...",
-    "url": "https://magnet.me/nl-NL/vacature/1037007/staff-software-engineer---developer-experience",
-    "date": "2026-05-26T09:47:31.767250"
-  },
-  "a852bca812e09ef60a9942a5c3282f06": {
-    "title": "75+ vacatures voor Langchain en werk: 11 mei 2026 - Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/q-langchain-vacatures.html",
-    "date": "2026-05-26T09:47:35.835920"
-  },
-  "9cbb2cf3fcd8d40f25409f19f46cc78e": {
-    "title": "ManpowerGroup Nederland \u2013 Powering the world of work",
-    "company": "",
-    "url": "https://manpowergroup.nl/",
-    "date": "2026-05-26T09:47:35.835930"
-  },
   "81a125015691e870e1ece76029be19a8": {
     "title": "AI Lead (SAMY backbone) in Amsterdam bij Team5pm | Magnet.me",
     "company": "Team5Pm",
@@ -6688,5 +6616,53 @@
     "company": "Alles Over 030",
     "url": "https://allesover030.nl/vacatures/parttime-pedagogisch-begeleider-in-utrecht-utrecht-0ad743/?lang=en",
     "date": "2026-07-25T08:03:09.437027"
+  },
+  "bc4b646f75794c1da8566dd7a0784c83": {
+    "title": "27.000+ vacatures voor Engineering en werk: 22 juli 2026| Indeed",
+    "company": "",
+    "url": "https://nl.indeed.com/Engineering-vacatures",
+    "date": "2026-07-26T08:21:39.985140"
+  },
+  "8c3a865559e68afdb62808855ee6ba86": {
+    "title": "1.000+ vacatures voor Programmeur en werk: 22 juli 2026| Indeed",
+    "company": "",
+    "url": "https://nl.indeed.com/Programmeur-vacatures",
+    "date": "2026-07-26T08:21:39.985158"
+  },
+  "f661d2508c9cfa557534d4e914cb6a04": {
+    "title": "AI Engineering bij LINKIT",
+    "company": "Linkit",
+    "url": "https://careers.linkit.nl/l/en/ai-engineering",
+    "date": "2026-07-26T08:21:44.303510"
+  },
+  "99ad4a0dc351374b8607254cc9202e06": {
+    "title": "2.457 vacatures voor financial assistant in Nederland | Glassdoor",
+    "company": "Glassdoor",
+    "url": "https://www.glassdoor.nl/Vacature/nederland-financial-assistant-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
+    "date": "2026-07-26T08:21:44.303591"
+  },
+  "a23152dec40bc0c49e42287e82a34d7e": {
+    "title": "Hb Works - vacatures - 29 juni 2026 | Indeed",
+    "company": "Indeed",
+    "url": "https://nl.indeed.com/q-hb-works-vacatures.html",
+    "date": "2026-07-26T08:21:48.207705"
+  },
+  "9a3048089c6851a7e472af6ff7afe657": {
+    "title": "Machine Learning Specialist - De Volksbank - Werken in AI",
+    "company": "Werken in AI",
+    "url": "https://werkeninai.nl/machine-learning-specialist-de-volksbank/",
+    "date": "2026-07-26T08:21:52.293389"
+  },
+  "e504befeb2ae872adb170e446a9dd076": {
+    "title": "15 vacatures voor Workwize in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/workwize-jobs/?f_C=72188985",
+    "date": "2026-07-26T08:22:38.009094"
+  },
+  "0324f5cece697132091a9cfb32311046": {
+    "title": "14 vacatures voor Prorail in Nederland",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/prorail-jobs/?f_C=7113",
+    "date": "2026-07-26T08:22:38.009110"
   }
 }
