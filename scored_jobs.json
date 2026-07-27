@@ -3298,18 +3298,18 @@
   {
     "job": {
       "id": "2215efd4cf05ff9edb094fd990eaee5e",
-      "title": "169 vacatures voor Junior Front End Developer in Nederland",
+      "title": "173 vacatures voor Junior Front End Developer in Nederland",
       "company": "",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://nl.linkedin.com/jobs/junior-front-end-developer-jobs",
-      "snippet": "169 Junior Front End Developer vacatures in Nederland.Frontend Engineer. MarvelX AI. Amsterdam 4 weken geleden. Javascript developer.",
+      "snippet": "173 Junior Front End Developer vacatures in Nederland.Front End Software Engineer (AR, Spatial & AI-powered Experiences).",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-13T08:42:07.833893"
+      "date_found": "2026-07-27T09:44:30.183365"
     },
     "score": 0,
-    "reason": "This is a job listing aggregator/search results page, not an actual job posting. Also explicitly targets junior developers, which does not match the candidate's senior level requirement.",
-    "embed_sim": 0.30896249413490295,
-    "ai_native_score": 0.6047593355178833
+    "reason": "This is a search results aggregation page for Junior Front End Developer roles, not a specific job listing. Cannot evaluate. Also, junior level roles do not match candidate's seniority requirement.",
+    "embed_sim": 0.3267052173614502,
+    "ai_native_score": 0.5741074085235596
   },
   {
     "job": {
@@ -4530,18 +4530,18 @@
   {
     "job": {
       "id": "308202771c4f48a532b5460ea7522c36",
-      "title": "339 vacatures voor Artificial Intelligence Intern in Nederland - LinkedIn",
+      "title": "956 vacatures voor Artificial Intelligence Intern in Nederland",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/artificial-intelligence-intern-jobs",
-      "snippet": "Optimization & AI Engineer Intern. Dassault Syst\u00e8mes. 's-Hertogenbosch 6 dagen ... INTERNSHIP - AI Enablement for Solutions Design. GXO Logistics, Inc ...",
+      "snippet": "956 Artificial Intelligence Intern vacatures in Nederland. AI Engineer.Haystack People. Zuid-Holland, Nederland 1 week geleden. AI Developer.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-17T08:18:15.141892"
+      "date_found": "2026-07-27T09:44:30.183401"
     },
     "score": 0,
-    "reason": "Aggregated intern listings. Candidate explicitly excludes intern/traineeship positions and this appears to be a search results page, not a specific job.",
-    "embed_sim": 0.40296146273612976,
-    "ai_native_score": 0.6872407793998718
+    "reason": "This is a search results aggregation page for AI Intern positions. Not a specific job posting. Also, intern-level positions explicitly do not match candidate's 13-year senior experience requirement.",
+    "embed_sim": 0.3442261815071106,
+    "ai_native_score": 0.7403314709663391
   },
   {
     "job": {
@@ -24270,5 +24270,101 @@
     "reason": "Generic ProRail job listing page, not a specific job posting. Cannot evaluate relevance.",
     "embed_sim": 0.06300664693117142,
     "ai_native_score": 0.5752100944519043
+  },
+  {
+    "job": {
+      "id": "e66a4723a652e5a224e0b85f429acdfb",
+      "title": "Vacature voor een functie als Developer Relations/Experience Engineer - Kimchi bij Cast.AI in Amsterdam | Glassdoor",
+      "company": "Cast.Ai In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/developer-relations-experience-engineer-kimchi-cast-ai-JV_IC3064478_KO0,46_KE47,54.htm?jl=1010159122131",
+      "snippet": "Please note that Cast AI does not provide any form of visa sponsorship/work permit. #LI-Remote ... Meld je aan om reviews, anonieme beoordelingen en salarisgegevens te bekijken voordat je solliciteert. ... Vacatures voor Developer Relations/Experience Engineer - Ki...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-27T09:43:17.605324"
+    },
+    "score": 6,
+    "reason": "Developer Relations/Experience Engineer role at Cast.AI could involve AI tooling adoption, but Cast.AI focuses on container/cloud optimization, not general AI tool enablement. Location unclear, likely remote which is acceptable. Some DevEx alignment but unclear if focused on AI adoption for dev teams.",
+    "embed_sim": 0.3360558748245239,
+    "ai_native_score": 0.700068473815918
+  },
+  {
+    "job": {
+      "id": "fdd5e2c2e03c54cce07f61569308fc86",
+      "title": "Vacature voor een functie als AI Engineer bij Talpa Network in Hilversum | Glassdoor",
+      "company": "Talpa Network In Hilversum",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-talpa-network-JV_IC3063935_KO0,11_KE12,25.htm?jl=1010179386298",
+      "snippet": "Ontwerpen, bouwen en doorontwikkelen van AI-oplossingen voor concrete businessvragen, van eerste prototype tot bruikbare toepassing; Vertalen van use cases naar werkende prototypes, automatiseringen, workflows, interne tools, interfaces of onderdelen van toepassingen; Experimenteren met AI-tools, API's, agents, workflow-automatisering en AI-development tooling; Koppelen van databronnen, systemen en tools om oplossingen technisch werkend en praktisch bruikbaar te maken; Testen, evalueren en verbe",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-27T09:43:38.473473"
+    },
+    "score": 2,
+    "reason": "AI Engineer role at Talpa Network is clearly about designing and building AI solutions (prototypes, automations, workflows), not enabling teams to adopt AI tools. This is a builder/creator role, not an adoption/enablement champion role. Wrong type of AI work.",
+    "embed_sim": 0.41722893714904785,
+    "ai_native_score": 0.7104474902153015
+  },
+  {
+    "job": {
+      "id": "bf5e8045b1c1b3920269d8f2abe39a56",
+      "title": "Vacature voor een functie als GEN AI Engineer bij Xebia in Noord-Holland | Glassdoor",
+      "company": "Xebia In Noord-Holland",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/gen-ai-engineer-xebia-JV_KO0,15_KE16,21.htm?jl=1010160948025",
+      "snippet": "We're looking for engineers with 3\u20136 years of experience who live and breathe this space. People who follow the latest model releases, experiment constantly, have opinions on agentic architectures, and can't stop building things.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-27T09:43:38.473499"
+    },
+    "score": 1,
+    "reason": "GEN AI Engineer at Xebia explicitly seeks people who 'build things' and have strong agentic architecture opinions. This is about building/experimenting with AI systems, not championing adoption within dev teams. Requires deep AI expertise. Not a match.",
+    "embed_sim": 0.33611544966697693,
+    "ai_native_score": 0.649834394454956
+  },
+  {
+    "job": {
+      "id": "b684589752e2d8faed38fb62159f7e0c",
+      "title": "200+ vacatures voor Machine Learning Engineer en werk: 27 juli 2026",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-machine-learning-engineer-vacatures.html",
+      "snippet": "Machine Learning Engineer, Data Scientist, Ai Engineer en meer op Indeed.com.Werklocatie: Hybride werken in 2012 Haarlem. Vacature rapporteren. Informatie over advertentietransparantie. Terug naar zoekresultaat.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-27T09:43:52.094382"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page, not a specific job listing. Cannot evaluate. Appears to be a listing index rather than an actual job posting.",
+    "embed_sim": 0.32821980118751526,
+    "ai_native_score": 0.5637194514274597
+  },
+  {
+    "job": {
+      "id": "98df6471cb38dd4791579d171deadf28",
+      "title": "Vacature Engineer bij Siemens in Rotterdam | Nationale Vacaturebank",
+      "company": "Siemens In Rotterdam",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacature/5f3ba4aa-d636-48e9-86af-d91ea12dc098/engineer",
+      "snippet": "Functieomschrijving. Software Engineer- AI Tooling. Mendix. Software Engineering, Data Science. Posted on Jun 20, 2026. Join Our Innovative Team: Are you passionate about the cutting edge of technology and eager to make a real impact?",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-27T09:43:52.094439"
+    },
+    "score": 7,
+    "reason": "Software Engineer - AI Tooling at Siemens (Rotterdam) is a strong conceptual match for AI tooling focus. However, Rotterdam is 70+ km from Utrecht, outside preferred 40km radius. Role appears to align with enabling teams to use AI tools through Mendix platform. Location is the main weakness.",
+    "embed_sim": 0.28067880868911743,
+    "ai_native_score": 0.49708181619644165
+  },
+  {
+    "job": {
+      "id": "ab7098c45a4a97268fc3a81a46e06627",
+      "title": "Werken bij NN Group | Vacatures | Magnet.me (nl)",
+      "company": "Nn Group",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/bedrijf/nngroup",
+      "snippet": "Reken-Engineer Calculation Services. Amsterdam.AI Engineering Lead \u2013 Center of Excellence. Den Haag.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-27T09:43:56.434963"
+    },
+    "score": 0,
+    "reason": "This appears to be a search results listing page showing multiple role categories at NN Group, not a specific job posting. Cannot properly evaluate. The 'AI Engineering Lead \u2013 Center of Excellence' snippet suggests strategy role but lack of detail and unclear posting status prevents scoring.",
+    "embed_sim": 0.23760661482810974,
+    "ai_native_score": 0.6531674265861511
   }
 ]
