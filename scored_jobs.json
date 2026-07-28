@@ -6210,34 +6210,34 @@
   {
     "job": {
       "id": "491de3e802eb0599b26853e4d5ed14c4",
-      "title": "1.000+ vacatures voor Ai Automation en werk: 15 mei 2026| Indeed",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 2 juli 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=88be10082a087770",
       "snippet": "The department is small, AI-augmented, and shaping its own way of working as it scales. There's a clear mechanism for new ideas and patterns to become part of how we work \u2014 they're tried on real client projects, validated, and then adopted.",
       "source": "ddg:indeed",
-      "date_found": "2026-05-22T08:57:52.421107"
+      "date_found": "2026-07-28T08:28:39.894423"
     },
     "score": 0,
-    "reason": "This is a generic search results page for 'AI Automation' roles. No specific job posting details provided; cannot evaluate actual requirements or location.",
-    "embed_sim": 0.36774230003356934,
-    "ai_native_score": 0.7188764810562134
+    "reason": "This is a search results aggregator page from Indeed. While the snippet mentions 'AI-augmented' team, without access to actual job details, location, and specific requirements, cannot properly score.",
+    "embed_sim": 0.33219200372695923,
+    "ai_native_score": 0.7059134840965271
   },
   {
     "job": {
       "id": "cab3708dde1a28703750377b1210a48b",
-      "title": "12.000+ vacatures voor Ai en werk: 18 mei 2026| Indeed",
+      "title": "10.000+ vacatures voor Ai en werk: 27 juli 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-\"ai\"-vacatures.html",
-      "snippet": "Interessante, impactvolle ML/AI-opdrachten bij aansprekende opdrachtgevers waar je als AI Engineer het verschil maakt. Een community van AI-, Machine Learning- en Data-collega's die elkaar dagelijks sterker maken.",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword \u2014 it's a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
       "source": "ddg:indeed",
-      "date_found": "2026-05-22T08:57:52.421138"
+      "date_found": "2026-07-28T08:28:39.894387"
     },
     "score": 0,
-    "reason": "Generic search results page for 'AI' roles. The snippet mentions ML/AI-focused consultant work ('AI Engineer le verschil maakt') but is not a specific job posting. Cannot evaluate location, seniority, or actual responsibilities.",
-    "embed_sim": 0.2805898189544678,
-    "ai_native_score": 0.6009186506271362
+    "reason": "This is a search results aggregator page from Indeed, not a specific job listing. Cannot evaluate actual role requirements.",
+    "embed_sim": 0.32644811272621155,
+    "ai_native_score": 0.5807057619094849
   },
   {
     "job": {
@@ -24366,5 +24366,165 @@
     "reason": "This appears to be a search results listing page showing multiple role categories at NN Group, not a specific job posting. Cannot properly evaluate. The 'AI Engineering Lead \u2013 Center of Excellence' snippet suggests strategy role but lack of detail and unclear posting status prevents scoring.",
     "embed_sim": 0.23760661482810974,
     "ai_native_score": 0.6531674265861511
+  },
+  {
+    "job": {
+      "id": "408efe98e1f43d81a8dbe393a30164cf",
+      "title": "5 tooling engineer vacatures in Provincie Utrecht | Mei 2026 | Adzuna.nl",
+      "company": "Mei 2026",
+      "location": "Utrecht",
+      "url": "https://www.adzuna.nl/provincie-utrecht/tooling-engineer",
+      "snippet": "5 tooling engineer vacatures in Provincie Utrecht op Adzuna, de zoekmachine voor vacature in Nederland. Elke dag duizenden nieuwe vacatures en alle beschikbare tooling engineer vacatures die in de laatste 14 dagen in Nederland zijn gepubliceerd.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-28T08:28:02.587382"
+    },
+    "score": 0,
+    "reason": "This is an aggregator/search results page listing multiple positions, not an actual job posting. Cannot evaluate specific role requirements.",
+    "embed_sim": 0.19732433557510376,
+    "ai_native_score": 0.6768039464950562
+  },
+  {
+    "job": {
+      "id": "408b1170b2a97f77a154508adff15cb1",
+      "title": "Rails & Hotwire engineer based in Utrecht \u2014 Job Hammer's atelier.",
+      "company": "",
+      "location": "",
+      "url": "https://jobhammer.nl/",
+      "snippet": "RoleSoftware Engineer \u00b7 2026 \u2013 Present. StackLaravel \u00b7 Vue.OrgMoneybird. RoleSoftware Engineer \u00b7 2025 \u2013 2026. StackRuby \u00b7 Rails \u00b7 Hotwire. AboutBuilding dependable accounting workflows, refining usability, and shipping features for thousands of business customers.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-28T08:28:31.720298"
+    },
+    "score": 0,
+    "reason": "Rails/Hotwire web development role focused on accounting workflows. No AI adoption or tooling mandate mentioned. Does not match AI champion profile.",
+    "embed_sim": 0.30242323875427246,
+    "ai_native_score": 0.4859760105609894
+  },
+  {
+    "job": {
+      "id": "89bd0fabef74ac8c4e83630b47c23644",
+      "title": "300+ vacatures voor Artificial Intelligence en werk: 24 juli ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/vacatures?q=artificial+intelligence",
+      "snippet": "Artificial Intelligence vacatures. Online Marketing Manager, Specialist, Ai Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-28T08:28:39.894408"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page from Indeed showing multiple vacancies. Not a specific job posting that can be evaluated.",
+    "embed_sim": 0.29685503244400024,
+    "ai_native_score": 0.6213231086730957
+  },
+  {
+    "job": {
+      "id": "b849a6a84fe2164dbd7c667a2dbf59a3",
+      "title": "900+ vacatures voor Ai Innovation en werk: 7 juni 2025| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-innovation-vacatures.html",
+      "snippet": "Ai Innovation vacatures. Intern, Researcher, Ki-prompt-spezialist MIT Niederl\u00e4ndisch, Fl\u00e4misch (m/w/d) - Relocation to Essen en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-28T08:28:39.894435"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page from Indeed with expired date (June 2025). Cannot evaluate specific role requirements or current availability.",
+    "embed_sim": 0.2799355089664459,
+    "ai_native_score": 0.6708112359046936
+  },
+  {
+    "job": {
+      "id": "fd7f9e4bb66e3e8c782755c38826d60f",
+      "title": "200+ vacatures voor Ai Llms en werk: 23 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-llms-vacatures.html",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword \u2014 it's a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-28T08:28:39.894449"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page from Indeed, not a specific job posting. Cannot evaluate actual role requirements.",
+    "embed_sim": 0.3026183545589447,
+    "ai_native_score": 0.5182607769966125
+  },
+  {
+    "job": {
+      "id": "280ace5d3fa543eb907bc3ca9d5760d9",
+      "title": "37 vacatures voor Redwave in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/redwave-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.R&D Engineer \u2013 Sensor Development.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-28T08:28:44.128507"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page from LinkedIn. R&D Engineer for sensor development is unrelated to AI adoption/tooling and likely hardware/physics focused.",
+    "embed_sim": 0.06897590309381485,
+    "ai_native_score": 0.47254079580307007
+  },
+  {
+    "job": {
+      "id": "c0c76ba8ea585ba43004aa9da4095f58",
+      "title": "Senior Data Scientist - AI Strategy Team - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1062596/senior-data-scientist---ai-strategy-team",
+      "snippet": "Your job You are an experienced professional that doesn't just build smart AI solutions, you shape the future of how we work. You spot opportunities before others do, experiment iteratively, involve stakeholders from the start, and turn promising ideas into valuable, scalable (Gen)AI products.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-28T08:28:55.370355"
+    },
+    "score": 1,
+    "reason": "Senior Data Scientist role focused on building AI solutions and (Gen)AI products. Requires data science expertise, not AI tooling adoption champion. Does not match candidate's web development background or desired role.",
+    "embed_sim": 0.47385674715042114,
+    "ai_native_score": 0.6789072155952454
+  },
+  {
+    "job": {
+      "id": "a1201e063746365741b4b20f4f48f803",
+      "title": "50+ vacatures voor Artificial Intelligence en werk in Utrecht ... - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-l-utrecht-(provincie)-vacatures.html?vjk=5bc964b5a5cc5fea",
+      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Data Scientist, Online Marketing Manager, Senior Data Scientist en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-28T08:29:10.362533"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page from Indeed showing multiple AI vacancies in Utrecht province. Not a specific job posting that can be evaluated. Listings likely include data scientist and manager roles not matching the candidate profile.",
+    "embed_sim": 0.21590623259544373,
+    "ai_native_score": 0.5830033421516418
+  },
+  {
+    "job": {
+      "id": "309d2366460c71f74303771e0800cda5",
+      "title": "8 vacatures voor Postnl in Amersfoort, Mpumalanga, Zuid-Afrika",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/postnl-jobs-amersfoort",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Wees een van de eerste sollicitanten. 2 dagen geleden. Data Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-28T08:29:14.936361"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results page aggregate, not an actual job posting. No concrete position details, company, or location provided. Not a valid job opportunity.",
+    "embed_sim": 0.036519840359687805,
+    "ai_native_score": 0.5801892876625061
+  },
+  {
+    "job": {
+      "id": "7470d77b5d2d3e96697b1437b3329c01",
+      "title": "Meer dan 2.000 vacatures voor Sales Agent in Gendt, Gelderland...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/sales-agent-jobs-gendt",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-28T08:29:14.936380"
+    },
+    "score": 0,
+    "reason": "Listing appears to be a search results page aggregate for Sales Agent roles, not an actual job posting. No concrete position details, company information, or relevance to AI engineering. Not a valid job opportunity.",
+    "embed_sim": 0.09345172345638275,
+    "ai_native_score": 0.6194862723350525
   }
 ]
