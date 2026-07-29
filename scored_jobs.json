@@ -2994,18 +2994,18 @@
   {
     "job": {
       "id": "8726aa9387c575e00386f67516635f3a",
-      "title": "659 vacatures voor Healthcare Innovation in Nederland",
+      "title": "480 vacatures voor Healthcare Innovation in Nederland",
       "company": "",
-      "location": "Rotterdam",
+      "location": "",
       "url": "https://nl.linkedin.com/jobs/healthcare-innovation-jobs",
-      "snippet": "Senior Marketing Specialist \u2013 Growth Marketing (Rotterdam).Product Director \u2013 Conversational AI CS & Pharma Advisory (m/f/d).",
+      "snippet": "Astellas Pharma. Leiden 2 dagen geleden. AI Adoption Specialist. AI Adoption Specialist. Sectra.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-13T08:41:08.171790"
+      "date_found": "2026-07-29T08:34:39.647135"
     },
     "score": 0,
-    "reason": "Healthcare innovation aggregator page; mentions 'Conversational AI' but no actual job posting details; wrong industry focus",
-    "embed_sim": 0.1507778912782669,
-    "ai_native_score": 0.5062932372093201
+    "reason": "Generic search results page (Healthcare Innovation), not a specific job posting. Cannot evaluate individual roles or verify details.",
+    "embed_sim": 0.19049100577831268,
+    "ai_native_score": 0.6294184327125549
   },
   {
     "job": {
@@ -24526,5 +24526,293 @@
     "reason": "Listing appears to be a search results page aggregate for Sales Agent roles, not an actual job posting. No concrete position details, company information, or relevance to AI engineering. Not a valid job opportunity.",
     "embed_sim": 0.09345172345638275,
     "ai_native_score": 0.6194862723350525
+  },
+  {
+    "job": {
+      "id": "6f57f148ceeb2d54561d2da72ded7f7d",
+      "title": "Senior Power Platform & AI Developer in Amstelveen bij KPMG ...",
+      "company": "Kpmg ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1063626/senior-power-platform---ai-developer",
+      "snippet": "1 day ago \u00b7 Hands-on experience with Power Apps, Power Automate, Power BI, Dataverse, and Copilot Studio. Experience building AI-powered solutions and agents within the Microsoft Power Platform ecosystem. Strong knowledge of connectors, APIs, integrations, and enterprise application architecture.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-29T08:33:54.094757"
+    },
+    "score": 4,
+    "reason": "Power Platform/Copilot Studio role, but focuses on building AI-powered solutions rather than enabling teams to adopt AI tools. Requires deep Power Platform expertise which isn't the candidate's background.",
+    "embed_sim": 0.3622749447822571,
+    "ai_native_score": 0.5468091368675232
+  },
+  {
+    "job": {
+      "id": "5e6acd33ee5e0ef9d54c18e6f80dc09b",
+      "title": "Staff Software Engineer - Developer Experience in Amsterdam ...",
+      "company": "Developer Experience in Amsterdam ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1037013/staff-software-engineer---developer-experience",
+      "snippet": "Our Developer Experience team is dedicated to making Databricks engineers happy and highly productive. We build the tools, processes, and infrastructure to accelerate engineering velocity as Databricks scales.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-29T08:33:54.094816"
+    },
+    "score": 7,
+    "reason": "Staff-level DevEx role at scale focused on engineering productivity and tooling \u2014 strong alignment with candidate's goals. Location (Amsterdam) is within 40km. Main concern: job posting may be outdated (posted as 'unknown date'), and Databricks-specific context unclear.",
+    "embed_sim": 0.3908941447734833,
+    "ai_native_score": 0.5725117921829224
+  },
+  {
+    "job": {
+      "id": "d790c82bcb7f7f1c86ee0df0d8711b04",
+      "title": "534 vacature(s) voor And web developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/and-web-developer-jobs-SRCH_KO0,17.htm",
+      "snippet": "Vacatures voor web developer in Nederland Vacatures bij Online Kinecto in Nederland.Experience working with Git. A relevant degree is preferred, but not required. What do we offer? Borges has a passionate start-up culture where everything you do matters.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-29T08:33:58.542042"
+    },
+    "score": 0,
+    "reason": "Generic job listing page, not a specific job posting. Cannot evaluate. No actionable job information.",
+    "embed_sim": 0.24452131986618042,
+    "ai_native_score": 0.5354008674621582
+  },
+  {
+    "job": {
+      "id": "6acd0d42a5d5c3187a270764f6d8d086",
+      "title": "Link to glassdoor.nl",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/unity-game-developer-vacatures-SRCH_KO0,20.htm",
+      "snippet": "The site owner hides the web page description.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-29T08:33:58.542076"
+    },
+    "score": 0,
+    "reason": "Generic job search page (Unity game developer listings). Not a specific job posting. Cannot evaluate.",
+    "embed_sim": -0.006301959045231342,
+    "ai_native_score": 0.48248356580734253
+  },
+  {
+    "job": {
+      "id": "ad17c46260281f7b3edacc499c974391",
+      "title": "2.827 vacatures voor Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/development-program-vacatures-SRCH_KE0,19.htm",
+      "snippet": "Zoek in miljoenen vacatures met Glassdoor vacatures zoeken. Ontdek bedrijfsbeoordelingen, reviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-29T08:33:58.542085"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregation page. Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.015901803970336914,
+    "ai_native_score": 0.5060096383094788
+  },
+  {
+    "job": {
+      "id": "4e2da307ef70de6944d4832dc031daf6",
+      "title": "Vacature AI Developer \u2013 Twict",
+      "company": "",
+      "location": "",
+      "url": "https://twict.nl/vacature-ai-developer/",
+      "snippet": "AI Software Developer (32-40 uur). Werk jij mee aan de toekomst van AI in de glasvezelwereld?",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-29T08:34:07.441048"
+    },
+    "score": 2,
+    "reason": "AI Developer role in fiber optic industry. Likely focused on building AI solutions/products rather than enabling team adoption. Insufficient detail but title and context suggest wrong focus.",
+    "embed_sim": 0.39023861289024353,
+    "ai_native_score": 0.822509765625
+  },
+  {
+    "job": {
+      "id": "c6ad032555b30fdaf087ef2427765d9a",
+      "title": "25+ vacatures voor Adoptie Begeleiding en werk: 29 juni 2025 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-begeleiding-vacatures.html",
+      "snippet": "Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie. Je zorgt ervoor dat medewerkers niet alleen de juiste AI-tools\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-29T08:34:35.402063"
+    },
+    "score": 6,
+    "reason": "AI Specialist & Trainer role with adoption focus matches the candidate's sweet spot well. However, this is a search results page aggregating multiple listings \u2014 not a specific job posting. Cannot verify location, company, or full details.",
+    "embed_sim": 0.2511274516582489,
+    "ai_native_score": 0.7683188319206238
+  },
+  {
+    "job": {
+      "id": "2595c76b5bca71259a81e899e03e7522",
+      "title": "Meer dan 170.000 vacatures voor Data Analist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/data-analist-jobs",
+      "snippet": "Untrained data. Solwees AI. Sassenheim. Wees een van de eerste sollicitanten. 11 uur geleden. BI Specialist. BI Specialist. Attero. Apeldoorn 2 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:39.647154"
+    },
+    "score": 0,
+    "reason": "Generic search results page (Data Analyst listings). Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.22904765605926514,
+    "ai_native_score": 0.4365115165710449
+  },
+  {
+    "job": {
+      "id": "248d566a6ad0e7a008ddf7fbef0b9e62",
+      "title": "19 vacatures voor Seo Executive in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/seo-executive-jobs",
+      "snippet": "SEO Specialist / SEO Consultant | 24-32u p/w.Content & AI Enablement Team Lead.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:39.647163"
+    },
+    "score": 0,
+    "reason": "Generic search results page (SEO Executive listings). Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.27321916818618774,
+    "ai_native_score": 0.5871343016624451
+  },
+  {
+    "job": {
+      "id": "a04f1a6bfaebae94452bba1844ee1a9c",
+      "title": "48 vacatures voor Piloot in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/piloot-jobs",
+      "snippet": "Specialist accounts payable Huizen (32-40 uur). Lidl Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:39.647170"
+    },
+    "score": 0,
+    "reason": "Generic job board listing with no clear relevance; appears to be an accounts payable role unrelated to AI or software engineering",
+    "embed_sim": 0.055643752217292786,
+    "ai_native_score": 0.4852043390274048
+  },
+  {
+    "job": {
+      "id": "71e863e3659b1f43a71a3aef6d1cc283",
+      "title": "Vacature voor een functie als Senior Forward Deployed Engineer bij Adyen in Amsterdam | Glassdoor",
+      "company": "Adyen In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/senior-forward-deployed-engineer-adyen-JV_IC3064478_KO0,32_KE33,38.htm?jl=1010173735550",
+      "snippet": "Adyen's Business Enablement Engineering Team is looking for a Senior Forward Deployed Engineer who has a deep passion for AI and Automation.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-29T08:34:43.339037"
+    },
+    "score": 8,
+    "reason": "Senior Forward Deployed Engineer at Adyen in Amsterdam with explicit focus on AI and Automation enablement; strong match for AI adoption/implementation in teams; location is excellent (30km from Utrecht)",
+    "embed_sim": 0.3569258451461792,
+    "ai_native_score": 0.6296489834785461
+  },
+  {
+    "job": {
+      "id": "f326fe4a2001de3193f7305e8359350f",
+      "title": "ING Nederland zoekt een AI & Finance Transformation ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-finance-transformation-intern-at-ing-nederland-4439603958",
+      "snippet": "Jul 18, 2026 \u00b7 Teams operate at the intersection of finance, risk, data, controls, and innovation, continuously seeking better ways of working through automation and technology.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:48.146269"
+    },
+    "score": 0,
+    "reason": "Explicitly labeled as 'Intern' position; candidate requires senior-level roles, not internships/traineeships",
+    "embed_sim": 0.33640560507774353,
+    "ai_native_score": 0.6721004843711853
+  },
+  {
+    "job": {
+      "id": "55cf89a79d1286f0ee31dd4a0c23d91a",
+      "title": "CGI Nederland zoekt een Data Governance & AI Consultant ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-governance-ai-consultant-retail-at-cgi-nederland-4426519401",
+      "snippet": "You design data operating models, implement governance, improve metadata and data quality, and translate strategy into practical ways of working. You can facilitate workshops, align...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:48.146280"
+    },
+    "score": 2,
+    "reason": "Data Governance & AI Consultant role focuses on data operating models and governance rather than developer team AI adoption; requires data/governance expertise, not developer productivity enablement",
+    "embed_sim": 0.33211106061935425,
+    "ai_native_score": 0.5902654528617859
+  },
+  {
+    "job": {
+      "id": "ee565fb4bc555746e65f9f9032e166c8",
+      "title": "Tata Consultancy Services zoekt een AI Engineer (Rapid ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-rapid-engineering-trainee-at-tata-consultancy-services-4444319789?position=1&pageNum=0",
+      "snippet": "As an AI Engineer Trainee, you will embark on a structured learning journey that combines technical training, real-world project experience, mentoring, and international collaboration. You will work with experienced AI engineers and architects to build innovative AI solutions for leading organizations in the Netherlands and beyond.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:34:48.146293"
+    },
+    "score": 0,
+    "reason": "Explicitly labeled as 'Trainee' position; candidate is a senior engineer, not suitable for trainee/junior roles",
+    "embed_sim": 0.4243217706680298,
+    "ai_native_score": 0.6610450148582458
+  },
+  {
+    "job": {
+      "id": "84fe4bbda5067cb021ba483511c2884a",
+      "title": "Meer dan 1.000 vacatures voor Booking Com Engineering in...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/booking-com-engineering-jobs-amsterdam-area-netherlands",
+      "snippet": "Principal Software Engineer I - Data & AI - Marketplace. Booking.com.Talent Acquisition Ops & AI Enablement Manager. Backbase. Amsterdam 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:35:05.413376"
+    },
+    "score": 7,
+    "reason": "Generic job board but mentions 'Lead Developer - GitHub Copilot Enablement' at Epam Systems in Amsterdam; perfect concept match for candidate's profile; needs verification of specific role details",
+    "embed_sim": 0.38905078172683716,
+    "ai_native_score": 0.7151288986206055
+  },
+  {
+    "job": {
+      "id": "e506b8a9eb58174c8b6c8f79f83cfc9a",
+      "title": "38 vacatures voor Epam Systems in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/epam-systems-jobs",
+      "snippet": "Lead Developer - GitHub Copilot Enablement. EPAM Systems. Amsterdam. Wees een van de eerste sollicitanten.Senior AI Platform Engineer / AI Architect - Microsoft Technologies.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-29T08:35:05.413394"
+    },
+    "score": 7,
+    "reason": "Job board mentions 'Lead Developer - GitHub Copilot Enablement' role; strong concept match for AI tool adoption; location Amsterdam is ideal; same company as listing [5]",
+    "embed_sim": 0.2941872179508209,
+    "ai_native_score": 0.5789811611175537
+  },
+  {
+    "job": {
+      "id": "d9fed10fc4e95995bf5fded93824b617",
+      "title": "(Senior) Data Scientist GenAI - Rabobank - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/senior-data-scientist-genai-rabobank/",
+      "snippet": "As a GenAI Data Scientist in Conversational AI, you will be at the heart of developing intelligent systems that can understand and interact with humans naturally. Your work will involve designing and implementing advanced conversational models that enhance user experiences.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-29T08:35:13.556805"
+    },
+    "score": 1,
+    "reason": "Senior Data Scientist role focused on building conversational AI models; requires ML/data science expertise and model development, not developer team enablement; wrong domain for candidate",
+    "embed_sim": 0.45094746351242065,
+    "ai_native_score": 0.6929758787155151
+  },
+  {
+    "job": {
+      "id": "af6504e465de483caab7a1c8686834f4",
+      "title": "Werken in AI - Vacatures voor AI banen in Nederland",
+      "company": "Vacatures voor AI banen in Nederland",
+      "location": "",
+      "url": "https://werkeninai.nl/page/5/",
+      "snippet": "Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI. Blader door vacatures bij toonaangevende bedrijven, ontdek unieke carri\u00e8rekansen, en zet de volgende stap in je loopbaan.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-07-29T08:35:13.556875"
+    },
+    "score": 0,
+    "reason": "Generic job board landing page, not a specific job listing; no substantive role information",
+    "embed_sim": 0.212036594748497,
+    "ai_native_score": 0.7759051322937012
   }
 ]
