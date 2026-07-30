@@ -7656,10 +7656,10 @@
       "url": "https://magnet.me/nl-NL/vacature/875951/sales-support",
       "snippet": "Een laptop en telefoon voor je dagelijkse werkzaamheden inclusief allerlei soorten Conclusion Enablement merchandise; Je komt te werken bij een Microsoft Solutions Cloud Partner, inclusief specialisaties in Modern Work, Azure, Security, Data & AI, Digital & App Innovation, Business Applications, Workspace en Security en AWS Advanced Consulting Partner;",
       "source": "ddg:magnet",
-      "date_found": "2026-05-28T09:57:19.161944"
+      "date_found": "2026-07-30T08:20:05.115976"
     },
-    "score": 1,
-    "reason": "Sales support role at consulting firm. Not a technical role focused on AI adoption in development teams. Wrong function entirely.",
+    "score": 2,
+    "reason": "Sales Support role at Conclusion (Microsoft partner with Data & AI specialization). Wrong role type (sales support, not AI champion). Location in Utrecht is good, but role doesn't match candidate's core skillset or career goals.",
     "embed_sim": 0.16226381063461304,
     "ai_native_score": 0.3789936602115631
   },
@@ -7720,10 +7720,10 @@
       "url": "https://www.glassdoor.nl/Job/research-engineer-jobs-SRCH_KO0,17.htm",
       "snippet": "Zoek de juiste vacature voor Research engineer met bedrijfsreviews en salarissen.As Research Engineer you will be responsible for the necessary applied research, specification, implementation, documentation, verification, and validation of\u2026\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-28T09:57:40.026845"
+      "date_found": "2026-07-30T08:19:46.817947"
     },
-    "score": 1,
-    "reason": "Generic Research Engineer job listing (Glassdoor search results page). Applied research focus, not AI adoption enablement for dev teams.",
+    "score": 0,
+    "reason": "Generic search results page for 'Research Engineer' roles, not a specific job posting. Cannot assess actual requirements.",
     "embed_sim": 0.27899160981178284,
     "ai_native_score": 0.6049402952194214
   },
@@ -24814,5 +24814,181 @@
     "reason": "Generic job board landing page, not a specific job listing; no substantive role information",
     "embed_sim": 0.212036594748497,
     "ai_native_score": 0.7759051322937012
+  },
+  {
+    "job": {
+      "id": "f75f366a44a72fce713cde7d5b30f4df",
+      "title": "Chat Operator - vacatures - 21 juli 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/Chat-Operator-vacatures",
+      "snippet": "Chat Operator vacatures. Deployment Strategist - Netherlands, Solutions Engineer, Sales en meer op Indeed.com.AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations.",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-30T08:19:15.122517"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not a specific job posting. No actual role details or location information.",
+    "embed_sim": 0.2791499197483063,
+    "ai_native_score": 0.6215782165527344
+  },
+  {
+    "job": {
+      "id": "24396a2f91817f644a2bbe374f5d61e2",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 29 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=199094a934cb0921",
+      "snippet": "Onze engineers krijgen \u00e9cht energie van complexe puzzels en de directe impact van hun werk. Ben jij een \"10x-engineer\" die op natuurlijke wijze de richting aangeeft en tegelijk ook met plezier zelf de code induikt?",
+      "source": "ddg:indeed",
+      "date_found": "2026-07-30T08:19:24.829005"
+    },
+    "score": 0,
+    "reason": "Generic search results page for 'AI Engineer' vacancies, not a specific job listing. Cannot assess actual role requirements.",
+    "embed_sim": 0.23082226514816284,
+    "ai_native_score": 0.7178903818130493
+  },
+  {
+    "job": {
+      "id": "5366ab62529e735e37a12f8c5cade2b3",
+      "title": "Vacature voor een functie als AI Builder, Emerging Talent - BNL Market bij Salesforce in Amsterdam | Glassdoor",
+      "company": "Salesforce In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-builder-emerging-talent-bnl-market-salesforce-JV_IC3064478_KO0,37_KE38,48.htm?jl=1010141780315",
+      "snippet": "You\u2019ll deliver real-time customer impact from day one. Working in a builder pod, a cross-functional team that collaborates to design, build, and deploy AI solutions for real customers.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-30T08:19:28.750675"
+    },
+    "score": 1,
+    "reason": "Salesforce AI Builder role focused on building/deploying AI solutions for customers, not enabling dev teams to adopt AI tools. Emerging Talent level may not match senior profile. Location unspecified.",
+    "embed_sim": 0.3487648665904999,
+    "ai_native_score": 0.5671210289001465
+  },
+  {
+    "job": {
+      "id": "9cea0d21cf4f520f1d262e18e00fa0a8",
+      "title": "Vacature voor een functie als AI Builder, Emerging Talent - Swedish Market bij Salesforce in Amsterdam | Glassdoor",
+      "company": "Salesforce In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-builder-emerging-talent-swedish-market-salesforce-JV_IC3064478_KO0,41_KE42,52.htm?jl=1010142093608",
+      "snippet": "You\u2019ll deliver real-time customer impact from day one. Working in a builder pod, a cross-functional team that collaborates to design, build, and deploy AI solutions for real customers.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-30T08:19:28.750699"
+    },
+    "score": 1,
+    "reason": "Salesforce AI Builder role focused on building/deploying AI solutions, not AI adoption enablement. Emerging Talent level doesn't match senior web developer background.",
+    "embed_sim": 0.3267882168292999,
+    "ai_native_score": 0.5904831886291504
+  },
+  {
+    "job": {
+      "id": "9542f2a1b19539481b36ce1a4717e510",
+      "title": "Teva Pharmaceuticals zoekt een Assoc Dir Global Category... | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/assoc-dir-global-category-manager-devices-at-teva-pharmaceuticals-4433306147?position=54&pageNum=0",
+      "snippet": "Vergelijkbare zoekopdrachten. Vacatures voor Category-specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-30T08:19:51.588308"
+    },
+    "score": 0,
+    "reason": "Pharmaceuticals Category Manager role, unrelated to software development or AI adoption. Wrong domain entirely.",
+    "embed_sim": 0.11774174869060516,
+    "ai_native_score": 0.507249116897583
+  },
+  {
+    "job": {
+      "id": "6beb9b9abf28b00e1f4423625b26f18e",
+      "title": "430 vacatures voor Category Manager in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/category-manager-jobs?f_EA=true",
+      "snippet": "Senior Product Manager, Agentic AI Ad Solutions. Seedtag. Ouderkerk aan de Amstel.Vacatures voor Category-specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-30T08:19:51.588341"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Category Manager roles. Not a specific job posting. Unrelated to candidate's background.",
+    "embed_sim": 0.2081298977136612,
+    "ai_native_score": 0.5737095475196838
+  },
+  {
+    "job": {
+      "id": "47f6adfc1dc4c04d751959acdf70e747",
+      "title": "75 vacatures voor Seo Manager in Nederland",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/seo-manager-jobs",
+      "snippet": "Senior SEO Specialist. iO. Rotterdam. Wees een van de eerste sollicitanten. 5 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-30T08:19:51.588350"
+    },
+    "score": 0,
+    "reason": "Generic search results page for SEO Manager roles, unrelated to AI adoption or software development. Wrong domain.",
+    "embed_sim": 0.16246993839740753,
+    "ai_native_score": 0.5018043518066406
+  },
+  {
+    "job": {
+      "id": "32eb41c8558cdaf17356be468ef676f4",
+      "title": "NOS.nl - Nieuws, Sport en Evenementen | Nederlandse Omroep...",
+      "company": "Nederlandse Omroep...",
+      "location": "",
+      "url": "https://nos.nl/",
+      "snippet": "Kids gezocht: of je even een baby wil maken. Asielsysteem Griekenland 'bevroren' sinds migratiepact, asielzoekers vastgezet. 1:53. Opvallende fragmenten en gasten uit 38 jaar Zomergasten: 'Omslag in m'n carri\u00e8re'. 4:06. Waarom Nederland de droogte niet aankan.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-30T08:20:09.609568"
+    },
+    "score": 0,
+    "reason": "Dutch news website (NOS.nl), not a job listing. Not a valid job posting.",
+    "embed_sim": -0.029163051396608353,
+    "ai_native_score": 0.5616543889045715
+  },
+  {
+    "job": {
+      "id": "04552cb509f5c8b08c24026f13a219ff",
+      "title": "Senior Consultant Digitalisering, Data & AI in Amsterdam bij SeederDeBoer & Hieroo | Magnet.me | #1060357 (nl)",
+      "company": "Seederdeboer & Hieroo",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1060357/senior-consultant-digitalisering--data---ai",
+      "snippet": "Het begeleiden van gebruikers, teams en management bij de adoptie van nieuwe systemen, data- en AI-toepassingen; Het verbinden van bestuurders, business, IT, data-specialisten en leveranciers om gezamenlijke resultaten te realiseren;",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-30T08:20:14.848956"
+    },
+    "score": 7,
+    "reason": "Strong match on adoption/enablement aspect (guiding users, teams, management in adopting AI systems). Consultant role aligns with championing AI practices. Amsterdam is within 40km of Utrecht. However, vague snippet doesn't confirm focus on developer tooling vs. broader data/AI, and lacks confirmation of technical hands-on depth.",
+    "embed_sim": 0.22852490842342377,
+    "ai_native_score": 0.5638349056243896
+  },
+  {
+    "job": {
+      "id": "c3a8cec6df404ea130e0a148d01f1750",
+      "title": "glassdoor.nl/Vacature/junior-web-developer-vacatures-SRCH_KO...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/junior-web-developer-vacatures-SRCH_KO0,20.htm",
+      "snippet": "Vacatures voor Junior Web Developer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-07-30T08:20:20.317355"
+    },
+    "score": 0,
+    "reason": "Junior position. Candidate is senior with 13 years experience. Does not match seniority requirements.",
+    "embed_sim": 0.1937645971775055,
+    "ai_native_score": 0.5557315945625305
+  },
+  {
+    "job": {
+      "id": "b5d55bf885a16ba1d3932fbf2b73b289",
+      "title": "vacatures TEQA",
+      "company": "",
+      "location": "",
+      "url": "https://teqa.nl/vacatures",
+      "snippet": "Vacature AI developer. Help ons AI inzetten om klanten direct te helpen via chat, WhatsApp, e-mail en zelfs voice. Je bouwt slimme AI-agents met Python, LangChain en JavaScript die zelfstandig reserveringen, contactaanvragen en andere taken afhandele...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-30T08:20:32.828877"
+    },
+    "score": 1,
+    "reason": "Requires building AI agents with Python, LangChain (ML/backend-focused development). This is building AI products, not enabling teams to adopt AI tools. Explicitly not a match for the candidate's profile.",
+    "embed_sim": 0.3375239074230194,
+    "ai_native_score": 0.7429232001304626
   }
 ]
