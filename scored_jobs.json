@@ -7336,10 +7336,10 @@
       "url": "https://nl.indeed.com/m/jobs?q=Adoptie+Specialist",
       "snippet": "Alle vacatures voor XTRM development - Bunnik vacatures - vacatures voor Specialist (m/v) in Bunnik bekijken \u00b7 Zoeken op salaris: ADOPTIE SPECIALIST salarissen in Bunnik \u00b7 Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie.",
       "source": "ddg:indeed",
-      "date_found": "2026-05-27T09:40:44.566479"
+      "date_found": "2026-07-31T08:44:25.171487"
     },
-    "score": 7,
-    "reason": "AI Specialist & Trainer role focused on AI adoption within organization. Located in Bunnik (near Utrecht, within 40km). Strong match for champion/adoption focus, though listing is vague and needs verification it's not closed.",
+    "score": 8,
+    "reason": "AI Specialist & Trainer role focused on AI adoption within organization. Title mentions 'Adoptie Specialist' which directly aligns with candidate's goal. Bunnik is near Utrecht (within 40km). Matches core mission of helping teams adopt AI. Insufficient detail on technical requirements, but strong conceptual match.",
     "embed_sim": 0.15036410093307495,
     "ai_native_score": 0.5321108102798462
   },
@@ -7688,10 +7688,10 @@
       "url": "https://nl.linkedin.com/jobs/view/field-application-scientist-at-nanostring-technologies-inc-2654199840",
       "snippet": "Conduct data analysis sessions and/or point to resources to enable regional customers to accelerate full adoption of technologies providing on-site troubleshooting as needed",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-28T09:57:22.883835"
+      "date_found": "2026-07-31T08:45:04.876798"
     },
-    "score": 1,
-    "reason": "Field Application Scientist at biotech company. Wrong domain (genomics/lab technology), not software development or AI tooling adoption.",
+    "score": 0,
+    "reason": "Field Application Scientist at biotech/life sciences company (NanoString). Focuses on data analysis and customer support for scientific instruments. Not related to software development, AI adoption in engineering workflows, or candidate's background. Wrong domain entirely.",
     "embed_sim": 0.2328588366508484,
     "ai_native_score": 0.4811067283153534
   },
@@ -7734,14 +7734,14 @@
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Job/dubai-analytics-jobs-SRCH_IL.0,5_IM954_KO6,15.htm",
-      "snippet": "Build analytics tools that utilise the data pipeline to provide actionable insights. Own large initiatives end to end - ensure their success by defining the\u2026\u2026 Waarnaar moet ik zoeken op Glassdoor als ik wil zoeken naar vacatures voor een Analytics in...",
+      "snippet": "845 vacatures. 2.8. AirPro AE.Select your option.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-28T09:57:40.026859"
+      "date_found": "2026-07-31T08:45:22.256998"
     },
     "score": 0,
-    "reason": "Analytics role in Dubai. Wrong location (far from Utrecht), wrong domain (data analytics), not about AI tool adoption in dev teams.",
-    "embed_sim": 0.13191185891628265,
-    "ai_native_score": 0.4174736738204956
+    "reason": "Not a job listing \u2014 appears to be a search results page aggregator. No actual position, company, or location information. Cannot evaluate.",
+    "embed_sim": 0.10088875889778137,
+    "ai_native_score": 0.44244858622550964
   },
   {
     "job": {
@@ -8178,18 +8178,18 @@
   {
     "job": {
       "id": "e7ee498b28bb4680d342d1e4bb5f1cbb",
-      "title": "Meer dan 173.000 vacatures voor Data Analist in Nederland",
+      "title": "Meer dan 159.000 vacatures voor Data Analist in Nederland",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/data-analist-jobs?position=1&pageNum=0",
-      "snippet": "Power BI Developer / Data Visualization Specialist. Jobgether. Brabantse Stedenrij en omgeving 13 uur geleden.Fox global assets ltd. Nederland 13 uur geleden. AI/ML Engineer.",
+      "snippet": "Junior AI en Data Analyst. Robert Walters. Naarden.AI/Data Engineer.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-30T08:25:32.386032"
+      "date_found": "2026-07-31T08:45:17.167844"
     },
     "score": 0,
-    "reason": "Data Analyst search results aggregation page. Not a specific job posting. Cannot assess match.",
-    "embed_sim": 0.2361716628074646,
-    "ai_native_score": 0.4690936207771301
+    "reason": "Generic job listing aggregation page for Data Analyst roles. Not a specific job posting. 'Junior AI en Data Analyst' suggests junior-level data science work, which candidate explicitly does not want. No actionable job.",
+    "embed_sim": 0.33337482810020447,
+    "ai_native_score": 0.5220494866371155
   },
   {
     "job": {
@@ -24990,5 +24990,149 @@
     "reason": "Requires building AI agents with Python, LangChain (ML/backend-focused development). This is building AI products, not enabling teams to adopt AI tools. Explicitly not a match for the candidate's profile.",
     "embed_sim": 0.3375239074230194,
     "ai_native_score": 0.7429232001304626
+  },
+  {
+    "job": {
+      "id": "cda899a8bd287e5e0ae3c747773759c1",
+      "title": "Meer dan 2.000 vacatures voor Robotics Engineer Or Ingenieur...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/robotics-engineer-or-ingenieur-robotica-jobs",
+      "snippet": "2.000+ Robotics Engineer Or Ingenieur Robotica vacatures in Nederland. Robotics engineer - mobile equipment (ROS/C++).Junior Python Software Engineer (AI & Automation). GTE.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:44:40.069833"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for Robotics Engineer roles. Not a specific job posting. Robotics/ROS/C++ is unrelated to candidate's web development background and AI adoption focus. No actionable job listing.",
+    "embed_sim": 0.39295220375061035,
+    "ai_native_score": 0.7112531065940857
+  },
+  {
+    "job": {
+      "id": "31f34ce51f12cdc02d5854e1bf1021b9",
+      "title": "688 vacatures voor Open Source Software in Nederland",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/open-source-software-jobs",
+      "snippet": "Software Engineer- AI Tooling. MendixApp. Rotterdam 2 weken geleden.AI Integrations Engineer (Open Source \u00b7 Web Search). SearchApi. Nederland 1 maand geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:44:40.069852"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregation page. Not a specific job posting. Title 'Software Engineer- AI Tooling' is promising but listing is just a search results page with no details or application link.",
+    "embed_sim": 0.2673167884349823,
+    "ai_native_score": 0.6401033401489258
+  },
+  {
+    "job": {
+      "id": "0d1e67c8fb5c8235975a68d177fcba25",
+      "title": "37 vacatures voor Microsoft in Rotterdam, Zuid-Holland, Nederland",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/microsoft-jobs-rotterdam",
+      "snippet": "Software Engineer- AI Tooling. Software Engineer- AI Tooling. Mendix. Rotterdam. Actief aan het werven. 2 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:44:40.069861"
+    },
+    "score": 0,
+    "reason": "Generic job search results page for Microsoft jobs in Rotterdam. Not a specific job posting. While 'Software Engineer- AI Tooling' appears mentioned, Rotterdam is 60+km from Utrecht, outside preferred range. No actionable job details.",
+    "embed_sim": 0.3422447443008423,
+    "ai_native_score": 0.6859479546546936
+  },
+  {
+    "job": {
+      "id": "eb10db1b650b5c95023a82c0841a349a",
+      "title": "Technicians Engineering vacatures | Michael Page",
+      "company": "Michael Page",
+      "location": "",
+      "url": "https://www.michaelpage.nl/jobs/technicians-engineering",
+      "snippet": "Zoek naar Technicians Engineering vacatures bij 's werelds topbedrijven via Netherlands meest toonaangevende recruitment consultancy bedrijf - Michael Page.Vacatures per locatie button. Nederland 36. Zuid-Holland 15.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-07-31T08:44:55.712959"
+    },
+    "score": 0,
+    "reason": "Generic recruitment agency job listing page. Not a specific job posting. No details about actual vacancies, location unclear, no actionable opportunity.",
+    "embed_sim": 0.24631908535957336,
+    "ai_native_score": 0.5807883143424988
+  },
+  {
+    "job": {
+      "id": "49b81e92b001b56ec1d2b8e7063f4959",
+      "title": "51 vacatures voor Logopedist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/logopedist-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Wees een van de eerste sollicitanten. 1 week geleden. (Databricks) AI Instructor.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:45:17.167866"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for Logopedist (speech therapist) roles. Completely unrelated to software development or AI adoption. This appears to be a search results page, not a specific job posting. No relevance to candidate.",
+    "embed_sim": 0.11499599367380142,
+    "ai_native_score": 0.5932640433311462
+  },
+  {
+    "job": {
+      "id": "521166519ea522b9c78a857a8621b022",
+      "title": "5 vacatures voor Sodexo in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/sodexo-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:45:17.167876"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for Sodexo (food services company). Not a specific job posting. No details provided. Unrelated to candidate's profile and job search objectives.",
+    "embed_sim": 0.012855206616222858,
+    "ai_native_score": 0.5891404747962952
+  },
+  {
+    "job": {
+      "id": "f4b17865de2793bf3ac634a3497f4a8b",
+      "title": "30 vacatures voor Unity Developer in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/unity-developer-jobs",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Jr Game Developer Panda3D - Remote. YO AI Labs. Amsterdam. Wees een van de eerste sollicitanten.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-07-31T08:45:17.167884"
+    },
+    "score": 0,
+    "reason": "Generic job listing page for Unity Developer roles in game development. Not related to candidate's web development background or AI adoption focus. Not a specific job posting, just a search results page.",
+    "embed_sim": 0.3045649230480194,
+    "ai_native_score": 0.6516518592834473
+  },
+  {
+    "job": {
+      "id": "8f3bbe2e5a3e5c19ba8c4e55f079c674",
+      "title": "Bsc: Graduation assignment IT... | Magnet.me | #993008 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/993008/bsc--graduation-assignment-it---application-development",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures.Are you an HBO IT student looking for an exciting graduation assignment? Are you ready for a challenge to help us implement an AI agent for a continuous improvement application?",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-31T08:45:32.339616"
+    },
+    "score": 0,
+    "reason": "Graduation assignment/traineeship position for HBO IT students. Candidate explicitly does not match junior/intern/traineeship roles. Also focused on building an AI agent (product development) rather than enabling teams to adopt AI tools.",
+    "embed_sim": 0.36278390884399414,
+    "ai_native_score": 0.7255799770355225
+  },
+  {
+    "job": {
+      "id": "62e5205575047a4e1861f40020481400",
+      "title": "Enhancing Architecture and Interaction of... | Magnet.me | #820894 (nl)",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/820894/enhancing-architecture-and-interaction-of-real-time-applications-using-rust",
+      "snippet": "Geplaatst 1 nov. 2025. Vacature delen.In the heart of our Engineering cluster lies the software engineering department, where we drive the development of cutting-edge combat and information management systems for naval vessels.",
+      "source": "ddg:magnet",
+      "date_found": "2026-07-31T08:45:32.339631"
+    },
+    "score": 0,
+    "reason": "Software engineering role for real-time combat/naval systems using Rust. No mention of AI tooling adoption, DevEx, or platform engineering. Unrelated to candidate's focus on AI enablement and SDLC practices. Location unknown, likely not in Utrecht region.",
+    "embed_sim": 0.25308388471603394,
+    "ai_native_score": 0.6153362393379211
   }
 ]
