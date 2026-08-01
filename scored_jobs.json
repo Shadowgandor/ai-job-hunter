@@ -8422,14 +8422,14 @@
       "company": "Enreach",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1036399/ai-solutions-engineer",
-      "snippet": "23 mei 2026 \u00b7 Als AI Solutions Engineer werk je aan AI-oplossingen die dagelijks door echte gebruikers worden ingezet. Je bouwt samen met klanten slimme ...",
+      "snippet": "Je hebt een relevante achtergrond in software, IT, AI, communicatietechnologie of een vergelijkbaar vakgebied \u00b7 Je voelt je comfortabel met API\u2019s, scriptingtalen of low-code tooling",
       "source": "ddg:magnet",
-      "date_found": "2026-05-31T08:42:43.032922"
+      "date_found": "2026-08-01T08:15:06.535651"
     },
-    "score": 2,
-    "reason": "AI Solutions Engineer typically focuses on building/deploying AI solutions for clients rather than enabling dev teams to adopt AI tools. Almere is outside preferred 40km radius of Utrecht.",
-    "embed_sim": 0.35807231068611145,
-    "ai_native_score": 0.7271890044212341
+    "score": 4,
+    "reason": "AI Solutions Engineer at Enreach mentions API/scripting skills, but lacks detail on whether this is AI adoption/enablement vs. building AI solutions. 'AI Solutions' typically implies building products rather than enabling teams to adopt AI tools. Location (Almere) is borderline acceptable but near Utrecht.",
+    "embed_sim": 0.4224669635295868,
+    "ai_native_score": 0.7532214522361755
   },
   {
     "job": {
@@ -25134,5 +25134,101 @@
     "reason": "Software engineering role for real-time combat/naval systems using Rust. No mention of AI tooling adoption, DevEx, or platform engineering. Unrelated to candidate's focus on AI enablement and SDLC practices. Location unknown, likely not in Utrecht region.",
     "embed_sim": 0.25308388471603394,
     "ai_native_score": 0.6153362393379211
+  },
+  {
+    "job": {
+      "id": "e5269791bb26b8b4e02550bb45e96da1",
+      "title": "107 vacatures voor Timing in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/timing-jobs?f_AL=true",
+      "snippet": "Ecommerce product launch specialist. Just Brands - Fashion & Retail. Amsterdam Area 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-01T08:14:46.285304"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not a specific job posting. Ecommerce product launch specialist is unrelated to AI adoption/tooling.",
+    "embed_sim": 0.03214789181947708,
+    "ai_native_score": 0.39493975043296814
+  },
+  {
+    "job": {
+      "id": "8dd67d0f48471c3f016407eabe2ee63c",
+      "title": "Meer dan 1.000 vacatures voor Alliander in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/alliander-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Talent Acquisition Specialist. Brunel. Groningen, Nederland. Actief aan het werven. 2 weken geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-01T08:14:46.285315"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page with no specific job details. Talent Acquisition Specialist role is HR-focused, not AI enablement/tooling.",
+    "embed_sim": 0.19361206889152527,
+    "ai_native_score": 0.6277661919593811
+  },
+  {
+    "job": {
+      "id": "1279f37b48ac7d4e26a840ee08e9edbb",
+      "title": "Vacatures voor Program coordinator | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Job/program-coordinator-jobs-SRCH_KO0,19.htm",
+      "snippet": "Zoek de juiste vacature voor Program coordinator met bedrijfsreviews en salarissen.Specifies and validates, together with his team of specialists, the project solution and thereby checks the technical consistency through strong interface\u2026\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-01T08:15:10.894847"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page for Program Coordinator roles. Completely unrelated to AI adoption, engineering, or developer tooling.",
+    "embed_sim": 0.16652581095695496,
+    "ai_native_score": 0.592313826084137
+  },
+  {
+    "job": {
+      "id": "038458d097305cd4471c1c6b4674ce9c",
+      "title": "Meer dan 1.000 vacatures voor Alliander in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/alliander-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-01T08:15:41.213022"
+    },
+    "score": 0,
+    "reason": "Generic aggregator page with no specific job content. Placeholder search results page.",
+    "embed_sim": 0.03333164006471634,
+    "ai_native_score": 0.5602024793624878
+  },
+  {
+    "job": {
+      "id": "d1db1e509d93e06aa9dbea10302f106e",
+      "title": "0 vacatures voor Kramp in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/kramp-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-01T08:15:41.213061"
+    },
+    "score": 0,
+    "reason": "Page explicitly states '0 vacatures' \u2014 no jobs available. Closed/unavailable.",
+    "embed_sim": -0.012657176703214645,
+    "ai_native_score": 0.5752725005149841
+  },
+  {
+    "job": {
+      "id": "7abb14e73378b4cb4e7b7f557462c725",
+      "title": "glassdoor.nl/Salarissen/front-end-developer-salarissen-SRCH_KO...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Salarissen/front-end-developer-salarissen-SRCH_KO0,19.htm",
+      "snippet": "Salaris: Front End Developer (Maart 2023) \u2013 Glassdoor.nl.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-01T08:15:51.607175"
+    },
+    "score": 0,
+    "reason": "Salary comparison page, not a job listing. Not a candidate application opportunity.",
+    "embed_sim": 0.1692606806755066,
+    "ai_native_score": 0.42278847098350525
   }
 ]
