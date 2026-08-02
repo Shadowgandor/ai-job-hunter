@@ -2050,18 +2050,18 @@
   {
     "job": {
       "id": "dbd9d61d490149b2e2583811794e0c0c",
-      "title": "Vacatures voor Asml Tooling in Nederland - LinkedIn",
+      "title": "665 vacatures voor Asml Tooling in Nederland - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/asml-tooling-jobs",
-      "snippet": "Topvacatures voor Asml Tooling in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Asml Tooling toegevoegd.",
+      "snippet": "665 topvacatures voor Asml Tooling in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Asml Tooling toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-07T08:29:59.763960"
+      "date_found": "2026-08-02T08:16:35.039723"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page, not an actual job listing. No specific role, company, or location information provided.",
-    "embed_sim": 0.18118014931678772,
-    "ai_native_score": 0.5995653867721558
+    "reason": "Generic search results page, not a specific job listing. No actual role information available. Cannot assess relevance.",
+    "embed_sim": 0.1746673285961151,
+    "ai_native_score": 0.6061292290687561
   },
   {
     "job": {
@@ -7974,14 +7974,14 @@
       "company": "Conclusion",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1032652/ai-strategy-lead",
-      "snippet": "20 May 2026 ... Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. Profiel aanmaken. Bij Conclusion Enablement ontwikkel ...",
-      "source": "ddg:web-nl",
-      "date_found": "2026-05-29T09:48:11.095930"
+      "snippet": "May 21, 2026 - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Bij Conclusion Enablement ontwikkel en beheer je samen met experts al jaren applicaties, moderniseer je IT-omgevingen en neem je deze in beheer. Met de opkomst van AI staat deze wereld aan de vooravond ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-02T08:16:54.920526"
     },
     "score": 7,
-    "reason": "AI Strategy Lead at Conclusion in Utrecht matches location and strategy focus. Company appears to be Conclusion Enablement which suggests DevEx/enablement context. However, limited details available in snippet to confirm it's about tool adoption vs. broader AI strategy. Utrecht location is ideal.",
-    "embed_sim": 0.12034560739994049,
-    "ai_native_score": 0.6800156831741333
+    "reason": "AI Strategy Lead focused on enabling development teams and modernizing IT environments aligns with candidate's AI adoption champion goals. Utrecht location is perfect. Likely involves hands-on strategy with developer enablement. Title and positioning match well.",
+    "embed_sim": 0.08733820915222168,
+    "ai_native_score": 0.6696026921272278
   },
   {
     "job": {
@@ -25230,5 +25230,133 @@
     "reason": "Salary comparison page, not a job listing. Not a candidate application opportunity.",
     "embed_sim": 0.1692606806755066,
     "ai_native_score": 0.42278847098350525
+  },
+  {
+    "job": {
+      "id": "0dcb092c712584707cdae729b80c978f",
+      "title": "Head of AI Support Product in Amsterdam bij Adyen | Magnet.me",
+      "company": "Adyen",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1064564/head-of-ai-support-product",
+      "snippet": "Find ways to experiment and innovate in a compliance-focused global merchant-serving environment. Serve as the internal expert and advocate for AI support capability, educating stakeholders across Support, Legal, Compliance, and Product. Build successful business cases for extensive AI investment and deployment. Cross-functional Execution",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-02T08:16:30.604074"
+    },
+    "score": 6,
+    "reason": "AI adoption advocacy and stakeholder education align well with candidate goals. However, 'Head of' title suggests executive/management focus rather than hands-on enablement. Amsterdam is acceptable location. Missing clarity on developer tooling vs. customer support AI focus.",
+    "embed_sim": 0.5213865041732788,
+    "ai_native_score": 0.6361677646636963
+  },
+  {
+    "job": {
+      "id": "b61f368c82a3252cbeac34174049c26f",
+      "title": "NiCE zoekt een AI Engineer in Alkmaar | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-nice-4420152051",
+      "snippet": "How will you make an impact? Co-found and shape our new AI engineering team in NiCE Netherlands \u2014 you'll influence architecture, tooling, and culture from day one Train and fine-tune LLMs, SLMs, and other ML/DL models for compliance use cases such as communication surveillance, market surveillance, and trade surveillance",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-02T08:16:35.039687"
+    },
+    "score": 1,
+    "reason": "Explicitly requires training/fine-tuning LLMs and ML/DL models for compliance. This is pure ML engineering, not AI tool adoption. Candidate explicitly does NOT want model-building roles. Location acceptable but wrong role type entirely.",
+    "embed_sim": 0.42173057794570923,
+    "ai_native_score": 0.6252392530441284
+  },
+  {
+    "job": {
+      "id": "bd0ceca8954b3987332d9daa86b56a45",
+      "title": "2.000+ vacatures voor Developer en werk: 2 augustus 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Developer-vacatures",
+      "snippet": "Experience with a component library (for example Storybook) and with AI-assisted development, where you review everything yourself. All roles at HCI require a VOG (certificate of conduct), because we work for the healthcare domain.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-02T08:16:42.796779"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator, not a specific job listing. No actionable role information. Cannot assess relevance.",
+    "embed_sim": 0.38197216391563416,
+    "ai_native_score": 0.640840470790863
+  },
+  {
+    "job": {
+      "id": "10d7206f120ccb6f211828b94367ca8a",
+      "title": "Head of Technology Architecture in Den Haag bij PostNL | Magnet.me | #1008802 (nl)",
+      "company": "Postnl",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1008802/head-of-technology-architecture",
+      "snippet": "Denk hierbij o.a. aan cloud, edge & operational technologie, netwerken, security, werkplek, integratie, AI, SDLC. Daarbij definieer je de scope van de initiatieven in samenwerking met senior management, bewaak je de voortgang, organiseer je waar mogelijk praktische samenwerkingen en ontwikkel je de architecten. Ook ga je werken aan het binnen de technologische architectuur borgen van bedrijfsbrede software-standaarden door samenwerken met de groep principal software engineers en het developer ex",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-02T08:16:58.885377"
+    },
+    "score": 4,
+    "reason": "AI mentioned as one of many architecture concerns (cloud, security, networks, etc.) but this is primarily a technology architecture leadership role, not specifically focused on AI tool adoption for dev teams. Den Haag is acceptable but outside preferred 40km radius. Too broad/strategic.",
+    "embed_sim": 0.3528522253036499,
+    "ai_native_score": 0.6133954524993896
+  },
+  {
+    "job": {
+      "id": "160575fca4981c2631c0035bb5be63ad",
+      "title": "27 vacatures voor Blokker in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/blokker-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Vacatures voor CRM-specialist.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-02T08:17:03.008511"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Blokker company jobs. No specific role information available. Cannot assess relevance.",
+    "embed_sim": 0.13601715862751007,
+    "ai_native_score": 0.5529726147651672
+  },
+  {
+    "job": {
+      "id": "c04c519982e7a15fb644ed018c927049",
+      "title": "Meer dan 1.000 vacatures voor Klinisch Psycholoog in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/klinisch-psycholoog-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Organizational Psychologist and Conversational AI Workflow Designer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-02T08:17:03.008520"
+    },
+    "score": 0,
+    "reason": "Generic search results page for psychology roles. Unrelated to software development and AI tool adoption for engineers.",
+    "embed_sim": 0.31992924213409424,
+    "ai_native_score": 0.7340325713157654
+  },
+  {
+    "job": {
+      "id": "0dc23fab04bc60cdcfcd3ff7ba85249b",
+      "title": "66 vacatures voor Bouwkundig Ingenieur in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/bouwkundig-ingenieur-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Junior engineer. Sia. Amsterdam. Wees een van de eerste sollicitanten. 3 weken geleden. Junior engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-02T08:17:06.983790"
+    },
+    "score": 0,
+    "reason": "Generic search results page for civil engineers. Completely unrelated to software development and AI adoption.",
+    "embed_sim": 0.2101898044347763,
+    "ai_native_score": 0.5805911421775818
+  },
+  {
+    "job": {
+      "id": "9af99114f8ed1e3afe7011220f9575fa",
+      "title": "Vacatures bij IBM - 17 openstaande vacatures | Glassdoor",
+      "company": "Ibm - 17 Openstaande Vacatures",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Jobs/IBM-Jobs-E354.htm",
+      "snippet": "17 vacatures bij IBM, met salarissen, beoordelingen en reviews die zijn geplaatst door werknemers van IBM.AI Content Specialist. United States.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-02T08:17:32.792341"
+    },
+    "score": 0,
+    "reason": "Generic job aggregator page showing IBM listings. No specific role information. Cannot assess relevance. Most positions listed are in United States.",
+    "embed_sim": 0.07132583111524582,
+    "ai_native_score": 0.3838065564632416
   }
 ]
