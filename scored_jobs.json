@@ -8230,14 +8230,14 @@
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-artificial-intelligence-communicatie-vacatures.html",
-      "snippet": "Zoeken op salaris: AI Consultant salarissen in Nederland \u00b7 Zie veelgestelde vragen en antwoorden over Team Rockstars IT \u00b7 Bonne ma\u00eetrise des outils d\u2019intelligence artificielle (ChatGPT, Copilot, Claude, NotebookLM, etc.). Bonne ma\u00eetrise des outils d\u2019intelligence artificielle (\u2026 \u00b7 Toon alle vacatures voor Collective.work - Vacatures in Paris",
+      "snippet": "Als AI Consultant help jij organisaties om AI van ambitie naar concrete impact te brengen. Jij beweegt je op het snijvlak van business, technologie en\u2026 \u00b7 Alle vacatures voor Team Rockstars IT - Nederland vacatures - vacatures voor Conversational Ai Consultant (m/v) in Nederland bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-05-30T08:26:03.014004"
+      "date_found": "2026-08-03T09:37:36.474650"
     },
     "score": 0,
-    "reason": "Artificial Intelligence search results aggregation page showing generic AI roles. Not a specific job posting. Cannot evaluate individual fit.",
-    "embed_sim": 0.3222319185733795,
-    "ai_native_score": 0.7145922183990479
+    "reason": "Generic search results aggregator page. While it mentions 'AI Consultant' and helping organizations bring AI to impact (potentially relevant), this is just an aggregated search results page with 4000+ listings, not a specific job opportunity that can be properly evaluated.",
+    "embed_sim": 0.34292858839035034,
+    "ai_native_score": 0.6722451448440552
   },
   {
     "job": {
@@ -8536,10 +8536,10 @@
       "url": "https://magnet.me/nl-NL/vacature/869092/generative-ai-engineer",
       "snippet": "Als generative AI engineer bij Epiic, onderdeel van aaff, heb je een missie: bijdragen aan de transitie van onze klanten naar een duurzamere en innovatieve economie. Je werkt aan een innovatieve toepassing die met behulp van kunstmatige ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-01T11:26:29.693752"
+      "date_found": "2026-08-03T09:37:19.404873"
     },
     "score": 3,
-    "reason": "Generative AI engineer building innovative applications for clients. Appears to be product-focused development rather than AI tool adoption and enablement. Amsterdam location is acceptable but role concept doesn't match candidate's AI champion/enablement focus.",
+    "reason": "Generative AI engineer role likely focused on building AI applications for clients rather than enabling dev teams to adopt AI tools. Title suggests product/solution building, not AI adoption championing. Location unknown but Amsterdam mentioned is acceptable proximity.",
     "embed_sim": 0.3323889374732971,
     "ai_native_score": 0.7478023767471313
   },
@@ -25358,5 +25358,101 @@
     "reason": "Generic job aggregator page showing IBM listings. No specific role information. Cannot assess relevance. Most positions listed are in United States.",
     "embed_sim": 0.07132583111524582,
     "ai_native_score": 0.3838065564632416
+  },
+  {
+    "job": {
+      "id": "b638796bb4328a8a12ea84bdbaf05c26",
+      "title": "Databricks Engineer in Groningen bij ilionx | Magnet.me | #1038326 (nl)",
+      "company": "Ilionx",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1038326/databricks-engineer",
+      "snippet": "May 26, 2026 - Word jij onze nieuwe Databricks Engineer? Werk aan AI gedreven data oplossingen, in een hecht team en met impactvolle projecten bij topklanten door heel Nederland.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-03T09:37:19.404895"
+    },
+    "score": 1,
+    "reason": "Databricks Engineer is a data engineering/ML infrastructure role requiring specialized skills in data pipelines and ML platforms. Groningen location is outside acceptable radius (>40km from Utrecht). Completely misaligned with AI adoption/enablement goals.",
+    "embed_sim": 0.23921240866184235,
+    "ai_native_score": 0.4681774973869324
+  },
+  {
+    "job": {
+      "id": "a563b7d8f53ee59ab729ecb186c9310c",
+      "title": "Audio Engineer - vacatures - 2 augustus 2026 | Indeed",
+      "company": "Indeed",
+      "location": "",
+      "url": "https://nl.indeed.com/Audio-Engineer-vacatures",
+      "snippet": "Audio Engineer vacatures. Field Engineer, Engineer Industri\u00eble Automatisering, Marketing- En Communicatiemedewerker en meer op Indeed.com.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-03T09:37:24.342814"
+    },
+    "score": 0,
+    "reason": "Audio Engineer search results page - not a job listing. Generic search results aggregator, not a specific opportunity.",
+    "embed_sim": 0.2554709315299988,
+    "ai_native_score": 0.5507451891899109
+  },
+  {
+    "job": {
+      "id": "73b5776664c139ffd7f65edbc2082388",
+      "title": "MIT-onderzoek: 'Vacatureteksten schrijven met AI... - Recruitmenttech.nl",
+      "company": "Recruitmenttech.nl",
+      "location": "",
+      "url": "https://www.recruitmenttech.nl/2026/07/30/mit-onderzoek-vacatureteksten-schrijven-met-ai-leidt-15-procent-minder-vaak-tot-een-hire/",
+      "snippet": "Het gebruik van AI voor vacatureteksten leidt tot meer hires, zo stelt MIT. \"Vacatureteksten die met AI waren geschreven, leidden 15 procent minder vaak tot een hire.\"",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-03T09:37:24.342846"
+    },
+    "score": 0,
+    "reason": "Article/research content, not a job listing. This is editorial content about AI recruitment from MIT, not a hiring opportunity.",
+    "embed_sim": 0.14109684526920319,
+    "ai_native_score": 0.6811366677284241
+  },
+  {
+    "job": {
+      "id": "3c559e30abd77bd3b45f8efb66072802",
+      "title": "Meer dan 1.000 vacatures voor Dott in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/dott-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-03T09:37:28.398503"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page showing 1000+ unspecified vacancies at Dott. Not a specific job listing and unable to evaluate actual opportunities.",
+    "embed_sim": 0.03286922723054886,
+    "ai_native_score": 0.5784660577774048
+  },
+  {
+    "job": {
+      "id": "8ddfe3bea9b88f8cdfc6a04106ecb321",
+      "title": "Meer dan 1.000 vacatures voor Juridisch in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/juridisch-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-03T09:37:28.398519"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page showing 1000+ legal job vacancies. Not a specific job listing and completely unrelated domain (legal sector).",
+    "embed_sim": 0.02447967417538166,
+    "ai_native_score": 0.5780574083328247
+  },
+  {
+    "job": {
+      "id": "69a3d95ea48795888314b8ec5555f637",
+      "title": "50+ vacatures voor Artificial Intelligence Master en werk: 29 juli 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/Artificial-Intelligence-Master-vacatures",
+      "snippet": "Toon alle vacatures voor Capgemini - Vacatures in Utrecht \u00b7 Zoeken op salaris: AI Engineer salarissen in Utrecht \u00b7 Zie veelgestelde vragen en antwoorden over Capgemini \u00b7 Flexibele werktijden, je deelt je eigen agenda in. Parttime (32 uur) of fulltime (40 uur) werken.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-03T09:37:36.474630"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator showing 50+ AI Master vacancies. References Capgemini but mentions Master's degree requirement, which disqualifies these roles. Not a specific job listing and appears to require advanced degree.",
+    "embed_sim": 0.20341286063194275,
+    "ai_native_score": 0.6408227682113647
   }
 ]
