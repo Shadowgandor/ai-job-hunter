@@ -7894,14 +7894,14 @@
       "company": "Magnet.me",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1031736/digital---ai-adoption--stage",
-      "snippet": "In deze stage help je Van Lanschot Kempen om AI in het dagelijks werk te laten landen. Je inspireert en ondersteunt collega\u2019s bij het slim en verantwoord gebruiken van Microsoft 365 Copilot en je werkt mee aan low-code AI agents in Copilot Studio.",
+      "snippet": "Jij helpt onze collega\u2019s slimmer werken met AI \u2014 en daar krijg je goede voorwaarden voor terug. We werken hybride en vinden een gezonde werk-priv\u00e9balans belangrijk. Tijdens de AI Adoption stage kun je rekenen op",
       "source": "ddg:magnet",
-      "date_found": "2026-05-29T09:47:41.506398"
+      "date_found": "2026-08-04T08:31:13.899358"
     },
     "score": 2,
-    "reason": "Poor match. Internship position (candidate requires senior level). Though mentions AI adoption and Copilot/Copilot Studio, internship level disqualifies. Location unclear but possibly Utrecht. Candidate is 13-year veteran, not intern-level.",
-    "embed_sim": 0.3192310333251953,
-    "ai_native_score": 0.7976934909820557
+    "reason": "Digital & AI Adoption internship/stage position. Candidate explicitly does NOT want traineeship/intern roles. This is entry-level, not senior engineer position.",
+    "embed_sim": 0.26170146465301514,
+    "ai_native_score": 0.7322784662246704
   },
   {
     "job": {
@@ -8658,18 +8658,18 @@
   {
     "job": {
       "id": "b4dc5b7b2ebd25552ad7ae6340dda901",
-      "title": "35 wo artificial intelligence vacatures | 31 mei 2026",
-      "company": "31 mei 2026",
-      "location": "",
+      "title": "48 wo artificial intelligence vacatures | 28 juli 2026",
+      "company": "28 juli 2026",
+      "location": "Eindhoven",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence/opleiding-wo",
-      "snippet": "Op zoek naar een baan als Artificial intelligence op wo niveau? Bekijk het overzicht met Artificial intelligence vacatures op Nationale Vacaturebank en vind ...",
+      "snippet": "Bekijk het overzicht met Artificial intelligence vacatures op Nationale Vacaturebank en vind de perfecte baan!AI Solutions Developer. Holland InnovativeEindhoven. 1 - 32 uur.",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-01T11:27:56.835887"
+      "date_found": "2026-08-04T08:32:03.707404"
     },
     "score": 0,
-    "reason": "Search results page on Dutch job board for artificial intelligence positions at bachelor's level. Not a specific job listing. Generic aggregator with no concrete role information or company details.",
-    "embed_sim": 0.2212710678577423,
-    "ai_native_score": 0.6652809977531433
+    "reason": "Listing appears to be an aggregator/index page ('28 juli 2026' as company name, generic overview of 48 vacatures) rather than an actual job posting. Not a real vacancy. Also Eindhoven is outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.2230442613363266,
+    "ai_native_score": 0.6551137566566467
   },
   {
     "job": {
@@ -25454,5 +25454,165 @@
     "reason": "Generic search results aggregator showing 50+ AI Master vacancies. References Capgemini but mentions Master's degree requirement, which disqualifies these roles. Not a specific job listing and appears to require advanced degree.",
     "embed_sim": 0.20341286063194275,
     "ai_native_score": 0.6408227682113647
+  },
+  {
+    "job": {
+      "id": "aef66e297c694cbf535606b072e59766",
+      "title": "Meer dan 1.000 vacatures voor Staff Software Engineer in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/staff-software-engineer-jobs",
+      "snippet": "Staff Platform Engineer, AI Enablement. Gigs.Staff Engineer, AI, Engineering Experience. Vinted. Amsterdam.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-04T08:31:09.395804"
+    },
+    "score": 0,
+    "reason": "Generic job listing page, not a specific job posting. Cannot evaluate actual role details.",
+    "embed_sim": 0.41152453422546387,
+    "ai_native_score": 0.75270676612854
+  },
+  {
+    "job": {
+      "id": "57e67cba990bde9d2244946bed546b47",
+      "title": "Sytac zoekt een AI Platform Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-platform-engineer-at-sytac-4435545372",
+      "snippet": "18:15:46 geplaatst. At Sytac, we build high-performing engineering teams for leading organisations.Amsterdam 1 maand geleden. Staff Platform Engineer, AI Enablement.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-04T08:31:09.395824"
+    },
+    "score": 8,
+    "reason": "Staff Platform Engineer, AI Enablement at Sytac in Amsterdam. Direct match for AI enablement platform engineering. Senior level, right location (Amsterdam is within 40km of Utrecht), no ML expertise required.",
+    "embed_sim": 0.42911818623542786,
+    "ai_native_score": 0.6153287887573242
+  },
+  {
+    "job": {
+      "id": "c9d5797f78ed576017b544da5427a757",
+      "title": "Meer dan 8.000 vacatures voor Marketing in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/marketing-jobs?f_AL=true",
+      "snippet": "Bezos.AI. Amsterdam. Wees een van de eerste sollicitanten.Graduate Business Operations Associate. Bezos.AI. Amsterdam 4 weken geleden. Head of FP&A and Strategy.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-04T08:31:09.395841"
+    },
+    "score": 0,
+    "reason": "Generic marketing jobs listing page. Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.1388571858406067,
+    "ai_native_score": 0.5118240714073181
+  },
+  {
+    "job": {
+      "id": "c174364d67e2a4d764a5c88e2673e30c",
+      "title": "Meer dan 1.000 vacatures voor Pa Consulting in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/pa-consulting-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Consultant AI & Innovatie. The Public Network. Noord-Holland, Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-04T08:31:09.395852"
+    },
+    "score": 0,
+    "reason": "Generic search results page for Pa Consulting jobs. Not a specific job posting. Cannot evaluate actual role requirements.",
+    "embed_sim": 0.1930578052997589,
+    "ai_native_score": 0.6465367078781128
+  },
+  {
+    "job": {
+      "id": "64297369fbdc89022e176ccef270958f",
+      "title": "Stop hiring from scratch for every role. | Magnet.me (en)",
+      "company": "Magnet.me (en)",
+      "location": "",
+      "url": "https://magnet.me/employers/",
+      "snippet": "Magnet.me's AI-powered network enables you to build lifelong connections with talent, so you can always hire from a warm pipeline. Traditional hiring. Budget goes to waste.Astrid Houthoofd. Talent acquisition specialist.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-04T08:31:13.899390"
+    },
+    "score": 0,
+    "reason": "Generic employer landing page about hiring products. Not a job listing. Cannot evaluate.",
+    "embed_sim": 0.37591204047203064,
+    "ai_native_score": 0.628520131111145
+  },
+  {
+    "job": {
+      "id": "7a95aa147a29d052e048caba050795d1",
+      "title": "IT companies | page 25 | Magnet.me (en)",
+      "company": "page 25",
+      "location": "",
+      "url": "https://magnet.me/en/companies/it?page=25",
+      "snippet": "Are you looking for a job, internship or placement in IT? With a career in IT, you can become one of many professions such as a cloud architect, IT specialist, software engineer, web developer and even a computer forensic investigator.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-04T08:31:13.899401"
+    },
+    "score": 0,
+    "reason": "Generic IT companies directory/listing page. Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.41950684785842896,
+    "ai_native_score": 0.5395922660827637
+  },
+  {
+    "job": {
+      "id": "30e0956e0f53be6f859ef7944df5d045",
+      "title": "900+ vacatures voor Java Developer en werk: 18 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/m/jobs?q=Java+Developer",
+      "snippet": "Vergelijkbare vacatures bij deze werkgever bekijken. Help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. We are looking for an existing Java Developer - AI Trainer\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-04T08:31:31.362899"
+    },
+    "score": 1,
+    "reason": "Java Developer - AI Trainer role focused on training AI chatbots. Not about helping teams adopt AI tools. More aligned with ML/training work, not developer enablement.",
+    "embed_sim": 0.36868149042129517,
+    "ai_native_score": 0.6769865155220032
+  },
+  {
+    "job": {
+      "id": "4231e7a090d1dfa4213918a7343c90df",
+      "title": "Vacatures bij Cognizant - 22 openstaande vacatures | Glassdoor",
+      "company": "Cognizant - 22 Openstaande Vacatures",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Jobs/Cognizant-Technology-Solutions-Jobs-E8014.htm",
+      "snippet": "22 vacatures bij Cognizant, met salarissen, beoordelingen en reviews die zijn geplaatst door werknemers van Cognizant.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-04T08:31:36.097559"
+    },
+    "score": 0,
+    "reason": "Generic Cognizant jobs listing page. Not a specific job posting. Cannot evaluate actual role requirements.",
+    "embed_sim": 0.027095375582575798,
+    "ai_native_score": 0.49652841687202454
+  },
+  {
+    "job": {
+      "id": "4660ac75dc6a71b9d8a0595084223062",
+      "title": "1.000+ vacatures voor Systems Engineer en werk: 31 mei 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/vacatures?q=Systems+Engineer&l=&from=sug",
+      "snippet": "Systems Engineer vacatures. Systeem Engineer, R&D Engineer, Specialist en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-04T08:31:44.785924"
+    },
+    "score": 0,
+    "reason": "Generic Systems Engineer jobs search results page. Not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.2260831892490387,
+    "ai_native_score": 0.6072585582733154
+  },
+  {
+    "job": {
+      "id": "0f5fad9f5bb19ad04e93c62d44f937d2",
+      "title": "Vacatures in Zeist - 21 mei 2025 | Indeed",
+      "company": "Indeed",
+      "location": "Zeist",
+      "url": "https://nl.indeed.com/vacatures?l=Zeist&radius=0&lang=en",
+      "snippet": "Vacatures beschikbaar in Zeist. Ai Prompt Consultant, Clinical Team Leader, Regulatory Project Manager en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-04T08:32:16.858518"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page for Zeist, not an actual job listing. Shows only job titles ('Ai Prompt Consultant', 'Clinical Team Leader', etc.) without details, requirements, or company information. Cannot evaluate specific role relevance.",
+    "embed_sim": 0.14324823021888733,
+    "ai_native_score": 0.6130629181861877
   }
 ]
