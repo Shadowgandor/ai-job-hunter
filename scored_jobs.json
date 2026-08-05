@@ -9010,18 +9010,18 @@
   {
     "job": {
       "id": "fb9cbc4befc1c7b661c4caaef2100049",
-      "title": "Vacatures voor Adoption Specialist in Nederland - LinkedIn",
+      "title": "Meer dan 2.000 vacatures voor Adoption Specialist in Nederland",
       "company": "",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://nl.linkedin.com/jobs/adoption-specialist-jobs",
-      "snippet": "1.000 vacatures voor Adoption Specialist in Nederland (403 nieuw) \u00b7 Managementondersteuning \u00b7 Nieuwe functies! \u00b7 Administratief Medewerker (Amsterdam) \u00b7 Clinical ...",
+      "snippet": "Meer dan 2.000 topvacatures voor Adoption Specialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Adoption Specialist toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-04T09:52:19.588804"
+      "date_found": "2026-08-05T08:30:19.187948"
     },
     "score": 0,
-    "reason": "Generic LinkedIn search results page, not a specific job listing. Cannot evaluate against concrete job requirements.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Generic search results page for Adoption Specialist roles. No specific job posting details or content to evaluate.",
+    "embed_sim": 0.20812970399856567,
+    "ai_native_score": 0.6935690641403198
   },
   {
     "job": {
@@ -9218,18 +9218,18 @@
   {
     "job": {
       "id": "789393891d27d04ed1ed2600802fa149",
-      "title": "25+ vacatures voor Artificial Intelligence en werk in Utrecht (provincie) 15 februari 2026| Indeed",
+      "title": "50+ vacatures voor Artificial Intelligence en werk in Utrecht (provincie) 8 juli 2026| Indeed",
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-artificial-intelligence-l-utrecht-(provincie)-vacatures.html",
-      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Stagiair, Data Analist, Marketing Manager en meer op Indeed.com",
+      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Data Scientist, Adviseur Huisvesting, Internship Software Development en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-04T09:52:48.765038"
+      "date_found": "2026-08-05T08:30:55.317656"
     },
     "score": 0,
-    "reason": "This is a search results page/aggregator listing 25+ AI vacancies in Utrecht, not an actual job posting. Cannot evaluate specific role requirements.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Generic search results aggregator page for Utrecht AI jobs. No specific job posting details provided for evaluation.",
+    "embed_sim": 0.28782927989959717,
+    "ai_native_score": 0.670034646987915
   },
   {
     "job": {
@@ -9366,14 +9366,14 @@
       "company": "Bol",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/985813/ai-tooling-engineer",
-      "snippet": "January 21, 2026 - Integrate and optimize AI tools (code assistants, MCPs) within developer workflows \u00b7 Design and maintain system integrations, ensuring they align with bol\u2019s architecture and GCP infrastructure \u00b7 Embed security and compliance, translating requirements into actionable solutions \u00b7 Enable engineers through guidelines, demos, workshops, and hands\u2011on support \u00b7 Measure adoption and impact to improve workflows and inform priorities",
+      "snippet": "January 21, 2026 - Make AI work for every engineer By transforming how 900+ engineers work with AI\u2014one tool, integration, and workflow improvement at a time. As an AI Tool Enablement Engineer in the AI Way of Working team, you help define how bol engineers adopt and b\u2026",
       "source": "ddg:magnet",
-      "date_found": "2026-06-04T09:53:17.904984"
+      "date_found": "2026-08-05T08:30:23.103362"
     },
     "score": 9,
-    "reason": "Exceptional match. AI Tooling Engineer at Bol in Utrecht. Explicitly mentions integrating AI tools (code assistants, MCPs), optimizing developer workflows, embedding security/compliance. No ML expertise required. Senior-level role focused on AI adoption enablement \u2014 exactly the candidate's target.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Perfect match: 'AI Tool Enablement Engineer' at bol in Utrecht helping 900+ engineers adopt AI tools and workflows. Exactly the role type and location candidate seeks. Transforming how teams work with AI.",
+    "embed_sim": 0.4563625454902649,
+    "ai_native_score": 0.7473418116569519
   },
   {
     "job": {
@@ -9430,14 +9430,14 @@
       "company": "Magnet.me",
       "location": "",
       "url": "https://magnet.me/",
-      "snippet": "Chat met jouw AI coach en ontdek welke baan bij je past, oefen je sollicitaties en zet je volgende stap met vertrouwen.Op Magnet.me vind je meer dan 30.000 vacatures.",
+      "snippet": "Ontdek vacatures die matchen met je profiel en voorkeuren, en solliciteer direct. Word benaderd door recruiters als je connect met een bedrijf of een vacature liket. Op Magnet.me vind je meer dan 30.000 vacatures. Bij meer dan 6.000 werkgevers, van startups tot multinationals.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-04T09:53:25.960303"
+      "date_found": "2026-08-05T08:30:51.527016"
     },
     "score": 0,
-    "reason": "Platform homepage, not a job listing. No specific role to evaluate.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Generic job board homepage, not a specific job posting. No actionable role information provided.",
+    "embed_sim": 0.16204915940761566,
+    "ai_native_score": 0.6130972504615784
   },
   {
     "job": {
@@ -25614,5 +25614,133 @@
     "reason": "Generic Indeed search results page for Zeist, not an actual job listing. Shows only job titles ('Ai Prompt Consultant', 'Clinical Team Leader', etc.) without details, requirements, or company information. Cannot evaluate specific role relevance.",
     "embed_sim": 0.14324823021888733,
     "ai_native_score": 0.6130629181861877
+  },
+  {
+    "job": {
+      "id": "8e15b6cd3d7265c8ae0685e905b42ff3",
+      "title": "Proces engineer vacature vinden op het internet \u2013 Forum ZZP midden...",
+      "company": "",
+      "location": "",
+      "url": "https://www.zzpmiddennederland.nl/proces-engineer-vacature-vinden-op-het-internet/",
+      "snippet": "Wanneer je een passende proces engineer vacature wilt vinden, is het van belang om de verschillende vacatures met elkaar te vergelijken. Je kunt waarschijnlijk tientallen vacatures vinden, maar je moet goed naar de informatie kijken op de vacature.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-05T08:29:43.156604"
+    },
+    "score": 0,
+    "reason": "Generic job listing guide, not an actual job posting. No specific role information available.",
+    "embed_sim": 0.11952543258666992,
+    "ai_native_score": 0.6492226123809814
+  },
+  {
+    "job": {
+      "id": "59f850efae277041711a493a9a076218",
+      "title": "Jobs for expats in the Netherlands | IamExpat",
+      "company": "IamExpat",
+      "location": "",
+      "url": "https://www.iamexpat.nl/career/jobs-netherlands",
+      "snippet": "Posted date June 11, 2026. Learn more about working in the Netherlands. Our guide to average salaries per industry, working hours, employment contracts, and more.Junior AI Platform Engineer.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-05T08:29:43.156640"
+    },
+    "score": 0,
+    "reason": "Generic job board listing page, not a specific job posting. No actionable job details provided.",
+    "embed_sim": 0.3509780168533325,
+    "ai_native_score": 0.5645032525062561
+  },
+  {
+    "job": {
+      "id": "331492b067b0e16079160bb91a3ad64c",
+      "title": "14 vacatures voor Onderzoeker in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/onderzoeker-jobs?f_AL=true",
+      "snippet": "Senior Software Developer (Nederlands talig). Sherpa Digital. Amsterdam. Wees een van de eerste sollicitanten. 2 weken geleden.Vacatures voor Experience-designer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-05T08:29:58.323567"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator page, not actual job postings. No specific role information.",
+    "embed_sim": 0.2028433382511139,
+    "ai_native_score": 0.6429198980331421
+  },
+  {
+    "job": {
+      "id": "7d6162eb90ea61930c162a7a062f43fe",
+      "title": "99 vacatures voor Rabobank in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/rabobank-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.3 maanden geleden. Sr. Course Developer Data & AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-05T08:29:58.323591"
+    },
+    "score": 0,
+    "reason": "Generic search results page showing multiple roles. No specific job posting details provided for evaluation.",
+    "embed_sim": 0.10424883663654327,
+    "ai_native_score": 0.4793041944503784
+  },
+  {
+    "job": {
+      "id": "246d62a249d85b7c2df8016a5159831a",
+      "title": "Vacatures bij Amazon - 51 openstaande vacatures | Glassdoor",
+      "company": "Amazon - 51 Openstaande Vacatures",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Jobs/Amazon-Jobs-E6036.htm",
+      "snippet": "51 vacatures bij Amazon, met salarissen, beoordelingen en reviews die zijn geplaatst door werknemers van Amazon.AI Data Associate (NL), Artificial General Intelligence Data Services.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-05T08:30:37.619038"
+    },
+    "score": 0,
+    "reason": "Amazon job board listing page aggregating multiple roles. No specific AI Data Associate job details provided to evaluate against candidate profile.",
+    "embed_sim": 0.1203894093632698,
+    "ai_native_score": 0.33373188972473145
+  },
+  {
+    "job": {
+      "id": "1fcde1d3b1cc83f3f9fdafe66338c5e5",
+      "title": "Vacatures bij Accenture - 141 openstaande vacatures | Glassdoor",
+      "company": "Accenture - 141 Openstaande Vacatures",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Jobs/Accenture-Jobs-E4138.htm",
+      "snippet": "141 vacatures bij Accenture, met salarissen, beoordelingen en reviews die zijn geplaatst door werknemers van Accenture.SAP Development Architect & Team Lead (S/4HANA & BTP).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-05T08:30:37.619066"
+    },
+    "score": 0,
+    "reason": "Accenture job board listing page aggregating multiple roles. No specific job details provided to evaluate.",
+    "embed_sim": 0.1328660100698471,
+    "ai_native_score": 0.4988395869731903
+  },
+  {
+    "job": {
+      "id": "409a871f6c60c77b7c75b1e2bcc21586",
+      "title": "Best Artificial Intelligence Jobs in Amsterdam 2026 | Built In",
+      "company": "Built In",
+      "location": "",
+      "url": "https://builtin.com/jobs/eu/netherlands/amsterdam/dev-engineering/search/artificial-intelligence",
+      "snippet": "Drive strategy, governance, use-case prioritization, tool requirements, stakeholder alignment, value measurement, and adoption to inform evidence generation, medical strategy, and decision-making across cross\u2011functional and global teams. Top Skills: Advanced AnalyticsArtificial IntelligenceData VisualizationDataikuTableau ... Lead product and operations for Fin.ai to drive autonomous, auditable resolution of merchant support queries. Own roadmap, quality metrics (resolution rate, CSAT), team of ",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-05T08:30:55.317745"
+    },
+    "score": 0,
+    "reason": "This is a job listing aggregator/search results page, not an actual job posting. Cannot evaluate a real position.",
+    "embed_sim": 0.48714983463287354,
+    "ai_native_score": 0.6796290874481201
+  },
+  {
+    "job": {
+      "id": "3fcc4fa4c29a7bb7411fe8330994587e",
+      "title": "1.000+ vacatures voor Application Developer en werk: 9 juli 2026",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Application-Developer-vacatures",
+      "snippet": "Application Developer vacatures. Software Developer, Android Developer, Technical Lead en meer op Indeed.com.Cross-functional collaboration with developers across different disciplines. You will work in Infoplaza's Development division with developers of different\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-05T08:31:10.046155"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregator page, not an actual job posting. Cannot evaluate a real position.",
+    "embed_sim": 0.3508492112159729,
+    "ai_native_score": 0.6309916377067566
   }
 ]
