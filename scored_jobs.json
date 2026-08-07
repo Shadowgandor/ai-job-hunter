@@ -9058,18 +9058,18 @@
   {
     "job": {
       "id": "12bad5b8ad169edf4294d26f182a8ecf",
-      "title": "1.000+ vacatures voor Ai Engineer en werk - Indeed",
+      "title": "900+ vacatures voor Ai Engineer en werk: 23 april 2026| Indeed",
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html",
-      "snippet": "Je komt terecht bij een multidisciplinair consultancyhuis in Utrecht dat bekendstaat om zijn sterke posities in business consulting en data/AI. Waarin business, ...",
+      "snippet": "Zoeken op salaris: Senior Data Scientist bij adesso Data & AI salarissen in Utrecht \u00b7 Door middel van machine vision (AI) en data engineering verzamelen we nieuwe inzichten tijdens het turnaroundproces en delen deze real-time met alle betrokken\u2026 \u00b7 Alle vacatures voor Profi - Workers - Schiphol vacatures - vacatures voor Software Engineer (m/v) in Schiphol bekijken",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-04T09:52:23.625113"
+      "date_found": "2026-08-07T07:09:09.821373"
     },
     "score": 0,
-    "reason": "Generic Indeed search results page, not a specific job listing. Cannot evaluate against concrete job requirements.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "This is an Indeed search results page listing aggregator, not an actual job posting. No specific role details available. Appears to be a meta-listing rather than a real vacancy.",
+    "embed_sim": 0.3124752938747406,
+    "ai_native_score": 0.5815612077713013
   },
   {
     "job": {
@@ -9730,18 +9730,18 @@
   {
     "job": {
       "id": "b0cdaa4e81554aaf6fa3c23d83d571e1",
-      "title": "AI Engineer Culicart in Apeldoorn bij PinkRoccade Healthcare | Magnet ...",
+      "title": "AI Engineer Culicart in Apeldoorn bij PinkRoccade Healthcare | Magnet.me | #1043694 (nl)",
       "company": "Pinkroccade Healthcare",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1043694/ai-engineer-culicart",
-      "snippet": "Als AI Engineer ben je verantwoordelijk voor research naar de juiste tooling en kun je in de praktijk overgaan naar een snelle toepassing. Je past de oplossingen toe in ons platform, hoe we legacy-software moderniseren \u00e9n in nieuwe innovatieve ontwikkelingen die direct waarde toevoegen voor onze klanten in de zorg.",
+      "snippet": "June 3, 2026 - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Bij PinkRoccade Healthcare zijn we continu bezig om softwareontwikkeling fundamenteel te verbeteren. Met AI zetten we daar nu de volgende stappen in. Strategisch voor ons bedrijf en dat is jouw uitdaging! Als AI Engineer ben je verantwoordelijk voor research naar de juiste tooling en kun je in de praktijk overgaan naar een snelle toepassing.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-05T09:40:52.600250"
+      "date_found": "2026-08-07T07:09:14.788185"
     },
-    "score": 3,
-    "reason": "PinkRoccade Healthcare AI Engineer in Apeldoorn \u2014 role involves research and tooling selection, but focused on healthcare platform modernization and legacy software, not developer AI tool adoption. Location (Apeldoorn) is acceptable but role is more traditional ML/platform engineering.",
-    "embed_sim": 0.3190755844116211,
-    "ai_native_score": 0.747721254825592
+    "score": 6,
+    "reason": "PinkRoccade Healthcare mentions improving software development with AI strategically, which aligns with AI adoption focus. However, location is Apeldoorn (60+ km from Utrecht, beyond candidate's range). Snippet suggests strategic involvement but lacks clarity on whether this is true AI enablement vs. building AI products. Proximity is a significant issue.",
+    "embed_sim": 0.26529791951179504,
+    "ai_native_score": 0.6808815598487854
   },
   {
     "job": {
@@ -9990,30 +9990,30 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/conversational-ai-engineer-postnl/",
-      "snippet": "Daarom kies je als Conversational AI Engineer voor PostNL. Visible work: AI service bots interact directly with more than 8.5 million PostNL customers.",
+      "snippet": "At least 3 years\u2019 experience in a similar role within an IT, tech, or innovation environment. You have experience with conversational AI platforms such as Cognigy or similar bot platforms.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-06T08:30:38.198608"
+      "date_found": "2026-08-07T07:10:09.233290"
     },
     "score": 2,
-    "reason": "Conversational AI Engineer building AI service bots for PostNL customers. This is building AI products/systems, not helping teams adopt AI tools. Requires ML/AI development expertise, not AI enablement/coaching. Does not match core requirement.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Conversational AI Engineer role focused on chatbot platforms (Cognigy). Requires 3+ years in similar role. This is about building/deploying conversational AI systems, not enabling dev teams to adopt AI tools. Location unknown but likely not Utrecht area.",
+    "embed_sim": 0.4291321337223053,
+    "ai_native_score": 0.6886684894561768
   },
   {
     "job": {
       "id": "62444b0db904eb6770b417a5c5a7288c",
       "title": "Machine Learning Engineer - ING - Werken in AI",
       "company": "Werken in AI",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://werkeninai.nl/machine-learning-engineer-ing/",
-      "snippet": "Vacature: ING in Amsterdam zoekt een Machine Learning Engineer voor 36 uur per week | Salaris: van \u20ac 4,240 tot \u20ac 6,882,- per maand.",
+      "snippet": "Bachelor\u2019s degree or equivalent practical experience. Excellent communication skills, capable of working collaboratively in a semi-remote, globally distributed team.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-06T08:30:38.198617"
+      "date_found": "2026-08-07T07:10:09.233302"
     },
     "score": 1,
-    "reason": "Machine Learning Engineer role at ING in Amsterdam. Pure ML position requiring model development and training expertise. Explicitly misaligned with candidate's non-ML profile. Does not match AI tool adoption focus.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Machine Learning Engineer at ING. This is a pure ML role requiring deep technical ML expertise, not an AI adoption/enablement position. Fundamentally misaligned with candidate's goals.",
+    "embed_sim": 0.56227707862854,
+    "ai_native_score": 0.6799066066741943
   },
   {
     "job": {
@@ -10242,18 +10242,18 @@
   {
     "job": {
       "id": "2f5764343b530c905eb01a95340f2f2f",
-      "title": "58 artificial intelligence engineer Jobs in Netherlands, March 2026 | Glassdoor",
+      "title": "79 artificial intelligence engineer Jobs in Netherlands, July 2026 | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.com/Job/netherlands-artificial-intelligence-engineer-jobs-SRCH_IL.0,11_IN178_KO12,44.htm",
-      "snippet": "Search Artificial intelligence engineer jobs in Netherlands with company ratings & salaries. 58 open jobs for Artificial intelligence engineer in Netherlands.",
+      "snippet": "Het onderzoeken van relevante AI- en data-use cases van klanten of interne teams; Het team combineert strategisch inzicht met hands-on engineering om AI-\u2026\u2026 Skills: Engels, Analytisch vermogen, Python, Nederlands",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-06T08:31:37.197870"
+      "date_found": "2026-08-07T07:09:23.766979"
     },
     "score": 0,
-    "reason": "Generic search results page for 58 AI engineer jobs; not a specific job listing; cannot evaluate",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "This is a Glassdoor search results aggregator page, not a specific job posting. No individual role details provided. Meta-listing rather than actual vacancy.",
+    "embed_sim": 0.4728875160217285,
+    "ai_native_score": 0.7079905867576599
   },
   {
     "job": {
@@ -26046,5 +26046,213 @@
     "reason": "Weak match \u2014 AI Builder role at Salesforce involves designing, building, and deploying AI solutions for customers, which is closer to building AI products than enabling teams to adopt AI tools. 'Emerging Talent' designation suggests junior level, candidate is senior. Amsterdam location is acceptable but role focus is misaligned.",
     "embed_sim": 0.3301834762096405,
     "ai_native_score": 0.5945167541503906
+  },
+  {
+    "job": {
+      "id": "b5c7a31dd005b6e484237e07b8f1510e",
+      "title": "Vacature: 40 uur p/w magazijnmedewerker Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.uitzendbureau.nl/vacature/25479812-rangeerder-magazijnmedewerker",
+      "snippet": "Werken als magazijnmedewerker in Utrecht? Solliciteer direct op deze vacature!Ga aan de slag als rangeerder en/of magazijnmedewerker in Utrecht en profiteer van een fulltime dienstverband en uitstekende arbeidsvoorwaarden. Over het werk.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-07T07:09:43.268641"
+    },
+    "score": 0,
+    "reason": "Warehouse worker position (magazijnmedewerker). Completely unrelated to software development or AI. Wrong career domain entirely.",
+    "embed_sim": -0.046451687812805176,
+    "ai_native_score": 0.5901190638542175
+  },
+  {
+    "job": {
+      "id": "772280f5336d04ba482771616ed39878",
+      "title": "2026-08-02 | Software Internship \u2013 Product & App (Van Gooi, Utrecht)",
+      "company": "Software Internship \u2013 Product & App (Van Gooi, Utrecht)",
+      "location": "",
+      "url": "https://www.tudelft.nl/en/student/ide/education/internship/internship-opportunities/2026-08-02-software-internship-product-app-van-gooi-utrecht",
+      "snippet": "Nederlands. Activate high contrast. Close menu.Powerselect is a business unit of Van Gooi B.V. We're a small team, so you won't work on a minor feature, you'll work on something that actually matters.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-07T07:09:43.268661"
+    },
+    "score": 0,
+    "reason": "Software internship position. Candidate is explicitly seeking senior-level roles, not intern/traineeship positions. Wrong seniority level.",
+    "embed_sim": 0.2189469039440155,
+    "ai_native_score": 0.5922470092773438
+  },
+  {
+    "job": {
+      "id": "bfed2928f91165f21ec3a259aa3bf124",
+      "title": "Head of Engineering - Developer Experience & Platform",
+      "company": "Developer Experience & Platform",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1064322/head-of-engineering---developer-experience---platform",
+      "snippet": "Jul 31, 2026 \u00b7 The right candidate has strong hands-on experience with modern AI-driven software development and building developer-centric cloud platforms at scale. This is a senior but hands-on role within the Engineering organisation, reporting to the Director of Engineering.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-07T07:09:51.297644"
+    },
+    "score": 8,
+    "reason": "Head of Engineering - Developer Experience & Platform with explicit focus on 'modern AI-driven software development' and 'developer-centric' platforms. Senior level, hands-on technical role. Strong alignment with candidate's goal of championing AI adoption in engineering organizations. Location not specified but likely Netherlands-based. Only minor concern: title suggests executive reporting structure which may differ from candidate's preference for hands-on technical focus.",
+    "embed_sim": 0.626777708530426,
+    "ai_native_score": 0.6063820123672485
+  },
+  {
+    "job": {
+      "id": "b26ed7cde435b521becca1dc5a4fb86a",
+      "title": "Developer Intern (AI) in Amsterdam bij AKQA NL | Magnet.me",
+      "company": "Akqa Nl",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1065473/developer-intern--ai-",
+      "snippet": "3 days ago \u00b7 Qualities and characteristics Strong software development fundamentals, with experience in a language such as Python or TypeScript and a solid grasp of clean, maintainable code. Experienced in ComfyUI. Familiarity with AI/ML or computer-vision libraries and image-processing tools, for example PyTorch, Hugging Face, or diffusion and vision models.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-07T07:09:51.297662"
+    },
+    "score": 0,
+    "reason": "Developer Intern (AI) position. Candidate is explicitly not seeking intern/traineeship roles. Wrong seniority level. Also requires ComfyUI and ML/computer-vision library experience, suggesting ML-focused rather than AI adoption/enablement.",
+    "embed_sim": 0.5559782981872559,
+    "ai_native_score": 0.7813540101051331
+  },
+  {
+    "job": {
+      "id": "9dfc97b20d62608f238821bf8d999973",
+      "title": "AI Developer in Maastricht Airport bij ilionx | Magnet.me",
+      "company": "Ilionx",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1060736/ai-developer",
+      "snippet": "Jul 21, 2026 \u00b7 Ben jij klaar om organisaties slimmer te maken met AI? Ontwikkel innovatieve AI-oplossingen, experimenteer met nieuwe technologie en bouw mee aan de digitale toekomst van onze klanten.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-07T07:09:51.297687"
+    },
+    "score": 2,
+    "reason": "AI Developer in Maastricht Airport (far south, 200+ km from Utrecht). Location is outside candidate's acceptable range. Snippet suggests building 'innovative AI solutions' and 'experimenting with new technology' \u2014 more aligned with building AI products than enabling team adoption. Significant location and strategic misalignment.",
+    "embed_sim": 0.36670351028442383,
+    "ai_native_score": 0.7193025350570679
+  },
+  {
+    "job": {
+      "id": "216785b5643dd8b950678790f255d495",
+      "title": "Meer dan 1.000 vacatures voor Psycholoog in Nederland",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.linkedin.com/jobs/psycholoog-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Organizational Psychologist and Conversational AI Workflow Designer. Elephants in the Room. Eindhoven.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-07T07:10:00.699935"
+    },
+    "score": 0,
+    "reason": "Psychologist/Organizational Psychologist position in Eindhoven. Completely wrong career domain (psychology, not software engineering). Outside location range. Not relevant to candidate's profile.",
+    "embed_sim": 0.25687313079833984,
+    "ai_native_score": 0.6958625316619873
+  },
+  {
+    "job": {
+      "id": "dcc35e7ad34ffc47879b1b4f2549368f",
+      "title": "Werken bij NVIDIA | Glassdoor",
+      "company": "Nvidia",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Overzicht/Werken-bij-NVIDIA-EI_IE7633.11,17.htm",
+      "snippet": "The company\u2019s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse.Zoek naar vacatures om gepersonaliseerde vacature-aanbevelingen en -updates te krijgen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-07T07:10:04.731894"
+    },
+    "score": 0,
+    "reason": "NVIDIA company overview page on Glassdoor, not a specific job posting. Meta-listing aggregator. No individual role details provided.",
+    "embed_sim": 0.0862591341137886,
+    "ai_native_score": 0.4809170067310333
+  },
+  {
+    "job": {
+      "id": "2e0f1747ea7a80c8605e2d324c3879f4",
+      "title": "86 vacatures voor data scientist in Apeldoorn | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/apeldoorn-data-scientist-vacatures-SRCH_IL.0,9_IC3035261_KO10,24.htm",
+      "snippet": "GenAI Specialist AI Commerce. Zwolle. \u20ac 3.250 - \u20ac 5.000 (opgegeven door werkgever).In this role, you will help accelerate AI adoption within our Supply Chain & Logistics advisory group, contribute to innovative client projects, and develop internal tools that improve the way we work.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-07T07:10:04.731923"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page, not a specific job listing. The snippet mentions 'GenAI Specialist' in Zwolle (70+ km from Utrecht), but the page itself is a generic search aggregator without a real job posting to evaluate.",
+    "embed_sim": 0.33161067962646484,
+    "ai_native_score": 0.6506965160369873
+  },
+  {
+    "job": {
+      "id": "43144cb6ffd0b8ee064b0a17e53c1f50",
+      "title": "61 vacatures voor full stack engineer in Calcutta | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/calcutta-full-stack-engineer-vacatures-SRCH_IL.0,8_IC2901633_KO9,28.htm",
+      "snippet": "Vacatures voor software developer in Calcutta Vacatures in Calcutta Vacatures bij TechMonastic Solutions Pvt.Looking for an AI/ML expert with 4+ years of experience in designing, developing, and deploying machine learning models, strong analytical and programming\u2026&hellip",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-07T07:10:18.687504"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page for Calcutta (India), not a real job listing. Location is completely wrong (India vs. Utrecht area). Non-viable.",
+    "embed_sim": 0.3844453692436218,
+    "ai_native_score": 0.514436662197113
+  },
+  {
+    "job": {
+      "id": "1f21b2dcc12b08cc5deb41236199720b",
+      "title": "14 vacatures voor android developer in Amsterdam | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-android-developer-vacatures-SRCH_IL.0,9_IC3064478_KO10,27_IP2.htm",
+      "snippet": "Proven Android development experience using modern best practices and the Android SDK, Android Studio, Gradle, git-flow, and Git-based collaboration. Deep technical proficiency with Retrofit or Ktor, Room, Dagger or Koin, Android Architecture Components, and the Coroutines Framework.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-07T07:10:18.687519"
+    },
+    "score": 0,
+    "reason": "This is a Glassdoor search results page for Android Developer roles in Amsterdam. While location is acceptable, the page itself is a generic search aggregator without a specific job posting. No AI adoption focus mentioned.",
+    "embed_sim": 0.26056167483329773,
+    "ai_native_score": 0.5926737785339355
+  },
+  {
+    "job": {
+      "id": "8b9e9c0b3e15efe8cb1840e49c709e29",
+      "title": "glassdoor.nl/Sollicitatiegesprek/Booking-com-Software-Developer...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Sollicitatiegesprek/Booking-com-Software-Developer-Sollicitatievragen-EI_IE256653.0,11_KO12,30.htm",
+      "snippet": "Sollicitatiegesprek voor de functie Software Developer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-07T07:10:18.687530"
+    },
+    "score": 0,
+    "reason": "This is an interview questions page from Glassdoor for a Booking.com Software Developer role, not an actual job listing. No job description, location, or vacancy information available.",
+    "embed_sim": 0.2278168797492981,
+    "ai_native_score": 0.6546111106872559
+  },
+  {
+    "job": {
+      "id": "5b9466ad236ae0fe03a1f01b14df280d",
+      "title": "400+ vacatures voor Ai Trainen en werk: 7 augustus 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-trainen-vacatures.html?vjk=14673ac3f4123fb9",
+      "snippet": "For you this means an interactive and inspiring way of working together across the team and with different departments of the bank. We offer a challenging job, and you are directly responsible for your own successes.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-07T07:10:28.850049"
+    },
+    "score": 0,
+    "reason": "This is an Indeed search results page ('400+ vacatures') aggregator, not a specific job listing. Title mentions 'AI Training' but provides no actual vacancy details or description to evaluate.",
+    "embed_sim": 0.20101164281368256,
+    "ai_native_score": 0.6068025231361389
+  },
+  {
+    "job": {
+      "id": "854ea4c06e1b3ca1e6515697a8a152d4",
+      "title": "25+ vacatures voor Ai Integration Engineer en werk in Utrecht ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-integration-engineer-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Ai Integration Engineer vacatures in Utrecht (provincie). Ai Engineer, Engineer, Solutions Engineer en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-07T07:10:32.994511"
+    },
+    "score": 0,
+    "reason": "This is an Indeed search results page ('25+ vacatures') for 'AI Integration Engineer' in Utrecht province, not a specific job listing. Search aggregator page without actual vacancy details.",
+    "embed_sim": 0.2943519055843353,
+    "ai_native_score": 0.7001436948776245
   }
 ]
