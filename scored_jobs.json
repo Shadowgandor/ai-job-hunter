@@ -9448,12 +9448,12 @@
       "url": "https://magnet.me/nl-NL/vacature/963159/data---ai-strategy-consultant",
       "snippet": "Are you passionate about guiding organizations through their Data & AI transformation journey? Do you thrive on solving complex business challenges, shaping strategy, and leading teams to deliver measurable impact? As a Data & AI Strategy Consultant\u2026",
       "source": "ddg:magnet",
-      "date_found": "2026-06-04T09:53:25.960353"
+      "date_found": "2026-08-08T06:45:09.294894"
     },
-    "score": 5,
-    "reason": "Data & AI Strategy Consultant could align with AI adoption and transformation, but 'Data & AI Strategy' typically implies data science/ML pipeline work. Unknown location is a concern. Unclear if this is about enabling dev teams with AI tools vs. building data/ML systems.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 6,
+    "reason": "Data & AI Strategy Consultant could involve enabling AI adoption, but 'Data & AI transformation' suggests heavy data science/ML engineering focus. Likely requires deep analytics/ML background. Location unknown.",
+    "embed_sim": 0.43883877992630005,
+    "ai_native_score": 0.5849065184593201
   },
   {
     "job": {
@@ -9704,10 +9704,10 @@
       "url": "https://nl.linkedin.com/jobs/view/digital-adoption-specialist-nl-at-capgemini-3758279349",
       "snippet": "Daar draagt Capgemini aan bij met innovatieve technologie. Maar mensen bepalen het tempo van digitale transfomatie. Met Digital Adoption staat de medewerker centraal en verzekeren we het succes van technologie.",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-05T09:40:48.514941"
+      "date_found": "2026-08-08T06:44:38.812507"
     },
     "score": 6,
-    "reason": "Capgemini Digital Adoption Specialist in Utrecht \u2014 strong location match and adoption focus, but lacks specific mention of AI tooling or engineering practices. Likely broader digital transformation vs. AI-specific enablement.",
+    "reason": "Digital Adoption Specialist at Capgemini in Utrecht is conceptually aligned with AI enablement and organizational change. However, listing lacks specifics on AI tool focus, and adoption roles often emphasize change management over technical AI practices. Location is good (Utrecht). Partial match.",
     "embed_sim": 0.13108976185321808,
     "ai_native_score": 0.7028601169586182
   },
@@ -9720,10 +9720,10 @@
       "url": "https://nl.linkedin.com/jobs/view/digital-adoption-specialist-en-at-van-lanschot-kempen-3440749287",
       "snippet": "KPI Dashboards in Power BI: Measuring and showing progress towards key goals regarding digital adoption, providing insights such as growth potential based on which bankers or business take actions. Our team plays a key role in informing, engaging and inspiring the organisation to foster a digital adoption mindset.",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-05T09:40:48.514954"
+      "date_found": "2026-08-08T06:44:38.812531"
     },
     "score": 5,
-    "reason": "Van Lanschot Kempen Digital Adoption Specialist mentions KPI dashboards and measuring adoption, which aligns with candidate's productivity measurement background. However, location (Amsterdam) is borderline acceptable, and the role's focus on banker adoption rather than developer AI tooling is unclear from snippet.",
+    "reason": "Digital Adoption Specialist at Van Lanschot Kempen focused on KPI dashboards and measuring adoption progress. Amsterdam is acceptable location but focuses on metrics/dashboards rather than helping teams adopt AI tools. Weak match on actual AI enablement.",
     "embed_sim": 0.2175775170326233,
     "ai_native_score": 0.6667808890342712
   },
@@ -9976,12 +9976,12 @@
       "url": "https://werkeninai.nl/ai-engineer-masters-internship-ibm/",
       "snippet": "Your Role and Responsibilities As an AI Engineer within our team, you\u2019ll harness your unique skills and perspectives to engage in the development and deployment of AI systems using our...",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-06T08:30:38.198597"
+      "date_found": "2026-08-08T06:45:05.141892"
     },
     "score": 0,
-    "reason": "Master's internship position at IBM. Candidate explicitly excludes internships/traineeships and roles requiring Master's degrees. Also lacks seniority match (13 years experience vs. internship level).",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Internship/Master's position. Candidate explicitly seeks senior roles, not traineeships or internships.",
+    "embed_sim": 0.4907066524028778,
+    "ai_native_score": 0.6890208721160889
   },
   {
     "job": {
@@ -10328,10 +10328,10 @@
       "url": "https://magnet.me/nl-NL/vacature/975937/thesis-internship--scaling-ai-within-the-communication-industry.",
       "snippet": "Practical Experience. Besides writing your thesis on one of the fastest growing areas in the technology world, you will have the opportunity to learn about the newest disrupting methodologies and technologies. You will also work on the topic of \u201cBusiness Process Management.\u201d",
       "source": "ddg:magnet",
-      "date_found": "2026-06-07T08:52:11.943271"
+      "date_found": "2026-08-08T06:44:43.045747"
     },
     "score": 0,
-    "reason": "Thesis internship position - candidate explicitly doesn't want traineeships/internships. Also appears to be academic research rather than practical AI adoption work.",
+    "reason": "This is a thesis internship position. Candidate explicitly excludes internships/traineeships and academic research roles.",
     "embed_sim": 0.339614599943161,
     "ai_native_score": 0.6112310290336609
   },
@@ -10356,16 +10356,16 @@
       "id": "bc9d1cb3bbdee67212ef280c1208334a",
       "title": "27 ai developer technology engineer Jobs in Netherlands, March 2026 | Glassdoor",
       "company": "Glassdoor",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://www.glassdoor.com/Job/netherlands-ai-developer-technology-engineer-jobs-SRCH_IL.0,11_IN178_KO12,44.htm",
-      "snippet": "Search Ai developer technology engineer jobs in Netherlands with company ratings & salaries. 27 open jobs for Ai developer technology engineer in Netherlands.",
+      "snippet": "There are open jobs in several cities in Netherlands including Enschede, Zwolle, Overijssel, Utrecht, Amsterdam, Groningen, Nieuwegein, Hoofddorp, Den Bosch, North Brabant, Rotterdam ... The top companies hiring now are Elektramat, Capgemini, Sogeti, Deloitte, Catwise, Koninklijke Nederlandse Akademie van Wetenschappen, Tacstone, Sopra Steria, Kyndryl, Nederlands Lucht- en Ruimtevaartcentrum (NLR)",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-07T08:52:19.431286"
+      "date_found": "2026-08-08T06:44:34.670092"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page (Glassdoor listing search), not an actual job posting. Cannot evaluate without specific job details.",
-    "embed_sim": 0.5425609350204468,
-    "ai_native_score": 0.687924861907959
+    "reason": "This is a search results aggregator page from Glassdoor, not a specific job listing. Cannot assess actual role requirements.",
+    "embed_sim": 0.4213830828666687,
+    "ai_native_score": 0.6068018674850464
   },
   {
     "job": {
@@ -10374,14 +10374,14 @@
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-ai-developer-vacatures.html",
-      "snippet": "Zoeken op salaris: Digital & AI Traineeship salarissen in Utrecht \u00b7 Zie veelgestelde vragen en antwoorden over a.s.r. In plaats van alleen maar bij te dragen aan winstmaximalisatie, bouw je aan technologie die onze samenleving veiliger, eerlijker en autonomer maakt. Alle vacatures voor TNO - Groningen vacatures - vacatures voor Developer (m/v) in Groningen bekijken",
+      "snippet": "Zoeken op salaris: AI Developer salarissen in Utrecht West \u00b7 Tijdens het Digital & AI Traineeship bij het bedrijfsonderdeel Inkomen van a.s.r. Je wordt begeleid door een mentor en een praktijkbegeleider en je krijgt \u00e9\u00e9n-\u2026 \u00b7 Alle vacatures voor a.s.r.",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-07T08:52:19.431298"
+      "date_found": "2026-08-08T06:44:34.670081"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page (Indeed listing search), not a specific job posting. Cannot evaluate without concrete job details.",
-    "embed_sim": 0.27596235275268555,
-    "ai_native_score": 0.6235640645027161
+    "reason": "This is a search results aggregator page. Mentions traineeship which is explicitly excluded. Not a real vacancy posting.",
+    "embed_sim": 0.3240005373954773,
+    "ai_native_score": 0.7125449180603027
   },
   {
     "job": {
@@ -10532,16 +10532,16 @@
       "id": "2d2f215d4238aee405a7e86a42d62818",
       "title": "50+ vacatures voor Artificial Intelligence Specialist en werk: 18 mei 2026| Indeed",
       "company": "",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://nl.indeed.com/q-artificial-intelligence-specialist-vacatures.html",
-      "snippet": "Artificial Intelligence Specialist vacatures. Specialist, Consultant Automation, Internship Software Development en meer op Indeed.com",
-      "source": "ddg:indeed",
-      "date_found": "2026-06-07T08:52:47.487642"
+      "snippet": "Zoeken op salaris: Medior NLP AI Expert (AI Team) salarissen in Utrecht Binnenstad \u00b7 Zie veelgestelde vragen en antwoorden over Kamer van Koophandel \u00b7 Deze toolbox speelt een centrale rol in ons dagelijkse werk en helpt ons om projecten sneller, slimmer en consistenter uit te voeren. Alle vacatures voor Arcadis - Amersfoort vacatures - vacatures voor Internship Software Development (m/v) in Amersfoort bekijken",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-08T06:45:13.663493"
     },
     "score": 0,
-    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
-    "embed_sim": 0.43303364515304565,
-    "ai_native_score": 0.7097393274307251
+    "reason": "This is a search results aggregator page, not a specific job listing. No actionable job posting available.",
+    "embed_sim": 0.4328902065753937,
+    "ai_native_score": 0.7439384460449219
   },
   {
     "job": {
@@ -10596,16 +10596,16 @@
       "id": "6cffb407dbfb9456fd5693bbd70d91e7",
       "title": "Werken in AI - Vacatures voor AI banen in Nederland",
       "company": "Vacatures voor AI banen in Nederland",
-      "location": "",
+      "location": "Rotterdam",
       "url": "https://werkeninai.nl/page/2/",
-      "snippet": "Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI.Junior Machine Learning Engineer Operations \u2013 Albert Heijn.",
+      "snippet": "Vacature: Coolblue in Rotterdam zoekt iemand voor de de Stage AI ChatGPT Specialist voor 32 tot 40 uur per week | Sluitingsdatum: onbekend.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-07T08:52:57.848500"
+      "date_found": "2026-08-08T06:45:36.972442"
     },
     "score": 0,
-    "reason": "Search results page, not a specific job listing. No actionable position to evaluate. Generic aggregate listing.",
-    "embed_sim": 0.3711767792701721,
-    "ai_native_score": 0.7919662594795227
+    "reason": "Internship position (Stage). Candidate explicitly excludes traineeships and junior roles. Also Rotterdam location is outside 40km of Utrecht.",
+    "embed_sim": 0.2491408884525299,
+    "ai_native_score": 0.6689483523368835
   },
   {
     "job": {
@@ -26254,5 +26254,117 @@
     "reason": "This is an Indeed search results page ('25+ vacatures') for 'AI Integration Engineer' in Utrecht province, not a specific job listing. Search aggregator page without actual vacancy details.",
     "embed_sim": 0.2943519055843353,
     "ai_native_score": 0.7001436948776245
+  },
+  {
+    "job": {
+      "id": "106fb4127a76d3c8cbb7d1b4f3be846d",
+      "title": "Salaris: Ai Ml Engineer | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Salarissen/ai-ml-engineer-salarissen-SRCH_KO0,14.htm",
+      "snippet": "Het gemiddelde salaris voor Ai Ml Engineer in Nederland is \u20ac 77.120 per jaar.Zoek naar vacatures om gepersonaliseerde vacature-aanbevelingen en -updates te krijgen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-08T06:44:22.643289"
+    },
+    "score": 0,
+    "reason": "This is a salary information page, not a job listing. Not a real vacancy posting.",
+    "embed_sim": 0.2380075305700302,
+    "ai_native_score": 0.5438458919525146
+  },
+  {
+    "job": {
+      "id": "3173c3be2cfc6bb4077605217ddae2ab",
+      "title": "128 vacatures voor Financieel Adviseur in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/financieel-adviseur-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-08T06:44:30.889151"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page for Financial Advisor roles, not an AI adoption or engineering role. Not a real vacancy posting.",
+    "embed_sim": 0.12445329874753952,
+    "ai_native_score": 0.5932320952415466
+  },
+  {
+    "job": {
+      "id": "1633e0fed4323da1b911b84787c00148",
+      "title": "3 vacatures voor Europol in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/europol-jobs?f_AL=true",
+      "snippet": "Senior DevOps engineer - URP. Group-IB. Nederland.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-08T06:44:51.050067"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page mentioning DevOps and Europol roles. Not a specific job listing and doesn't appear to be AI-related.",
+    "embed_sim": 0.24089746177196503,
+    "ai_native_score": 0.5443208813667297
+  },
+  {
+    "job": {
+      "id": "d5353f9af0a1fe5a75925813b1468374",
+      "title": "119 vacatures voor Keen in Rotterdam, Zuid-Holland, Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/keen-jobs-rotterdam",
+      "snippet": "Software Engineer- AI Tooling. MendixApp.Quantum Photonics Engineer (D/F/M). QphoX. Delft 2 weken geleden. Junior AI Platform Engineer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-08T06:44:51.050075"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page showing multiple unrelated roles in Rotterdam. Not a specific job listing. Cannot assess.",
+    "embed_sim": 0.2613932490348816,
+    "ai_native_score": 0.5690834522247314
+  },
+  {
+    "job": {
+      "id": "0b388af61cef7c06218ad8c39aed6223",
+      "title": "Meijoro B.V. zoekt een Verkoopmedewerker in Haarlem | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/verkoopmedewerker-4443992545?position=38&pageNum=0",
+      "snippet": "Vacatures voor Chief Development Officer.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-08T06:45:00.121916"
+    },
+    "score": 0,
+    "reason": "This is a sales representative role in Haarlem, unrelated to AI enablement or engineering. Not relevant.",
+    "embed_sim": 0.30525147914886475,
+    "ai_native_score": 0.6190892457962036
+  },
+  {
+    "job": {
+      "id": "54a677f718d7bdb55912af5cefc213b7",
+      "title": "Cadence Design Systems Company Updates | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Updates/Cadence-Design-Systems-Company-Updates-E1217.htm?updateId=2544188",
+      "snippet": "Agentic AI in engineering has moved from concept to reality at remarkable speed. What began as isolated AI-assisted workflows is rapidly evolving into fully autonomous systems capable of reasoning, planning, and executing complex engineering tasks.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-08T06:45:27.696758"
+    },
+    "score": 0,
+    "reason": "This is a company update/article about agentic AI, not a job listing. No actionable position available.",
+    "embed_sim": 0.3792898654937744,
+    "ai_native_score": 0.6461729407310486
+  },
+  {
+    "job": {
+      "id": "d444226632d2b43df9e7e26d2fb156dd",
+      "title": "Integration engineer - Werken bij de Rechtspraak",
+      "company": "De Rechtspraak",
+      "location": "",
+      "url": "https://werkenbijderechtspraak.nl/vacature/utrecht-ict-integration-engineer-1316722/",
+      "snippet": "Als integration engineer bij IVO Rechtspraak, de IV/IT-organisatie van de Rechtspraak, zorg jij voor de technische lijm tussen applicaties, teams en ketenpartners.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-08T06:45:32.065506"
+    },
+    "score": 1,
+    "reason": "Integration engineer role focused on application/system integration. Not aligned with AI tool adoption or developer productivity. Different technical domain.",
+    "embed_sim": 0.3589969277381897,
+    "ai_native_score": 0.6294746398925781
   }
 ]
