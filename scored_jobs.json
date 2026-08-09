@@ -3046,14 +3046,14 @@
       "company": "",
       "location": "",
       "url": "https://www.teamrockstars.nl/werken-bij/vacatures/machine-learning-engineer/",
-      "snippet": "Of deel de vacature! wat je kunt gaan doen. Als Machine Learning Engineer.Als Machine Learning Engineer gebruik je AI om oplossingen te bouwen die betrouwbaar, uitlegbaar en schaalbaar zijn, altijd binnen de security en compliance kaders van de klant. Je werkt o.a. met",
+      "snippet": "AI is bij ons geen experiment, maar een productiediscipline. Als Machine Learning Engineer gebruik je AI om oplossingen te bouwen die betrouwbaar, uitlegbaar en schaalbaar zijn, altijd binnen de security en compliance kaders van de klant. Je werkt o.a. met",
       "source": "ddg:web-nl",
-      "date_found": "2026-05-13T08:41:16.800657"
+      "date_found": "2026-08-09T06:50:23.240194"
     },
-    "score": 1,
-    "reason": "Machine Learning Engineer role explicitly requires building AI solutions (not enabling teams to use AI); requires ML expertise; does not match candidate profile",
-    "embed_sim": 0.3230079710483551,
-    "ai_native_score": 0.6057202219963074
+    "score": 2,
+    "reason": "Machine Learning Engineer role requiring AI solution building with TensorFlow/model training. This is exactly what the candidate does NOT want \u2014 building ML models rather than enabling teams to adopt AI tools. Wrong direction entirely.",
+    "embed_sim": 0.4544670879840851,
+    "ai_native_score": 0.6722356677055359
   },
   {
     "job": {
@@ -9826,18 +9826,18 @@
   {
     "job": {
       "id": "91bbdb6b04c7db822aa91e5ff118061d",
-      "title": "200+ vacatures voor Artificial Intelligence en werk: 4 juni ...",
+      "title": "300+ vacatures voor Artificial Intelligence en werk: 22 juli 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Artificial-Intelligence-vacatures",
-      "snippet": "Je krijgt veel vrijheid om je eigen idee\u00ebn uit te werken en leert hoe je AI-tools inzet om online marketing slimmer aan te pakken.",
+      "snippet": "September 6, 2022 - Artificial Intelligence vacatures. Senior Process Engineer, Senior Business Analist, Officier en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-06-05T09:40:56.430163"
+      "date_found": "2026-08-09T06:50:14.702382"
     },
     "score": 0,
-    "reason": "Job board search results page, not an actual job listing. No specific role information or application possibility.",
-    "embed_sim": 0.14245228469371796,
-    "ai_native_score": 0.6384076476097107
+    "reason": "Generic job search aggregator page with expired date (September 6, 2022). Not a specific job listing.",
+    "embed_sim": 0.30746737122535706,
+    "ai_native_score": 0.5464553236961365
   },
   {
     "job": {
@@ -11016,12 +11016,12 @@
       "url": "https://www.glassdoor.nl/Vacature/ai-machine-learning-engineer-vacatures-SRCH_KO0,28.htm",
       "snippet": "Zoek de juiste vacature voor Ai machine learning engineer met bedrijfsreviews en salarissen. Wat zijn de belangrijkste steden met openstaande vacatures voor een Ai Machine Learning Engineer?",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-08T10:31:26.574136"
+      "date_found": "2026-08-09T06:50:19.164311"
     },
     "score": 0,
-    "reason": "Glassdoor search results landing page for AI Machine Learning Engineer roles \u2014 not individual job listings; would contain pure ML positions",
+    "reason": "Generic search results page for Machine Learning Engineer roles. Not a specific job listing. Also, ML engineer roles are NOT a match for this candidate.",
     "embed_sim": 0.36189621686935425,
-    "ai_native_score": 0.6225488781929016
+    "ai_native_score": 0.6225487589836121
   },
   {
     "job": {
@@ -26366,5 +26366,53 @@
     "reason": "Integration engineer role focused on application/system integration. Not aligned with AI tool adoption or developer productivity. Different technical domain.",
     "embed_sim": 0.3589969277381897,
     "ai_native_score": 0.6294746398925781
+  },
+  {
+    "job": {
+      "id": "b5340dded5065d407a2e50ef598bdd95",
+      "title": "11 vacatures voor Chief Learning Officer in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/chief-learning-officer-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-09T06:49:33.616074"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page, not a specific job listing. No actual position details available.",
+    "embed_sim": 0.23353224992752075,
+    "ai_native_score": 0.7007323503494263
+  },
+  {
+    "job": {
+      "id": "2735134461c6b81a161bb1ec199aef50",
+      "title": "35 vacatures voor Airbnb in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/airbnb-jobs",
+      "snippet": "Product Engineer, Core & Connectivity (Laravel - Remote). Hospitable.com. Nederland. Wees een van de eerste sollicitanten.Staff Platform Engineer, AI Enablement. Gigs.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-09T06:49:38.154966"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page listing multiple unrelated positions. Not a specific job posting.",
+    "embed_sim": 0.15872535109519958,
+    "ai_native_score": 0.4761474132537842
+  },
+  {
+    "job": {
+      "id": "fb4908b26b56d8986c8aedf935cf87d3",
+      "title": "84 vacatures voor Ruby On Rails in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/ruby-on-rails-jobs",
+      "snippet": "Full-Stack Engineer - Ruby on Rails. FeedbackFruits. Amsterdam.Staff Platform Engineer, AI Enablement. Gigs. Amsterdam 1 week geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-09T06:49:38.154971"
+    },
+    "score": 8,
+    "reason": "Mentions 'Staff Platform Engineer, AI Enablement' at Gigs in Amsterdam (within 40km of Utrecht). This directly matches the candidate's target role of enabling AI adoption for dev teams. Platform engineering + AI enablement is ideal; Amsterdam location is acceptable.",
+    "embed_sim": 0.14124640822410583,
+    "ai_native_score": 0.473416805267334
   }
 ]
