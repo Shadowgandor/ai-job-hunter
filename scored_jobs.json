@@ -11794,18 +11794,18 @@
   {
     "job": {
       "id": "0513c8073e8ab728f51e6cb4be621181",
-      "title": "67 vacature(s) voor Ai chatbot developer in Nederland - Glassdoor",
-      "company": "",
-      "location": "Rotterdam",
+      "title": "30 vacature(s) voor Ai chatbot developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/ai-chatbot-developer-vacatures-SRCH_KO0,20.htm",
-      "snippet": "AI-engineer Stellendam, Rotterdam Meer informatie. Rotterdam. \u20ac 3.427 - \u20ac 5.370 (opgegeven door werkgever). Prototype ontwikkeling - Van idee naar werkende ...",
+      "snippet": "Technical grounding: You have hands-on experience with backend development and large-scale systems, a strong mastery of database technologies, and a solid\u2026\u2026 Vaardigheden: CI/CD, DevOps, Gegevensstructuren, Docker, Django ... This is not a research role - you will design, build, and own AI-powered systems end-to-end, working closely with clients, a Delivery Manager, and an AI\u2026\u2026 Vaardigheden: CI/CD, Azure, React, Kubernetes, DevOps ... Vacatures ...",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-10T09:53:28.249342"
+      "date_found": "2026-08-11T07:01:46.053975"
     },
-    "score": 3,
-    "reason": "Weak match. 'AI-engineer' building prototypes suggests product development rather than AI adoption enablement. Rotterdam is acceptable distance but role description lacks evidence of team enablement or tooling focus. Appears to be ML-oriented prototype work.",
-    "embed_sim": 0.21294957399368286,
-    "ai_native_score": 0.6772477030754089
+    "score": 0,
+    "reason": "AI chatbot developer search results aggregator. Generic page collecting backend/DevOps/Django roles, not a specific position. No clear location or role details.",
+    "embed_sim": 0.4188438653945923,
+    "ai_native_score": 0.5172008275985718
   },
   {
     "job": {
@@ -26574,5 +26574,117 @@
     "reason": "AI Automation Engineer role in India focused on browser automation and AI tooling, but position is located in India (not near Utrecht) and likely focuses on building automation rather than enabling team adoption.",
     "embed_sim": 0.46441715955734253,
     "ai_native_score": 0.7703303694725037
+  },
+  {
+    "job": {
+      "id": "f18b65fe4c08984eab9e1ac13d1bfe02",
+      "title": "Werken bij Visa Inc. | Glassdoor",
+      "company": "Visa Inc.",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Overzicht/Werken-bij-Visa-Inc-EI_IE3035.11,19.htm",
+      "snippet": "Vacatures. AI is transforming how commerce happens. Businesses need a simple, trusted way to plug in. Visa Intelligent Commerce Connect is a new pilot solution designed to help businesses participate in AI\u2011powered, agent\u2011driven commerce securely and ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-11T07:00:41.736541"
+    },
+    "score": 0,
+    "reason": "Generic job board overview page, not a specific job listing. No actual position details provided.",
+    "embed_sim": 0.2056020349264145,
+    "ai_native_score": 0.46747103333473206
+  },
+  {
+    "job": {
+      "id": "e37cda559f259243bad34a121290f3b1",
+      "title": "13 vacatures in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/search/?f_C=479080,1650523,31022,2440715,14288,3197287",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.13 vacatures in Nederland. Customer Experience Consultant.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-11T07:01:14.830202"
+    },
+    "score": 0,
+    "reason": "Search results page aggregator, not a specific job listing. No actual position information.",
+    "embed_sim": 0.10100008547306061,
+    "ai_native_score": 0.48348793387413025
+  },
+  {
+    "job": {
+      "id": "856f63d0edd6dd5c339f4efcb40ba696",
+      "title": "84 vacatures voor Rabobank in Nederland",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.linkedin.com/jobs/rabobank-jobs/?f_C=1970,1134566,163394,93365620,16196998,30240496",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Front-End Developer. DLL. Eindhoven 6 dagen geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-11T07:01:14.830218"
+    },
+    "score": 0,
+    "reason": "Search results aggregator page for Rabobank positions. Eindhoven is 60+ km from Utrecht (outside preferred range). No specific job details.",
+    "embed_sim": 0.08213317394256592,
+    "ai_native_score": 0.4878970682621002
+  },
+  {
+    "job": {
+      "id": "637ef4a09ff7c882df644cdc4b53ea05",
+      "title": "21 vacatures voor Coty in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/coty-jobs/?f_C=5058",
+      "snippet": "Wees een van de eerste sollicitanten. 5 dagen geleden. Corporate Communications and AI Activations Intern.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-11T07:01:14.830226"
+    },
+    "score": 0,
+    "reason": "Intern position listed. Candidate explicitly seeks senior-level roles, not traineeships/internships.",
+    "embed_sim": 0.23681549727916718,
+    "ai_native_score": 0.6419914960861206
+  },
+  {
+    "job": {
+      "id": "a317a9b68bbc0a0955cc12ff20056601",
+      "title": "Meer dan 1.000 vacatures voor Gri in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/gri-jobs?f_AL=true",
+      "snippet": "Business Developer Beauty & Wellness - Groningen. Treatwell.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-11T07:01:14.830233"
+    },
+    "score": 0,
+    "reason": "Search results aggregator page with no specific job details. Location information unclear.",
+    "embed_sim": 0.16254425048828125,
+    "ai_native_score": 0.5195745229721069
+  },
+  {
+    "job": {
+      "id": "61e23f25e16f0e2e6b1e7a830b139505",
+      "title": "Meer dan 1.000 vacatures voor Gri in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/gri-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-11T07:01:18.888882"
+    },
+    "score": 0,
+    "reason": "Search results aggregator page with no actual job listing content.",
+    "embed_sim": 0.03387698531150818,
+    "ai_native_score": 0.5952551364898682
+  },
+  {
+    "job": {
+      "id": "103babd5da173781b81839750d01efb8",
+      "title": "Vacature voor een functie als Forward Deployed Engineer - Public Sector, Nonprofit & Education bij Salesforce in Amsterdam | Glassdoor",
+      "company": "Salesforce In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/forward-deployed-engineer-public-sector-nonprofit-education-salesforce-JV_IC3064478_KO0,59_KE60,70.htm?jl=1010216536157",
+      "snippet": "Salesforce is hiring Forward Deployed Engineers \u2014 experienced Technical Builders who design, build, and deploy agentic AI solutions directly inside enterprise customer environments. You'll work as part of a delivery team, partnering closely with a Deployment Strategist ( Strategic Builder - a customer-facing advisor who shapes AI strategy and drives adoption) to co-build solutions that go live in production environments from day one.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-11T07:01:32.719899"
+    },
+    "score": 2,
+    "reason": "Forward Deployed Engineer role at Salesforce (Amsterdam location is acceptable). However, role focuses on 'design, build, and deploy agentic AI solutions' \u2014 building AI systems, not enabling team adoption. Requires hands-on ML/AI implementation expertise, which is outside candidate's focus area.",
+    "embed_sim": 0.4077727794647217,
+    "ai_native_score": 0.611194372177124
   }
 ]
