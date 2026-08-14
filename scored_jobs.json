@@ -10968,10 +10968,10 @@
       "url": "https://www.nationalevacaturebank.nl/",
       "snippet": "Ergotherapeut in Utrecht. Hr medewerker in Rotterdam. Magazijnmedewerker in Breda. Onderwijsassistent in Utrecht. Onderzoeker in 's-Gravenhage. Algemeen verpleegkundige in Rotterdam.",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-08T10:31:16.675557"
+      "date_found": "2026-08-14T07:18:37.148642"
     },
     "score": 0,
-    "reason": "Generic job board listing with no specific role information \u2014 cannot evaluate",
+    "reason": "Job board directory page, not a specific role; includes nursing, HR, warehouse positions - no relevance to candidate profile",
     "embed_sim": -0.03779494762420654,
     "ai_native_score": 0.5282125473022461
   },
@@ -13048,12 +13048,12 @@
       "url": "https://nl.linkedin.com/jobs/tomtom-design-jobs",
       "snippet": "Software Engineering Internship - Maps SDK & AI Developer Experience. TomTom.Staff AI Software Engineer. TomTom. Amsterdam. Actief aan het werven. 1 week geleden.",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-13T08:54:59.405775"
+      "date_found": "2026-08-14T07:19:45.014755"
     },
-    "score": 3,
-    "reason": "TomTom listing mentions 'AI Developer Experience' but primarily shows internship and Staff ML Engineer roles. Lacks detail, likely focused on building AI products rather than enabling teams to adopt AI tools. Amsterdam location acceptable but role unclear.",
-    "embed_sim": 0.25540897250175476,
-    "ai_native_score": 0.6776573657989502
+    "score": 0,
+    "reason": "Search results aggregator; includes internship and Staff AI roles at TomTom - not a specific listing; internship is wrong seniority; Staff AI Engineer likely requires ML expertise",
+    "embed_sim": 0.2554091215133667,
+    "ai_native_score": 0.677657425403595
   },
   {
     "job": {
@@ -27166,5 +27166,133 @@
     "reason": "Generic job board landing page with no specific role listed. Cannot evaluate.",
     "embed_sim": 0.21203653514385223,
     "ai_native_score": 0.7759050130844116
+  },
+  {
+    "job": {
+      "id": "ad0225afcd921374b642ee1fd4a4d7a1",
+      "title": "Marketing vacancies | Page 23 | Magnet.me (en)",
+      "company": "Page 23",
+      "location": "",
+      "url": "https://magnet.me/en/opportunities/marketing?page=23",
+      "snippet": "Are you looking for a job, internship or placement in marketing?With a career in marketing, you can become one of many professions such as an SEO specialist, social media marketer, digital marketing manager and many more.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-14T07:18:28.341140"
+    },
+    "score": 0,
+    "reason": "Marketing vacancies page - not a specific job listing, unrelated to software engineering or AI enablement",
+    "embed_sim": 0.23463355004787445,
+    "ai_native_score": 0.4639996886253357
+  },
+  {
+    "job": {
+      "id": "1a04ed1cd1908655f012b0837f30cb8e",
+      "title": "Vacature Specialist | Vacature Specialisten die resultaten halen",
+      "company": "Vacature Specialisten die resultaten halen",
+      "location": "",
+      "url": "https://vacature-specialist.nl/",
+      "snippet": "Vacature Specialist is een snelle innovatieve oplossing voor het vinden van personeel. Na de samenwerking die wij afgelopen zomer zijn aangegaan hebben wij al 6 functies succesvol weten te vervullen in samenwerking met deze partij.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-14T07:18:37.148797"
+    },
+    "score": 0,
+    "reason": "Recruitment agency page, not a specific job listing",
+    "embed_sim": 0.16267508268356323,
+    "ai_native_score": 0.5022178888320923
+  },
+  {
+    "job": {
+      "id": "2cce6f1192af6e3f3bec1be411d8e5c0",
+      "title": "1 vacatures voor Tempo Team in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tempo-team-jobs?f_AL=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-14T07:18:41.950664"
+    },
+    "score": 0,
+    "reason": "Temp agency search results page, not a specific role listing",
+    "embed_sim": 0.10931101441383362,
+    "ai_native_score": 0.7053914070129395
+  },
+  {
+    "job": {
+      "id": "d1bdae70f475d0a0588bbe674b42d428",
+      "title": "734 vacatures voor Business Analyst in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/business-analyst-jobs",
+      "snippet": "Business Analyst Digital & AI Transformation. CED. Capelle aan den IJssel.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-14T07:18:41.950705"
+    },
+    "score": 0,
+    "reason": "Search results aggregator for Business Analyst roles - not a specific job listing; candidate is not a business analyst",
+    "embed_sim": 0.2894575595855713,
+    "ai_native_score": 0.6042508482933044
+  },
+  {
+    "job": {
+      "id": "e65c430de50d5470a7f31870cba88dae",
+      "title": "Parttime commercieel medewerker bij Odido in Utrecht Overvecht.",
+      "company": "Odido In Utrecht Overvecht.",
+      "location": "Utrecht",
+      "url": "https://www.youngcapital.nl/vacatures/5635138-parttime-commercieel-medewerker-bij-odido-in-utrecht-overvecht",
+      "snippet": "Ontwikkel jezelf als commercieel medewerker bij Odido in Utrecht Overvecht.Ben jij de perfecte kandidaat voor deze vacature en voldoe je aan de eisen? Klik dan op de knop 'Solliciteer direct!' en we nemen zo snel mogelijk contact met je op! Extra informatie. Waar kom je te werken?",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-14T07:18:58.739251"
+    },
+    "score": 0,
+    "reason": "Part-time commercial sales role at Odido - unrelated to software engineering, AI enablement, or development teams",
+    "embed_sim": 0.0379645973443985,
+    "ai_native_score": 0.5952661037445068
+  },
+  {
+    "job": {
+      "id": "8af8a317940328354576c70b6b93e5c1",
+      "title": "278 vacatures voor Miro in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/miro-jobs",
+      "snippet": "AI Enablement Specialist. Marktplaats.Value Engineer. Complexio. Amsterdam 4 maanden geleden.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-14T07:19:11.928925"
+    },
+    "score": 0,
+    "reason": "Search results page with mixed jobs; mentions 'AI Enablement Specialist' but listing is expired/unavailable (cannot verify specific role details)",
+    "embed_sim": 0.1686442792415619,
+    "ai_native_score": 0.5743969082832336
+  },
+  {
+    "job": {
+      "id": "9be8c533ce01e920abaa729254db919c",
+      "title": "1,000+ Gvb jobs in Netherlands",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/gvb-jobs?trk=expired_jd_redirect",
+      "snippet": "Today's top 1,000+ Gvb jobs in Netherlands. Leverage your professional network, and get hired. New Gvb jobs added daily.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-14T07:19:45.014726"
+    },
+    "score": 0,
+    "reason": "Expired job listing page (indicated by 'trk=expired_jd_redirect' parameter) - no longer available",
+    "embed_sim": 0.11625350266695023,
+    "ai_native_score": 0.5089381337165833
+  },
+  {
+    "job": {
+      "id": "761b1d6fde3a8a7f7c97a8a29083af7e",
+      "title": "217 Scrummaster jobs in Netherlands",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/scrummaster-jobs?trk=expired_jd_redirect",
+      "snippet": "Today's top 217 Scrummaster jobs in Netherlands. Leverage your professional network, and get hired. New Scrummaster jobs added daily.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-14T07:19:45.014745"
+    },
+    "score": 0,
+    "reason": "Expired job listing page (indicated by 'trk=expired_jd_redirect' parameter) - no longer available",
+    "embed_sim": 0.2425392121076584,
+    "ai_native_score": 0.591617226600647
   }
 ]
