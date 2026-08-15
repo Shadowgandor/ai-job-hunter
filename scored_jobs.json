@@ -12728,12 +12728,12 @@
       "url": "https://werkeninai.nl/ai-senior-managing-consultant-ibm/",
       "snippet": "A passion for the latest AI developments and AI Governance, Trustworthy AI. Experience with AI strategy and AI enabled business transformation.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-13T08:54:17.243797"
+      "date_found": "2026-08-15T06:31:07.684180"
     },
     "score": 4,
-    "reason": "IBM AI strategy consulting role with AI governance/transformation focus. Has strategic AI elements, but positioned as consulting/managing consultant at IBM scale. No clear location; unclear if dev team enablement vs. enterprise AI governance. Possibly too enterprise-governance focused vs. hands-on adoption coaching.",
-    "embed_sim": 0.5220828056335449,
-    "ai_native_score": 0.7062450051307678
+    "reason": "AI strategy and governance focus, but 'Managing Consultant' role suggests client advisory/consulting rather than hands-on team enablement. Location unknown, likely not Utrecht area. Governance angle is tangential to core need.",
+    "embed_sim": 0.5220827460289001,
+    "ai_native_score": 0.7062451839447021
   },
   {
     "job": {
@@ -13128,12 +13128,12 @@
       "url": "https://nl.indeed.com/Owow-vacatures",
       "snippet": "Toon alle vacatures in Eindhoven. Zoeken op salaris: AI Solutions Consultant salarissen.The OWOW Way of Working (OWOWWOW): freedom and flexibility in your working hours, work location, and days off.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-13T08:55:13.318064"
+      "date_found": "2026-08-15T06:31:54.676920"
     },
     "score": 0,
-    "reason": "This is a generic Indeed search results page, not a specific job listing. It's metadata about job search functionality, not an actual open position that can be evaluated.",
-    "embed_sim": 0.028887297958135605,
-    "ai_native_score": 0.48074641823768616
+    "reason": "Generic Indeed company/job search page, not a specific job listing. Eindhoven location is also outside preferred range (~90km). Cannot evaluate specific role.",
+    "embed_sim": 0.028887348249554634,
+    "ai_native_score": 0.4807465970516205
   },
   {
     "job": {
@@ -27294,5 +27294,197 @@
     "reason": "Expired job listing page (indicated by 'trk=expired_jd_redirect' parameter) - no longer available",
     "embed_sim": 0.2425392121076584,
     "ai_native_score": 0.591617226600647
+  },
+  {
+    "job": {
+      "id": "70471c52a8c9233b2ef2662ca5cb3297",
+      "title": "AI Dev/Ops Engineer in Leusden bij Pon | Magnet.me",
+      "company": "Pon",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1065962/ai-dev-ops-engineer",
+      "snippet": "Je definieert en verbetert standaarden, richtlijnen en best practices voor de Way of Working rondom AI, voor zowel het eigen team als de rest van de organisatie. Je implementeert en optimaliseert infrastructuur om deployment-processen en CI/CD te stroomlijnen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-15T06:31:15.670341"
+    },
+    "score": 7,
+    "reason": "Strong match: AI Dev/Ops Engineer defining standards, best practices, and Way of Working for AI adoption across teams. Leusden is ~20km from Utrecht, within range. Infrastructure/CI-CD focus aligns with enabling teams. Senior technical role fits profile.",
+    "embed_sim": 0.3753848075866699,
+    "ai_native_score": 0.7220984697341919
+  },
+  {
+    "job": {
+      "id": "73b3d6d94254a0019428cd52e1682225",
+      "title": "Roadmanager IAM Foundation Agentic AI - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1066966/roadmanager-iam-foundation-agentic-ai",
+      "snippet": "As Roadmanager IAM Foundation Agentic AI, you know the secrets of turning early-stage, interdependent initiatives into one sequenced and controlled programme. You coordinate governance, dependencies, stakeholder alignment and vendor procurement, while architects determine the technical direction.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-15T06:31:15.670368"
+    },
+    "score": 2,
+    "reason": "Roadmanager/governance coordination role, not hands-on AI enablement. Focus is on program management, vendor procurement, and IAM governance\u2014not helping dev teams adopt AI tools. Wrong skill focus.",
+    "embed_sim": 0.41016876697540283,
+    "ai_native_score": 0.703079879283905
+  },
+  {
+    "job": {
+      "id": "41f2edad4b6363887ac16c2a021f8f24",
+      "title": "Solution Consultant - AI CoE in Den Haag bij PostNL | Magnet.me",
+      "company": "Postnl",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1061175/solution-consultant---ai-coe",
+      "snippet": "Geplaatst op 21 juli 2026 Solution Consultant - AI CoE bij PostNL The AI Center of Excellence (AI CoE) develops the shared services and capabilities that teams across PostNL use to build AI and agent-based solutions. As a Solution Consultant, you help shape these capabilities by understanding what users and teams need and translating this into clear requirements for engineers. You also bring ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-15T06:31:15.670381"
+    },
+    "score": 5,
+    "reason": "AI CoE Solution Consultant could involve helping teams use shared AI services, but 'developing shared services' suggests building AI capabilities, not coaching adoption. Den Haag is ~50km from Utrecht (borderline). Partial match on team enablement concept.",
+    "embed_sim": 0.3992932438850403,
+    "ai_native_score": 0.7337446808815002
+  },
+  {
+    "job": {
+      "id": "ae67e0f3a0bf7eb3a72ee6c2b6fd35db",
+      "title": "100+ vacatures voor Ai Engineer Llm Integratie en werk: 13 augustus 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-engineer-llm-integratie-vacatures.html",
+      "snippet": "1 week ago - Zoeken op salaris: AI Engineering Lead salarissen in Utrecht \u00b7 Zie veelgestelde vragen en antwoorden over Capgemini Sogeti \u00b7 Ervaring met API-integraties en het bouwen van applicaties of automatiseringen. Je bouwt generatieve zoek- en kennisoplossingen, automatiseert workflows en\u2026 \u00b7 Toon alle vacatures voor KPMG - Vacatures in Amstelveen",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-15T06:31:19.994378"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job search results page, not a specific job listing. Appears to be a search index page rather than an actual open position. Cannot evaluate.",
+    "embed_sim": 0.2960203289985657,
+    "ai_native_score": 0.6188894510269165
+  },
+  {
+    "job": {
+      "id": "b6dc7df2fb9ce2d4113612bb20f00ffd",
+      "title": "TreeHouse NL zoekt een AI Engineer in Rotterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-treehouse-nl-4434108451",
+      "snippet": "Je verbindt disciplines \u2014 engineering, product, data en business \u2014 en zorgt dat AI-initiatieven niet op een eiland blijven liggen. Je jaagt versnelling aan \u00e9n faciliteert die: je tilt de AI-werkwijze van onze engineers naar een hoger niveau en helpt teams effectiever met tooling als Cursor en Claude te werken.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-15T06:31:24.340331"
+    },
+    "score": 9,
+    "reason": "Near-perfect match: TreeHouse AI Engineer role explicitly mentions lifting AI workflow, helping teams use Cursor and Claude, bridging disciplines (engineering/product/data), and facilitating tooling adoption. Rotterdam is ~60km (slightly outside preference but close enough). Exact role candidate seeks.",
+    "embed_sim": 0.38500311970710754,
+    "ai_native_score": 0.7048571705818176
+  },
+  {
+    "job": {
+      "id": "50bb3033f3d3238fc1a4e1c6c187599d",
+      "title": "EY zoekt een AI Engineer Architect in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-ey-4384249734",
+      "snippet": "We are seeking a talented AI Engineer to join our team and help build innovative artificial intelligence solutions. In this role, you'll design, develop, and deploy AI models and systems that...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-15T06:31:28.233984"
+    },
+    "score": 2,
+    "reason": "EY AI Engineer Architect focused on designing, developing, and deploying AI models and systems. This is building AI solutions, not enabling teams to adopt AI tools. Requires ML/model building expertise, not a match.",
+    "embed_sim": 0.3865542411804199,
+    "ai_native_score": 0.6049380302429199
+  },
+  {
+    "job": {
+      "id": "3021835a606892e001100d9ba4e57a19",
+      "title": "AvePoint zoekt een Partner Enablement Engineer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/msp-channel-consultant-\u2013-azure-intune-at-avepoint-4443175388",
+      "snippet": "Jul 22, 2026 \u00b7 Run discovery, onboarding, training, and enablement sessions with partner stakeholders across technical, commercial, and service delivery teams. Guide partners from project-based delivery toward...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-15T06:31:28.234003"
+    },
+    "score": 1,
+    "reason": "AvePoint Partner Enablement Engineer is channel/partner sales enablement (Azure/Intune), not AI tool adoption for dev teams. Completely different domain and purpose.",
+    "embed_sim": 0.2819633483886719,
+    "ai_native_score": 0.551523745059967
+  },
+  {
+    "job": {
+      "id": "3899d03b2b88becb14bb43415786b2eb",
+      "title": "100+ vacatures voor Ai Engineer en werk in Rotterdam 27 maart 2026| Indeed",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-rotterdam-vacatures.html",
+      "snippet": "Ai Engineer vacatures in Rotterdam. Engineer, Ai Engineer, Technical Lead en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-15T06:31:40.637670"
+    },
+    "score": 0,
+    "reason": "Generic Indeed job search results page for Rotterdam, not a specific job listing. Search index rather than actual open position. Cannot evaluate.",
+    "embed_sim": 0.29029351472854614,
+    "ai_native_score": 0.6358973383903503
+  },
+  {
+    "job": {
+      "id": "c03d0759b3d70da5f04a448bb0b61e33",
+      "title": "Senior Adoptiespecialist - Digitale Werkplek | Werken bij NS",
+      "company": "Ns",
+      "location": "",
+      "url": "https://www.werkenbijns.nl/vacatures/senior-adoptiespecialist-digitale-werkplek-utrecht-1281897",
+      "snippet": "2 days ago \u00b7 Als Adoptiespecialist Digitale Werkplek help je NS-collega\u2019s om hun digitale werkplek slimmer en effici\u00ebnter te gebruiken. Door een brug te slaan tussen IT en de werkvloer kun jij \u00e9cht impact maken op de werkplek van heel NS!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-15T06:32:02.384268"
+    },
+    "score": 6,
+    "reason": "Adoption specialist role focused on helping employees use digital tools efficiently. Strong adoption/champion mindset match. However, unclear if this is about AI tools specifically or broader digital workplace adoption. Location (Utrecht) is perfect. Senior level appropriate. Needs verification that it's AI-focused.",
+    "embed_sim": 0.15707921981811523,
+    "ai_native_score": 0.7157254219055176
+  },
+  {
+    "job": {
+      "id": "d9518c9e8fc6440760f54dcc27019091",
+      "title": "100+ vacatures voor Digital Adoption Specialist en werk: 14 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-digital-adoption-specialist-vacatures.html?vjk=0c622f9c2f2af69e",
+      "snippet": "Build and activate communities around digital adoption topics, with a strong current focus on Copilot, peer learning, and practical value cases.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-15T06:32:02.384336"
+    },
+    "score": 0,
+    "reason": "This is a search results page listing 100+ jobs, not an actual job posting. Cannot evaluate. Also appears to be an Indeed search results page rather than a specific vacancy.",
+    "embed_sim": 0.1427077353000641,
+    "ai_native_score": 0.6597088575363159
+  },
+  {
+    "job": {
+      "id": "b7e2c5f24b65a99569591658ac2e0c9a",
+      "title": "195 vacatures voor Copywriter in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/copywriter-jobs?f_EA=true",
+      "snippet": "Network Development Support - Importer Markets (6-months contract/freelance).Principal / Senior Medical Writer - with proven strong clinical document writing experience.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-15T06:32:06.475052"
+    },
+    "score": 0,
+    "reason": "This is a search results page for Copywriter positions with no relevance to AI adoption, engineering, or development roles. Not an actual job listing.",
+    "embed_sim": 0.2514451742172241,
+    "ai_native_score": 0.6364996433258057
+  },
+  {
+    "job": {
+      "id": "175eb3ee518fdbf71f76b86bafae3c03",
+      "title": "Meer dan 1.000 vacatures voor Freelance Marketing in Nederland",
+      "company": "",
+      "location": "Rijswijk",
+      "url": "https://nl.linkedin.com/jobs/freelance-marketing-jobs?f_EA=true",
+      "snippet": "U gebruikt nu de AI-gestuurde zoekfunctie voor vacatures.Marketing Strateeg. AI FLOM. Rijswijk. Wees een van de eerste sollicitanten.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-15T06:32:06.475076"
+    },
+    "score": 0,
+    "reason": "This is a search results page for Freelance Marketing jobs, not a specific job posting. Mentions 'AI-gestuurde zoekfunctie' (AI-powered search function) but the actual job listing is for a Marketing Strategist role in Rijswijk \u2014 unrelated to the candidate's goals and far from Utrecht.",
+    "embed_sim": 0.12397055327892303,
+    "ai_native_score": 0.5662871599197388
   }
 ]
