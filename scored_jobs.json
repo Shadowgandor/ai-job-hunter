@@ -13730,18 +13730,18 @@
   {
     "job": {
       "id": "a12a9271c4a05bea95ce6cf336d4cc2b",
-      "title": "200+ vacatures voor Artificial Intelligence en werk: 12 juni 2026| Indeed",
+      "title": "300+ vacatures voor Artificial Intelligence en werk: 16 augustus 2026| Indeed",
       "company": "",
-      "location": "Amsterdam",
+      "location": "Utrecht",
       "url": "https://nl.indeed.com/q-artificial-intelligence-vacatures.html",
-      "snippet": "Zoeken op salaris: AI- Engineer salarissen in Amsterdam Westpoort \u00b7 Deze toolbox speelt een centrale rol in ons dagelijkse werk en helpt ons om projecten sneller, slimmer en consistenter uit te voeren. Alle vacatures voor Arcadis - Amersfoort vacatures - vacatures voor Internship Software Development (m/v) in Amersfoort bekijken",
-      "source": "ddg:indeed",
-      "date_found": "2026-06-16T11:06:12.627114"
+      "snippet": "Als Data Scientist ontwikkel je AI-oplossingen die verder gaan dan een proof of concept. Je bouwt, traint en implementeert modellen die dagelijks worden\u2026 \u00b7 Alle vacatures voor Good Company - Utrecht vacatures - vacatures voor Data Scientist (m/v) in Utrecht bekijken",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-17T06:45:14.161029"
     },
     "score": 0,
-    "reason": "This is a search results landing page, not a specific job listing. No actual job posting to evaluate.",
-    "embed_sim": 0.31543612480163574,
-    "ai_native_score": 0.6584541201591492
+    "reason": "Generic Indeed search results page, not a specific job listing. Cannot evaluate. Also, Data Scientist roles (building/training models) explicitly don't match candidate profile.",
+    "embed_sim": 0.2023380845785141,
+    "ai_native_score": 0.5074264407157898
   },
   {
     "job": {
@@ -27582,5 +27582,53 @@
     "reason": "Technical Strategy Lead - AI Driven Development at Conclusion Enablement. Explicitly mentions 'AI-assisted development, agentic engineering, AI-adoption within teams.' Acts as connector between teams around technical direction. Senior level. Near-perfect fit for champion/strategy role, though location unknown (Conclusion Enablement has Dutch presence).",
     "embed_sim": 0.4325627088546753,
     "ai_native_score": 0.8555481433868408
+  },
+  {
+    "job": {
+      "id": "36f3a5f23320cfe1b66860d463e225f4",
+      "title": "Vacature voor een functie als AI Developer bij Devon Energy in Delft | Glassdoor",
+      "company": "Devon Energy In Delft",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-developer-devon-energy-JV_IC3048380_KO0,12_KE13,25.htm?jl=1008894516643",
+      "snippet": "Keep abreast of advancements in the field of AI, including new algorithms, frameworks, and tools, and evaluate their potential for enhancing existing systems or developing new solutions. ... Proficiency in programming (e.g., Python) and machine learning frameworks (e.g., TensorFlow, PyTorch). Strong mathematical foundation (linear algebra, calculus, statistics). Knowledge of deep learning and neural networks. Data preprocessing and feature engineering skills. Experience with cloud platforms and ",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-17T06:45:10.446266"
+    },
+    "score": 2,
+    "reason": "AI Developer role requiring TensorFlow/PyTorch and ML frameworks \u2014 pure ML engineering, not AI adoption/enablement. Candidate explicitly doesn't want model-building roles.",
+    "embed_sim": 0.42272084951400757,
+    "ai_native_score": 0.44488316774368286
+  },
+  {
+    "job": {
+      "id": "75619be49b369465acd91e9d7c86ff4c",
+      "title": "Vacature voor een functie als AI Engineer / Python Developer bij MrWork in Rotterdam | Glassdoor",
+      "company": "Mrwork In Rotterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-python-developer-mrwork-JV_IC3049255_KO0,28_KE29,35.htm?jl=1010205454108",
+      "snippet": "AI Mindset (Core Requirement) You fully embrace the shift towards AI-driven development and actively look for ways to work smarter and build better using AI \u00b7 Python & FastAPI Proven experience building services with Python and FastAPI",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-17T06:45:10.446339"
+    },
+    "score": 3,
+    "reason": "Requires Python & FastAPI backend development expertise. While it mentions 'AI Mindset', this is fundamentally a Python/FastAPI engineering role, not an AI adoption/enablement position. Candidate's strength is web dev (Angular/TS), not Python services.",
+    "embed_sim": 0.5089516639709473,
+    "ai_native_score": 0.6889839768409729
+  },
+  {
+    "job": {
+      "id": "ac2f3f96653e330f73fc31c0a7bfff63",
+      "title": "25+ vacatures voor Ai Agent Developer en werk in Utrecht (provincie) 16 augustus 2026| Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-agent-developer-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Ai Agent Developer vacatures in Utrecht (provincie). Ai Engineer, Functional Lead, Automation Engineer en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-17T06:45:22.978920"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page listing multiple vacancies, not a specific job posting. Cannot evaluate individual opportunities.",
+    "embed_sim": 0.41880685091018677,
+    "ai_native_score": 0.7802321314811707
   }
 ]
