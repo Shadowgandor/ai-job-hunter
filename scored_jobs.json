@@ -14354,18 +14354,18 @@
   {
     "job": {
       "id": "353b8c24ac5d9b81093b1b8ecc9b83e4",
-      "title": "MLOps Engineer - Picnic - Werken in AI",
-      "company": "Werken in AI",
-      "location": "",
+      "title": "MLOps Engineer - Picnic - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
+      "location": "Amsterdam",
       "url": "https://werkeninai.nl/mlops-engineer-picnic/",
-      "snippet": "\ud83e\udd5c In a nutshell As a MLOps Engineer at Picnic, you'll work on building the tools and infrastructure to help our data scientists quickly build and productionize robust machine learning models.",
+      "snippet": "September 10, 2024 - Vacature: Picnic in Amsterdam zoekt een MLOps Engineer | Fulltime | Sluitingsdatum: onbekend.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-17T10:50:23.247935"
+      "date_found": "2026-08-18T06:36:38.684050"
     },
-    "score": 0,
-    "reason": "MLOps Engineer. Explicitly about building ML infrastructure and helping data scientists productionize models. Pure ML engineering \u2014 directly contradicts candidate's non-interest in model training/MLOps.",
-    "embed_sim": 0.38115400075912476,
-    "ai_native_score": 0.4618779122829437
+    "score": 2,
+    "reason": "MLOps Engineer role focused on building/maintaining ML pipelines and infrastructure. Requires deep ML/Python expertise, model training knowledge, and data science background. Candidate is web developer wanting to enable AI adoption, not build ML systems. Also dated September 2024 with unclear closing date\u2014likely expired listing.",
+    "embed_sim": 0.2968888282775879,
+    "ai_native_score": 0.48408234119415283
   },
   {
     "job": {
