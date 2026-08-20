@@ -9490,18 +9490,18 @@
   {
     "job": {
       "id": "802da1254bfe25aaaa114de1a6d48991",
-      "title": "Senior AI Specialist \u2013 Nexperia - Werken in AI",
-      "company": "Werken in AI",
+      "title": "Senior AI Specialist - Nexperia - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/senior-ai-specialist-nexperia/",
-      "snippet": "For our Nexperia Corporate Office in the Netherlands, based in Nijmegen, we are looking for a Senior AI Specialist to join the global Data and Insights team which is part of our Global IT department.",
+      "snippet": "August 26, 2024 - Develop an AI roadmap for Revenue, Cost, Margin, Smart Pricing, Smart yield management, Smart OEE management, WIP management, scheduling , procurement automation amongst other use cases.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-05T09:40:23.148452"
+      "date_found": "2026-08-20T06:39:10.957382"
     },
     "score": 2,
-    "reason": "Senior AI Specialist at Nexperia (Nijmegen) in Data and Insights team. Location is ~60km from Utrecht (outside preferred range). Likely focuses on data/analytics rather than enabling dev team AI adoption. No details suggest AI tooling/SDLC integration.",
-    "embed_sim": 0.5542047023773193,
-    "ai_native_score": 0.6894683837890625
+    "reason": "AI roadmap development for manufacturing/operational use cases (pricing, OEE, scheduling). Focused on building AI solutions for business domains, not enabling dev teams to adopt AI tooling. Wrong domain and unclear if it's about developer productivity.",
+    "embed_sim": 0.5611779689788818,
+    "ai_native_score": 0.7412422299385071
   },
   {
     "job": {
@@ -10690,18 +10690,18 @@
   {
     "job": {
       "id": "811ec0697262055b3b49ba20e34c0c06",
-      "title": "Data & AI specialist - NS - Werken in AI",
-      "company": "Werken in AI",
-      "location": "Utrecht",
+      "title": "Data & AI specialist - NS - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
+      "location": "",
       "url": "https://werkeninai.nl/data-ai-specialist-ns/",
-      "snippet": "Data & AI specialist - NS Vacature: De NS in Utrecht zoekt een Data & AI specialist voor 32 tot 36 uur per week | Salaris: van \u20ac 4.190,- tot \u20ac 7.015,- per maand | Sluitingsdatum: 24 oktober 2024. Maak jij als Data & AI specialist graag de vertaalslag? Sla dan nu j\u00f3uw slag en geef de data & AI strategie verder vorm in deze rol bij ComIT!",
+      "snippet": "October 13, 2024 - Data is een cruciale asset voor het sneller en effici\u00ebnter bereiken van de ComIT doelstellingen. FC Data en AI helpt hierbij met visievorming en het geven van richting aan ComIT op het gebied van data, zodat kansen en bedreigingen op basis ...",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-07T08:53:18.977600"
+      "date_found": "2026-08-20T06:39:10.957400"
     },
-    "score": 3,
-    "reason": "Data & AI specialist at NS in Utrecht \u2014 good location (Utrecht), but 'Data & AI specialist' typically implies data science/analytics background. Role description mentions 'vertaalslag' (translation) suggesting strategy work, but NS is likely seeking someone with data/AI technical depth, not web developer AI adoption champion. Likely requires Python/data science experience.",
-    "embed_sim": 0.3698299825191498,
-    "ai_native_score": 0.6061872839927673
+    "score": 2,
+    "reason": "Data & AI specialist at NS focused on data strategy and visioning for organizational initiatives. This is data strategy/governance, not about helping development teams adopt AI coding tools or embedding AI in SDLC workflows.",
+    "embed_sim": 0.27147895097732544,
+    "ai_native_score": 0.5661224722862244
   },
   {
     "job": {
@@ -11336,12 +11336,12 @@
       "url": "https://magnet.me/nl-NL/bedrijf/magnet.me",
       "snippet": "Magnet.me is the AI-powered career network transforming recruitment from one-time transactions into lasting connections, so today\u2019s near-miss can become tomorrow\u2019s perfect match. Companies build GDPR-proof talent communities, engage automatically with up-to-date profiles, and hire faster without paying twice to reach the same person. Professionals grow their careers with AI guidance and stay ahead of opportunities.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-09T09:36:08.185257"
+      "date_found": "2026-08-20T06:39:46.694948"
     },
     "score": 0,
-    "reason": "Company profile page, not a specific job listing. No vacancy information provided.",
+    "reason": "This is a company landing page for Magnet.me (a recruitment platform), not a specific job listing. No actual role to evaluate.",
     "embed_sim": 0.36161524057388306,
-    "ai_native_score": 0.5778629779815674
+    "ai_native_score": 0.5778630971908569
   },
   {
     "job": {
@@ -14468,16 +14468,16 @@
       "id": "a89abec85aef3236b3ff16edc7e49312",
       "title": "1.631 vacatures voor ai developer in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "",
+      "location": "Amsterdam",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-developer-vacatures-SRCH_IL.0,9_IN178_KO10,22.htm",
-      "snippet": "You will implement containerisation strategies to ensure AI models are scalable, reliable, and easy to maintain, and design back-end services and infrastructure\u2026\u2026 Vaardigheden: TensorFlow, Azure, Kubernetes, C#, Engels ... Vacatures voor machine learning engineer in BredaVacatures in BredaVacatures bij Breda University of Applied Sciences in Breda",
+      "snippet": "Vacatures voor machine learning engineer in AmsterdamVacatures in AmsterdamVacatures bij McKinsey & Company in Amsterdam ... Reviews van werknemers bij McKinsey & CompanySollicitatie-ervaring bij McKinsey & CompanyWerken bij McKinsey & Company ... Build and lead a testing team, be the go-to expert on AI quality. We're looking for experienced AI Developers in Test to work on validating LLM-based\u2026\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-18T10:16:40.117466"
+      "date_found": "2026-08-20T06:39:26.902297"
     },
-    "score": 1,
-    "reason": "Search results page listing ML/AI developer roles. Mentions TensorFlow, model containerization, and backend infrastructure\u2014core ML engineering work. Not an AI adoption/enablement role. Wrong specialization.",
-    "embed_sim": 0.31499093770980835,
-    "ai_native_score": 0.5086062550544739
+    "score": 0,
+    "reason": "This is a search results page/listing aggregate, not a specific job posting. Cannot evaluate a collection of unspecified roles.",
+    "embed_sim": 0.32978469133377075,
+    "ai_native_score": 0.5812156200408936
   },
   {
     "job": {
@@ -27822,5 +27822,37 @@
     "reason": "Applied AI Engineer for 'conversation layer of AI-first fundraising' platform. This is building an AI product feature, not enabling dev teams to adopt AI tools. Wrong focus entirely. Likely requires ML/NLP expertise.",
     "embed_sim": 0.4165637791156769,
     "ai_native_score": 0.7113400101661682
+  },
+  {
+    "job": {
+      "id": "68f634af19ff5a7469f744fa984648e6",
+      "title": "Vacature voor een functie als Head of AI & Analytics Model Risk bij ABN AMRO in Nederland | Glassdoor",
+      "company": "Abn Amro In Nederland",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/head-of-ai-analytics-model-risk-abn-amro-JV_KO0,31_KE32,40.htm?jl=1010123533346",
+      "snippet": "Change in way of working from process orientated to risk aware prioritization and execution. Expand coverage of MRM over full organization. Foster a deep understanding of model risk and risk management in general within the team. The AI & Analytics Model Risk department is part of ABN AMRO\u2019s Model Risk Management & Model Validation (MRM&MV) department.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-20T06:39:19.633899"
+    },
+    "score": 1,
+    "reason": "Head of AI & Analytics Model Risk at ABN AMRO \u2014 focused on model risk management and regulatory compliance for ML models. This is risk management, not developer enablement or AI tool adoption for dev teams.",
+    "embed_sim": 0.2922353744506836,
+    "ai_native_score": 0.5504235625267029
+  },
+  {
+    "job": {
+      "id": "03874b8e3f306848b8ba514995b529d9",
+      "title": "Senior Product Manager - Demand in Amsterdam bij Catawiki | Magnet.me | #1063819 (nl)",
+      "company": "Catawiki",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1063819/senior-product-manager---demand",
+      "snippet": "You are highly data-savvy and comfortable working with funnels, cohorts, experiments and product performance metrics \u00b7 You have extensive experience designing, running and analysing A/B tests \u00b7 You have strong product and design judgement, ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-20T06:39:46.694967"
+    },
+    "score": 0,
+    "reason": "Senior Product Manager role at Catawiki focused on demand/funnel optimization and A/B testing. This is product management, not AI tool adoption or developer enablement.",
+    "embed_sim": 0.1862667202949524,
+    "ai_native_score": 0.3227692246437073
   }
 ]
