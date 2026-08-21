@@ -12184,10 +12184,10 @@
       "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html",
       "snippet": "Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie. Je zorgt ervoor dat medewerkers niet alleen de juiste AI-tools\u2026 \u00b7 Alle vacatures voor CLB Groep - Nederland vacatures - vacatures voor Trainer (m/v) in Nederland bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-06-11T10:19:28.429262"
+      "date_found": "2026-08-21T06:39:05.388346"
     },
-    "score": 6,
-    "reason": "AI Specialist & Trainer role focused on adoption within organization and ensuring employees learn AI tools. Matches adoption/training aspect, but listing is vague (no location, unclear details). Could be good if specifics align.",
+    "score": 0,
+    "reason": "This is a search results aggregation page, not an actual job listing. No specific role details, company information, or location provided.",
     "embed_sim": 0.23097273707389832,
     "ai_native_score": 0.7004092931747437
   },
@@ -12200,10 +12200,10 @@
       "url": "https://nl.indeed.com/Adoptie-vacatures",
       "snippet": "Alle vacatures voor XTRM development - Bunnik vacatures - vacatures voor Specialist (m/v) in Bunnik bekijken \u00b7 Zoeken op salaris: ADOPTIE SPECIALIST salarissen in Bunnik \u00b7 Als AI Automation Expert ontwikkel en implementeer je slimme workflows, AI-tools en automatiseringen die ons team helpen ...",
       "source": "ddg:indeed",
-      "date_found": "2026-06-11T10:19:28.429288"
+      "date_found": "2026-08-21T06:39:05.388358"
     },
-    "score": 1,
-    "reason": "Generic search results page with broad adoption/automation postings. Bunnik location is ~30km from Utrecht (marginal). Listing is not a specific job posting, just search aggregation.",
+    "score": 0,
+    "reason": "This is a search results aggregation page, not an actual job listing. Only generic snippet about 'AI Automation Expert' with no concrete role details or company information.",
     "embed_sim": 0.21076244115829468,
     "ai_native_score": 0.5742329359054565
   },
@@ -13480,10 +13480,10 @@
       "url": "https://nl.indeed.com/q-ai-engineer-l-utrecht-vacatures.html",
       "snippet": "Ai Engineer vacatures in Utrecht (provincie). Data Scientist, Ai Engineer, Architect en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-15T11:57:36.083472"
+      "date_found": "2026-08-21T06:39:00.848958"
     },
     "score": 0,
-    "reason": "This is an Indeed search results page, not a specific job listing. Cannot evaluate.",
+    "reason": "This is a search results aggregation page, not an actual job listing. No specific role, company, or application information available.",
     "embed_sim": 0.34027567505836487,
     "ai_native_score": 0.6990442872047424
   },
@@ -27854,5 +27854,21 @@
     "reason": "Senior Product Manager role at Catawiki focused on demand/funnel optimization and A/B testing. This is product management, not AI tool adoption or developer enablement.",
     "embed_sim": 0.1862667202949524,
     "ai_native_score": 0.3227692246437073
+  },
+  {
+    "job": {
+      "id": "bdf5e36f071f054e6b6f96007a3ac045",
+      "title": "300+ vacatures voor Medewerker Digitaliseren en werk: 6 augustus 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-medewerker-digitaliseren-vacatures.html",
+      "snippet": "Wij zoeken een Digital Adoption specialist die (complexe) technische transformaties in de digitale werkplek vanuit een mensgerichte kant begeleidt en succesvol maakt. Je zorgt voor waardering van technologie bij de medewerkers en verhoogt de productiviteit en digitale vaardigheden in tijden ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-21T06:39:05.388372"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page, not an actual job listing. While the 'Digital Adoption specialist' concept is conceptually relevant, no actual job posting details, company, salary, or application information is available.",
+    "embed_sim": 0.1719602346420288,
+    "ai_native_score": 0.7362457513809204
   }
 ]
