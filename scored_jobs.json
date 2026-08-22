@@ -10834,18 +10834,18 @@
   {
     "job": {
       "id": "921e785ed1f0a7d88eaa8c05d28a3ae1",
-      "title": "400+ vacatures voor Agentic Ai en werk - Indeed",
+      "title": "500+ vacatures voor Agentic Ai en werk: 26 juni 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-agentic-ai-vacatures.html",
-      "snippet": "Agentic Ai vacatures. Ai Developer, Solution Architect, Data Scientist en meer op Indeed.com.",
+      "snippet": "Working within Microsoft's Azure ecosystem, you will help establish the practices needed to operate AI reliably and responsibly, including evaluation, monitoring, testing, and performance optimization. As Keylane's data capabilities continue to mature, you will also contribute to broader machine ...",
       "source": "ddg:indeed",
-      "date_found": "2026-06-08T10:30:57.472086"
+      "date_found": "2026-08-22T06:33:23.985900"
     },
     "score": 0,
-    "reason": "Generic search results aggregation for 'Agentic AI' roles (400+ listings). Not a specific job listing. Cannot evaluate without details.",
-    "embed_sim": 0.306095153093338,
-    "ai_native_score": 0.7085748910903931
+    "reason": "Listing appears to be a search results page/aggregate listing ('500+ vacatures'), not an actual job posting. No specific role, company, or location details provided. Cannot evaluate.",
+    "embed_sim": 0.2597821354866028,
+    "ai_native_score": 0.5768547654151917
   },
   {
     "job": {
@@ -13362,18 +13362,18 @@
   {
     "job": {
       "id": "7a8fee0be1bca4ae53b1d01f613ea709",
-      "title": "Data Scientist - RTL Nederland - Werken in AI",
-      "company": "Werken in AI",
+      "title": "Data Scientist - RTL Nederland - \ud83e\udd16 Werken in AI",
+      "company": "\ud83e\udd16 Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-scientist-rtl-nederland/",
-      "snippet": "The ability to work independently, as well as collaboratively. The ability to build good and productive working relationships with colleagues and stakeholders.",
+      "snippet": "September 16, 2024 - The ability to build good and ... in the Netherlands and eligible for work in the Netherlands. You have at least 2 years of work experience....",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-14T09:31:10.373930"
+      "date_found": "2026-08-22T06:33:36.769122"
     },
-    "score": 1,
-    "reason": "Data Scientist role at RTL Nederland \u2014 this is a pure ML/data science position, not an AI adoption/tooling enablement role. Candidate explicitly does not want data science/ML model training positions.",
-    "embed_sim": 0.469985693693161,
-    "ai_native_score": 0.7237404584884644
+    "score": 2,
+    "reason": "Data Scientist role at RTL Nederland. Requires data science background and ML expertise. Candidate explicitly does not want pure data science/ML positions. Listing is also from September 2024 (expired/outdated).",
+    "embed_sim": 0.31259822845458984,
+    "ai_native_score": 0.6153504848480225
   },
   {
     "job": {
@@ -15318,14 +15318,14 @@
       "company": "\ud83e\udd16 Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/stage-ai-chatgpt-specialist-coolblue/",
-      "snippet": "October 14, 2024 - Als stagiair AI ChatGPT Specialist bij CoolblueBezorgt onderzoek je hoe we AI kunnen gebruiken om ervoor te zorgen dat collega\u2019s tijdens hun werk altijd de juiste informatie krijgen, zodat ze zo effici\u00ebnt mogelijk hun werk kunnen doen.",
+      "snippet": "October 14, 2024 - Als stagiair AI ChatGPT specialist ga je op zoek naar de beste AI oplossingen voor CoolblueBezorgt. Naast je kennis van ChatGPT, ben je op de hoogte van de nieuwste ontwikkelingen en weet je deze snel om te zetten in nieuwe use cases.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-20T08:51:21.243952"
+      "date_found": "2026-08-22T06:33:40.858017"
     },
     "score": 0,
-    "reason": "Internship/traineeship position ('Stage AI ChatGPT Specialist'). Candidate explicitly does not want junior/intern/traineeship roles. Also appears to be a past posting (October 2024).",
-    "embed_sim": 0.2834049463272095,
-    "ai_native_score": 0.6721669435501099
+    "reason": "Internship/stagiair position at Coolblue. Candidate explicitly does not want junior/intern/traineeship roles. Listing is from October 2024 (expired/outdated).",
+    "embed_sim": 0.27328914403915405,
+    "ai_native_score": 0.675590455532074
   },
   {
     "job": {
