@@ -10982,14 +10982,14 @@
       "company": "",
       "location": "Amsterdam",
       "url": "https://nl.indeed.com/Tooling-Engineer-vacatures",
-      "snippet": "Tooling integreren met bestaande workflows (API\u2019s, data, campaign tooling). Daarom combineren we creativiteit en data (plus technische expertise) om sterke\u2026 \u00b7 Toon alle vacatures voor RapidSugar - Vacatures in Amsterdam \u00b7 Zoeken op salaris: AI Engineer salarissen in Amsterdam",
+      "snippet": "Je hebt kennis van softwareontwikkeling en best practices, zowel wat betreft processen als tooling; Wij zetten kunstmatige intelligentie in om complexe\u2026 \u00b7 Alle vacatures voor Nederlands Lucht- en Ruimtevaartcentrum (NLR) - Amsterdam vacatures - vacatures voor R&D Engineer (m/v) in Amsterdam bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-06-08T10:31:21.473846"
+      "date_found": "2026-08-23T06:34:32.170333"
     },
     "score": 0,
-    "reason": "Generic Indeed search results page for tooling engineers \u2014 not an actual job listing; no specific role details to evaluate",
-    "embed_sim": 0.3169326186180115,
-    "ai_native_score": 0.5420004725456238
+    "reason": "Listing appears to be a search results page aggregator (600+ vacancies, generic Indeed index page), not a specific job posting. No actual job description, requirements, or application details provided. Cannot evaluate as a real opportunity.",
+    "embed_sim": 0.2431788444519043,
+    "ai_native_score": 0.6579571962356567
   },
   {
     "job": {
@@ -11000,10 +11000,10 @@
       "url": "https://nl.indeed.com/Tooling-vacatures",
       "snippet": "Van concept tot content, van strategie tot code \u2013 jij helpt teams \u00e9n klanten om AI \u00e9cht te integreren in hun werk. Alle vacatures voor Every Day\u00ae - Roosendaal vacatures - vacatures voor Engineer (m/v) in Roosendaal bekijken \u00b7 Zoeken op salaris: Prompt engineer salarissen in Roosendaal \u00b7 Partner with Data and Business stakeholders to unlock insights and tooling that support fee innovation, customer onboarding, improved market structure, and\u2026",
       "source": "ddg:indeed",
-      "date_found": "2026-06-08T10:31:21.473874"
+      "date_found": "2026-08-23T06:34:32.170381"
     },
     "score": 0,
-    "reason": "Generic Indeed search results page with vague reference to 'AI integration' \u2014 not a specific job posting; appears to be an aggregated search page",
+    "reason": "Listing appears to be a search results aggregator page (1,000+ vacancies, generic Indeed index). References multiple unrelated roles (content, strategy, code). No specific job description or concrete role details. Roosendaal is also outside the 40km Utrecht radius. Cannot evaluate as a legitimate job posting.",
     "embed_sim": 0.19922912120819092,
     "ai_native_score": 0.5190292596817017
   },
@@ -15378,18 +15378,18 @@
   {
     "job": {
       "id": "9e9637b892f58719401d1da021eb5943",
-      "title": "Ai Engineer vacatures in Amsterdam - Indeed",
+      "title": "200+ vacatures voor Ai Engineer en werk in Amsterdam 18 augustus 2026| Indeed",
       "company": "",
-      "location": "",
+      "location": "Amsterdam",
       "url": "https://nl.indeed.com/q-ai-engineer-l-amsterdam-vacatures.html",
-      "snippet": "Als Data & AI Platform Engineer werk je in enablement-teams die het platform en de delivery-capabilities neerzetten waar data- en AI-domeinen op kunnen\u2026",
+      "snippet": "Ai Engineer vacatures in Amsterdam. Ai Engineer, Data Consultant, Senior Frontend Developer en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-06-20T08:51:41.341207"
+      "date_found": "2026-08-23T06:34:32.170394"
     },
     "score": 0,
-    "reason": "Indeed search results page, not a specific job listing. Cannot evaluate a real position.",
-    "embed_sim": 0.4280887246131897,
-    "ai_native_score": 0.6633149981498718
+    "reason": "Listing is a generic search results index page (200+ vacancies) showing job category aggregation, not a specific job posting. No actual role description, company details, requirements, or application information. Cannot evaluate against candidate criteria.",
+    "embed_sim": 0.34883996844291687,
+    "ai_native_score": 0.6792507767677307
   },
   {
     "job": {
