@@ -10262,14 +10262,14 @@
       "company": "Code D'Azur",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1037366/android-developer",
-      "snippet": "2 weeks ago - Strong experience with Kotlin and working on complex Android applications, including maintaining and improving existing systems. Knowledge of MVVM and Clean Architecture. Interest in experimenting with AI tools to optimize your workflow and ...",
+      "snippet": "May 26, 2026 - Strong experience with Kotlin and working on complex Android applications, including maintaining and improving existing systems. Knowledge of MVVM and Clean Architecture. Interest in experimenting with AI tools to optimize your workflow and ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-06T08:31:41.381742"
+      "date_found": "2026-08-24T06:49:40.709172"
     },
-    "score": 2,
-    "reason": "Android Developer role (Alkmaar location, outside preferred radius); mentions interest in AI tools but is a developer position, not an AI enablement/adoption champion role",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 3,
+    "reason": "Android Developer role in Alkmaar (outside 40km radius of Utrecht). While it mentions AI tool experimentation, primary focus is Android development. Location is too far from Nieuwegein unless fully remote, which is not indicated.",
+    "embed_sim": 0.3125556409358978,
+    "ai_native_score": 0.6043224334716797
   },
   {
     "job": {
@@ -14166,14 +14166,14 @@
       "company": "Software Improvement Group",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1019974/ai-r-d-engineer",
-      "snippet": "In this position, you will focus on developing rapid prototypes, AI-powered applications, and conducting internal experiments using tools such as large language models (LLMs), prompt engineering, and AI coding assistants.",
+      "snippet": "Experienced with AWS, Docker, and containerized development workflows. Familiar with AWS Bedrock, Ollama, local deployment of large language models (LLMs), and automation patterns involving AI agents. Background in software engineering research, including implementing concepts from academic papers and rapidly prototyping simple user interfaces using AI tools. Volledige vacaturetekst ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-17T10:49:39.768690"
+      "date_found": "2026-08-24T06:49:40.709102"
     },
     "score": 2,
-    "reason": "AI R&D Engineer focused on developing prototypes, LLMs, and prompt engineering\u2014this is building AI applications and rapid prototyping, not helping dev teams adopt AI tools. Candidate explicitly does NOT want roles requiring ML expertise and building AI systems.",
-    "embed_sim": 0.44855251908302307,
-    "ai_native_score": 0.6999940276145935
+    "reason": "AI R&D Engineer role focused on AWS, Docker, LLM deployment, and academic paper implementation. Emphasizes research and infrastructure work, not AI tool adoption/enablement for dev teams. Requires specialized AI/ML infrastructure knowledge outside candidate's sweet spot.",
+    "embed_sim": 0.4841741919517517,
+    "ai_native_score": 0.5820056200027466
   },
   {
     "job": {
@@ -27870,5 +27870,53 @@
     "reason": "This is a search results aggregation page, not an actual job listing. While the 'Digital Adoption specialist' concept is conceptually relevant, no actual job posting details, company, salary, or application information is available.",
     "embed_sim": 0.1719602346420288,
     "ai_native_score": 0.7362457513809204
+  },
+  {
+    "job": {
+      "id": "39abc91122e70b588d067e57add1226f",
+      "title": "Tnw Jobs in Netherlands (998 Open Roles) | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/tnw-jobs?trk=expired_jd_redirect",
+      "snippet": "You're now using AI-powered job search \u00b7 We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results. Learn more \u00b7 Get notified when a new job is posted. Set alert \u00b7 Sign in with Email \u00b7",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-24T06:49:25.407649"
+    },
+    "score": 0,
+    "reason": "LinkedIn job search page, not a specific job listing. Appears to be expired redirect ('expired_jd_redirect' in URL).",
+    "embed_sim": 0.2735976576805115,
+    "ai_native_score": 0.4915282130241394
+  },
+  {
+    "job": {
+      "id": "3d21f1dbc5f97c1bb9506d0d9ab189ce",
+      "title": "Vacature voor een functie als Deployment Strategist - Public Sector, Nonprofit & Education bij Salesforce in Amsterdam | Glassdoor",
+      "company": "Salesforce In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/deployment-strategist-public-sector-nonprofit-education-salesforce-JV_IC3064478_KO0,55_KE56,66.htm?jl=1010216535191",
+      "snippet": "Salesforce is hiring Deployment Strategists \u2014 Strategic Builders who are customer-facing advisors, who define AI strategy, shape agentic solutions, and drive measurable adoption for enterprise customers. You'll work as part of a delivery team alongside Forward Deployed Engineers, translating complex business challenges into agentic AI deployments that go live and generate real value.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-24T06:49:29.166100"
+    },
+    "score": 7,
+    "reason": "Deployment Strategist role at Salesforce focused on defining AI strategy, driving adoption, and shaping agentic solutions for enterprise customers. Strong match on AI adoption and strategy, though Salesforce-specific (not generic AI tooling). Amsterdam location is acceptable (within 40km of Utrecht).",
+    "embed_sim": 0.36675095558166504,
+    "ai_native_score": 0.5875828266143799
+  },
+  {
+    "job": {
+      "id": "abc32356ca0774ebd7feefdfe6ca1f44",
+      "title": "Vacature voor een functie als AI Deployment Strategist bij Mistral AI in Amsterdam | Glassdoor",
+      "company": "Mistral Ai In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-deployment-strategist-mistral-ai-JV_IC3064478_KO0,24_KE25,35.htm?jl=1010206881603",
+      "snippet": "Co-create AI adoption roadmaps with customers, articulating the \u201cart of the possible\u201d and a clear path to value.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-24T06:49:29.166134"
+    },
+    "score": 8,
+    "reason": "AI Deployment Strategist at Mistral AI explicitly focused on co-creating AI adoption roadmaps and articulating value to customers. Directly aligns with candidate's AI adoption/enablement goals. Amsterdam location acceptable. Strategic advisory role is core to candidate's interests.",
+    "embed_sim": 0.36587151885032654,
+    "ai_native_score": 0.6992034912109375
   }
 ]
