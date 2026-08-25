@@ -2402,18 +2402,18 @@
   {
     "job": {
       "id": "23c5606536fd5a3b03c91ecb6d001cdd",
-      "title": "50+ vacatures voor Artificial Intelligence Specialist en werk ...",
+      "title": "75+ vacatures voor Artificial Intelligence Specialist en werk: 24 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-artificial-intelligence-specialist-vacatures.html?vjk=5bc964b5a5cc5fea",
-      "snippet": "In deze rol combineer je diepgaande kennis van Business Intelligence met strategisch inzicht in Artificial Intelligence. Het zelfstandig oppakken van kansen.",
+      "snippet": "Artificial Intelligence Specialist vacatures. Data Scientist, Specialist, Senior Business Analist en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-05-09T07:53:26.703654"
+      "date_found": "2026-08-25T06:41:59.590722"
     },
     "score": 0,
-    "reason": "Search results page, not a job listing; insufficient information to evaluate relevance",
-    "embed_sim": 0.1978016495704651,
-    "ai_native_score": 0.6442265510559082
+    "reason": "This is a job listing aggregator/search results page, not an actual job opening. No specific role details, company, location, or application process. Cannot evaluate candidate fit.",
+    "embed_sim": 0.37808454036712646,
+    "ai_native_score": 0.6662120819091797
   },
   {
     "job": {
@@ -11522,18 +11522,18 @@
   {
     "job": {
       "id": "1576009901ba029157019ee2ff0532f2",
-      "title": "96 artificial intelligence vacatures | 8 juni 2026 ...",
-      "company": "8 juni 2026 ...",
+      "title": "135 artificial intelligence vacatures | 25 augustus 2026 | Nationale ...",
+      "company": "25 augustus 2026",
       "location": "",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence",
       "snippet": "Wil jij aan de slag als Artificial intelligence? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Artificial intelligence vacatures. Solliciteer direct!",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-09T09:36:34.892614"
+      "date_found": "2026-08-25T06:41:08.210553"
     },
     "score": 0,
-    "reason": "Generic job board listing page for artificial intelligence roles. Not a specific job opening. No location information. No actual job details provided.",
-    "embed_sim": 0.22175759077072144,
-    "ai_native_score": 0.6600955724716187
+    "reason": "This is a job listing directory page, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.2759034037590027,
+    "ai_native_score": 0.7019026875495911
   },
   {
     "job": {
@@ -12770,18 +12770,18 @@
   {
     "job": {
       "id": "52c69f9f66454ed6e01eea4d3ac2e64c",
-      "title": "AI Enablement & Execution Leader (f/m/d) - Awin Benelux - Magnet.me",
-      "company": "Magnet.me",
+      "title": "AI Enablement & Execution Leader (f/m/d)",
+      "company": "",
       "location": "Amsterdam",
       "url": "https://magnet.me/nl-NL/vacature/1048029/ai-enablement---execution-leader--f-m-d-",
-      "snippet": "AI Enablement & Execution Leader (f/m/d). Baan \u2022 Amsterdam, NL. Geplaatst 12 jun. 2026. Vacature delen. Delen: Kopi\u00ebren ... Omslagfoto van AI Specialist bij ...",
+      "snippet": "AI Enablement & Execution Leader (f/m/d) Baan \u2022 Amsterdam, NL Geplaatst 12 jun. 2026 Vacature delen Werkervaring 5 tot 10 jaar Full-time / part-time",
       "source": "ddg:magnet",
-      "date_found": "2026-06-13T08:54:25.363503"
+      "date_found": "2026-08-25T06:40:17.956604"
     },
-    "score": 7,
-    "reason": "AI Enablement & Execution Leader at Awin Benelux in Amsterdam (good location, ~40km from Utrecht). Title explicitly mentions 'AI Enablement'\u2014direct match for candidate's core goal. Execution/leadership aspect suggests hands-on implementation. Limited snippet makes full assessment difficult, but title and location align well.",
-    "embed_sim": 0.3541654348373413,
-    "ai_native_score": 0.691074550151825
+    "score": 8,
+    "reason": "AI Enablement & Execution Leader in Amsterdam. Title and concept directly match candidate's goal of championing AI adoption. Amsterdam is within 40km of Utrecht. Seniority level appropriate. Strong leadership/execution angle fits.",
+    "embed_sim": 0.3883395195007324,
+    "ai_native_score": 0.6577656865119934
   },
   {
     "job": {
@@ -14648,12 +14648,12 @@
       "url": "https://magnet.me/nl-NL/vacature/1015393/conversational-specialist-ai",
       "snippet": "April 15, 2026 - In de rol van Conversational Specialist ben jij verantwoordelijk voor de performance, doorontwikkeling en adoptie van deze virtuele assistent en draag je direct bij aan het verhogen van selfservice, het verbeteren van klanttevredenheid en het ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-18T10:17:22.785938"
+      "date_found": "2026-08-25T06:39:59.140227"
     },
     "score": 2,
-    "reason": "Conversational specialist focused on virtual assistant performance and customer-facing AI. Not about helping dev teams adopt AI tools.",
-    "embed_sim": 0.1934192180633545,
-    "ai_native_score": 0.5881576538085938
+    "reason": "Conversational Specialist AI focused on virtual assistant performance and customer service adoption. Not about enabling dev teams or internal engineering workflows. Different domain (customer-facing vs. internal DevEx).",
+    "embed_sim": 0.19341906905174255,
+    "ai_native_score": 0.5881574749946594
   },
   {
     "job": {
@@ -15832,12 +15832,12 @@
       "url": "https://werkeninai.nl/senior-machine-learning-scientist-booking-com/",
       "snippet": "September 6, 2024 - Experience collaborating cross functionally in the development of machine learning products (e.g. Developers, ML Engineers, Product Managers, etc.).",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-22T11:47:50.403981"
+      "date_found": "2026-08-25T06:40:08.075188"
     },
-    "score": 1,
-    "reason": "Senior Machine Learning Scientist role - requires building ML products and models, not enabling teams to adopt AI tools. This is explicitly what candidate does NOT want.",
+    "score": 0,
+    "reason": "Senior Machine Learning Scientist at Booking.com. Pure ML research/product role requiring ML expertise and cross-functional ML development experience. Completely misaligned with candidate's AI adoption/enablement focus.",
     "embed_sim": 0.5145467519760132,
-    "ai_native_score": 0.6111367344856262
+    "ai_native_score": 0.6111368536949158
   },
   {
     "job": {
@@ -27918,5 +27918,261 @@
     "reason": "AI Deployment Strategist at Mistral AI explicitly focused on co-creating AI adoption roadmaps and articulating value to customers. Directly aligns with candidate's AI adoption/enablement goals. Amsterdam location acceptable. Strategic advisory role is core to candidate's interests.",
     "embed_sim": 0.36587151885032654,
     "ai_native_score": 0.6992034912109375
+  },
+  {
+    "job": {
+      "id": "be95fe1df16a861b54232d381e56658e",
+      "title": "Senior Process and AI Enabler - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1074763/senior-process-and-ai-enabler",
+      "snippet": "Curiosity to explore new technologies and challenge traditional ways of working. Experience with automation, process mining, robotics, workflow tooling, advanced analytics or AI copilots is considered a strong advantage.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:39:43.794446"
+    },
+    "score": 7,
+    "reason": "Senior Process and AI Enabler role with focus on AI copilots and automation adoption. Title and enablement focus align well. Missing location info and no confirmation of DevEx/web dev context, but strong conceptual match.",
+    "embed_sim": 0.4568154811859131,
+    "ai_native_score": 0.7284225225448608
+  },
+  {
+    "job": {
+      "id": "2a900b43138d76bb15a4fbd8973139a8",
+      "title": "Senior Power Platform & AI Developer - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1069752/senior-power-platform---ai-developer",
+      "snippet": "Develop and manage AI agents and conversational experiences that enable smarter and more intuitive ways of working. Integrate Power Platform solutions with Azure services, APIs, and enterprise applications. Translate business requirements into secure, scalable, and high-performing technical solutions.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:39:43.794488"
+    },
+    "score": 3,
+    "reason": "Power Platform & AI Developer role focuses on building AI agents and conversational experiences\u2014this is product/solution building, not team enablement. Requires Power Platform/Azure specialization outside candidate's web dev background.",
+    "embed_sim": 0.4670204222202301,
+    "ai_native_score": 0.5695032477378845
+  },
+  {
+    "job": {
+      "id": "2cd060fe52b802a09708f6427795fed1",
+      "title": "Data & AI Engineer in Rotterdam bij Van Oord | Magnet.me",
+      "company": "Van Oord",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1072103/data---ai-engineer",
+      "snippet": "The position Data and AI are changing the way we work, make decisions and deliver results. As a Data Engineer, you play a key role in turning data into reliable and valuable solutions for the business. You design, build and maintain modern data products that help teams make better decisions and create impact across the organisation.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:39:43.794500"
+    },
+    "score": 1,
+    "reason": "Data & AI Engineer role. Explicitly about building data products and pipelines. Core ML/data engineering work\u2014not AI adoption enablement or developer tooling. Clear mismatch with candidate profile.",
+    "embed_sim": 0.3667463958263397,
+    "ai_native_score": 0.5067879557609558
+  },
+  {
+    "job": {
+      "id": "9a047d0da833697b7ce9c05b4e5b58c4",
+      "title": "Senior AI Engineer (f/m/d) in Amsterdam bij Awin Benelux | Magnet.me",
+      "company": "Awin Benelux",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1073808/senior-ai-engineer--f-m-d-",
+      "snippet": "Bij Awin krijg je de kans om als Senior AI Platform Engineer - Security & Governance deel uit te maken van het AI Platform Team. About the AI Platform Team The AI Platform Team enables Awin teams to build, ship, and operate AI-powered products safely, consistently, and efficiently. We focus on the shared platform and enablement layer for AI development across the company. That includes ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:40:17.956662"
+    },
+    "score": 6,
+    "reason": "Senior AI Platform Engineer at Awin focusing on enabling teams to build/ship/operate AI products safely and consistently. Platform team focus is positive, but language suggests building AI products rather than helping teams adopt existing AI tools. Some alignment but not perfect fit.",
+    "embed_sim": 0.5666416883468628,
+    "ai_native_score": 0.6932862997055054
+  },
+  {
+    "job": {
+      "id": "a1ebd0cb657e0cb30713e97e7afcf4c2",
+      "title": "AI Engineer in Amsterdam bij Lleverage | Magnet.me",
+      "company": "Lleverage",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1072542/ai-engineer",
+      "snippet": "Constantly assess how engineering decisions impact customer value and business outcomes. Job specific requirements Deep experience with generative AI models, fine-tuning, and model deployment in production environments. Proven experience building AI agents with function calling and tool use implementations.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:40:17.956674"
+    },
+    "score": 1,
+    "reason": "AI Engineer role requiring deep generative AI expertise, fine-tuning, model deployment, and building AI agents. Pure ML/AI product engineering. Requires specialized AI/ML background candidate explicitly does not want.",
+    "embed_sim": 0.4972629249095917,
+    "ai_native_score": 0.6406236290931702
+  },
+  {
+    "job": {
+      "id": "a3cb1ea1b04abbb4f358ddff6cc48232",
+      "title": "artificial intelligence developer vacatures in Utrecht (provincie) - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-developer-l-utrecht-(provincie)-vacatures.html?vjk=7671b80c73aa3121",
+      "snippet": "Artificial Intelligence Developer vacatures in Utrecht (provincie). PHP Developer, Projectmanager, Data Scientist en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-25T06:40:52.638477"
+    },
+    "score": 0,
+    "reason": "Generic Indeed search results page, not an actual job listing. No specific role, company, or job description provided. Cannot evaluate.",
+    "embed_sim": 0.3331564962863922,
+    "ai_native_score": 0.6635634303092957
+  },
+  {
+    "job": {
+      "id": "031d04f27552a4c16ddb21f8d5cc06a8",
+      "title": "Vacature: Consultant developer experience (DevEx), IVO Rechtspraak ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/consultant-developer-experience-devex-RO-2026-1398",
+      "snippet": "Consultant developer experience (DevEx) IVO Rechtspraak Utrecht - route Hbo, Wo 32 - 36 uur Schaal 10, Schaal 11 / \u20ac3.496 - \u20ac6.275 (bruto) Development en testing Solliciteren Kenmerk: 16571, Plaatsingsdatum: 20 augustus 2026 Solliciteer voor 1 oktober 2026 Op deze pagina",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-25T06:40:52.638494"
+    },
+    "score": 7,
+    "reason": "Consultant Developer Experience (DevEx) at IVO Rechtspraak in Utrecht. Excellent location match (Utrecht). DevEx focus aligns with candidate's platform/tooling enablement goals. Likely involves improving dev workflows and tool adoption. Right seniority (consultant level). Strong conceptual match.",
+    "embed_sim": 0.24890801310539246,
+    "ai_native_score": 0.6197172999382019
+  },
+  {
+    "job": {
+      "id": "ed2e1e8de8d4cfd0f6c9900deb032857",
+      "title": "200+ vacatures voor Ai Engineer en werk in Amsterdam 23 ... - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-amsterdam-vacatures.html?vjk=199094a934cb0921",
+      "snippet": "Ai Engineer vacatures in Amsterdam. Data Scientist, Ai Engineer, Senior Data Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-25T06:40:59.530349"
+    },
+    "score": 0,
+    "reason": "This is a job listing aggregation page, not an actual job posting. Cannot evaluate a real position.",
+    "embed_sim": 0.33687740564346313,
+    "ai_native_score": 0.695062518119812
+  },
+  {
+    "job": {
+      "id": "61f41567b0b773efce94c050032fee93",
+      "title": "ai automattion engineer vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automattion-engineer-vacatures.html",
+      "snippet": "Als AI Engineer Bouw & BIM werk je op het snijvlak van bouwkunde, BIM, automatisering en kunstmatige intelligentie. Je ontwikkelt slimme tools en toepassingen die dagelijkse werkzaamheden binnen ontwerp-, engineerings- en bouwprocessen effici\u00ebnter maken.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-25T06:40:59.530363"
+    },
+    "score": 0,
+    "reason": "This is a job search results page aggregator, not a specific job listing. Focus is on BIM/construction automation, not developer AI adoption.",
+    "embed_sim": 0.31851691007614136,
+    "ai_native_score": 0.6084473729133606
+  },
+  {
+    "job": {
+      "id": "e2bdacf4499dca0b8b53d6f3005d2aca",
+      "title": "300+ vacatures voor Artificial Intelligence en werk: 22 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-vacatures.html?vjk=e119cfc1c628e910",
+      "snippet": "Over deze vacature Met AI / ML werken aan de toekomst? Bij Bright Cubes combineren we de kracht van data engineering met de intelligentie van machine learning. We zoeken een technisch sterke engineers die graag werken aan zowel het bouwen van robuuste data-infrastructuren als het ontwikkelen van slimme AI-oplossingen. Als Data & AI Engineer ben je verantwoordelijk voor de hele keten: van ruwe ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-25T06:40:59.530376"
+    },
+    "score": 0,
+    "reason": "This is a job listing aggregation page, not an actual position. Snippet indicates data engineering/ML focus (Bright Cubes), not AI tool adoption for dev teams.",
+    "embed_sim": 0.26461654901504517,
+    "ai_native_score": 0.5852620601654053
+  },
+  {
+    "job": {
+      "id": "b54284658d9b437ddf374165fd4cb497",
+      "title": "ai automation vacatures in Utrecht (provincie)",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-automation-l-utrecht-(provincie)-vacatures.html?vjk=3f13afc42e173a81",
+      "snippet": "Ai Automation vacatures in Utrecht (provincie). Automation Engineer, Data Engineer, Developer en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-25T06:41:08.210560"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregation page in Utrecht region, not a specific position. Cannot evaluate without actual job details.",
+    "embed_sim": 0.40147700905799866,
+    "ai_native_score": 0.681603729724884
+  },
+  {
+    "job": {
+      "id": "827f8dc91467add4bbc0ddbe36c41a04",
+      "title": "Machine Learning Engineer - Rijksoverheid - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/machine-learning-engineer-rijksoverheid/",
+      "snippet": "Het CC-AI is een virtueel team en bestaat uit collega's vanuit verschillende teams en/of afdelingen binnen DICTU. Ben jij een ambitieuze machine learning engineer en wil je AI inzetten voor een verbetere dienstverlening van de Nederlandse overheid?",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-08-25T06:41:24.940311"
+    },
+    "score": 2,
+    "reason": "Machine Learning Engineer role at Rijksoverheid (Dutch government). Requires ML expertise to build/train models, not focused on helping dev teams adopt AI tools. Wrong profile.",
+    "embed_sim": 0.399855375289917,
+    "ai_native_score": 0.7656463384628296
+  },
+  {
+    "job": {
+      "id": "5125f0ddb9bdc50c558746f71f19fcdf",
+      "title": "AI Engineer in Amsterdam bij Future Facts B.V. | Magnet.me",
+      "company": "Future Facts B.V.",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1073410/ai-engineer",
+      "snippet": "Bij Future Facts werk je als AI Engineer aan het implementeren van AI- en ML-modellen in productieomgevingen. Je slaat de brug tussen Data Science en een robuuste productieomgeving en bouwt samen met data scientists, cloud engineers en developers en\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:41:38.492303"
+    },
+    "score": 3,
+    "reason": "AI Engineer at Future Facts focused on implementing ML models in production. Requires bridging Data Science and production \u2014 classic MLOps/ML engineer role, not AI adoption/enablement for dev teams.",
+    "embed_sim": 0.35161957144737244,
+    "ai_native_score": 0.5028921961784363
+  },
+  {
+    "job": {
+      "id": "723f0271b12086476f23df9eabfb5263",
+      "title": "AI Engineer in Zwolle bij Fellowmind | Magnet.me | #1064873 (nl)",
+      "company": "Fellowmind",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1064873/ai-engineer",
+      "snippet": "Bij Fellowmind ontwerp, bouw en verbeter je als AI Engineer AI-oplossingen voor diverse sectoren. Je werkt samen met experts, verkent nieuwe technologie\u00ebn en vertaalt klantbehoeften naar innovatieve oplossingen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-25T06:41:38.492317"
+    },
+    "score": 2,
+    "reason": "AI Engineer at Fellowmind designing/building AI solutions for clients. This is building AI systems, not enabling dev teams to adopt AI tools. Wrong focus and likely requires ML expertise.",
+    "embed_sim": 0.4183831214904785,
+    "ai_native_score": 0.7547712922096252
+  },
+  {
+    "job": {
+      "id": "853e360dd6192e569151235aee56ffb6",
+      "title": "1.000+ vacatures voor Ai Transformation en werk: 24 augustus ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-transformation-vacatures.html",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword \u2014 it's a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-25T06:41:45.056519"
+    },
+    "score": 0,
+    "reason": "This is a job search aggregation page for 'AI Transformation' roles, not a specific position. Cannot evaluate without actual job details.",
+    "embed_sim": 0.3346729874610901,
+    "ai_native_score": 0.6151526570320129
+  },
+  {
+    "job": {
+      "id": "e226cb02a70b04054b7c11970c8060b6",
+      "title": "ai specialist vacatures in Utrecht (provincie)",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-specialist-l-utrecht-(provincie)-vacatures.html?vjk=5dda61036b383137",
+      "snippet": "Ai Specialist vacatures in Utrecht (provincie). Data Scientist, Specialist, Traineeship Business Banking en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-25T06:41:53.948578"
+    },
+    "score": 0,
+    "reason": "This is a job search results aggregation page for Utrecht region, not a specific position. Cannot evaluate without actual job details.",
+    "embed_sim": 0.422632098197937,
+    "ai_native_score": 0.6408489346504211
   }
 ]
