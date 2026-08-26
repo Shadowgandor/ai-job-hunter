@@ -12930,18 +12930,18 @@
   {
     "job": {
       "id": "40d38976413e3968ec631a233c81aae8",
-      "title": "1.000+ Ai Software Engineer vacatures in Nederland - LinkedIn",
+      "title": "Meer dan 4.000 vacatures voor Ai Software Engineer in Nederland",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/ai-software-engineer-jobs",
-      "snippet": "Meer dan 1.000 topvacatures voor Ai Software Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor ...",
-      "source": "ddg:web-nl",
-      "date_found": "2026-06-13T08:54:45.842436"
+      "snippet": "Meer dan 4.000 topvacatures voor Ai Software Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Ai Software Engineer toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:41:52.414722"
     },
     "score": 0,
-    "reason": "This is a search results page for 1000+ AI Software Engineer roles. Not a specific job posting. Generic listing aggregator; cannot evaluate without individual role details.",
-    "embed_sim": 0.3425920009613037,
-    "ai_native_score": 0.7366512417793274
+    "reason": "This is a search results aggregator page showing 4,000+ job listings, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.3458631634712219,
+    "ai_native_score": 0.7648946642875671
   },
   {
     "job": {
@@ -14450,18 +14450,18 @@
   {
     "job": {
       "id": "4061d740fc060bcbcdb7da768713ffa5",
-      "title": "38 vacatures voor artificial intelligence developer in Nederland | Glassdoor",
-      "company": "Glassdoor",
-      "location": "Amsterdam",
+      "title": "44 vacatures voor artificial intelligence developer in ...",
+      "company": "",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-developer-vacatures-SRCH_IL.0,9_IN178_KO10,43.htm",
-      "snippet": "Vacatures voor business analyst (m/v/x) in AmsterdamVacatures in AmsterdamVacatures bij CGI in Amsterdam ... Waar organisaties nog zoeken naar manieren om AI in te zetten binnen hun testproces, laat jij zien hoe het werkt.\u2026 Vaardigheden: Informatica, Engels, Analytisch vermogen, Scrum, Agile ... Een relevante afgeronde HBO- en/ of WO - opleiding (bijvoorbeeld bedrijfskunde of een technische opleiding).",
+      "snippet": "Zoek vacatures voor Artificial intelligence developer in Nederland met bedrijfsreviews en salarissen. 44 vacatures voor Artificial intelligence developer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-18T10:16:40.117438"
+      "date_found": "2026-08-26T06:42:09.398549"
     },
-    "score": 1,
-    "reason": "Glassdoor search results aggregator page, not a specific job posting. Title mentions 'artificial intelligence developer' but no actual role details provided. Cannot evaluate specific requirements.",
-    "embed_sim": 0.3474971354007721,
-    "ai_native_score": 0.722144603729248
+    "score": 0,
+    "reason": "This is a Glassdoor search results page listing 44 jobs, not an actual job posting. Cannot evaluate a job board index page.",
+    "embed_sim": 0.25021451711654663,
+    "ai_native_score": 0.6385900974273682
   },
   {
     "job": {
@@ -14546,18 +14546,18 @@
   {
     "job": {
       "id": "7600b724b19ffb17da3642149c98d5be",
-      "title": "400 vacatures voor ai software developer in Nederland | Glassdoor",
-      "company": "Glassdoor",
+      "title": "497 vacature (s) voor Ai software developer in Nederland",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-software-developer-vacatures-SRCH_IL.0,9_IN178_KO10,31.htm",
-      "snippet": "Zoek vacatures voor Ai software developer in Nederland met bedrijfsreviews en salarissen. 400 vacatures voor Ai software developer in Nederland.",
+      "snippet": "Zoek vacatures voor Ai software developer in Nederland met bedrijfsreviews en salarissen. 497 vacatures voor Ai software developer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-18T10:16:55.253007"
+      "date_found": "2026-08-26T06:42:09.398535"
     },
-    "score": 1,
-    "reason": "Glassdoor search results aggregator listing 400 'AI software developer' roles. Generic page without specific role details. Likely contains mix of ML engineering and software development roles.",
-    "embed_sim": 0.3228295147418976,
-    "ai_native_score": 0.6825103759765625
+    "score": 0,
+    "reason": "This is a Glassdoor search results page listing 497 jobs, not an actual job posting. Cannot evaluate a job board index page.",
+    "embed_sim": 0.26053792238235474,
+    "ai_native_score": 0.6643933057785034
   },
   {
     "job": {
@@ -15154,18 +15154,18 @@
   {
     "job": {
       "id": "e6e1d6424c3c350dd55a482f86591b20",
-      "title": "576 vacatures voor Tooling engineering in Nederland",
+      "title": "1.061 vacature (s) voor Tooling engineering in Nederland",
       "company": "",
-      "location": "Utrecht",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/tooling-engineering-vacatures-SRCH_KO0,19.htm",
-      "snippet": "Er zijn openstaande vacatures voor een tooling engineering in verschillende steden in de buurt van Nederland, waaronder Amsterdam, Eindhoven, Utrecht, Hengelo, Overijssel, Rotterdam, Delft, Veldhoven, Amersfoort, Enschede, Haarlem",
+      "snippet": "Zoek vacatures voor Tooling engineering. Vind de juiste vacature voor Tooling engineering met bedrijfsreviews en salarissen. 1.061 vacatures voor Tooling engineering.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-20T08:50:45.831881"
+      "date_found": "2026-08-26T06:41:03.529243"
     },
-    "score": 3,
-    "reason": "Generic search results for 'tooling engineering' vacancies across Netherlands. While tooling/DevEx is relevant to candidate's interests, this is just a search results page with no specific job details. Cannot properly evaluate. Location spread is wide (includes far areas).",
-    "embed_sim": 0.16766168177127838,
-    "ai_native_score": 0.5968829989433289
+    "score": 0,
+    "reason": "This is a search results page/listing aggregator, not an actual job posting. Cannot evaluate a real opportunity.",
+    "embed_sim": 0.1986156404018402,
+    "ai_native_score": 0.6427807211875916
   },
   {
     "job": {
@@ -28174,5 +28174,229 @@
     "reason": "This is a job search results aggregation page for Utrecht region, not a specific position. Cannot evaluate without actual job details.",
     "embed_sim": 0.422632098197937,
     "ai_native_score": 0.6408489346504211
+  },
+  {
+    "job": {
+      "id": "2bb26599fbec627fb765900fcb24347b",
+      "title": "300+ vacatures voor Artificial Intelligence en werk: 25 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-vacatures.html?vjk=ceca58d8fada4a5b",
+      "snippet": "Bij NTT Data Business Solutions combineer je techniek en business: je bouwt slimme AI-oplossingen \u00e9n zorgt dat collega\u2019s er direct beter van gaan werken. Van tools en workflows tot training en strategie - en later help je ook klanten om AI succesvol toe te passen.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-26T06:41:08.133832"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page, not a specific job posting. Cannot evaluate without actual job details.",
+    "embed_sim": 0.2052156925201416,
+    "ai_native_score": 0.6338605284690857
+  },
+  {
+    "job": {
+      "id": "18597fabba5922c05e354ec6504af98b",
+      "title": "Senior Software Developer (AI) in Utrecht bij Conclusion | Magnet.me | #1065781 (nl)",
+      "company": "Conclusion",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1065781/senior-software-developer--ai-",
+      "snippet": "3 weeks ago - Bij Conclusion Enablement zoeken we een Senior Software Developer (AI) die moderne cloud-native oplossingen bouwt \u00e9n AI slim inzet om sneller, beter en meer schaalbare software te ontwikkelen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-26T06:41:12.855184"
+    },
+    "score": 6,
+    "reason": "Senior Software Developer (AI) at Conclusion in Utrecht sounds promising \u2014 right location, senior level. However, 'cloud-native solutions' + 'AI inzet' is vague. Snippet suggests building solutions rather than enabling adoption. Needs more clarity but partial match on location and seniority.",
+    "embed_sim": 0.41550952196121216,
+    "ai_native_score": 0.6874791383743286
+  },
+  {
+    "job": {
+      "id": "439ed49b5d71fb0319a7fe3f546b3257",
+      "title": "AI Engineer in Amsterdam at Flow Traders | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1064049/ai-engineer",
+      "snippet": "Jul 30, 2026 \u00b7 Flow Traders are looking for an AI Engineer who wants to work on one of the most exciting engineering challenges at the firm right now. As an AI Engineer on the team, you will design, build, and scale enterprise-grade AI agents and automation workflows across the organization.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-26T06:41:21.449769"
+    },
+    "score": 2,
+    "reason": "AI Engineer at Flow Traders in Amsterdam focused on 'design, build, and scale enterprise-grade AI agents and automation workflows' \u2014 this is building AI systems, not enabling teams to adopt AI tooling. Wrong focus entirely.",
+    "embed_sim": 0.4478442668914795,
+    "ai_native_score": 0.6311863660812378
+  },
+  {
+    "job": {
+      "id": "526e34e3b0e20438335b81caf7d86a94",
+      "title": "Developer Experience Engineer (AI) bij OverheidZZP - Utrecht ...",
+      "company": "Overheidzzp - Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/developer-experience-engineer-ai-at-overheidzzp-4450244922",
+      "snippet": "Aug 6, 2026 \u00b7 Solliciteer naar Developer Experience Engineer (AI) bij OverheidZZP in Utrecht. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:41:36.319781"
+    },
+    "score": 8,
+    "reason": "Developer Experience Engineer (AI) in Utrecht is a strong match. DevEx focus + AI + Utrecht location + senior level. This is exactly the type of role the candidate seeks \u2014 helping teams adopt and use AI tools better.",
+    "embed_sim": 0.41546422243118286,
+    "ai_native_score": 0.7287207245826721
+  },
+  {
+    "job": {
+      "id": "07dc7638c5e770ed0018dbf8663b3a9f",
+      "title": "RWS zoekt een Senior AI Engineer in Den Haag | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-rws-4456944845",
+      "snippet": "1 day ago \u00b7 The Senior AI Engineer is an individual contributor who defines technical direction while driving the quality, scalability, and reliability of next-generation AI-powered systems. This role operates at the intersection of research, software engineering, and advanced testing, transforming cutting-edge ideas into robust, production-ready platforms.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:41:52.414775"
+    },
+    "score": 2,
+    "reason": "Senior AI Engineer at RWS in Den Haag focused on 'technical direction', 'quality, scalability, and reliability of next-generation AI-powered systems' at the 'intersection of research, software engineering, and advanced testing' \u2014 this is building/architecting AI systems, not enabling adoption. Wrong focus.",
+    "embed_sim": 0.489578515291214,
+    "ai_native_score": 0.6625251173973083
+  },
+  {
+    "job": {
+      "id": "0cc5f688291893f9b3f15b661e8248d2",
+      "title": "100+ vacatures voor Digital Adoption Specialist en werk: 25 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-digital-adoption-specialist-vacatures.html?vjk=7b6de96b4fbadf57",
+      "snippet": "Digital Adoption Specialist vacatures. Reimbursement Manager, Head of Digital, Ai Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-26T06:41:56.225995"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.24127131700515747,
+    "ai_native_score": 0.7043552398681641
+  },
+  {
+    "job": {
+      "id": "ed895fe06daea3815ace6435b2bddae5",
+      "title": "200+ vacatures voor Adoptie Specialist en werk: 19 augustus ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html?vjk=4e5af58e58c7c6ac",
+      "snippet": "Als Microsoft 365 specialist speel je een sleutelrol in het verder ontwikkelen van onze digitale werkplek. Jij helpt collega\u2019s om slimmer samen te werken, informatie veilig te delen en effici\u00ebnt gebruik te maken van Microsoft 365.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-26T06:41:56.226025"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page. The snippet mentions Microsoft 365 specialist roles, not AI adoption enablement. Cannot evaluate as real opportunity.",
+    "embed_sim": 0.16329924762248993,
+    "ai_native_score": 0.6758134365081787
+  },
+  {
+    "job": {
+      "id": "40d1107779e507adbf05520a8b3810f0",
+      "title": "25+ vacatures voor Adoptie Specialist en werk in ... - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-adoptie-specialist-l-amsterdam-vacatures.html",
+      "snippet": "Adoptie Specialist vacatures in Amsterdam. Specialist, Adoptie Consultant, Medewerker Klantenservice en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-26T06:41:56.226037"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregator page, not a specific job posting. Cannot evaluate without actual job details.",
+    "embed_sim": 0.1492905616760254,
+    "ai_native_score": 0.6511667370796204
+  },
+  {
+    "job": {
+      "id": "45b738e32092a573cb0ddbbaab266e6a",
+      "title": "AI Talent Search zoekt een AI Adoptiespecialist in Randstad ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoptiespecialist-at-ai-talent-search-4441219526",
+      "snippet": "Jul 15, 2026 \u00b7 Voor diverse opdrachtgevers zijn wij op zoek naar enthousiaste AI Adoptiespecialisten die organisaties begeleiden bij de invoering en acceptatie van AI-oplossingen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:14.157930"
+    },
+    "score": 7,
+    "reason": "AI Adoptiespecialist role matches core profile: helping organizations adopt AI solutions, enablement focus. However, location unclear (Randstad region could be far from Utrecht). Candidate name/company not specified in snippet. Role concept is strong match but needs location confirmation.",
+    "embed_sim": 0.21641045808792114,
+    "ai_native_score": 0.7317367196083069
+  },
+  {
+    "job": {
+      "id": "a399b1ead476f796f4e12cfa0c491ee7",
+      "title": "Lightspeed Commerce zoekt een Product Adoption Strategist ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/product-adoption-strategist-digital-scalable-at-lightspeed-commerce-4450815071?position=50&pageNum=0",
+      "snippet": "You will own the adoption strategy, hypotheses, experiments, and implementation for scalable, digital-first campaigns that increase feature penetration across the whole customer journey and drive deeper, stickier product usage for a specific feature or market.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:14.157980"
+    },
+    "score": 2,
+    "reason": "Product Adoption Strategist at Lightspeed Commerce is about feature adoption and product usage metrics, not AI tool adoption or developer enablement. Wrong domain focus. Location unknown.",
+    "embed_sim": 0.12152087688446045,
+    "ai_native_score": 0.4060809016227722
+  },
+  {
+    "job": {
+      "id": "457545aae5b5cfc8d3f836b0d6c8a43d",
+      "title": "AI Integrator bij Jobgether - Nederland | LinkedIn Vacatures",
+      "company": "Jobgether - Nederland",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-integrator-at-jobgether-4454784213",
+      "snippet": "You will work with AI agents, copilots, automations, retrieval-augmented systems, and business applications. Your work will directly influence adoption, efficiency, user experience, and measurable business outcomes. You\u2019ll collaborate with multidisciplinary AI teams while helping clients navigate change and new ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:18.707427"
+    },
+    "score": 6,
+    "reason": "AI Integrator at Jobgether involves working with AI agents, copilots, and automations \u2014 relevant to candidate's interests. Focuses on adoption and user experience. However, role appears consulting/client-facing rather than embedded internal champion. Location unclear. Snippet suggests strong conceptual match but missing key details.",
+    "embed_sim": 0.48753538727760315,
+    "ai_native_score": 0.6674596667289734
+  },
+  {
+    "job": {
+      "id": "4fb5b79b518270ceb2fef1fb59c0f5c3",
+      "title": "Tech Lead - Tech4Dev AI Hub bij Rabobank - Utrecht - LinkedIn",
+      "company": "Rabobank - Utrecht - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/tech-lead-tech4dev-ai-hub-at-rabobank-4433301094",
+      "snippet": "As a Tech Lead Tech4Dev AI Hub, you play a key role in shaping and delivering these capabilities, while building strong teams and driving adoption of AI-powered ways of working at scale.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:18.707449"
+    },
+    "score": 8,
+    "reason": "Tech Lead at Rabobank (Utrecht \u2014 ideal location!) focused on Tech4Dev AI Hub with explicit mention of 'driving adoption of AI-powered ways of working at scale.' Senior level, building teams, directly aligns with candidate's goals. Strong match. Only concern: 'Tech Lead' may imply some technical infrastructure responsibilities beyond pure adoption championing.",
+    "embed_sim": 0.4773860275745392,
+    "ai_native_score": 0.7063663601875305
+  },
+  {
+    "job": {
+      "id": "f4517265354bf94a7c6ac8edba8b0e13",
+      "title": "EY-Parthenon zoekt een EY-Parthenon Senior Consultant AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ey-parthenon-senior-consultant-ai-solutions-at-ey-parthenon-4428246845?position=35&pageNum=0",
+      "snippet": "You will take ownership of core workstreams, work directly with senior client stakeholders and help translate complex AI and technology topics into clear strategic, commercial, operational and...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:18.707474"
+    },
+    "score": 4,
+    "reason": "EY-Parthenon Senior Consultant AI Solutions is consulting-focused and involves translating AI/tech topics to stakeholders. Consulting delivery model could work, but EY-Parthenon typically focuses on complex enterprise strategy and AI strategy advisory rather than hands-on tooling adoption. Likely requires deeper technical/business strategy background. Location unknown.",
+    "embed_sim": 0.31158000230789185,
+    "ai_native_score": 0.444146066904068
+  },
+  {
+    "job": {
+      "id": "958f91c05675e5568872685464ccf8fd",
+      "title": "Strategy Consultant - Generative AI bij Alvarium Talent ...",
+      "company": "Alvarium Talent ...",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/strategy-consultant-generative-ai-at-alvarium-talent-4456194574?position=2&pageNum=0",
+      "snippet": "Elliott Sadgrove Manager - Strategy and Transformation Strategy Consultant \u2013 Generative AI | Amsterdam Fast-growing AI consultancy helping organisations turn Generative AI into real business value I am currently working with a fast-growing consultancy operating at the intersection of AI, Strategy and Transformation.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-26T06:42:18.707485"
+    },
+    "score": 7,
+    "reason": "Strategy Consultant - Generative AI at Alvarium Talent (Amsterdam, within 40km of Utrecht). Fast-growing AI consultancy helping organizations turn GenAI into business value aligns well with adoption focus. Senior consultant level appropriate. Good geographic fit. Concern: 'Strategy Consultant' role may be more business advisory than hands-on technical enablement, but consultancy framing suggests client-side embedded work possible.",
+    "embed_sim": 0.3915027976036072,
+    "ai_native_score": 0.6770404577255249
   }
 ]
