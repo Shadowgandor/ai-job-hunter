@@ -10082,18 +10082,18 @@
   {
     "job": {
       "id": "5c7edcfe08336de2ed45beae146b114b",
-      "title": "71 vacatures - 3 juni | aicarriere.nl",
+      "title": "57 vacatures - 28 augustus | aicarriere.nl",
       "company": "aicarriere.nl",
       "location": "",
       "url": "https://www.aicarriere.nl/vacatures",
-      "snippet": "Ontdek 74 actuele vacatures. Vind je nieuwe baan op aicarriere.nl.",
+      "snippet": "Vacature\u2022 24 aug 2026. Klaverblad. AI Adoptie Consultant. Als AI Adoptie Consultant bij Klaverblad ontwikkel je de AI-adoptieaanpak, begeleid je teams bij ...",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-06T08:30:46.051653"
+      "date_found": "2026-08-29T12:13:23.082359"
     },
-    "score": 0,
-    "reason": "Generic search results page from aicarriere.nl listing 74 AI vacancies. Not an actual job posting\u2014just a directory/search results page with no specific role details to evaluate.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 7,
+    "reason": "AI Adoptie Consultant at Klaverblad. This is a direct match conceptually \u2014 AI adoption consulting role helping teams adopt AI practices. However, listing appears to be from an aggregator page with limited detail and unclear location. Potential strong match if based near Utrecht, but insufficient information to score higher.",
+    "embed_sim": 0.18113763630390167,
+    "ai_native_score": 0.6182852983474731
   },
   {
     "job": {
@@ -11812,16 +11812,16 @@
       "id": "26bcd96fb3aed8c039451ac6829f6aa4",
       "title": "100+ vacatures voor Ai Robotics en werk - Indeed",
       "company": "",
-      "location": "",
+      "location": "Eindhoven",
       "url": "https://nl.indeed.com/q-ai-robotics-vacatures.html",
-      "snippet": "Ai robotics vacatures \u00b7 Associate - Tech & AI \u00b7 AI Machine Learning Engineer, U.S. based \u00b7 Web Development Intern: web development and design for projects of ...",
+      "snippet": "Ai robotics vacatures ; Data, AI & Algorithm Internship \u2013 Philips Avent Experience Innovation. Philips. Eindhoven ; Internship/Thesis \u2013 Signal Processing and AI ...",
       "source": "ddg:indeed",
-      "date_found": "2026-06-10T09:53:40.473792"
+      "date_found": "2026-08-29T12:13:47.226438"
     },
     "score": 0,
-    "reason": "Not a real job listing. This is a search results page index/category page, not an actual job posting. Cannot evaluate as a specific role.",
-    "embed_sim": 0.23488640785217285,
-    "ai_native_score": 0.6114670038223267
+    "reason": "AI Robotics vacancies aggregator page in Eindhoven. This is a search results page, not a specific job listing. Location is too far (Eindhoven, not Utrecht region). Content suggests robotics and ML roles, not dev team AI enablement.",
+    "embed_sim": 0.24298907816410065,
+    "ai_native_score": 0.6489957571029663
   },
   {
     "job": {
@@ -16866,18 +16866,18 @@
   {
     "job": {
       "id": "2525649ce5faf2e5ca0a0f7e9833df0f",
-      "title": "25+ vacatures voor Junior Ai Developer en werk: 25 juni 2026| Indeed",
+      "title": "25+ vacatures voor Junior Ai Developer en werk - Indeed",
       "company": "",
-      "location": "Utrecht",
+      "location": "",
       "url": "https://nl.indeed.com/q-junior-ai-developer-vacatures.html",
-      "snippet": "Zoeken op salaris: Junior Web Developer salarissen in Utrecht \u00b7 Werkt dagelijks samen met developers, designers, projectmanagers en consultants; Heb je minimaal 1 jaar werkervaring opgedaan als developer binnen een bureau,\u2026 \u00b7 Alle vacatures voor Social Brothers - Utrecht vacatures - vacatures ...",
-      "source": "ddg:web-nl",
-      "date_found": "2026-06-26T08:58:36.616328"
+      "snippet": "Junior Ai Developer vacatures. Junior Consultant, Junior Developer, Junior Software Engineer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-29T12:14:05.401636"
     },
     "score": 0,
-    "reason": "Junior AI Developer positions. Candidate is senior-level (13 years experience). Junior/trainee roles explicitly excluded from requirements.",
-    "embed_sim": 0.2726038992404938,
-    "ai_native_score": 0.6311805248260498
+    "reason": "This is a search results page aggregator, not a job listing. Cannot be evaluated as a specific opportunity.",
+    "embed_sim": 0.39924418926239014,
+    "ai_native_score": 0.7356615662574768
   },
   {
     "job": {
@@ -29326,5 +29326,181 @@
     "reason": "Location is Den Bosch, which is outside the 40km radius from Utrecht. Also appears to be a search results aggregation page without specific job details or company information.",
     "embed_sim": 0.3481951951980591,
     "ai_native_score": 0.6699644327163696
+  },
+  {
+    "job": {
+      "id": "942cdfef77a8f30e8b2a4d39d13f1ee5",
+      "title": "Service & Programme Manager Commercial AI Projects (1,0 fte) AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/service-programme-manager-commercial-ai-projects-1-0-fte-ai-supercomputing-initiative-brabant-at-eindhoven-university-of-technology-4442188329",
+      "snippet": "Do you enjoy working at the intersection of advanced AI technology, complex stakeholder environments, and real-world impact? As Service & Programme Manager for Commercial AI Projects, you will play a central role in guiding companies and public organizations in Brabant from first contact to successful AI project execution on state-of-the-art ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-29T12:12:58.267076"
+    },
+    "score": 2,
+    "reason": "Service & Programme Manager for commercial AI projects in Brabant (Eindhoven). Location is too far from Utrecht. Role appears focused on guiding organizations through AI implementation projects rather than helping dev teams adopt AI tools. Wrong focus and wrong location.",
+    "embed_sim": 0.4275195002555847,
+    "ai_native_score": 0.6928102970123291
+  },
+  {
+    "job": {
+      "id": "ee8c28bd132cb10cc3ad6e1add8c8985",
+      "title": "Working Student AI (Part-time) bij MegaGroup - Veghel - LinkedIn",
+      "company": "Megagroup - Veghel - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/working-student-ai-part-time-at-megagroup-4436086276",
+      "snippet": "Do you want to learn how AI can truly improve the way people work \u2014 while contributing to meaningful business challenges? Apply now and start learning how practical, responsible and business-focused AI can support the future of MegaGroup as our new Working Student AI!",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-29T12:12:58.267095"
+    },
+    "score": 0,
+    "reason": "Part-time working student position. Candidate is senior with 13 years experience; this is explicitly junior/traineeship level. Does not match seniority requirement.",
+    "embed_sim": 0.4248899817466736,
+    "ai_native_score": 0.6158840656280518
+  },
+  {
+    "job": {
+      "id": "4c05d49d695e4498ffae8d1bc602e4b2",
+      "title": "Senior ML Engineer - Agentic AI bij kaiko.ai - Amsterdam - LinkedIn",
+      "company": "Kaiko.Ai - Amsterdam - Linkedin",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ml-engineer-\u2013-agentic-ai-at-kaiko-ai-4397822907",
+      "snippet": "Solliciteer naar Senior ML Engineer - Agentic AI bij kaiko.ai in Amsterdam. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-29T12:12:58.267106"
+    },
+    "score": 1,
+    "reason": "Senior ML Engineer - Agentic AI. This is a pure ML engineering role requiring deep expertise in building AI models and agentic systems. Explicitly not what the candidate wants (they do NOT want to build ML models). Wrong role type entirely.",
+    "embed_sim": 0.48017215728759766,
+    "ai_native_score": 0.6971393823623657
+  },
+  {
+    "job": {
+      "id": "248a9cba59178a30afcca34954df19f4",
+      "title": "Tibber zoekt een Energy Market Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/energy-market-specialist-at-tibber-4421943452",
+      "snippet": "Tibber becomes more and more AI-enabled, and we embrace new tools and ways of working. You don't need to be an expert, but we believe you are motivated by that and excited to grow with it too. \ud83d\udc86\ud83c\udffb\u2640\ufe0f\ud83d\udc86\ud83c\udffd\u2642\ufe0fThe Tibber Mindset Tibber exists to drive energy independence - away from fossil dependency.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-29T12:12:58.267124"
+    },
+    "score": 3,
+    "reason": "Energy Market Specialist at Tibber. Role is in energy/market domain, not about championing AI adoption in dev teams. Mentions becoming 'AI-enabled' but appears to be an energy market role, not an AI enablement/tooling role. Location unclear but doesn't focus on dev team AI practices.",
+    "embed_sim": 0.18645203113555908,
+    "ai_native_score": 0.5074383616447449
+  },
+  {
+    "job": {
+      "id": "8605d4c0291effa5ae74a8590e501299",
+      "title": "Vacature: Senior Platform Engineer, Douane",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/senior-platform-engineer-DOU-2026-9354",
+      "snippet": "Senior Platform Engineer in Utrecht voor 32-36 uur bij Douane.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-29T12:13:26.644571"
+    },
+    "score": 2,
+    "reason": "Senior Platform Engineer at Douane (Utrecht). While Utrecht location is perfect, this is a government infrastructure role with no indication of AI tooling/adoption focus. Platform engineering alone without AI enablement context doesn't match the candidate's AI champion role.",
+    "embed_sim": 0.2821072041988373,
+    "ai_native_score": 0.5757327079772949
+  },
+  {
+    "job": {
+      "id": "5eabab5f4dd8b43b0a63c5bfd4f2d671",
+      "title": "Vacature voor een functie als Maximo AI EAM Specialist bij Max ...",
+      "company": "Max ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/maximo-ai-eam-specialist-maxaccelerate-JV_KO0,24_KE25,38.htm",
+      "snippet": "AI Adoption & Use Case Delivery. Transform customer business processes by embedding AI into: Maintenance planning; Work order lifecycle; Failure analysis ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-29T12:13:35.095453"
+    },
+    "score": 4,
+    "reason": "Maximo AI EAM Specialist. Role focuses on 'AI Adoption & Use Case Delivery' which has adoption language, but it's embedded in enterprise asset management (Maximo) systems, not developer tooling/SDLC practices. Different domain (maintenance/operations) than dev team enablement. Location unknown.",
+    "embed_sim": 0.29293811321258545,
+    "ai_native_score": 0.5870569944381714
+  },
+  {
+    "job": {
+      "id": "8d7635f2f33dd24e7ce28a1cbef79d07",
+      "title": "Vacature voor een functie als AI Engineer bij Capgemini in Utrecht | Glassdoor",
+      "company": "Capgemini In Utrecht",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-capgemini-JV_IC3045310_KO0,11_KE12,21.htm?jl=1010070548016",
+      "snippet": "Integreer AI-modellen in applicaties en processen en borg uitlegbaarheid en betrouwbaarheid \u00b7 Adviseer stakeholders en neem hen mee in keuzes over architectuur, tooling en beheer",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-29T12:13:39.317006"
+    },
+    "score": 3,
+    "reason": "AI Engineer at Capgemini (Utrecht). Good location, but job description emphasizes 'integrate AI-models in applications' and 'ensure explainability' \u2014 this sounds like building/deploying ML models, not enabling dev teams to adopt AI tools. Architecture/tooling advice could fit, but primary focus appears to be ML integration, not AI adoption coaching.",
+    "embed_sim": 0.39647626876831055,
+    "ai_native_score": 0.7020844221115112
+  },
+  {
+    "job": {
+      "id": "846e77f6e8649b07a74a8d3b7ca46980",
+      "title": "700+ vacatures voor Edge Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-edge-ai-vacatures.html",
+      "snippet": "8 jul 2026 \u00b7 Edge Ai vacatures. Ai Developer, Operations Manager, Forward Deployed Engineer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-29T12:13:47.226448"
+    },
+    "score": 0,
+    "reason": "Edge AI vacancies aggregator page. This is a generic Indeed search results page with no specific job or location information. Cannot evaluate specific roles. Appears to be a search aggregator, not a real job listing.",
+    "embed_sim": 0.2582596242427826,
+    "ai_native_score": 0.6128228306770325
+  },
+  {
+    "job": {
+      "id": "35c5395cad3bdde3ae883aeb6d11e508",
+      "title": "Young professional Track AI Engineer - Sogeti - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1051597/young-professional-track-ai-engineer",
+      "snippet": "23 jun 2026 \u00b7 Heb je al wat ervaring met Artificial Intelligence, Machine Learning of Generative AI en wil je je verder ontwikkelen tot een echte AI-expert?",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-29T12:14:00.958315"
+    },
+    "score": 1,
+    "reason": "Young professional track = trainee/junior level, explicitly not a match for candidate's seniority. Title suggests ML/AI expert development path, not AI adoption/enablement role.",
+    "embed_sim": 0.303611159324646,
+    "ai_native_score": 0.6670042276382446
+  },
+  {
+    "job": {
+      "id": "add07478ab7c512ea8a0cc4908604704",
+      "title": "300+ vacatures voor Applied Ai en werk - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-applied-ai-vacatures.html",
+      "snippet": "Applied AI Specialist. Riverflex. Amsterdam \u00b7 AI Intern. BlueHeart Energy B.V. \u00b7 Vacature - Junior Onderwijsontwerper Online en Blended Learning met focus AI.",
+      "source": "ddg:indeed",
+      "date_found": "2026-08-29T12:14:05.401646"
+    },
+    "score": 0,
+    "reason": "This is a search results page aggregator, not a specific job listing. Cannot be evaluated as a single opportunity.",
+    "embed_sim": 0.3712877035140991,
+    "ai_native_score": 0.7154512405395508
+  },
+  {
+    "job": {
+      "id": "55ec97fe42bebd7b1399ddbff56752dd",
+      "title": "Vacature voor een functie als Internship AI & Machine Learning bij everox in Rotterdam | Glassdoor",
+      "company": "Everox In Rotterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/internship-ai-machine-learning-everox-JV_IC3049255_KO0,30_KE31,37.htm?jl=1010208517222",
+      "snippet": "You\u2019ll work with real process data, develop and optimise AI models, validate their performance and help translate them into practical industrial applications. Along the way, you\u2019ll support experiments, assess data quality and collaborate ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-29T12:14:09.654419"
+    },
+    "score": 0,
+    "reason": "Internship role (explicitly junior level). Focus is on developing/optimizing ML models and data validation \u2014 pure ML engineering, not AI adoption/enablement. Candidate explicitly excludes internships and ML model building roles.",
+    "embed_sim": 0.2594507932662964,
+    "ai_native_score": 0.500426173210144
   }
 ]
