@@ -29790,5 +29790,197 @@
     "reason": "Internship/stagiair position (afstudeerstage). Candidate explicitly does not want junior/intern/traineeship positions. Also Integration Engineer role, not AI enablement.",
     "embed_sim": 0.19886842370033264,
     "ai_native_score": 0.5910567045211792
+  },
+  {
+    "job": {
+      "id": "5ca54b3bf9f7b920c125943543b42dc8",
+      "title": "Team Lead \u2013 AI-Native IDE & Developer Tools - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/team-lead-\u2013-ai-native-ide-developer-tools-at-sparagus-4460364055",
+      "snippet": "What You Will Do. Lead the technical vision for next-generation AI-native IDEs and developer experiences; Explore how AI agents and human developers can ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-31T12:34:04.658384"
+    },
+    "score": 7,
+    "reason": "Team Lead for AI-native IDE & developer tools aligns with AI tooling adoption and developer experience. However, location unknown and snippet suggests product-building focus rather than pure adoption coaching. Senior level appropriate.",
+    "embed_sim": 0.5321283340454102,
+    "ai_native_score": 0.7377696633338928
+  },
+  {
+    "job": {
+      "id": "f0111cc40810c3b6de7e1b63b0fecf25",
+      "title": "Team Lead \u2014 AI-Native DevEco IDE & Agentic Developer ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/team-lead-\u2014-ai-native-deveco-ide-agentic-developer-tooling-at-huawei-nederland-4429303819",
+      "snippet": "Practical experience integrating LLMs or coding agents into developer workflows, including context engineering, agent orchestration, evaluation, or verification ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-31T12:34:04.658397"
+    },
+    "score": 6,
+    "reason": "Huawei role involves integrating LLMs into developer workflows and agent orchestration\u2014relevant to AI adoption. However, Team Lead level and location unknown (likely not Utrecht area). Snippet suggests some technical depth in ML integration required.",
+    "embed_sim": 0.4865283966064453,
+    "ai_native_score": 0.7332677245140076
+  },
+  {
+    "job": {
+      "id": "033ea96194f461609272260ce2610163",
+      "title": "Mobile Engineer - AI Finance Agent bij Kira - LinkedIn",
+      "company": "Kira - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/mobile-engineer-ai-finance-agent-at-kira-4458611313",
+      "snippet": "4 dagen geleden \u00b7 3+ years of mobile development experience in Android, iOS or both. Strong experience with Kotlin and/or Swift. Experience shipping production ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-31T12:34:04.658449"
+    },
+    "score": 2,
+    "reason": "Mobile Engineer building AI Finance Agent product. Not about enabling teams to adopt AI tools; is about building AI products. Wrong focus despite relevant tech stack (Kotlin/Swift background match).",
+    "embed_sim": 0.3494749069213867,
+    "ai_native_score": 0.49575817584991455
+  },
+  {
+    "job": {
+      "id": "c47b769b62421827da80656bd008031e",
+      "title": "82 vacatures voor clinical ai in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-clinical-ai-vacatures-SRCH_IL.0,9_IM1112_KO10,21.htm",
+      "snippet": "Zoek vacatures voor Clinical ai in Amsterdam met bedrijfsreviews en salarissen. 82 vacatures voor Clinical ai in Amsterdam.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-31T12:34:25.294086"
+    },
+    "score": 0,
+    "reason": "Generic job search results page for clinical AI roles in Amsterdam. Not an actual job listing; no actionable opportunity. No context on specific roles.",
+    "embed_sim": 0.23645555973052979,
+    "ai_native_score": 0.6648309230804443
+  },
+  {
+    "job": {
+      "id": "af99a6867f3ebc7760d106858ae01b34",
+      "title": "83 vacatures voor machine learning in Eindhoven | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Eindhoven",
+      "url": "https://www.glassdoor.nl/Vacature/eindhoven-machine-learning-vacatures-SRCH_IL.0,9_IC3043137_KO10,26.htm",
+      "snippet": "Zoek vacatures voor Machine learning in Eindhoven met bedrijfsreviews en salarissen. 83 vacatures voor Machine learning in Eindhoven.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-08-31T12:34:25.294096"
+    },
+    "score": 0,
+    "reason": "Generic job search results page for Machine Learning roles in Eindhoven. Not an actual job listing. Wrong location (Eindhoven far from Utrecht). No specific opportunity details.",
+    "embed_sim": 0.11422640085220337,
+    "ai_native_score": 0.3959399163722992
+  },
+  {
+    "job": {
+      "id": "f808f1b9eb06942c8fb1988c202fcce6",
+      "title": "Head of Ways of Working in Amsterdam bij Mollie | Magnet.me",
+      "company": "Mollie",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1076723/head-of-ways-of-working",
+      "snippet": "As Head of Ways of Working, you will own building the next version of the operating model in collaboration with leadership at Mollie and the Extended Leadership team (ELT).",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-31T12:34:33.675207"
+    },
+    "score": 2,
+    "reason": "Head of Ways of Working at Mollie is about organizational operating models and change management\u2014not specifically AI tool adoption. Location unknown, likely not Utrecht focus. Wrong domain.",
+    "embed_sim": 0.21860596537590027,
+    "ai_native_score": 0.5954868197441101
+  },
+  {
+    "job": {
+      "id": "ce8d0b73816116aec18bea83ab11d9d3",
+      "title": "AI Engineer in Breukelen bij OrangeValley | Magnet.me",
+      "company": "Orangevalley",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1070280/ai-engineer",
+      "snippet": "The freedom to work hybrid, plus up to 3 months per year working remotely from abroad. Access to BigQuery, GCP, DAG platforms and the paid APIs of the major LLM providers. Internal knowledge sessions and deep dives on AI and data engineering. What you will bring You have at least 2 to 3 years of experience building in a production environment.",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-31T12:34:33.675236"
+    },
+    "score": 3,
+    "reason": "AI Engineer in Breukelen (close to Utrecht). Mentions GCP, BigQuery, DAG platforms, and LLM provider APIs\u2014indicates data engineering and ML pipeline work, not developer tooling adoption. Requires deep data/ML stack experience not candidate's focus.",
+    "embed_sim": 0.5304639339447021,
+    "ai_native_score": 0.5052990317344666
+  },
+  {
+    "job": {
+      "id": "fdc3e233b8a1307003ef931d0e3fc03a",
+      "title": "Senior AI Adoption & Change Specialist \u2013 CHO Keizersgracht ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-adoption-change-specialist-\u2013-cho-keizersgracht-amsterdam-32-40h-at-rituals-b-corp\u2122-4459360322",
+      "snippet": "Develop adoption content, communications and success stories that make AI practical, relevant and accessible. Assess AI maturity and readiness, translating ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-31T12:34:46.956030"
+    },
+    "score": 8,
+    "reason": "Senior AI Adoption & Change Specialist at Rituals in Amsterdam (within 40km). Develops adoption content, communicates AI value, assesses maturity\u2014exactly matches AI adoption coaching role. Perfect seniority level. Strong location match.",
+    "embed_sim": 0.4632616341114044,
+    "ai_native_score": 0.7571620941162109
+  },
+  {
+    "job": {
+      "id": "8a3625f6de07817ccf73962bcbff9bcd",
+      "title": "Roxit zoekt een Onboarding & Adoption Specialist in Arnhem ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/onboarding-adoption-specialist-at-roxit-4443251553",
+      "snippet": "Als Onboarding & Adoption Specialist ben jij de schakel tussen product en praktijk: je laat gebruikers vanaf dag \u00e9\u00e9n maximale waarde uit onze software halen.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-08-31T12:34:46.956040"
+    },
+    "score": 3,
+    "reason": "Onboarding & Adoption Specialist in Arnhem focuses on product onboarding/user enablement\u2014not AI-specific tool adoption for dev teams. Arnhem is outside preferred 40km radius from Utrecht. Wrong domain focus.",
+    "embed_sim": 0.17944929003715515,
+    "ai_native_score": 0.5224756598472595
+  },
+  {
+    "job": {
+      "id": "840ee6eebde43db35a66e2a433db0315",
+      "title": "Developer Experience Engineer vacatures in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.careerjet.nl/vacatures-developer-experience-engineer",
+      "snippet": "Voor de Belastingdienst zoeken wij een Developer Experience Engineer (AI). Je werkt in een Center of Excellence dat met behulp van AI de kwaliteit van ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-31T12:35:02.831894"
+    },
+    "score": 7,
+    "reason": "Developer Experience Engineer (AI) for Belastingdienst Center of Excellence. Directly matches DevEx + AI quality improvement role. Netherlands-based. However, snippet is vague on specific responsibilities and location not specified (could be far from Utrecht).",
+    "embed_sim": 0.4487141966819763,
+    "ai_native_score": 0.728265643119812
+  },
+  {
+    "job": {
+      "id": "41e1eae66db2f952bf3084b56ae643b7",
+      "title": "11 engineer industri\u00eble automatisering vacatures in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/engineer-industriele-automatisering/in-utrecht",
+      "snippet": "Engineer Industri\u00eble Automatisering vacatures in Utrecht ; Servicemonteur Robotica & Automatisering | Start Vanuit Huis \u00b7 Profield \u00b7 \u20ac3.200 - \u20ac4.750 ; Automation ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-08-31T12:35:02.831903"
+    },
+    "score": 0,
+    "reason": "Industrial automation/robotics engineering - completely unrelated domain. Not about software development, AI tool adoption, or developer productivity.",
+    "embed_sim": 0.2063279151916504,
+    "ai_native_score": 0.6103478074073792
+  },
+  {
+    "job": {
+      "id": "c9902077dc6bac9d32dc6b88cd9750b8",
+      "title": "Tech Enablement Specialist \u2013 Change & Adoption - Magnet.me",
+      "company": "Magnet.me",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1077538/tech-enablement-specialist--change---adoption",
+      "snippet": "1 dag geleden \u00b7 Tech Enablement Specialist \u2013 Change & Adoption. Baan \u2022 Amsterdam, NL. Geplaatst 30 aug. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 3 ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-08-31T12:35:12.864324"
+    },
+    "score": 6,
+    "reason": "Tech Enablement + Change & Adoption role at good location (Amsterdam, near Utrecht). Could involve tooling adoption and workflow improvements. However, listing snippet lacks detail about AI focus, and 'Tech Enablement' is ambiguous - could be general IT onboarding vs. AI-specific coaching. Partial match on enablement/adoption concept but uncertain if AI-focused.",
+    "embed_sim": 0.3214934766292572,
+    "ai_native_score": 0.7350589036941528
   }
 ]
