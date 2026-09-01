@@ -6882,18 +6882,18 @@
   {
     "job": {
       "id": "d95208d5a6abab4abf05528329493d30",
-      "title": "AI Adoptie Nederland 2026 | Cijfers per Sector & Branche - Searchlab",
-      "company": "Cijfers per Sector & Branche - Searchlab",
-      "location": "Utrecht",
+      "title": "AI Adoptie Nederland 2026 | Cijfers per Sector & Branche",
+      "company": "Cijfers per Sector & Branche",
+      "location": "",
       "url": "https://searchlab.nl/statistieken/ai-adoptie-nederland-2026",
-      "snippet": "8 Mar 2026 ... AI Marketing Specialist, 1.100, \u20ac45K - \u20ac80K, +134 ... Universiteit Utrecht \u2014 AI Master, focus op responsible AI en human-centered computing ...",
+      "snippet": "8 mrt 2026 \u00b7 67% van Nederlandse bedrijven gebruikt AI in 2026. Bekijk alle cijfers over AI-adoptie per sector, MKB vs enterprise, investeringen en ...",
       "source": "ddg:web-nl",
-      "date_found": "2026-05-25T10:01:12.869701"
+      "date_found": "2026-09-01T11:02:28.577401"
     },
     "score": 0,
-    "reason": "This is a statistics/analysis page about AI adoption trends in the Netherlands, not a job listing. The snippet references a university AI master program, not a job vacancy.",
-    "embed_sim": 0.41802799701690674,
-    "ai_native_score": 0.6525130867958069
+    "reason": "Statistical article about AI adoption trends, not a job listing. Cannot assess as employment opportunity.",
+    "embed_sim": 0.25856727361679077,
+    "ai_native_score": 0.650692343711853
   },
   {
     "job": {
@@ -10230,14 +10230,14 @@
       "company": "Owow",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1045228/ai-solutions-consultant",
-      "snippet": "2 dagen geleden \u00b7 The OWOW Way of Working (OWOWWOW): freedom and flexibility in your working hours, work location, and days off. A competitive salary. Pension ...",
+      "snippet": "4 jun 2026 \u00b7 The OWOW Way of Working (OWOWWOW): freedom and flexibility in your working hours, work location, and days off. A competitive salary. Pension ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-06T08:31:28.759195"
+      "date_found": "2026-09-01T11:02:32.261354"
     },
-    "score": 2,
-    "reason": "AI Solutions Consultant could fit consulting/advisory aspect, but location unknown, likely Eindhoven-based, and 'solutions consultant' typically implies building AI products rather than enabling internal team adoption",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 3,
+    "reason": "AI Solutions Consultant role could involve adoption aspects, but located in Eindhoven (outside 40km preference from Utrecht). Snippet lacks detail on whether this is about enabling dev teams vs. building AI solutions. Insufficient information to score higher.",
+    "embed_sim": 0.14498239755630493,
+    "ai_native_score": 0.5788591504096985
   },
   {
     "job": {
@@ -29982,5 +29982,357 @@
     "reason": "Tech Enablement + Change & Adoption role at good location (Amsterdam, near Utrecht). Could involve tooling adoption and workflow improvements. However, listing snippet lacks detail about AI focus, and 'Tech Enablement' is ambiguous - could be general IT onboarding vs. AI-specific coaching. Partial match on enablement/adoption concept but uncertain if AI-focused.",
     "embed_sim": 0.3214934766292572,
     "ai_native_score": 0.7350589036941528
+  },
+  {
+    "job": {
+      "id": "dc1b95d899ba398a0b15ddab6e24f0e3",
+      "title": "Working student ai vacatures in Eindhoven - Indeed",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.indeed.com/q-working-student-ai-l-eindhoven-vacatures.html",
+      "snippet": "Working Student Ai vacatures in Eindhoven. Finance Intern, Working Student Ai (part-time), Education Consultant en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:01:18.265794"
+    },
+    "score": 0,
+    "reason": "Search results page, not a specific job listing. Includes intern/working student positions which don't match seniority requirement. Eindhoven location is outside 40km radius.",
+    "embed_sim": 0.2965319752693176,
+    "ai_native_score": 0.6708274483680725
+  },
+  {
+    "job": {
+      "id": "90e3df5f586b7797710e60d846f69de7",
+      "title": "200+ vacatures voor Ai Researcher en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-researcher-vacatures.html",
+      "snippet": "Ai Researcher vacatures. Scientist, Senior Data Science Manager, Junior Researcher en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:01:18.265821"
+    },
+    "score": 0,
+    "reason": "Search results aggregation page for AI Researcher roles. These are ML/Data Science positions requiring research background \u2014 not AI adoption/enablement.",
+    "embed_sim": 0.3221226930618286,
+    "ai_native_score": 0.6968404650688171
+  },
+  {
+    "job": {
+      "id": "a7dba7a13efbd095de2946c1d99b8f92",
+      "title": "Ai training vacatures in Werk van thuis - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-training-l-werk-van-thuis-vacatures.html",
+      "snippet": "Ai Training vacatures in Werk van thuis. Trainer, Accountmanager, Robotics Engineer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:01:18.265835"
+    },
+    "score": 0,
+    "reason": "Search results page. 'AI Training' typically refers to data labeling or ML model training, not AI tool adoption for dev teams.",
+    "embed_sim": 0.24335330724716187,
+    "ai_native_score": 0.6482828855514526
+  },
+  {
+    "job": {
+      "id": "24fd23f127d596ed7863c5db6a77ecec",
+      "title": "75+ vacatures voor Ux Designer Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ux-designer-ai-vacatures.html",
+      "snippet": "Ux Designer Ai vacatures. Product Designer, Ux Designer, Senior Product Designer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:01:18.265846"
+    },
+    "score": 0,
+    "reason": "Search results page for UX Designer roles. Design-focused, not aligned with AI adoption/enablement or engineering workflows.",
+    "embed_sim": 0.29531097412109375,
+    "ai_native_score": 0.6998694539070129
+  },
+  {
+    "job": {
+      "id": "167fdae7a470f615becb3aab1ef27725",
+      "title": "75+ vacatures voor Ai Training Medical en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-training-medical-vacatures.html",
+      "snippet": "14 aug 2026 \u00b7 Ai Training Medical vacatures. Data Scientist, Project Coordinator, Neurologist en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:01:18.265860"
+    },
+    "score": 0,
+    "reason": "Search results page for AI Training Medical roles. Medical domain focus, likely data annotation or medical AI model training \u2014 not developer AI tool adoption.",
+    "embed_sim": 0.2532520890235901,
+    "ai_native_score": 0.6900180578231812
+  },
+  {
+    "job": {
+      "id": "7d3615f96e04572f17fb2f8dc06ea55d",
+      "title": "285 vacatures voor San Francisco, CA - thuiswerk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/san-francisco-ca-tooling-engineer-vacatures-SRCH_IL.0,16_IC1147401_KW17,33.htm",
+      "snippet": "285 vacatures voor San Francisco, CA - thuiswerk ; Logo van Whatnot. Whatnot \u00b7 AI Tooling Engineer \u00b7 US$ 200K - US$ 260K ; Logo van Tesla. Tesla \u00b7 Tooling Engineer, ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-01T11:01:29.918683"
+    },
+    "score": 0,
+    "reason": "San Francisco, CA remote roles. Geographically far from Utrecht requirement. Cannot verify specific role alignment from search results snippet.",
+    "embed_sim": 0.07592881470918655,
+    "ai_native_score": 0.5153454542160034
+  },
+  {
+    "job": {
+      "id": "f1bd09fdacac25b09db8b9855a110bf3",
+      "title": "82 vacatures voor linux systems engineer in Phoenix, AZ",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/phoenix-linux-systems-engineer-vacatures-SRCH_IL.0,7_IC1133904_KO8,30.htm",
+      "snippet": "Software Engineer: Automation/AI - Level 2 or 3 (Chandler). Chandler, AZ. US$ 79K - US$ 123K (opgegeven door werkgever). You will play a key role in designing ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-01T11:01:29.918717"
+    },
+    "score": 0,
+    "reason": "Phoenix/Chandler, AZ location far from Utrecht. 'Software Engineer: Automation/AI' likely infrastructure automation, not developer AI adoption enablement.",
+    "embed_sim": 0.3283323347568512,
+    "ai_native_score": 0.6388182044029236
+  },
+  {
+    "job": {
+      "id": "8ab84a431b01c9bc69f9d5139ef54893",
+      "title": "175 vacatures voor Torrance, CA - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/torrance-ca-software-engineer-machine-learning-vacatures-SRCH_IL.0,11_IC1146894_KW12,46.htm",
+      "snippet": "Android Developer - AI Trainer. Los Angeles, CA. US$ 50,00 - US$ 100,00 Per uur (opgegeven door werkgever). Snelsollicitatie. Flexible schedule: choose which ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-01T11:01:42.238022"
+    },
+    "score": 0,
+    "reason": "Los Angeles, CA location far from Utrecht. 'Android Developer - AI Trainer' is data labeling/annotation work, not AI adoption champion role.",
+    "embed_sim": -0.012260960415005684,
+    "ai_native_score": 0.5876284837722778
+  },
+  {
+    "job": {
+      "id": "4e42f6a3e0c26783e4a7b853f2e4d40a",
+      "title": "Smairtly zoekt een AI adoption specialist in Gelderland ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-smairtly-3700844753",
+      "snippet": "Aug 20, 2026 \u00b7 AI adoption specialist Smairtly Gelderland, Nederland 1 week geleden Wees een van de eerste 25 sollicitanten Bekijk wie Smairtly heeft aangenomen voor deze functie",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-01T11:01:51.956729"
+    },
+    "score": 7,
+    "reason": "AI adoption specialist role at Smairtly in Gelderland (within region). Title and function strongly align with candidate's core goal of championing AI adoption. Missing details on seniority level and specific responsibilities, but conceptually a strong match.",
+    "embed_sim": 0.12665513157844543,
+    "ai_native_score": 0.6141053438186646
+  },
+  {
+    "job": {
+      "id": "266df39b0675020d3e7e56ef6ec6b9f2",
+      "title": "Rituals (B Corp\u2122) zoekt een Senior AI Adoption & Change ...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-adoption-change-specialist-\u2013-cho-keizersgracht-amsterdam-32-40h-at-rituals-b-corp\u2122-4459360322?position=2&pageNum=0",
+      "snippet": "Share your talents As Senior AI Adoption & Change Specialist, you help make AI practical, relevant and part of everyday work across Rituals. In this role, you will be part of our Human Resources team within Talent, Learning & Culture, based at our Central Head Office in Amsterdam, and you will report to the Head of Leadership, AI & Culture.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-01T11:01:51.956791"
+    },
+    "score": 8,
+    "reason": "Senior AI Adoption & Change Specialist at Rituals in Amsterdam (within 40km of Utrecht). Excellent alignment: helping teams adopt AI practices, embedding AI into workflows, part of organizational adoption strategy. Senior level matches experience. Part of HR/Learning team suggests strategic and cultural focus beyond technical implementation.",
+    "embed_sim": 0.24074724316596985,
+    "ai_native_score": 0.6212096810340881
+  },
+  {
+    "job": {
+      "id": "e6bbde08e50c29ff6b32fc5bffa2bae0",
+      "title": "BrainBite zoekt een Gen AI Developer (Internship) in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/gen-ai-developer-internship-at-brainbite-4443391203",
+      "snippet": "Proven experience developing functional AI agents. Strong skills in prompt engineering, benchmarking, and performance optimization. Pursuing a bachelor's or ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-01T11:01:56.749397"
+    },
+    "score": 0,
+    "reason": "Internship position - candidate requires senior level role. Also focuses on building AI agents, not enabling teams to adopt AI tools.",
+    "embed_sim": 0.47182697057724,
+    "ai_native_score": 0.7951704859733582
+  },
+  {
+    "job": {
+      "id": "5940c179c02be480a08134b327edc020",
+      "title": "Basware zoekt een HR AI & Technology Lead in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/hr-ai-technology-lead-at-basware-4437065837?position=48&pageNum=0",
+      "snippet": "Continuous learning and development opportunities. Ready to make an impact? If you are passionate about AI, technology, and the future of work\u2014and excited by the opportunity to help transform HR in a practical and meaningful way\u2014we would love to hear from you. Basware. Now it all just happens.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-01T11:02:02.292648"
+    },
+    "score": 2,
+    "reason": "HR-focused role in Amsterdam. While AI is mentioned, this is about transforming HR processes, not helping dev teams adopt AI tooling. Wrong domain.",
+    "embed_sim": 0.39151522517204285,
+    "ai_native_score": 0.6315541863441467
+  },
+  {
+    "job": {
+      "id": "41d726fc0c3ed311a840d2c47a4099a8",
+      "title": "Controller bij Hallo - Amsterdam | LinkedIn Vacatures",
+      "company": "Hallo - Amsterdam",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/controller-at-hallo-4434771673",
+      "snippet": "Solliciteer naar Controller bij Hallo in Amsterdam. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-01T11:02:02.292658"
+    },
+    "score": 0,
+    "reason": "Controller (finance/accounting) role. Completely unrelated to AI adoption or developer enablement.",
+    "embed_sim": 0.07438260316848755,
+    "ai_native_score": 0.6011369824409485
+  },
+  {
+    "job": {
+      "id": "10fa1536b157b19207537c25e02c03b2",
+      "title": "300+ vacatures voor Ai Tooling Developer en werk: 25 augustus ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-tooling-developer-vacatures.html?vjk=47da12e56edd3433",
+      "snippet": "Experience with front-end development, interactive prototyping, component systems or creative and agentic development and coding is a major advantage. We are particularly interested in people who are comfortable with modern AI-supported product development: using AI for exploration, prototyping, interface generation, user-flow analysis and ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:02:06.168836"
+    },
+    "score": 4,
+    "reason": "Title mentions 'AI Tooling Developer' which is promising, and it references modern AI-supported development. However, the snippet is vague and appears to be a job search aggregate page rather than a specific role posting. Location and company details are missing. Cannot assess seniority or exact responsibilities.",
+    "embed_sim": 0.4158034920692444,
+    "ai_native_score": 0.6511173248291016
+  },
+  {
+    "job": {
+      "id": "5cc7490a913bcf962f648f963a6d0b5e",
+      "title": "Junior AI software developer in Enschede bij OVSoftware ...",
+      "company": "Ovsoftware ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1070007/junior-ai-software-developer",
+      "snippet": "Aug 18, 2026 \u00b7 Ben jij een developer met minimaal twee jaar werkervaring en een enorme passie voor AI? Volg jij de nieuwste ontwikkelingen op de voet, experimenteer je hier zelf actief mee en krijg je energie van het meenemen van anderen? Dan zijn wij bij OVSoftwa\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-01T11:02:10.471866"
+    },
+    "score": 1,
+    "reason": "Location is Enschede (outside 40km radius from Utrecht). Also appears to be junior-level despite 2+ year requirement. Focus seems to be on building AI solutions rather than championing adoption across teams.",
+    "embed_sim": 0.3214176893234253,
+    "ai_native_score": 0.72432941198349
+  },
+  {
+    "job": {
+      "id": "ab22e082fbf0f415fa1e215bf7ec4ca9",
+      "title": "AI-First Fullstack Developer Eduarte in Deventer bij Five ...",
+      "company": "Five ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1073196/ai-first-fullstack-developer-eduarte",
+      "snippet": "Aug 22, 2026 \u00b7 Jij brengt AI van experiment naar praktijk binnen Eduarte. Als AI-first Fullstack Developer werk je vanuit het AI-team van Topicus Onderwijs aan slimme, schaalbare AI-oplossingen voor het mbo. Je combineert stevige software-engineering met nieuwe AI\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-01T11:02:10.471880"
+    },
+    "score": 2,
+    "reason": "Location is Deventer (outside 40km radius). Role focuses on building AI solutions for education product, not enabling developer teams to adopt AI tooling. Wrong concept.",
+    "embed_sim": 0.3460942804813385,
+    "ai_native_score": 0.6764773726463318
+  },
+  {
+    "job": {
+      "id": "731f108c608eaabdfc1dd6fa9a1874db",
+      "title": "Senior AI Adoption & Change Specialist - Rituals - Magnet.me",
+      "company": "Magnet.me",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1077657/senior-ai-adoption---change-specialist",
+      "snippet": "1 dag geleden \u00b7 Senior AI Adoption & Change Specialist. Baan \u2022 Amsterdam, NL. Geplaatst 30 aug. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 5 tot 8 ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-01T11:02:14.174606"
+    },
+    "score": 8,
+    "reason": "Excellent match. 'Senior AI Adoption & Change Specialist' at Rituals in Amsterdam (within range). Title and description align perfectly with candidate's goal of championing AI adoption. Senior level appropriate. Focus on adoption and change management rather than ML/building systems.",
+    "embed_sim": 0.31368130445480347,
+    "ai_native_score": 0.7656852602958679
+  },
+  {
+    "job": {
+      "id": "bfafd9084ac13d794ad486b6bcd505c2",
+      "title": "Gen AI (Sr. Specialist Solutions Architect) in Amsterdam bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1077637/product-specialist---gen-ai--sr.-specialist-solutions-architect-",
+      "snippet": "2 dagen geleden \u00b7 You will work closely with the Databricks Product Management team to drive adoption of Gen AI features and ensure a consistent product vision ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-01T11:02:14.174638"
+    },
+    "score": 3,
+    "reason": "Solutions Architect role for Databricks Gen AI in Amsterdam. While location is good, this appears to be about driving adoption of Databricks' data platform features, not helping dev teams adopt general AI tools like Copilot/Claude. Likely requires deeper data/ML background.",
+    "embed_sim": 0.33214542269706726,
+    "ai_native_score": 0.64952552318573
+  },
+  {
+    "job": {
+      "id": "62318f844e5e6f153df9f75a93bc6de5",
+      "title": "Ai Product Manager Genai Product Ai Adoption - vacatures",
+      "company": "vacatures",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-product-manager-genai-product-ai-adoption-vacatures.html",
+      "snippet": "4+ years of product management experience, ideally on AI-driven, data, or developer-facing platforms. Define and track adoption and usage metrics.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:02:17.586298"
+    },
+    "score": 5,
+    "reason": "AI Product Manager role with AI adoption focus. Mentions tracking adoption metrics and developer-facing platforms which aligns with candidate interests. However, product management is different from hands-on AI enablement/coaching. Location unknown. Could be relevant but not ideal fit.",
+    "embed_sim": 0.4188269376754761,
+    "ai_native_score": 0.6037415862083435
+  },
+  {
+    "job": {
+      "id": "c4c2ca700618d14263ab7328f04649c7",
+      "title": "Onboarding adoption specialist vacatures - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-onboarding-adoption-specialist-vacatures.html",
+      "snippet": "Onboarding Adoption Specialist vacatures. Specialist, Process Technician, Finance Manager en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:02:17.586308"
+    },
+    "score": 0,
+    "reason": "Generic 'Onboarding Adoption Specialist' job search aggregate page. Not specific to AI or developer tooling. No real job posting details available.",
+    "embed_sim": 0.2920241951942444,
+    "ai_native_score": 0.624963104724884
+  },
+  {
+    "job": {
+      "id": "935aba6334336b3629181056e2cf20d3",
+      "title": "75+ vacatures voor Junior Ai Specialist en werk - Indeed",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.indeed.com/q-junior-ai-specialist-vacatures.html",
+      "snippet": "Junior Ai Specialist vacatures. Startersfunctie Online Marketingbureau, Ai & Data Starter Rotterdam, Medewerker Klantenservice en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-01T11:02:17.586317"
+    },
+    "score": 0,
+    "reason": "Junior/starter position (explicitly \"Startersfunctie\"). Candidate is senior with 13 years experience. Also generic Indeed aggregation page, not actual job listing.",
+    "embed_sim": 0.3144344091415405,
+    "ai_native_score": 0.6528753042221069
+  },
+  {
+    "job": {
+      "id": "b8cebed427a3bbfd59e87cdc79b81c28",
+      "title": "Digital transformation consultant vacatures in Utrecht (provincie)",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-digital-transformation-consultant-l-utrecht-(provincie)-vacatures.html",
+      "snippet": "Digital transformation consultant vacatures in Utrecht (provincie) ; Digital Adoption Consultant. Capgemini Sogeti. Utrecht ; Project Manager Digital ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-01T11:02:28.577373"
+    },
+    "score": 0,
+    "reason": "Generic Indeed aggregation page showing multiple unrelated positions (project manager, digital adoption consultant). Not a specific job listing. Cannot assess actual role requirements.",
+    "embed_sim": 0.1331864297389984,
+    "ai_native_score": 0.6239612698554993
   }
 ]
