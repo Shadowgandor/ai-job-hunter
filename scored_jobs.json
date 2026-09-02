@@ -1784,12 +1784,12 @@
       "url": "https://werkeninai.nl/junior-ai-developer-stedin/",
       "snippet": "August 26, 2024 - Je bent een AI Developer die graag de verantwoordelijkheid op zich neemt. Naast affiniteit met de techniek en operatie, gaat je hart sneller kloppen van digitalisering en AI en blijf jij je ontwikkelen in deze domeinen.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-03T08:58:54.815265"
+      "date_found": "2026-09-02T10:32:21.094625"
     },
     "score": 1,
-    "reason": "Junior AI Developer role at Stedin (dated Aug 2024, likely expired). Junior-level position explicitly excluded. No indication of AI adoption/tooling focus vs. building ML systems.",
+    "reason": "No match \u2014 Junior AI Developer at Stedin. Candidate explicitly does NOT want junior positions. Date shows August 2024 (potentially expired). Role appears focused on AI/digitalization development, not championing team adoption of existing AI tools.",
     "embed_sim": 0.4215790629386902,
-    "ai_native_score": 0.7847325205802917
+    "ai_native_score": 0.7847324013710022
   },
   {
     "job": {
@@ -6786,18 +6786,18 @@
   {
     "job": {
       "id": "0d424ac78b247d75afb2aa0cc9d5325d",
-      "title": "Power Platform & AI Engineer in Rotterdam bij Robeco | Magnet.me",
-      "company": "Robeco",
+      "title": "Power Platform & AI Engineer - Robeco - Magnet.me",
+      "company": "Magnet.me",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1032232/power-platform---ai-engineer",
-      "snippet": "6 days ago ... Artificial Intelligence: Understanding of AI and machine learning concepts, with practical experience in implementing AI solutions. Experience ...",
+      "snippet": "Within Robeco, you will work as a Power Platform & AI Engineer within the Infrastructure, Corporate and Cloud Services Department. Robeco relies heavily on ...",
       "source": "ddg:magnet",
-      "date_found": "2026-05-25T10:00:05.881733"
+      "date_found": "2026-09-02T10:32:40.522308"
     },
     "score": 3,
-    "reason": "Power Platform & AI Engineer in Rotterdam \u2014 requires 'practical experience implementing AI solutions' which suggests ML/data pipeline work rather than AI tool adoption. Rotterdam is outside the 40km Utrecht radius. Role appears to be about building AI solutions, not championing tool adoption.",
-    "embed_sim": 0.31752318143844604,
-    "ai_native_score": 0.5266245603561401
+    "reason": "Power Platform & AI Engineer suggests low-code platform work mixed with AI. Could involve automation tooling, but no clear indication this is about developer AI tool adoption. Power Platform focus is narrow vertical.",
+    "embed_sim": 0.32485008239746094,
+    "ai_native_score": 0.5286447405815125
   },
   {
     "job": {
@@ -8722,18 +8722,18 @@
   {
     "job": {
       "id": "f8bb72458f51df06db8ef2680975cbca",
-      "title": "Master's Thesis in Way of Working: AI-Powered Function Point Sizing",
+      "title": "Info Support zoekt een Master's Thesis in Way of Working: AI ...",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/master-s-thesis-in-way-of-working-ai-powered-function-point-sizing-at-info-support-4417641451",
-      "snippet": "Investigate how to automate and operationalise FPA/EFS within Info Support's Way of Working using AI. Deliver a Proof of Concept (PoC) that ingests typical ...",
+      "snippet": "This thesis explores how Large Language Models can automate this task by translating common project artefacts into traceable size estimates. You'll investigate ...",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-02T10:17:52.745819"
+      "date_found": "2026-09-02T10:31:59.674611"
     },
     "score": 0,
-    "reason": "Master's thesis position requiring academic credentials and research focus. Candidate explicitly excludes academic/PhD research positions.",
-    "embed_sim": 0.29371750354766846,
-    "ai_native_score": 0.5879915952682495
+    "reason": "No match \u2014 Master's thesis position explicitly requiring academic research on LLM-powered function point sizing. Candidate does NOT want academic/PhD research roles. Junior/thesis-level position.",
+    "embed_sim": 0.2624692916870117,
+    "ai_native_score": 0.6129981279373169
   },
   {
     "job": {
@@ -14374,14 +14374,14 @@
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Junior-Ai-Developer-vacatures",
-      "snippet": "Describe how an ideal working week would look for you as AI Developer at ABN AMRO. What activities would you be doing, also point out activities that you wouldn\u2019t like to be doing. Describe a project or situation that you found yourself in where you had to achieve something difficult and where you had to reach out beyond your normal responsibilities to achieve the desired result. Explain the role that you played in resolving this challenge. Your responses will help us understand your experience ",
+      "snippet": "Are you passionate about pioneering Artificial Intelligence (AI) solutions who wants to redefine customer experiences in the financial services industry? Join ABN AMRO\u2019s AI team. We are seeking pragmatic experienced AI developers in our efforts leveraging AI across various domains in banking, including enhancing customer interaction within our contact center.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-17T10:50:27.383925"
+      "date_found": "2026-09-02T10:32:36.462628"
     },
-    "score": 0,
-    "reason": "Junior AI Developer position. Candidate is senior-level (13 years experience). Too junior for their career stage.",
-    "embed_sim": 0.5293387770652771,
-    "ai_native_score": 0.7170624732971191
+    "score": 1,
+    "reason": "Junior AI Developer role in financial services. Candidate is senior-level seeking adoption/enablement, not junior development positions. Likely requires ML/AI technical depth.",
+    "embed_sim": 0.4494081437587738,
+    "ai_native_score": 0.6063928604125977
   },
   {
     "job": {
@@ -17602,18 +17602,18 @@
   {
     "job": {
       "id": "beee334135cac290057898aae484f80b",
-      "title": "Software Engineer- AI Tooling in Rotterdam bij Mendix | Magnet.me",
-      "company": "Mendix",
+      "title": "Software Engineer- AI Tooling in Rotterdam bij Mendix ...",
+      "company": "Mendix ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1052097/software-engineer--ai-tooling",
-      "snippet": "Join Mendix, a Siemens company, as a Staff Software Engineer focused on AI Tooling, helping build the future of Generative AI.",
+      "snippet": "Jun 24, 2026 \u00b7 Join Mendix, a Siemens company, as a Staff Software Engineer focused on AI Tooling, helping build the future of Generative AI.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-28T08:48:36.710001"
+      "date_found": "2026-09-02T10:32:28.918101"
     },
-    "score": 6,
-    "reason": "AI Tooling focus is strong match, but role is at Mendix (building AI products) not enabling teams to use them. Location (Rotterdam) is acceptable but 40km+ from Utrecht. Staff-level seniority fits. Likely requires building/architecting tooling rather than championing adoption.",
-    "embed_sim": 0.43497613072395325,
-    "ai_native_score": 0.7498055696487427
+    "score": 7,
+    "reason": "AI Tooling focus at Staff level is promising, but 'build the future of Generative AI' suggests product-building rather than adoption/enablement. Rotterdam is ~60km from Utrecht (slightly outside preference). Would need to verify if this is about internal tooling for developers vs. building AI products.",
+    "embed_sim": 0.38154083490371704,
+    "ai_native_score": 0.7187098860740662
   },
   {
     "job": {
@@ -30334,5 +30334,181 @@
     "reason": "Generic Indeed aggregation page showing multiple unrelated positions (project manager, digital adoption consultant). Not a specific job listing. Cannot assess actual role requirements.",
     "embed_sim": 0.1331864297389984,
     "ai_native_score": 0.6239612698554993
+  },
+  {
+    "job": {
+      "id": "fd82f0ef55ae58655435604dc2cd13fd",
+      "title": "Consultant developer experience (DevEx) in Utrecht bij IVO ...",
+      "company": "Ivo ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1076032/consultant-developer-experience--devex-",
+      "snippet": "Aug 25, 2026 \u00b7 Als consultant developer experience (DevEx) bij IVO Rechtspraak, de IV/IT-organisatie van de Rechtspraak, geef je daar vanaf het begin richting aan. Je bouwt mee aan ons nieuwe internal developer platform en brengt ontwikkelteams en platform engineering dichter bij elkaar.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-02T10:31:38.172954"
+    },
+    "score": 8,
+    "reason": "Strong match \u2014 DevEx consultant role building internal developer platform and bridging dev teams with platform engineering. Aligns with candidate's goal of embedding AI practices in SDLC. Location appears to be Utrecht area (Rechtspraak is Netherlands-based). Senior consultant level appropriate.",
+    "embed_sim": 0.34299126267433167,
+    "ai_native_score": 0.625892698764801
+  },
+  {
+    "job": {
+      "id": "5f3bf74e2735770bd83c31fd0d2c0839",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 29 augustus 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=d76c67396f4c0b64",
+      "snippet": "Als AI Engineer ben jij degene die het verschil maakt in het succesvol uitrollen van de AI-componenten binnen onze documentautomatisering. Wanneer deze rol niet goed vervuld wordt, blijven processen handmatig, ineffici\u00ebnt en foutgevoelig, de automatiseringskracht blijft uit.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-02T10:31:42.994970"
+    },
+    "score": 2,
+    "reason": "Poor match \u2014 generic Indeed search results page, not a specific job listing. Title mentions 'AI Engineer' but snippet suggests building document automation components (ML/automation pipeline work), not helping teams adopt AI tools. No clear location or seniority level.",
+    "embed_sim": 0.3329910337924957,
+    "ai_native_score": 0.7209122776985168
+  },
+  {
+    "job": {
+      "id": "bdaf030f68437ab965f126f5ec2d5fab",
+      "title": "AI-led Growth Leader for Intelligent Industry NCE - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-led-growth-leader-for-intelligent-industry-nce-at-capgemini-4460114874",
+      "snippet": "An AI-native way of working: comfortable using agents, copilots and automation as part of daily work, not as a side activity. Proven ability to simplify complex ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-02T10:31:59.674589"
+    },
+    "score": 3,
+    "reason": "Weak match \u2014 'AI-led Growth Leader' at Capgemini mentions AI-native way of working with agents/copilots, which is positive. However, 'Growth Leader' title suggests business/sales focus rather than technical DevEx/adoption enablement. Unknown location (Capgemini has multiple offices). Likely requires different skill mix than candidate's technical championing focus.",
+    "embed_sim": 0.47289925813674927,
+    "ai_native_score": 0.7500522136688232
+  },
+  {
+    "job": {
+      "id": "55ff1ac97f0bf517ef5269b43d46e1f2",
+      "title": "AI Engineer bij Code for Good - Eindhoven | LinkedIn Vacatures",
+      "company": "Code For Good - Eindhoven",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-code-for-good-4394663048",
+      "snippet": "We connect data, people and AI technology to help manufacturing companies grow into a smarter future. Our team designs and develops AI-powered modules within ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-02T10:31:59.674622"
+    },
+    "score": 1,
+    "reason": "No match \u2014 Eindhoven location violates candidate's 40km Utrecht requirement (>80km away). 'AI Engineer' at manufacturing/AI module development company suggests building AI-powered solutions, not enabling team adoption. Likely requires ML expertise.",
+    "embed_sim": 0.31032106280326843,
+    "ai_native_score": 0.6579797267913818
+  },
+  {
+    "job": {
+      "id": "1de90a39b9ab2752ca9f95bd1eb53ede",
+      "title": "Junior Data Scientist bij Haskoning - Amersfoort - LinkedIn",
+      "company": "Haskoning - Amersfoort - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/junior-data-scientist-at-haskoning-4425868736",
+      "snippet": "In this role, you will help accelerate AI adoption within our Supply Chain & Logistics advisory group, contribute to innovative client projects, and develop ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-02T10:31:59.674643"
+    },
+    "score": 2,
+    "reason": "No match \u2014 Junior Data Scientist role. Candidate explicitly does NOT want junior positions or data science roles. Amersfoort location is acceptable (within 40km), but role focus on 'accelerating AI adoption' in consulting appears to be data/analytics-focused, not developer tooling adoption.",
+    "embed_sim": 0.36221635341644287,
+    "ai_native_score": 0.43226373195648193
+  },
+  {
+    "job": {
+      "id": "6f0a18f3b5fd47ac3604109d6cdc8e22",
+      "title": "Ai researcher vacatures in Amsterdam - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-ai-researcher-l-amsterdam-vacatures.html",
+      "snippet": "Ai Researcher vacatures in Amsterdam. Senior Data Science Manager, Systems Architect, Three Fully Funded PhD Positions in Competition Law and Ai en meer op ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-02T10:32:03.221954"
+    },
+    "score": 0,
+    "reason": "No match \u2014 AI Researcher search results page. Researcher/academic roles contradict candidate's explicit rejection of PhD/research positions. Amsterdam location acceptable but content does not match.",
+    "embed_sim": 0.3778320550918579,
+    "ai_native_score": 0.7220869660377502
+  },
+  {
+    "job": {
+      "id": "29677cde49b6ca669fe83aaaaa0a6107",
+      "title": "2.021 vacatures voor Mississauga, ON - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/mississauga-on-ai-software-engineer-vacatures-SRCH_IL.0,14_IC2280741_KW15,35.htm",
+      "snippet": "Lead Applications Developer (Pega & AI). Mississauga. C$ 121K - C$ 171K (opgegeven door werkgever). Bachelor's degree/University degree or equivalent experience ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-02T10:32:06.871120"
+    },
+    "score": 0,
+    "reason": "No match \u2014 Mississauga, Ontario, Canada location. Candidate requires Netherlands role within 40km of Utrecht. Wrong geography entirely.",
+    "embed_sim": 0.13005372881889343,
+    "ai_native_score": 0.5260201096534729
+  },
+  {
+    "job": {
+      "id": "bc0c07e12e48f246329adcf3bd3446d6",
+      "title": "200+ vacatures voor Adoptie Consultant en werk in ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-consultant-l-nederland-vacatures.html?vjk=116ca39cb933a19d",
+      "snippet": "Adoptie Consultant vacatures in Nederland. Software Consultant, Adoptie Consultant, IT Business Consultant en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-02T10:32:11.585422"
+    },
+    "score": 1,
+    "reason": "No match \u2014 generic Indeed search results page for 'Adoption Consultant' roles in Netherlands. Generic listing without specific job details, company, location, or confirmation that any listed roles are AI-related adoption consulting (vs. SAP/ERP adoption consulting).",
+    "embed_sim": 0.1990545094013214,
+    "ai_native_score": 0.6529936194419861
+  },
+  {
+    "job": {
+      "id": "90b1d62a6dd6ef3eef5c9405fe9a591b",
+      "title": "AI Engineer in Amsterdam bij Flow Traders | Magnet.me",
+      "company": "Flow Traders",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1064049/ai-engineer",
+      "snippet": "Jul 30, 2026 \u00b7 AI Engineer Flow Traders are looking for an AI Engineer who wants to work on one of the most exciting engineering challenges at the firm right now. As an AI Engineer on the team, you will design, build, and scale enterprise-grade AI agents and automation workflows across the organization.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-02T10:32:28.918161"
+    },
+    "score": 2,
+    "reason": "Role is about designing and building enterprise AI agents/automation workflows \u2014 this is ML/AI product development, not developer tooling adoption. Not a match for candidate's goals.",
+    "embed_sim": 0.45008713006973267,
+    "ai_native_score": 0.6096561551094055
+  },
+  {
+    "job": {
+      "id": "686c0d17a17ea0ce39dcd6f4ad1783af",
+      "title": "Consultant Data & AI in Utrecht bij Improven | Magnet.me",
+      "company": "Improven",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1075161/consultant-data---ai",
+      "snippet": "25 aug 2026 \u00b7 Advising clients on data strategy, data governance and AI ambitions focused on concrete business goals; Drafting and guiding data and AI ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-02T10:32:40.522317"
+    },
+    "score": 5,
+    "reason": "Consultant Data & AI role in Utrecht (excellent location) with advisory/strategy elements. However, 'data strategy' and 'data governance' suggest heavy data/ML focus rather than developer tooling adoption. May require data science background.",
+    "embed_sim": 0.26970168948173523,
+    "ai_native_score": 0.5068266987800598
+  },
+  {
+    "job": {
+      "id": "ff512309738c09722de6f86ea5cc6be6",
+      "title": "AI adoption & incubation lead in Velsen-Noord bij Tata Steel",
+      "company": "Tata Steel",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1078049/ai-adoption---incubation-lead",
+      "snippet": "16 uur geleden \u00b7 AI adoption & incubation lead. Baan \u2022 Velsen-Noord, NL. Geplaatst 1 sep. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring. 5 tot 10 jaar.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-02T10:32:49.494434"
+    },
+    "score": 8,
+    "reason": "AI adoption & incubation lead is nearly perfect conceptually \u2014 focused on adoption and organizational change, not building ML models. However, Velsen-Noord (north of Amsterdam, ~45km from Utrecht, slightly outside preference but plausible). Posted very recently so likely still open. Role title and focus align excellently with candidate's goals.",
+    "embed_sim": 0.14655828475952148,
+    "ai_native_score": 0.5763925313949585
   }
 ]
