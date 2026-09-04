@@ -10066,18 +10066,18 @@
   {
     "job": {
       "id": "778792c4377e520044ad5c18d27c172e",
-      "title": "Adoption Consultant - vacatures - 2 juni 2026 - Indeed",
+      "title": "Adoption Consultant - vacatures - 31 augustus 2026 - Indeed",
       "company": "",
-      "location": "Utrecht",
+      "location": "",
       "url": "https://nl.indeed.com/q-adoption-consultant-vacatures.html",
-      "snippet": "Reageert vaak binnen 1 dag. Capgemini. Utrecht. Bedrijfslaptop ... Afstudeerstage Customer Engagement | AI Adoption & Value Engineering in Dynamics 365 CRM.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-06-06T08:30:46.051597"
+      "snippet": "Je bent in het bezit van het certificaat 'Microsoft service adoption Specialist' of bent bereid dit te halen; Het framework is flexibel en biedt ruimte voor ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-04T10:30:22.910577"
     },
-    "score": 3,
-    "reason": "Adoption Consultant at Capgemini in Utrecht (good location). Generic adoption consultant role with mention of AI adoption and Dynamics 365 CRM. Vague snippet suggests potential AI enablement aspects, but unclear if focused on developer tooling adoption or broader change management. Likely not developer-focused AI tool championing.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 0,
+    "reason": "This is a search results page aggregation, not a specific job listing. Cannot evaluate. Appears to be Indeed search results for adoption consultant roles rather than a single position.",
+    "embed_sim": 0.12498587369918823,
+    "ai_native_score": 0.5903608798980713
   },
   {
     "job": {
@@ -16182,14 +16182,14 @@
       "company": "Philips",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/925692/genai-enablement-lead",
-      "snippet": "GenAI Enablement Lead at Philips In this role, we are seeking a GenAI Enablement Lead who would serve as the organization's power user, trainer, and evangelist for all things related to ChatGPT and generative AI. You'll drive adoption, lead hands-on training, support executives 1:1, and design ideation sessions that unlock real business value through AI. This role serves as the primary driver ...",
+      "snippet": "Aug 19, 2025 \u00b7 GenAI Enablement Lead at Philips In this role, we are seeking a GenAI Enablement Lead who would serve as the organization's power user, trainer, and evangelist for all things related to ChatGPT and generative AI. You'll drive adoption, lead hands-on training, support executives 1:1, and design ideation sessions that unlock real business value through AI. This role serves as the primary driver ...",
       "source": "ddg:magnet",
-      "date_found": "2026-06-23T09:34:06.269760"
+      "date_found": "2026-09-04T10:30:06.848191"
     },
     "score": 6,
-    "reason": "GenAI Enablement Lead at Philips - strong concept match (adoption, training, evangelism). However, located in Eindhoven (outside 40km radius from Utrecht). Role is senior level and focused on enabling teams with ChatGPT/GenAI.",
-    "embed_sim": 0.2952103316783905,
-    "ai_native_score": 0.7712438702583313
+    "reason": "GenAI Enablement Lead - excellent role alignment (power user, trainer, evangelist for ChatGPT/GenAI adoption). However, Eindhoven is ~70km from Utrecht, outside preferred radius. Role itself is strong match but location is problematic.",
+    "embed_sim": 0.29282814264297485,
+    "ai_native_score": 0.7647329568862915
   },
   {
     "job": {
@@ -30750,5 +30750,117 @@
     "reason": "Azure cloud engineer role focused on cloud infrastructure. No AI tool adoption or developer enablement component. Wrong domain entirely.",
     "embed_sim": 0.16268014907836914,
     "ai_native_score": 0.5151851177215576
+  },
+  {
+    "job": {
+      "id": "b4ebc82c6bc9d44f286066db6426c2aa",
+      "title": "Lead Tech Advisory in Amstelveen bij KPMG | Magnet.me | #945456 (nl)",
+      "company": "Kpmg",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/945456/lead-tech-advisory",
+      "snippet": "Methodiek & tooling: Je bepaalt de inzet van toolingcategorie\u00ebn (SAST/DAST, SBoM, OSS\u2011licentiescans) en benut accelerators zoals AI\u2011ondersteunde analyse.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-04T10:29:19.296754"
+    },
+    "score": 4,
+    "reason": "Advisory role with AI-assisted analysis tooling mentioned, but primary focus appears to be security/compliance tooling (SAST/DAST/SBoM) rather than dev team AI adoption. Location (Amstelveen) is acceptable but role scope unclear.",
+    "embed_sim": 0.2157720923423767,
+    "ai_native_score": 0.6186195611953735
+  },
+  {
+    "job": {
+      "id": "1474bf605f90283aacfee5d9bbd01fd7",
+      "title": "Vacature: AI-Innovatie-ontwerper, Rijksdienst voor ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-innovatie-ontwerper-RVO-2026-7164",
+      "snippet": "AI-Innovatie-ontwerper in Utrecht voor 32-36 uur bij Rijksdienst voor Ondernemend Nederland (RVO)",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-04T10:29:31.060351"
+    },
+    "score": 6,
+    "reason": "AI innovation designer in Utrecht (perfect location) suggests strategic AI adoption work, but Dutch government role likely has different mandate/context. Without full details, appears partially aligned but unclear if focused on dev team enablement vs. broader organizational innovation.",
+    "embed_sim": 0.19964435696601868,
+    "ai_native_score": 0.6863842606544495
+  },
+  {
+    "job": {
+      "id": "951b3d51c679009b997ba362d7564f16",
+      "title": "1.000+ vacatures voor Ai Automatisering en werk: 3 september 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automatisering-vacatures.html",
+      "snippet": "Ai Automatisering vacatures. Engineer Industri\u00eble Automatisering, Manager Capaciteit En Procesverbetering, Specialist en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-04T10:29:38.974196"
+    },
+    "score": 0,
+    "reason": "This is a search results page, not a job listing. Cannot evaluate. Appears to be an Indeed aggregation page rather than a specific role.",
+    "embed_sim": 0.32120853662490845,
+    "ai_native_score": 0.6192879676818848
+  },
+  {
+    "job": {
+      "id": "3371dc85a9bb9012ed4302a8ee2d227e",
+      "title": "Generatieve AI adoptie specialist bij Heijmans - Rosmalen ...",
+      "company": "Heijmans - Rosmalen ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/generatieve-ai-adoptie-specialist-at-heijmans-4461783066",
+      "snippet": "3 days ago \u00b7 Solliciteer naar Generatieve AI adoptie specialist bij Heijmans in Rosmalen. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-04T10:29:50.895940"
+    },
+    "score": 7,
+    "reason": "Generatieve AI adoption specialist - direct match for AI adoption focus. Senior level role. Primary concern: Rosmalen is ~80km from Utrecht, outside preferred 40km radius. Otherwise strong alignment with candidate's adoption/enablement mandate.",
+    "embed_sim": 0.18599817156791687,
+    "ai_native_score": 0.5934906005859375
+  },
+  {
+    "job": {
+      "id": "5a62f80e15b090b866195b5059d8dc0b",
+      "title": "Brunel zoekt een AI Adoption & Enablement Expert in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-enablement-expert-at-brunel-4461248336?position=12&pageNum=0",
+      "snippet": "A proven track record of driving adoption of digital or AI tools or platforms across multiple regions or business units \u2014 this is your strongest credential Experience designing and delivering training programs and communications for diverse, non-technical audiences",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-04T10:29:50.895958"
+    },
+    "score": 8,
+    "reason": "AI Adoption & Enablement Expert at Brunel - near-perfect match. Explicitly seeks driving adoption of AI tools, training programs, non-technical audiences. Strong credentials match. Location unknown but Brunel is multinational with Netherlands presence. Only concern: location verification needed.",
+    "embed_sim": 0.35574793815612793,
+    "ai_native_score": 0.6751807928085327
+  },
+  {
+    "job": {
+      "id": "dd22b006721a0a00a79c4429de032328",
+      "title": "Senior AI Research Engineer - Adyen - Magnet.me",
+      "company": "Magnet.me",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1074549/senior-ai-research-engineer",
+      "snippet": "23 aug 2026 \u00b7 Senior AI Research Engineer. Baan \u2022 Amsterdam, NL. Geplaatst 23 aug. 2026. Vacature delen ... Omslagfoto van Senior AI Adoption & Change ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-04T10:29:54.371389"
+    },
+    "score": 2,
+    "reason": "Senior AI Research Engineer at Adyen suggests ML/research focus, not dev team enablement. Amsterdam location is acceptable but role is misaligned with candidate's adoption/enablement goals. Likely requires deep AI/ML expertise.",
+    "embed_sim": 0.34100377559661865,
+    "ai_native_score": 0.6752733588218689
+  },
+  {
+    "job": {
+      "id": "e91b50473ddfad0637f9ae67793b0d88",
+      "title": "Software Engineer, AI Platform - Mixpanel - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1063387/software-engineer--ai-platform",
+      "snippet": "28 jul 2026 \u00b7 We are looking for a driven Software Engineer to join the AI Platform team. You will be responsible for building the scalable, secure, and ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-04T10:30:14.451007"
+    },
+    "score": 1,
+    "reason": "Software Engineer, AI Platform at Mixpanel - building AI platform infrastructure, not enabling dev teams to adopt AI tools. Requires platform/infrastructure engineering expertise. Misaligned with candidate's adoption/enablement focus.",
+    "embed_sim": 0.4198307394981384,
+    "ai_native_score": 0.6129742860794067
   }
 ]
