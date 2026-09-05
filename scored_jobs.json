@@ -728,10 +728,10 @@
       "url": "https://www.morganblack.nl/werken-met-ai-banen-salaris-vacatures/",
       "snippet": "Bekijk actuele AI vacatures in Nederland. Van AI engineer tot AI specialist \u2014 ontdek salarissen, gevraagde skills en hoe jij een baan in AI via MorganBlack vindt.",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-27T08:33:29.391146"
+      "date_found": "2026-09-05T09:54:27.401977"
     },
     "score": 0,
-    "reason": "Generic job search aggregator/landing page. No specific job listing to evaluate.",
+    "reason": "Generic job board listing page, not a specific job posting. No actionable role information available.",
     "embed_sim": 0.3508017361164093,
     "ai_native_score": 0.7156141996383667
   },
@@ -2146,18 +2146,18 @@
   {
     "job": {
       "id": "271ac230b20dfb30f82b8a9638c5eb35",
-      "title": "401 vacatures voor ai software engineer in Nederland | Glassdoor",
+      "title": "638 vacatures voor ai software engineer in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "Eindhoven",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-software-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
-      "snippet": "Vacatures voor software engineer (m/v/x) in EindhovenVacatures in EindhovenVacatures bij ViNotion in Eindhoven \u00b7 Reviews van werknemers bij ViNotionOverzicht ViNotion ... Je werkt aan innovatieve oplossingen en bouwt aan je netwerk van collega's en klanten. Strong communication skills and the ability to work with both technical\u2026\u2026 Vaardigheden: Machinaal leren, Deep learning, APIs, Agile, AI",
+      "snippet": "638 vacature(s) voor Ai software engineer in Nederland Relevantie GRID | individuals Junior AI Engineer Nederland \u20ac 3.300 - \u20ac 4.200 (opgegeven door werkgever) Het testen, verbeteren en verder ontwikkelen van AI-oplossingen op basis van feedback van gebruikers. Bij deze internationale technische organisatie krijg je de\u2026\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-07T08:30:55.811452"
+      "date_found": "2026-09-05T09:54:58.447115"
     },
     "score": 0,
-    "reason": "Generic search results aggregator page showing AI software engineer vacancies. Location appears to be Eindhoven (outside 40km radius from Utrecht). No specific role or company details to evaluate.",
-    "embed_sim": 0.3677317798137665,
-    "ai_native_score": 0.6880400776863098
+    "reason": "Generic Glassdoor job board listing page showing multiple aggregated results, not a specific job posting. No actionable role information.",
+    "embed_sim": 0.339272141456604,
+    "ai_native_score": 0.7431831359863281
   },
   {
     "job": {
@@ -7298,18 +7298,18 @@
   {
     "job": {
       "id": "c3a2384aecf4fef7e4d278b106bcccc5",
-      "title": "109 vacatures voor junior ai engineer in Nederland - Glassdoor",
+      "title": "228 vacatures voor junior ai engineer in Nederland - Glassdoor",
       "company": "",
-      "location": "Nieuwegein",
+      "location": "Utrecht",
       "url": "https://www.glassdoor.nl/Vacature/nederland-junior-ai-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,28.htm",
-      "snippet": "109 vacature(s) voor Junior ai engineer in Nederland ; Logo van GTE. GTE \u00b7 Junior AI Engineer. Nieuwegein. \u20ac 3.000 - \u20ac 5.000 (opgegeven door werkgever).",
-      "source": "ddg:glassdoor",
-      "date_found": "2026-05-27T09:40:39.380122"
+      "snippet": "228 vacature(s) voor Junior ai engineer in Nederland \u00b7 Vacatures voor systems engineer (m/v/x) in UtrechtVacatures in UtrechtVacatures bij Capgemini in Utrecht.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-05T09:55:27.269232"
     },
     "score": 0,
-    "reason": "Junior AI Engineer role. Candidate explicitly excludes junior/intern positions and requires senior level.",
-    "embed_sim": 0.23526492714881897,
-    "ai_native_score": 0.7031055092811584
+    "reason": "Junior AI Engineer positions \u2014 candidate is senior level (13 years experience). Also appears to be a search results page, not an actual job listing.",
+    "embed_sim": 0.32834726572036743,
+    "ai_native_score": 0.6705971956253052
   },
   {
     "job": {
@@ -19800,10 +19800,10 @@
       "url": "https://magnet.me/nl-NL/vacature/1027399/ai-data-engineer--5.000---6.500---breda-zoetermeer",
       "snippet": "May 5, 2026 - Minimaal 3 jaar ervaring in een rol als data-engineer of ML/AI-engineer, bij voorkeur met productie-omgeving en cloud-infrastructuur; Sterke kennis van SQL, NoSQL, Python; ervaring met ML-frameworks (zoals TensorFlow, PyTorch) en tools voor MLOps (zoals MLflow, Kubeflow); Ervaring met infrastructuur (cloud \u2014 bijv. AWS, GCP, maar bij voorkeur Azure), containerisatie (Docker, Kubernetes) en data-architectuur; Ervaring met deployment zoals Github en Terraform tooling.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-06T10:11:51.134869"
+      "date_found": "2026-09-05T09:54:23.594760"
     },
-    "score": 0,
-    "reason": "AI Data Engineer requiring 3+ years as data-engineer/ML-engineer, SQL, NoSQL, Python, TensorFlow, PyTorch, MLOps. Pure ML/data engineering role. Explicitly mismatches candidate's profile (no ML expertise desired).",
+    "score": 1,
+    "reason": "AI Data Engineer role requiring 3+ years ML/AI experience, TensorFlow, PyTorch, MLOps tools. Pure ML/data pipeline focus, not AI adoption/enablement. Wrong career path.",
     "embed_sim": 0.41187942028045654,
     "ai_native_score": 0.25353124737739563
   },
@@ -30862,5 +30862,181 @@
     "reason": "Software Engineer, AI Platform at Mixpanel - building AI platform infrastructure, not enabling dev teams to adopt AI tools. Requires platform/infrastructure engineering expertise. Misaligned with candidate's adoption/enablement focus.",
     "embed_sim": 0.4198307394981384,
     "ai_native_score": 0.6129742860794067
+  },
+  {
+    "job": {
+      "id": "256539cd8819fcf5d8a9c0185aa4a075",
+      "title": "Vacature voor een functie als Digital Adoption Consultant bij Capgemini in Utrecht | Glassdoor",
+      "company": "Capgemini In Utrecht",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/digital-adoption-consultant-capgemini-JV_IC3045310_KO0,27_KE28,37.htm?jl=1010195993095",
+      "snippet": "Wij zoeken een Digital Adoption specialist die (complexe) technische transformaties in de digitale werkplek vanuit een mensgerichte kant begeleidt en succesvol maakt. Je zorgt voor waardering van technologie bij de medewerkers en verhoogt de ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-05T09:54:40.095951"
+    },
+    "score": 6,
+    "reason": "Digital Adoption Consultant at Capgemini in Utrecht has some enablement/change management aspects, but appears focused on general digital workplace adoption rather than specifically AI tool adoption. Location is perfect, but job function may not align with AI champion role.",
+    "embed_sim": 0.1610582172870636,
+    "ai_native_score": 0.7346898317337036
+  },
+  {
+    "job": {
+      "id": "e934e892de24655af2d985f07b44464f",
+      "title": "100+ vacatures voor Ai Agent Engineer en werk - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-agent-engineer-vacatures.html",
+      "snippet": "Ai agent engineer vacatures \u00b7 AI Solutions Consultant. SevenLab. Amsterdam. Pensioen \u00b7 AI Engineer. LINKIT. Utrecht. Budget voor professionele ontwikkeling.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-05T09:54:50.586791"
+    },
+    "score": 0,
+    "reason": "Generic job search results page, not a specific job posting. No actual role details or company information provided.",
+    "embed_sim": 0.3044811487197876,
+    "ai_native_score": 0.7393842339515686
+  },
+  {
+    "job": {
+      "id": "80f15f47abe632ab58b7cafa7296ed93",
+      "title": "1.000+ Engineering vacatures in Mountain View, Californi\u00eb ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/engineering-jobs-mountain-view-ca",
+      "snippet": "Meer dan 1.000 topvacatures voor Engineering in Mountain View, Californi\u00eb, Verenigde Staten vandaag. Benut uw professionele netwerk en vind een baan.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-05T09:55:01.942279"
+    },
+    "score": 0,
+    "reason": "Location is Mountain View, California \u2014 far outside candidate's geographical requirement (Utrecht area, Netherlands). Generic LinkedIn job board listing.",
+    "embed_sim": 0.126372292637825,
+    "ai_native_score": 0.5619916319847107
+  },
+  {
+    "job": {
+      "id": "4033ae6faf7e80e2cb77d6bc1745acc5",
+      "title": "Adyen zoekt een Build Tooling Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/development-tooling-engineer-build-test-at-adyen-4393458709",
+      "snippet": "Experience with developer portals (e.g., Spotify Backstage). Building build analysis or observability tooling (e.g., Gradle Profiler, Develocity Build Scans).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-05T09:55:01.942290"
+    },
+    "score": 3,
+    "reason": "Build Tooling Engineer at Adyen in Amsterdam is focused on developer infrastructure/observability tooling (Gradle, Develocity), not AI tool adoption. While DevEx-adjacent and good location, no AI enablement component.",
+    "embed_sim": 0.354030966758728,
+    "ai_native_score": 0.5207434296607971
+  },
+  {
+    "job": {
+      "id": "0de7ec70d257c9124f6c3fed0d0ae202",
+      "title": "Lead ML/AI Platform Engineer bij Jobgether - LinkedIn",
+      "company": "Jobgether - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/lead-ml-ai-platform-engineer-at-jobgether-4456887590",
+      "snippet": "The role spans managed AWS machine learning services, open-source ML tooling, model serving, inference pipelines, and production integrations. You will also ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-05T09:55:01.942300"
+    },
+    "score": 2,
+    "reason": "Lead ML/AI Platform Engineer role focuses on ML model serving, inference pipelines, and production ML infrastructure. Requires deep ML expertise (AWS ML services, model serving). Not about AI tool adoption for developers.",
+    "embed_sim": 0.5282089114189148,
+    "ai_native_score": 0.3120132088661194
+  },
+  {
+    "job": {
+      "id": "bfa5292326b09b895f8d9e90f0baddb1",
+      "title": "machine learning engineer, Englewood Cliffs, NJ - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/englewood-cliffs-machine-learning-engineer-vacatures-SRCH_IL.0,16_IC1126753_KO17,42.htm",
+      "snippet": "Zoek vacatures voor Machine learning engineer in Englewood Cliffs, NJ met bedrijfsreviews en salarissen. 1.356 vacatures voor Machine learning engineer in ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-05T09:55:06.519097"
+    },
+    "score": 0,
+    "reason": "Machine Learning Engineer in Englewood Cliffs, NJ. Wrong location (USA, not Netherlands). Pure ML engineering role. Generic job board listing.",
+    "embed_sim": 0.19343507289886475,
+    "ai_native_score": 0.4273465871810913
+  },
+  {
+    "job": {
+      "id": "a171506a6d9a682d7f217e7f0db915c3",
+      "title": "Product Designer (AI-Native) bij Hypersolid - LinkedIn",
+      "company": "Hypersolid - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/product-designer-ai-native-at-hypersolid-4462167051",
+      "snippet": "Fluency with AI prototyping tools, with the ability to work directly in code rather than relying solely on prompts. Comfortable with component-based design ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-05T09:55:17.785617"
+    },
+    "score": 2,
+    "reason": "Product Designer (AI-Native) role focused on design and AI prototyping tools for product work. Not about enabling dev teams to adopt AI tools. Different discipline (design vs. engineering adoption).",
+    "embed_sim": 0.3388446271419525,
+    "ai_native_score": 0.49125903844833374
+  },
+  {
+    "job": {
+      "id": "2ad8c23feca53d12753607c3114ddbb7",
+      "title": "Data & AI Product Specialist bij Van Oord - Vacatures - LinkedIn",
+      "company": "Van Oord - Vacatures - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-product-specialist-at-van-oord-4450730657",
+      "snippet": "Data and AI are changing the way we work, make decisions and deliver results. As a Data Engineer, you play a key role in turning data into reliable and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-05T09:55:17.785628"
+    },
+    "score": 2,
+    "reason": "Data Engineer role focused on data pipelines and turning data into insights \u2014 classic ML/data science work. Not about helping teams adopt AI tools. Location unknown.",
+    "embed_sim": 0.31183552742004395,
+    "ai_native_score": 0.465738445520401
+  },
+  {
+    "job": {
+      "id": "b41f00f02979f72ed0f5ed181e52e282",
+      "title": "557 vacatures voor ai ml in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-ml-vacatures-SRCH_IL.0,11_IN178_KO12,17.htm",
+      "snippet": "557 vacature(s) voor Ai ml in Nederland ... Psynalytics B.V.. Generative AI Engineer (x2). Nederland. \u20ac 4.000 - \u20ac 6.000 (opgegeven door werkgever).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-05T09:55:34.187255"
+    },
+    "score": 0,
+    "reason": "Generic AI/ML search results page with no specific job details. Appears to be a search aggregator, not a real listing. Location unknown.",
+    "embed_sim": 0.18501503765583038,
+    "ai_native_score": 0.6312056183815002
+  },
+  {
+    "job": {
+      "id": "4308de4c12eee0b3ba2179826cdd492a",
+      "title": "18 vacatures voor machine learning engineer in Olympia, WA",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/olympia-machine-learning-engineer-vacatures-SRCH_IL.0,7_IC1150386_KO8,33.htm",
+      "snippet": "18 vacature(s) voor Machine learning engineer in Olympia, WA ; DataAnnotation \u00b7 Software Engineer - AI Trainer. Washington State. US$ 50,00 - US$ 100,00 Per uur ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-05T09:55:34.187267"
+    },
+    "score": 0,
+    "reason": "Machine Learning Engineer roles in Olympia, WA (USA) \u2014 wrong continent, wrong domain (ML model training), wrong seniority level for some.",
+    "embed_sim": 0.24679787456989288,
+    "ai_native_score": 0.4831239879131317
+  },
+  {
+    "job": {
+      "id": "049e635477b5e9a7b5c557735f248723",
+      "title": "Senior Software Developer (AI) in Amsterdam bij Conclusion ...",
+      "company": "Conclusion ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1065782/senior-software-developer--ai-",
+      "snippet": "Aug 5, 2026 \u00b7 Bij Conclusion Enablement zoeken we een Senior Software Developer (AI) die moderne cloud-native oplossingen bouwt \u00e9n AI slim inzet om sneller, beter en meer schaalbare software te ontwikkelen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-05T09:55:38.109580"
+    },
+    "score": 6,
+    "reason": "Senior developer role in Amsterdam building cloud-native solutions 'smart use of AI.' Sounds like it could involve both building AND enabling AI, but snippet is vague on whether this is ML engineering or AI adoption/tooling focus. Amsterdam is within 40km of Utrecht. Senior level matches. Needs deeper review to confirm it's not primarily about building ML models.",
+    "embed_sim": 0.4177519381046295,
+    "ai_native_score": 0.7050594687461853
   }
 ]
