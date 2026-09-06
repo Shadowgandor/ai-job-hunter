@@ -4500,16 +4500,16 @@
       "id": "aa3ee7897d5ca10fa9f0825a00bde77a",
       "title": "Vacature Prompt Engineer - Coolblue - Werken in AI",
       "company": "Werken in AI",
-      "location": "Rotterdam",
+      "location": "",
       "url": "https://werkeninai.nl/prompt-engineer-coolblue/",
-      "snippet": "Vacature: Coolblue in Rotterdam zoekt een fulltime Prompt Engineer | Sluitingsdatum: onbekend. Als Prompt Engineer maak je onze chatbots slimmer en persoonlijker, zodat ze klanten vriendelijker en effici\u00ebnter helpen. Je stuurt LLM's aan met slimme prompts en bouwt prototype agents in Python met LangChain. Je analyseert de modeloutput (natuurlijk ook met AI) en verbetert met je bevindingen ...",
+      "snippet": "En je denkt actief mee over nieuwe toepassingen van AI binnen bestaande processen. Als toekomstig prompt engineer schrijf je natuurlijk jouw motivatiebrief met AI.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-05-17T08:17:54.105281"
+      "date_found": "2026-09-06T10:13:10.571510"
     },
-    "score": 2,
-    "reason": "Prompt Engineer role at Coolblue building chatbots and LLM agents in Python. Requires ML/Python expertise and model building \u2014 not AI adoption/enablement. Wrong focus and wrong location (Rotterdam, 70km away).",
-    "embed_sim": 0.25286367535591125,
-    "ai_native_score": 0.5767130851745605
+    "score": 4,
+    "reason": "Prompt Engineer role at Coolblue. While AI-focused, the framing suggests content/prompt creation and AI process optimization rather than helping dev teams adopt AI tooling. No clear SDLC or developer enablement angle. Coolblue is retail-focused, not a technical platform.",
+    "embed_sim": 0.2581104636192322,
+    "ai_native_score": 0.788531482219696
   },
   {
     "job": {
@@ -13688,10 +13688,10 @@
       "url": "https://www.glassdoor.nl/Vacature/north-brabant-ai-engineer-vacatures-SRCH_IL.0,13_IS5907_KO14,25.htm",
       "snippet": "Als AI Engineer werk je aan oplossingen waarin data, machine learning en generatieve AI samenkomen, zoals de ontwikkeling van een netwerk van AI-agents.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-15T11:58:21.566962"
+      "date_found": "2026-09-06T10:12:57.406660"
     },
     "score": 2,
-    "reason": "AI Engineer role in Noord-Brabant focused on machine learning, data, and generative AI agent networks. This is ML-focused development, not AI tool enablement. Location is far from Utrecht (Eindhoven region). Requires ML expertise candidate explicitly does not want.",
+    "reason": "AI Engineer roles in Noord-Brabant focused on 'data, machine learning en generatieve AI' and 'AI-agents networks'. This is ML/model-building work, not AI tool adoption for dev teams. Also Noord-Brabant is too far from Utrecht (candidate specified 40km radius).",
     "embed_sim": 0.39023399353027344,
     "ai_native_score": 0.7457495927810669
   },
@@ -31038,5 +31038,229 @@
     "reason": "Senior developer role in Amsterdam building cloud-native solutions 'smart use of AI.' Sounds like it could involve both building AND enabling AI, but snippet is vague on whether this is ML engineering or AI adoption/tooling focus. Amsterdam is within 40km of Utrecht. Senior level matches. Needs deeper review to confirm it's not primarily about building ML models.",
     "embed_sim": 0.4177519381046295,
     "ai_native_score": 0.7050594687461853
+  },
+  {
+    "job": {
+      "id": "b443e443b92e6040e40ba519faa395fb",
+      "title": "Alliander zoekt een IAM Onboarding Specialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/iam-onboarding-specialist-at-alliander-4443934904",
+      "snippet": "improving and standardising our onboarding processes and ways of working; resolving technical issues relating to integrations, provisioning and identity lifecycle processes. You make the grid more complete at Alliander Did you know that Alliander consists of several companies that work together on a reliable and future-proof energy grid?",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:12:08.701142"
+    },
+    "score": 0,
+    "reason": "IAM Onboarding Specialist role is focused on identity management and provisioning processes, not AI tool adoption or developer enablement. Completely outside candidate's domain.",
+    "embed_sim": 0.250907838344574,
+    "ai_native_score": 0.3893999457359314
+  },
+  {
+    "job": {
+      "id": "652bdaf693305d675ad248259812df6c",
+      "title": "AI Engineer / LLM Engineer bij What's Next AI - LinkedIn",
+      "company": "What'S Next Ai - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-llm-engineer-at-what-s-next-ai-4410582755",
+      "snippet": "Debug AI systems that do not behave the way they should Work with project leads, consultants and other engineers to translate client questions into working solutions",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:12:08.701155"
+    },
+    "score": 3,
+    "reason": "AI Engineer/LLM Engineer title suggests ML model building and debugging AI systems ('Debug AI systems that do not behave'), not helping teams adopt AI tools. Candidate explicitly does NOT want pure ML/model building roles.",
+    "embed_sim": 0.495451420545578,
+    "ai_native_score": 0.6375312805175781
+  },
+  {
+    "job": {
+      "id": "b58a1912393074c692579567cc4db25e",
+      "title": "300+ vacatures voor IT Adoptie en werk - Indeed",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/IT-Adoptie-vacatures",
+      "snippet": "Digital Adoption Consultant. Capgemini Sogeti. Utrecht. Bedrijfslaptop. Pensioen. Reiskostenvergoeding. Vergelijkbare vacatures bij deze werkgever bekijken.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-06T10:12:12.247555"
+    },
+    "score": 6,
+    "reason": "Digital Adoption Consultant at Capgemini Sogeti in Utrecht is a strong location match and adoption-focused role. However, listing is minimal/generic and doesn't clarify if this is about AI tool adoption specifically or broader digital transformation. Potential match but needs investigation.",
+    "embed_sim": 0.07966436445713043,
+    "ai_native_score": 0.6136390566825867
+  },
+  {
+    "job": {
+      "id": "66e38e12da27170d1f8841efb075a0f5",
+      "title": "2.000+ vacatures voor Ai Solution en werk: 31 augustus 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-solution-vacatures.html?vjk=4657f3cfdbc69740",
+      "snippet": "Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-06T10:12:20.004134"
+    },
+    "score": 0,
+    "reason": "Generic job board search results page for 'AI Solution' internships/graduate programs. Not an actual job listing. Candidate is senior level and explicitly not seeking traineeships.",
+    "embed_sim": 0.29120299220085144,
+    "ai_native_score": 0.658076822757721
+  },
+  {
+    "job": {
+      "id": "59a8c3aafce865119ebd44ac3f3ae293",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 6 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=e65f7978f5343d05",
+      "snippet": "Strong affinity with AI, automation, and emerging technologies. Comfortable working hands-on with data, automation, and analytical tools.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-06T10:12:20.004145"
+    },
+    "score": 0,
+    "reason": "Generic job board search results page for 'AI Automation' roles. Not an actual specific job listing. Lacks concrete details about role scope and location.",
+    "embed_sim": 0.3216170072555542,
+    "ai_native_score": 0.6207748651504517
+  },
+  {
+    "job": {
+      "id": "747b4af156fec926443487ad5bb9337f",
+      "title": "378 vacatures voor machine learning engineer in Lisle, IL",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/lisle-machine-learning-engineer-vacatures-SRCH_IL.0,5_IC1128900_KO6,31.htm",
+      "snippet": "Zoek vacatures voor Machine learning engineer in Lisle, IL met bedrijfsreviews en salarissen. 378 vacatures voor Machine learning engineer in Lisle.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-06T10:12:39.214767"
+    },
+    "score": 0,
+    "reason": "Machine learning engineer roles in Lisle, IL (USA). Wrong location entirely, and ML engineer roles are not a match for the candidate.",
+    "embed_sim": 0.313046932220459,
+    "ai_native_score": 0.5763325095176697
+  },
+  {
+    "job": {
+      "id": "068a0fe2a8e90b5772184d0c9e11938b",
+      "title": "172 vacatures voor Buenos Aires - thuiswerk | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/buenos-aires-systems-integration-engineer-vacatures-SRCH_IL.0,12_IC2242084_KW13,41.htm",
+      "snippet": "AI Engineer. Buenos Aires. Snelsollicitatie. Experience with AI configuration, WhatsApp, APIs, and third-party integrations. ... AI Engineer - Forward Deployed ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-06T10:12:39.214792"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor search results from Buenos Aires (wrong location, wrong continent). Not a specific job listing and outside candidate's geographic scope.",
+    "embed_sim": 0.2481236755847931,
+    "ai_native_score": 0.6088449358940125
+  },
+  {
+    "job": {
+      "id": "ff34e28f02339999ca155323f5d2c983",
+      "title": "UX Designer (AI) in Delft bij TOPdesk | Magnet.me | #1064213 (nl)",
+      "company": "Topdesk",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1064213/ux-designer--ai-",
+      "snippet": "Doen we gewoon onder werktijd. Zeiden we al dat mensen helpen in ons DNA zit?Volledige vacaturetekst bekijken",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-06T10:12:48.749832"
+    },
+    "score": 1,
+    "reason": "UX Designer (AI) role at TOPdesk in Delft. While Delft is closer to Utrecht, this is a UX design position, not an AI adoption/enablement engineer role. Wrong function entirely.",
+    "embed_sim": 0.16597890853881836,
+    "ai_native_score": 0.6955580711364746
+  },
+  {
+    "job": {
+      "id": "b1c9e16277ebf6ea3215932c0d79b26a",
+      "title": "Team Lead (Founding Leader) \u2014 AI IDE & Agentic Developer ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/team-lead-founding-leader-\u2014-ai-ide-agentic-developer-tooling-at-european-tech-recruit-4462868062",
+      "snippet": "Working at the intersection of developer experience, software engineering infrastructure, and artificial intelligence, the team is creating systems designed to ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:13:01.412464"
+    },
+    "score": 8,
+    "reason": "Team Lead for AI IDE & Agentic Developer Tooling is nearly perfect match: focuses on developer experience, software engineering infrastructure, and AI tools/agents for developers. Founding leader role suggests strategic impact. Missing specific location info but title and scope strongly align with candidate's goals of championing AI adoption in dev workflows.",
+    "embed_sim": 0.5368703603744507,
+    "ai_native_score": 0.8248944282531738
+  },
+  {
+    "job": {
+      "id": "99b9ea76a1ca421788702ccad01f2491",
+      "title": "AI-Native DevEco IDE & Agentic Developer Tooling bij Sparagus",
+      "company": "Sparagus",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/team-lead-\u2014-ai-native-deveco-ide-agentic-developer-tooling-at-sparagus-4460364055",
+      "snippet": "Track and evaluate developments in IDEs, developer tools, and agentic coding systems, including tools such as Claude, Cursor, Trae, Google Antigravity, and ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:13:01.412477"
+    },
+    "score": 9,
+    "reason": "Near-perfect match. Sparagus role focuses on tracking/evaluating AI dev tools (Claude, Cursor, Trae) - exactly the tooling adoption champion work. Team lead level indicates seniority. Location unknown but Sparagus appears to be Netherlands-based. No ML expertise required, pure DevEx/tooling focus.",
+    "embed_sim": 0.4525851011276245,
+    "ai_native_score": 0.7534367442131042
+  },
+  {
+    "job": {
+      "id": "a97f7391b2c7480496b8b03f4b95a3cc",
+      "title": "1.000+ Freelance Software Developer vacatures in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/freelance-software-developer-jobs",
+      "snippet": "Meer dan 1.000 topvacatures voor Freelance Software Developer in Nederland vandaag. Benut uw professionele netwerk en vind een baan.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:13:01.412497"
+    },
+    "score": 0,
+    "reason": "Not a specific job listing. Generic aggregator page for 1000+ freelance developer jobs with no actual position details. Cannot be evaluated as a real opportunity.",
+    "embed_sim": 0.27161988615989685,
+    "ai_native_score": 0.6840830445289612
+  },
+  {
+    "job": {
+      "id": "5937a7304920c9e5052cdd5f993a54f5",
+      "title": "Lead AI Engineer in 's-Hertogenbosch bij iO - Magnet.me",
+      "company": "Io - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1022975/lead-ai-engineer",
+      "snippet": "22 jul 2026 \u00b7 Als Lead AI Engineer ben je de technische motor \u00e9n het gezicht naar de klant. Je werkt zo'n drie dagen per week aan het bouwen van AI- ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-06T10:13:19.543681"
+    },
+    "score": 2,
+    "reason": "Lead AI Engineer in 's-Hertogenbosch (far from Utrecht, 100+ km). Snippet suggests building AI systems ('building of AI') rather than enabling adoption. iO is a consulting firm known for client delivery, not internal platform/DevEx work. Likely requires ML/AI product development skills.",
+    "embed_sim": 0.24965542554855347,
+    "ai_native_score": 0.6740713715553284
+  },
+  {
+    "job": {
+      "id": "03ac8efe8f970fafb275640fee1aeebf",
+      "title": "Alliander zoekt een AI Adoption Enablement Engineer in Arnhem",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-enablement-engineer-at-alliander-4463326999",
+      "snippet": "AI literacy binnen ENTRNCE verhogen: je helpt collega's begrijpen wat generatieve AI kan, waar de grenzen liggen en hoe zij AI veilig en effectief kunnen ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:13:23.343850"
+    },
+    "score": 8,
+    "reason": "Strong match. Alliander's 'AI Adoption Enablement Engineer' is explicitly focused on helping colleagues understand generative AI, safe/effective usage - core enablement mission. Arnhem location is ~30km from Utrecht (acceptable range). Enterprise financial context aligns with candidate's compliance/banking background. Senior technical enablement role.",
+    "embed_sim": 0.32468074560165405,
+    "ai_native_score": 0.7960875630378723
+  },
+  {
+    "job": {
+      "id": "ff9428a5da2d47287a52a39d4bbc8a12",
+      "title": "AI Solutions Consultant bij OWOW - Eindhoven - LinkedIn",
+      "company": "Owow - Eindhoven - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-consultant-at-owow-4415099408",
+      "snippet": "Hands-on experience with modern AI tooling: LLMs, prompt design, transcript analysis, and AI-assisted document and flow generation. Strong written & spoken ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-06T10:13:23.343860"
+    },
+    "score": 3,
+    "reason": "AI Solutions Consultant at OWOW (Eindhoven, ~90km from Utrecht - too far). Role emphasizes LLMs, prompt design, transcript analysis, and document flow generation - suggests building AI-powered solutions/products rather than enabling dev teams to adopt tools. Hands-on AI tooling mentioned but in solution delivery context, not adoption enablement.",
+    "embed_sim": 0.36362630128860474,
+    "ai_native_score": 0.6291372776031494
   }
 ]
