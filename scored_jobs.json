@@ -15442,18 +15442,18 @@
   {
     "job": {
       "id": "ad2c1795bd5e5b276287b49c42e03ee6",
-      "title": "200+ vacatures voor Adoptie Specialist en werk: 17 juni 2026| Indeed",
+      "title": "200+ vacatures voor Adoptie Specialist en werk: 3 september 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html?vjk=bacd86ad0d7d39ad",
-      "snippet": "Adoptie Specialist vacatures. Data Scientist, Software Consultant, Medewerker Klantenservice en meer op Indeed.com",
-      "source": "ddg:indeed",
-      "date_found": "2026-06-21T09:44:38.389187"
+      "snippet": "Adoptie Specialist vacatures. Specialist, Software Consultant, Adviseur Informatieveiligheid en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-07T11:28:07.622742"
     },
     "score": 0,
-    "reason": "Search results page, not a job listing. No actual position details available.",
-    "embed_sim": 0.21198922395706177,
-    "ai_native_score": 0.6102868318557739
+    "reason": "Generic search results aggregator page. Not a specific job listing with actual role details or company information.",
+    "embed_sim": 0.20192906260490417,
+    "ai_native_score": 0.5814527869224548
   },
   {
     "job": {
@@ -19480,12 +19480,12 @@
       "url": "https://nl.indeed.com/q-responsible-ai-vacatures.html",
       "snippet": "Verder zet jij jouw ervaring en overtuigingskracht in voor het 'responsible by design' maken van AI-producten. ... Alle vacatures voor BDO - Eindhoven vacatures - vacatures voor Responsible Gaming Officer Igaming (m/v) in Eindhoven bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-07-04T08:33:35.192505"
+      "date_found": "2026-09-07T11:29:07.762159"
     },
-    "score": 2,
-    "reason": "Located in Eindhoven (too far from Utrecht, 80+ km). Role appears focused on 'responsible by design' for AI-products (building AI systems) rather than enabling teams to adopt AI tools. Likely requires ML/responsible AI expertise, not the candidate's adoption-focused profile.",
-    "embed_sim": 0.143095463514328,
-    "ai_native_score": 0.6045522093772888
+    "score": 0,
+    "reason": "This is an Indeed search results aggregation page, not a specific job posting. Cannot evaluate the actual role requirements or details. The snippet mentions 'responsible by design' AI-products which suggests building/developing AI systems rather than enabling adoption. Location (Eindhoven) is also outside preferred range.",
+    "embed_sim": 0.1430954486131668,
+    "ai_native_score": 0.6045522689819336
   },
   {
     "job": {
@@ -19590,14 +19590,14 @@
       "company": "",
       "location": "Amsterdam",
       "url": "https://nl.indeed.com/q-ai-coding-vacatures.html",
-      "snippet": "Deep, hands-on familiarity with modern AI tooling for developers, including coding assistants, agents, MCP, and LLM-based workflows. Alle vacatures voor JetBrains - Amsterdam vacatures - vacatures voor Shift Leader in Amsterdam bekijken \u00b7 Zoeken op salaris: AI Lead, Python Tools salarissen in Amsterdam \u00b7 As well as a strong understanding of the product, the role requires solid engineering skills and practical experience with coding.",
+      "snippet": "Deep, hands-on familiarity with modern AI tooling for developers, including coding assistants, agents, MCP, and LLM-based workflows. Alle vacatures voor JetBrains - Amsterdam vacatures - vacatures voor Shift Leader in Amsterdam bekijken \u00b7 Zoeken op salaris: AI Lead, Python Tools salarissen in Amsterdam \u00b7 As well as a strong understanding of the product, the role requires solid engineering skills and practical experience ...",
       "source": "ddg:indeed",
-      "date_found": "2026-07-05T08:49:03.213679"
+      "date_found": "2026-09-07T11:27:57.131027"
     },
-    "score": 7,
-    "reason": "AI Coding role emphasizing 'modern AI tooling for developers, coding assistants, agents, MCP, LLM workflows' \u2014 strong match for candidate's expertise and mission; Amsterdam location within 40km of Utrecht",
-    "embed_sim": 0.3702772259712219,
-    "ai_native_score": 0.7468100190162659
+    "score": 0,
+    "reason": "Generic search results page, not an actual job listing. No specific role, company, or details provided.",
+    "embed_sim": 0.3729270100593567,
+    "ai_native_score": 0.7293522357940674
   },
   {
     "job": {
@@ -20326,14 +20326,14 @@
       "company": "LinkedIn",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-at-mytomorrows-4431271209",
-      "snippet": "Jun 23, 2026 \u00b7 Experience building internal tools, developer tools, workflow automation, or operations tooling. Experience with AI evaluation frameworks, model monitoring, prompt/version management, or human-in-the-loop review systems.",
+      "snippet": "You are an experienced software engineer who knows how to build reliable systems, and who is experienced with the possibilities created by LLMs, agents, AI-assisted coding, retrieval, workflow automation, and internal tooling.",
       "source": "ddg:linkedin",
-      "date_found": "2026-07-08T08:22:54.159560"
+      "date_found": "2026-09-07T11:28:33.632665"
     },
     "score": 4,
-    "reason": "Applied AI Engineer at myTomorrows building internal tools and developer tools. Some tooling/automation focus is relevant, but emphasis on AI evaluation frameworks, model monitoring, and prompt management suggests more AI system building than team enablement role.",
-    "embed_sim": 0.46021372079849243,
-    "ai_native_score": 0.6246137022972107
+    "reason": "Applied AI Engineer at myTomorrows in Amsterdam. While Amsterdam location is acceptable and mentions AI-assisted coding/agents, job description emphasizes 'building reliable systems' and LLM workflows\u2014suggests engineering AI solutions rather than enabling team adoption. Likely requires deeper AI/system building expertise.",
+    "embed_sim": 0.423387348651886,
+    "ai_native_score": 0.6291422843933105
   },
   {
     "job": {
@@ -31262,5 +31262,133 @@
     "reason": "AI Solutions Consultant at OWOW (Eindhoven, ~90km from Utrecht - too far). Role emphasizes LLMs, prompt design, transcript analysis, and document flow generation - suggests building AI-powered solutions/products rather than enabling dev teams to adopt tools. Hands-on AI tooling mentioned but in solution delivery context, not adoption enablement.",
     "embed_sim": 0.36362630128860474,
     "ai_native_score": 0.6291372776031494
+  },
+  {
+    "job": {
+      "id": "6aa075d04f6c84178baadc598d5e7af7",
+      "title": "Ai Adoption Consultant - vacatures - 5 september 2026 | Indeed",
+      "company": "Indeed",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-adoption-consultant-vacatures.html",
+      "snippet": "3521 Utrecht Enkele jaren relevante ervaring als consultant, business consultant, technology consultantof in een vergelijkbare klantgerichte rol. Alle vacatures voor adesso Netherlands - Utrecht vacatures- vacatures voor Business Consultant (m/v) in Utrechtbekijken Zoeken op salaris: Microsoft AI consultant salarissen in Utrecht Consultant AI ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-07T11:28:07.622717"
+    },
+    "score": 0,
+    "reason": "Generic search results page with vague snippet. No actual job listing details, company, or role description available.",
+    "embed_sim": 0.2957342565059662,
+    "ai_native_score": 0.6007896065711975
+  },
+  {
+    "job": {
+      "id": "1196479d431c1237b125d1230dc8a7de",
+      "title": "Adoptiespecialist M | NS | Freelance Opdrachten",
+      "company": "NS",
+      "location": "Utrecht",
+      "url": "https://depubliekepartner.nl/adoptiespecialist-m/",
+      "snippet": "ZZP-opdracht bij NS in Utrecht: help M365- en Copilot-adoptie versnellen, verbind teams en verbeter de digitale werkplek.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-07T11:28:07.622924"
+    },
+    "score": 8,
+    "reason": "Adoptiespecialist role at NS in Utrecht focused on M365 and Copilot adoption. Perfect location match, directly aligned with AI tooling adoption mandate. Freelance format may be concern but role concept is excellent fit.",
+    "embed_sim": 0.2244390994310379,
+    "ai_native_score": 0.7523261904716492
+  },
+  {
+    "job": {
+      "id": "f50f5ef51ea22dc960ba2e8af7642d40",
+      "title": "Vacatures bij TENEX.AI - 118 openstaande vacatures | Glassdoor",
+      "company": "Tenex.Ai - 118 Openstaande Vacatures",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacatures/TENEX-AI-Vacatures-E10442356.htm",
+      "snippet": "(Schat. van Glassdoor). 28d. AI Enablement Engineer. Sarasota, FL. 30d+. Forward Deployed Engineer. Overland Park, KS. US$ 81K - US$ 137K (Schat. van Glassdoor).",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-07T11:28:18.523332"
+    },
+    "score": 0,
+    "reason": "Generic Glassdoor company page aggregating multiple vacancies. Locations are US-based (Florida, Kansas). No specific job listing with details.",
+    "embed_sim": 0.16593924164772034,
+    "ai_native_score": 0.44856545329093933
+  },
+  {
+    "job": {
+      "id": "8df5dfee89789b677a04219d6012baeb",
+      "title": "Senior AI Architect in Amsterdam bij ML6 | Magnet.me",
+      "company": "Ml6",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1053768/senior-ai-architect",
+      "snippet": "Senior AI Architect. Baan \u2022 Amsterdam, NL. Geplaatst 30 jun. 2026. Vacature delen. Delen: Kopi\u00ebren. Werkervaring ... Omslagfoto van Senior AI Adoption & ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-07T11:28:22.037699"
+    },
+    "score": 3,
+    "reason": "Senior AI Architect at ML6 in Amsterdam. While Amsterdam is acceptable location and senior level matches, 'Architect' title typically implies ML/technical AI system design rather than adoption enablement. Likely requires deep AI/ML expertise.",
+    "embed_sim": 0.3027152419090271,
+    "ai_native_score": 0.7111806273460388
+  },
+  {
+    "job": {
+      "id": "0dca8991d736c77e3a2fcf2401f3c379",
+      "title": "AI Adoption Enablement Engineer - 6811 Arnhem - Indeed.com",
+      "company": "Indeed.com",
+      "location": "",
+      "url": "https://nl.indeed.com/viewjob",
+      "snippet": "Deze vacature sluit op 15 oktober 2026. Wil je dat AI niet het speeltje van een paar specialisten blijft, maar een vanzelfsprekend onderdeel wordt van hoe ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-07T11:28:29.802844"
+    },
+    "score": 7,
+    "reason": "AI Adoption Enablement Engineer near Arnhem. Title and snippet strongly suggest adoption/enablement focus ('not just specialists, but standard practice'). Location is slightly far from Utrecht (50km+) but role concept is excellent match. Closing date suggests active listing.",
+    "embed_sim": 0.2925505042076111,
+    "ai_native_score": 0.7443445324897766
+  },
+  {
+    "job": {
+      "id": "22dcebd189096a2accd16fe0ab89afb7",
+      "title": "Senior GenAI Engineer in 's-Hertogenbosch bij Enexis Groep B.V. | Magnet.me | #1072194 (nl)",
+      "company": "Enexis Groep B.V.",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1072194/senior-genai-engineer",
+      "snippet": "Je fungeert als sparringpartner voor Product Owner, Business Analist en management bij het selecteren en vormgeven van AI-usecases. ... Je combineert diepgaande technische kennis met strategisch inzicht. Je overziet het hele speelveld van techniek, processen, risico\u2019s en organisatie. Je experimenteert gecontroleerd en maakt bewuste keuzes in tooling en architectuur, zodat de resultaten duurzaam zijn.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-07T11:28:44.958423"
+    },
+    "score": 4,
+    "reason": "Senior GenAI Engineer at Enexis in 's-Hertogenbosch. Role emphasizes technical depth, AI use-case selection, and strategic oversight\u2014but 's-Hertogenbosch is outside preferred 40km radius from Utrecht (80km+). May require strong ML/technical AI expertise despite adoption elements.",
+    "embed_sim": 0.2609798312187195,
+    "ai_native_score": 0.6671142578125
+  },
+  {
+    "job": {
+      "id": "65080fec7347a655c90c9abdd62a263f",
+      "title": "66 big data software engineer vacatures | 6 september 2026",
+      "company": "6 september 2026",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/big-data-software-engineer",
+      "snippet": "Wil jij aan de slag als Big Data Software Engineer? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Big Data Software Engineer vacatures.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-07T11:28:48.704496"
+    },
+    "score": 0,
+    "reason": "Generic search results aggregator for Big Data Software Engineer roles. Not a specific job listing. Big Data/data engineering is misaligned with candidate's AI adoption focus.",
+    "embed_sim": 0.2607559859752655,
+    "ai_native_score": 0.4875117838382721
+  },
+  {
+    "job": {
+      "id": "4e0ac84da9c48c9c3bedfc5aaaf64602",
+      "title": "920 vacatures voor Prompt Engineer in Nederland - LinkedIn",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/prompt-engineer-jobs",
+      "snippet": "AI Adoption Enablement Engineer. Alliander. Arnhem. Wees een van de eerste ... Utrecht, Nederland 3 weken geleden. Lead AI Engineer. Lead AI Engineer. iO. Den ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-07T11:29:00.055454"
+    },
+    "score": 0,
+    "reason": "This is a LinkedIn search results page listing multiple vacancies, not a single job posting. Cannot evaluate specific role requirements, location details, or job description. Appears to be an aggregated search page rather than an actual job listing.",
+    "embed_sim": 0.23314595222473145,
+    "ai_native_score": 0.7179351449012756
   }
 ]
