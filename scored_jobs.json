@@ -3826,18 +3826,18 @@
   {
     "job": {
       "id": "4bea4e0ace12a5c3ce5cd093f46a48a9",
-      "title": "108 vacatures voor chief ai officer in Nederland | Glassdoor",
+      "title": "110 vacatures voor chief ai officer in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/netherlands-chief-ai-officer-vacatures-SRCH_IL.0,11_IN178_KO12,28.htm",
-      "snippet": "Zoek vacatures voor Chief ai officer in Nederland met bedrijfsreviews en salarissen. 108 vacatures voor Chief ai officer in Nederland.",
+      "snippet": "Deze nieuwe 'way of working' houdt in dat de verantwoordelijkheid voor Data & IT naar de business wordt verplaatst. Dit vereist duidelijke richting, kaders ...",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-15T08:47:15.018571"
+      "date_found": "2026-09-08T10:32:26.872627"
     },
     "score": 0,
-    "reason": "Not a specific job listing \u2014 this is a search results aggregation page for Chief AI Officer roles in Netherlands. No concrete job details provided. Cannot evaluate.",
-    "embed_sim": 0.30024564266204834,
-    "ai_native_score": 0.7183451056480408
+    "reason": "Chief AI Officer search results page (Glassdoor listing aggregator) \u2014 not a specific job posting, appears to be a search results index page, not a real vacancy to apply for",
+    "embed_sim": 0.19876667857170105,
+    "ai_native_score": 0.6227990388870239
   },
   {
     "job": {
@@ -5126,14 +5126,14 @@
       "company": "Io - Magnet.Me",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1022925/lead-ai-engineer",
-      "snippet": "21 Apr 2026 ... Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. Profiel aanmaken. AI beweegt snel. Sneller dan de ...",
+      "snippet": "22 jul 2026 \u00b7 Als Lead AI Engineer ben je de technische motor \u00e9n het gezicht naar de klant. Je werkt zo'n drie dagen per week aan het bouwen van AI- ...",
       "source": "ddg:magnet",
-      "date_found": "2026-05-19T09:37:29.663290"
+      "date_found": "2026-09-08T10:32:01.574438"
     },
-    "score": 2,
-    "reason": "Lead AI Engineer in 's-Hertogenbosch. Title suggests ML engineering leadership. 's-Hertogenbosch is 90+ km from Utrecht (outside candidate's 40km preference). Likely requires deep ML expertise rather than AI adoption coaching. Poor location fit and likely wrong specialization.",
-    "embed_sim": 0.24507881700992584,
-    "ai_native_score": 0.6654244065284729
+    "score": 3,
+    "reason": "Lead AI Engineer in 's-Hertogenbosch \u2014 wrong location (60+ km from Utrecht), mentions 'building AI' which suggests ML/product development rather than enabling teams to adopt AI tools, not a fit for champion/adoption role",
+    "embed_sim": 0.24965542554855347,
+    "ai_native_score": 0.6740713715553284
   },
   {
     "job": {
@@ -12742,14 +12742,14 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/marketing-ai-transformation-lead-samsung/",
-      "snippet": "Experience in AI-driven business development, including creating value propositions and responding to RFPs is a plus. A track record of leading large-scale projects involving multiple teams...",
+      "snippet": "In this role, you will create AI-powered operational blueprints, implement marketing AI tools, and drive AI innovations that enhance marketing activations and ...",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-13T08:54:17.243846"
+      "date_found": "2026-09-08T10:31:52.332502"
     },
-    "score": 2,
-    "reason": "Samsung marketing transformation role focused on business development and RFPs. Not a technical AI adoption/enablement position. Wrong domain (marketing vs. engineering teams).",
-    "embed_sim": 0.4116981625556946,
-    "ai_native_score": 0.6614522337913513
+    "score": 3,
+    "reason": "Marketing AI Transformation Lead at Samsung \u2014 AI tool implementation concept matches, but role is marketing-focused (not engineering teams), location unclear, appears to be marketing ops rather than dev team enablement",
+    "embed_sim": 0.39612072706222534,
+    "ai_native_score": 0.6808735728263855
   },
   {
     "job": {
@@ -19010,18 +19010,18 @@
   {
     "job": {
       "id": "91b0b68e314001e89985ffa55f6c7960",
-      "title": "Meer dan 1.000 vacatures voor Artificial Intelligence Specialist in ...",
+      "title": "9.000 vacatures voor Artificial Intelligence Specialist in Netherlands (49 nieuw)",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/artificial-intelligence-specialist-jobs",
-      "snippet": "Meer dan 1.000 topvacatures voor Artificial Intelligence Specialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Artificial Intelligence Specialist toegevoegd.",
-      "source": "ddg:linkedin",
-      "date_found": "2026-07-03T08:57:44.068506"
+      "snippet": "Meld u aan om een vacaturemelding te maken voor vacatures voor Artificial Intelligence Specialist in Netherlands.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-08T10:31:17.240671"
     },
     "score": 0,
-    "reason": "Generic job search listing page, not an actual job posting. No specific role details available.",
-    "embed_sim": 0.26749706268310547,
-    "ai_native_score": 0.7429160475730896
+    "reason": "LinkedIn job search aggregation page, not a specific job listing \u2014 no actual role details to evaluate",
+    "embed_sim": 0.34203189611434937,
+    "ai_native_score": 0.6925615668296814
   },
   {
     "job": {
@@ -19250,18 +19250,18 @@
   {
     "job": {
       "id": "cebed6715b4315a88ba5aa41bfd1e5f3",
-      "title": "50+ vacatures voor Artificial Intelligence Onderzoek en werk: 22 oktober 2025| Indeed",
+      "title": "75+ vacatures voor Artificial Intelligence Onderzoek en werk: 7 september 2026| Indeed",
       "company": "",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://nl.indeed.com/q-artificial-intelligence-onderzoek-vacatures.html",
-      "snippet": "Artificial Intelligence Onderzoek vacatures. Stagiair, PHP Developer, Traineeship Data Science en meer op Indeed.com",
+      "snippet": "Het onderzoeken en analyseren van AI- en data-use cases voor klanten en interne teams. Tijdens deze stage binnen het Data Strategy & Factory team van Capgemini\u2026 \u00b7 Alle vacatures voor Capgemini Sogeti - Utrecht vacatures - vacatures voor Stagiair (m/v) in Utrecht bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-07-03T08:59:03.375397"
+      "date_found": "2026-09-08T10:31:25.468671"
     },
     "score": 0,
-    "reason": "Generic search results aggregation page. No specific job listing details. Mix of internships, traineeships, and unrelated roles.",
-    "embed_sim": 0.2515410780906677,
-    "ai_native_score": 0.6060912013053894
+    "reason": "Internship/stage position at Capgemini for data research \u2014 candidate requires senior roles, not internships or stage placements",
+    "embed_sim": 0.21470537781715393,
+    "ai_native_score": 0.6132059097290039
   },
   {
     "job": {
@@ -31390,5 +31390,165 @@
     "reason": "This is a LinkedIn search results page listing multiple vacancies, not a single job posting. Cannot evaluate specific role requirements, location details, or job description. Appears to be an aggregated search page rather than an actual job listing.",
     "embed_sim": 0.23314595222473145,
     "ai_native_score": 0.7179351449012756
+  },
+  {
+    "job": {
+      "id": "05d38660bb1e8eba5cf416ad4ee6fda0",
+      "title": "100 vacatures voor anthropic in Boston, MA - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/boston-anthropic-vacatures-SRCH_IL.0,6_IC1154532_KO7,16.htm",
+      "snippet": "Zoek vacatures voor Anthropic in Boston, MA met bedrijfsreviews en salarissen. 100 vacatures voor Anthropic in Boston.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-08T10:31:03.625793"
+    },
+    "score": 0,
+    "reason": "Glassdoor aggregation page for Boston roles at Anthropic \u2014 wrong location (Boston, MA), not actual job listing, appears to be search results page",
+    "embed_sim": 0.034699805080890656,
+    "ai_native_score": 0.4618127644062042
+  },
+  {
+    "job": {
+      "id": "75898c50ed158243313225c66ae76743",
+      "title": "65 vacature(s) voor Ai workflow automation intern in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-workflow-automation-intern-vacatures-SRCH_KO0,29.htm",
+      "snippet": "Zoek vacatures voor Ai workflow automation intern. Vind de juiste vacature voor Ai workflow automation intern met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-08T10:31:03.625805"
+    },
+    "score": 0,
+    "reason": "Intern position \u2014 candidate explicitly requires senior-level roles, not traineeship/intern positions",
+    "embed_sim": 0.36998429894447327,
+    "ai_native_score": 0.7035903930664062
+  },
+  {
+    "job": {
+      "id": "f198807d446c00d553dad0c291811650",
+      "title": "Trainee Automation Developer - Regio Amsterdam in Amsterdam bij The Public Network | Magnet.me | #1069609 (nl)",
+      "company": "The Public Network",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1069609/trainee-automation-developer---regio-amsterdam",
+      "snippet": "En wil je je kennis verder verdiepen in de wereld van (Hyper)automation, RPA en AI? Als je de ambitie hebt om jezelf te ontplooien tot een expert die complexe problemen tackelt en strategisch advies geeft, dan is dit je kans! Lees verder en ontdek de mogelijkheden als Trainee Automation Developer bij The Public Network!",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-08T10:31:08.405813"
+    },
+    "score": 1,
+    "reason": "Trainee/junior automation developer focused on RPA and traditional automation \u2014 wrong seniority level (trainee), wrong domain (RPA vs. AI adoption), not a match",
+    "embed_sim": 0.3200959861278534,
+    "ai_native_score": 0.6934559941291809
+  },
+  {
+    "job": {
+      "id": "ece6c9e6014fc1ce23c33a1aeea36f4a",
+      "title": "Vacature Demand Generation Specialist | AI Start-Up | Utrecht",
+      "company": "AI Start-Up",
+      "location": "",
+      "url": "https://www.werkzoeken.nl/vacature/15952199-demand-generation-specialist-ai-start-up-utrecht/",
+      "snippet": "You'll manage multi-channel campaigns, create engaging content, and work closely with sales to transform interest into opportunities. Enjoy a hybrid work model ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-08T10:31:43.970848"
+    },
+    "score": 0,
+    "reason": "Demand Generation Specialist at AI start-up \u2014 marketing/sales role, not engineering or AI adoption enablement role",
+    "embed_sim": 0.165604829788208,
+    "ai_native_score": 0.5310198068618774
+  },
+  {
+    "job": {
+      "id": "46da3f898e6eefbfb19294e264f94033",
+      "title": "Indeed zet v\u00f3l in op job search via AI en ChatGPT, maar wat ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.recruitmenttech.nl/2026/06/29/indeed-zet-vol-in-op-job-search-via-ai-en-chatgpt-maar-wat-levert-het-op/",
+      "snippet": "29 jun 2026 \u00b7 Indeed verwerkt al meer dan een biljoen tokens via de OpenAI API. En sinds 29 april kunnen ook Nederlandse werkzoekenden via ChatGPT direct ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-08T10:31:43.970865"
+    },
+    "score": 0,
+    "reason": "News article about Indeed's AI integration, not a job listing",
+    "embed_sim": 0.24197465181350708,
+    "ai_native_score": 0.5591375231742859
+  },
+  {
+    "job": {
+      "id": "2e16808a29392184012c3cdda3ada07d",
+      "title": "Job Almekinders - Senior ML/AI Platform Engineer - LinkedIn",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/in/job-almekinders",
+      "snippet": "Senior ML/AI Platform Engineer. Rabobank. mrt. 2026 - heden 7 maanden. Utrecht, Nederland. - ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-08T10:31:43.970872"
+    },
+    "score": 2,
+    "reason": "Senior ML/AI Platform Engineer at Rabobank in Utrecht \u2014 location is perfect and seniority matches, but 'ML/AI Platform Engineer' title suggests ML model building/training focus rather than AI tool adoption and enablement for dev teams",
+    "embed_sim": 0.46383076906204224,
+    "ai_native_score": 0.5759539008140564
+  },
+  {
+    "job": {
+      "id": "910edf2f1a165c2fe7e70877919bde03",
+      "title": "Ai agent developer vacatures in Haarlem - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-agent-developer-l-haarlem-vacatures.html",
+      "snippet": "18 aug 2026 \u00b7 Ai Agent Developer vacatures in Haarlem. Builder, Director of Engineering, Technical Lead en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-08T10:31:56.770985"
+    },
+    "score": 1,
+    "reason": "AI Agent Developer aggregation page for Haarlem \u2014 search results page not specific job, AI agent developer typically implies building AI systems vs. enabling teams to use them",
+    "embed_sim": 0.3170437216758728,
+    "ai_native_score": 0.6660254597663879
+  },
+  {
+    "job": {
+      "id": "7407007dc885cefee0079a2a25c99c0a",
+      "title": "AI Engineer in Hoogeveen bij Heeyoo - Magnet.me",
+      "company": "Heeyoo - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1079876/ai-engineer",
+      "snippet": "2 dagen geleden \u00b7 AI Engineer Hoogeveen \u00b7 Dit krijg je van ons \u00b7 Materi\u00eble waardering. Senior: \u20ac 4.700,- tot \u20ac 6.000,- bruto per maand o.b.v. 40 uur ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-08T10:32:01.574427"
+    },
+    "score": 2,
+    "reason": "AI Engineer role in Hoogeveen \u2014 location far from Utrecht (100+ km), no detail on whether this is ML/model building vs. adoption-focused, likely a pure ML engineering position based on title alone",
+    "embed_sim": 0.1898345947265625,
+    "ai_native_score": 0.5897301435470581
+  },
+  {
+    "job": {
+      "id": "fe678194b1f05760335f5b0ff544c79f",
+      "title": "Artificial Intelligence Developer bij Xariss - Landgraaf - LinkedIn",
+      "company": "Xariss - Landgraaf - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-developer-at-xariss-4237363437",
+      "snippet": "We are looking for a talented AI developer ... The ideal candidate is dynamic and proactive with extensive experience in the AI and software development field.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-08T10:32:17.720536"
+    },
+    "score": 1,
+    "reason": "AI Developer in Landgraaf \u2014 location too far from Utrecht (150+ km), 'extensive experience in AI and software development' suggests ML/data science background requirement, not an adoption/enablement role",
+    "embed_sim": 0.5505716800689697,
+    "ai_native_score": 0.6475459933280945
+  },
+  {
+    "job": {
+      "id": "d4f083ba56c52ee307ca48f9e9ac345b",
+      "title": "AI Transformation Specialist bij MegaGroup - Veghel - LinkedIn",
+      "company": "Megagroup - Veghel - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-transformation-specialist-at-megagroup-4439409299",
+      "snippet": "Translate business challenges into concrete AI solutions and actionable requirements. Support process owners during change and adoption of AI-driven solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-08T10:32:22.464467"
+    },
+    "score": 6,
+    "reason": "AI Transformation Specialist in Veghel \u2014 strong conceptual fit (transformation, adoption, change management), but location 50+ km from Utrecht is marginal, and role likely involves broader organizational change vs. pure dev team enablement focus",
+    "embed_sim": 0.4749128222465515,
+    "ai_native_score": 0.6694297790527344
   }
 ]
