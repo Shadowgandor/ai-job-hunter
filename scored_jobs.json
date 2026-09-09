@@ -7058,18 +7058,18 @@
   {
     "job": {
       "id": "52465c375011c1ae130ab0e46e1fd2d9",
-      "title": "600+ vacatures voor Ai Student en werk - Indeed",
+      "title": "Ai vacatures in Nederland - Indeed",
       "company": "",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://nl.indeed.com/m/jobs",
-      "snippet": "Ai Student vacatures. Intern, Stagiair, Tutor en meer op Indeed.com.",
-      "source": "ddg:indeed",
-      "date_found": "2026-05-26T09:47:27.697671"
+      "snippet": "AI Engineer. Dringend gezocht. DataVibes. 3543 Utrecht Leidsche Rijn ... Customer Experience & Procesverbetering Specialist | Utrecht | \u20ac3.380 - \u20ac4.247.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-09T10:42:51.910233"
     },
     "score": 0,
-    "reason": "Aggregated Indeed search results page showing student/intern positions. Not a specific job listing. Candidate excludes traineeships/intern roles regardless.",
-    "embed_sim": 0.21104976534843445,
-    "ai_native_score": 0.7042568922042847
+    "reason": "This is a search results page/listing aggregator, not an actual job posting. No specific job details, company, or role description available. Cannot evaluate.",
+    "embed_sim": 0.2276509404182434,
+    "ai_native_score": 0.5956321358680725
   },
   {
     "job": {
@@ -14950,14 +14950,14 @@
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-xebia-vacatures.html",
-      "snippet": "Xebia vacatures. Data Engineer, Engineer, Ai Developer en meer op Indeed.com.",
+      "snippet": "Xebia vacatures. Data Engineer, Cloud Engineer, Ai Developer en meer op Indeed.com.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-19T10:22:14.664174"
+      "date_found": "2026-09-09T10:42:07.645582"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page listing multiple roles without specifics. Cannot evaluate.",
-    "embed_sim": 0.2588005065917969,
-    "ai_native_score": 0.6358667612075806
+    "reason": "Generic job search aggregator page listing multiple roles (Data Engineer, Cloud Engineer, AI Developer). Not a specific job posting. Cannot assess relevance without actual job details.",
+    "embed_sim": 0.28837525844573975,
+    "ai_native_score": 0.5819094777107239
   },
   {
     "job": {
@@ -15922,18 +15922,18 @@
   {
     "job": {
       "id": "eb050d23dcb1750b3b3f57527c5e9a98",
-      "title": "11.763 vacatures voor ai in Nederland | Glassdoor",
+      "title": "12.721 vacatures voor ai in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-jobs-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
-      "snippet": "As an AI Filmmaker, you will leverage AI-based photo and video tools to conceptualize, create, and edit short films and videos. These videos will be used to tell stories, showcase products, and bring the visions of Tether and its affiliated companies to life.",
+      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.721 vacatures voor Ai in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-22T11:48:18.818461"
+      "date_found": "2026-09-09T10:43:14.195632"
     },
     "score": 0,
-    "reason": "Generic search results aggregator. Shows example of 'AI Filmmaker' role creating video content - not relevant to developer productivity or SDLC AI enablement.",
-    "embed_sim": 0.25079867243766785,
-    "ai_native_score": 0.6692206859588623
+    "reason": "This is a search results page/job board index, not an actual job posting. No specific role, company, location, or job description provided. Cannot evaluate.",
+    "embed_sim": 0.10115420818328857,
+    "ai_native_score": 0.613297700881958
   },
   {
     "job": {
@@ -20258,18 +20258,18 @@
   {
     "job": {
       "id": "16880ac287adfd3ca2b4b2f1a3f2a0d9",
-      "title": "Coordinator of AI Initiatives - Amsterdam UMC - Werken in AI",
+      "title": "Vacature: Coordinator of AI Initiatives - Werken in AI",
       "company": "Werken in AI",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://werkeninai.nl/coordinator-of-ai-initiatives-amsterdam-umc/",
-      "snippet": "The Amsterdam Center for AI and Health is part of this network and will continue to grow in the coming years. Within the center, you work closely with Martijn Schut, professor of Translational AI in Laboratory Medicine at Amsterdam UMC, and Mark Hoogendoorn, professor of Artificial Intelligence at Vrije Universiteit Amsterdam.",
+      "snippet": "You bring: a PhD degree, preferably at the intersection of AI and health; experience with organizing scientific meetings or network activities; experience with attracting research funding, individually or in collaboration; strong networking and communication skills; a proactive and structured way of working.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-08T08:22:33.293492"
+      "date_found": "2026-09-09T10:42:19.404965"
     },
-    "score": 2,
-    "reason": "Coordinator of AI Initiatives at Amsterdam UMC in medical/academic research context. Healthcare/research focus, not enterprise dev team enablement. Academic environment, not software engineering organization.",
-    "embed_sim": 0.4117799401283264,
-    "ai_native_score": 0.7536305785179138
+    "score": 0,
+    "reason": "Requires PhD degree at intersection of AI and health. Candidate profile explicitly excludes academic/PhD research positions. Role focused on organizing scientific meetings and attracting research funding, not developer team enablement.",
+    "embed_sim": 0.4285608232021332,
+    "ai_native_score": 0.7544180154800415
   },
   {
     "job": {
@@ -20726,14 +20726,14 @@
       "company": "",
       "location": "Utrecht",
       "url": "https://www.aicarriere.nl/",
-      "snippet": "Als Model Risk Management Specialist (Medior/Senior) bij ASN Bank speel je een cruciale rol in het waarborgen van de betrouwbaarheid en naleving van o... ASN Bank \u00b7 5.179 - 6.906 \u00b7 Medior, Senior \u00b7 Utrecht \u00b7 Vacature \u2022 16 Jun 2026 \u00b7 As a Databricks Champion - Platform Solution Architect at NN Group, you drive secure adoption of new Databricks services, define reference architectur...",
+      "snippet": "Als Actuarieel Analist / Model Specialist bij Nationale-Nederlanden analyseer je actuari\u00eble berekeningen en modellogica, los je complexe klantvragen o... NN \u00b7 4.527 - 6.036 \u00b7 Medior \u00b7 Rotterdam \u00b7 Vacature \u2022 19 Jun 2026 \u00b7 Als Business Analyst VB Data Landschap bij Pensioenfonds Rail & Openbaar Vervoer analyseer en map je end-to-end datastromen, signaleer je afwijkingen... Pensioenfonds Rail & OV \u00b7 Max. 8.300 \u00b7 Medior, Senior \u00b7 Utrecht \u00b7",
       "source": "ddg:web-nl",
-      "date_found": "2026-07-10T09:28:54.060519"
+      "date_found": "2026-09-09T10:42:44.328940"
     },
     "score": 0,
-    "reason": "This appears to be a news/job board aggregator page, not a specific job listing. URL is a general AI careers website. Cannot evaluate a real position.",
-    "embed_sim": 0.3467608094215393,
-    "ai_native_score": 0.6256354451179504
+    "reason": "Aggregator page listing multiple job categories (Actuarieel Analist, Business Analyst VB Data). Not a specific job posting. Snippets suggest data/analytics roles, not developer AI adoption roles.",
+    "embed_sim": 0.2297334372997284,
+    "ai_native_score": 0.5749938488006592
   },
   {
     "job": {
@@ -31550,5 +31550,133 @@
     "reason": "AI Transformation Specialist in Veghel \u2014 strong conceptual fit (transformation, adoption, change management), but location 50+ km from Utrecht is marginal, and role likely involves broader organizational change vs. pure dev team enablement focus",
     "embed_sim": 0.4749128222465515,
     "ai_native_score": 0.6694297790527344
+  },
+  {
+    "job": {
+      "id": "9554ef0d25c7b02d07cc90acd5a678c6",
+      "title": "300+ vacatures voor Head Data Ai en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-head-data-ai-vacatures.html",
+      "snippet": "Head Data Ai vacatures. Data Specialist, Head of Ml, Ai Architect en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-09T10:42:07.645593"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page listing multiple roles (Head of ML, AI Architect, Data Specialist). Not a specific job posting. Titles suggest ML/data science focus, which doesn't match.",
+    "embed_sim": 0.281134694814682,
+    "ai_native_score": 0.527241587638855
+  },
+  {
+    "job": {
+      "id": "2a9ebb7b487a3855a8c5f7409563b848",
+      "title": "75+ vacatures voor Ai Video Designer en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-video-designer-vacatures.html",
+      "snippet": "Ai Video Designer vacatures. Video Editor, Creative Director, Graphic Designer en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-09T10:42:07.645603"
+    },
+    "score": 0,
+    "reason": "Generic job search aggregator page. AI Video Designer roles are creative/video production focused, not developer-focused AI adoption. Not a match.",
+    "embed_sim": 0.25238436460494995,
+    "ai_native_score": 0.7365246415138245
+  },
+  {
+    "job": {
+      "id": "db76381c938402cae4710bf43467a85c",
+      "title": "operations support specialist, Verenigd Koninkrijk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/united-kingdom-operations-support-specialist-vacatures-SRCH_IL.0,14_IN2_KO15,44.htm",
+      "snippet": "7 aug 2026 \u00b7 Technology & AI Adoption Specialist \u2013 Operations. Londen, Engeland. \u00a3 88K - \u00a3 102K (opgegeven door werkgever). Experience driving adoption of AI ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-09T10:42:15.055498"
+    },
+    "score": 0,
+    "reason": "Located in London, UK. Candidate requires roles within 40km of Utrecht, Netherlands. Geographic requirement not met.",
+    "embed_sim": 0.28102242946624756,
+    "ai_native_score": 0.6554385423660278
+  },
+  {
+    "job": {
+      "id": "38082395fdbdb6209227660c6c5fd8e6",
+      "title": "Vacature: Creative Technologist (AI & Interactie) - KRO-NCRV - Werken ...",
+      "company": "Werken ...",
+      "location": "Hilversum",
+      "url": "https://werkeninai.nl/creative-technologist-ai-interactie-kro-ncrv/",
+      "snippet": "Vacature: KRO-NCRV in Hilversum zoekt een fulltime Creative Technologist (AI & Interactie) voor 32 tot 36 uur per week | Salaris: tussen \u20ac3.449,57 en \u20ac5.056,94per maand | Sluitingsdatum: 16 april 2026.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-09-09T10:42:19.404976"
+    },
+    "score": 2,
+    "reason": "Located in Hilversum (within acceptable range). However, Creative Technologist (AI & Interaction) at KRO-NCRV appears focused on creative/broadcast media applications of AI, not engineering team AI adoption or developer productivity. Wrong domain focus.",
+    "embed_sim": 0.31574922800064087,
+    "ai_native_score": 0.7453475594520569
+  },
+  {
+    "job": {
+      "id": "694cbab6cd2ae7e59fbb949a2808dd51",
+      "title": "Data Analist AI Team - Lely - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/data-analist-ai-team-lely/",
+      "snippet": "Vacature: Lely in Maassluis zoekt een Data Analist voor het AI Team voor 32 / 40 uur per week | Salaris: max. \u20ac 5600,- | Startdatum: onbekend Wat ga je doen? Wil je deel uitmaken van het AI-serviceteam bij Lely? Ben je van nature geneigd tot onderzoek en incrementele innovatie? Sluit je aan bij ons team en laten we samen Lely's AI-visie voor 2030 cre\u00ebren. We zijn op zoek naar een ...",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-09-09T10:42:19.405005"
+    },
+    "score": 1,
+    "reason": "Data Analist AI Team at Lely. Located in Maassluis (outside 40km radius of Utrecht). Role focuses on data analysis within an AI team, which suggests ML/data pipeline work, not developer tool adoption or team enablement.",
+    "embed_sim": 0.32781296968460083,
+    "ai_native_score": 0.6562530994415283
+  },
+  {
+    "job": {
+      "id": "1a27e59d803b32b6ed2fba84cb1259cd",
+      "title": "Transformation Management (Associate) Manager in Maastricht bij Sia Partners | Magnet.me | #1046128 (nl)",
+      "company": "Sia Partners",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1046128/transformation-management--associate--manager",
+      "snippet": "Ability to design and execute organisational design, communications, training, and adoption strategies. Comfortable working on digital transformation programmes (ERP, CRM, cloud, AI adoption).",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-09T10:42:40.038517"
+    },
+    "score": 4,
+    "reason": "Transformation Management role at Sia Partners mentions AI adoption as one component. However, role appears focused on organizational design, ERP/CRM/cloud transformation broadly\u2014not specifically on engineering team AI tool enablement. Location unknown but Sia Partners operates across Netherlands. Could be consulting angle, but too vague and possibly too management-heavy vs. hands-on technical.",
+    "embed_sim": 0.2888808250427246,
+    "ai_native_score": 0.539006233215332
+  },
+  {
+    "job": {
+      "id": "532bd12a8a543799e07ba90173e6336f",
+      "title": "Utrecht - NGAGE IT",
+      "company": "NGAGE IT",
+      "location": "Utrecht",
+      "url": "https://www.ngage-it.nl/locatie/utrecht/",
+      "snippet": "Hier vind je al onze openstaande IT-functies door heel Nederland! Of je nou op zoek bent in Utrecht, Groningen of Zeeland: NGAGE heeft het aanbod voor jou!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-09T10:42:51.910224"
+    },
+    "score": 0,
+    "reason": "Generic job board/recruiter landing page for Utrecht location. Not a specific job posting. Cannot assess relevance without actual job details.",
+    "embed_sim": -0.05940960347652435,
+    "ai_native_score": 0.5027719736099243
+  },
+  {
+    "job": {
+      "id": "f1cfa6766e3b0d47ee91c9afc3b566f5",
+      "title": "100+ vacatures voor IT Support Engineer en werk in Amsterdam 8 september 2026| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/IT-Support-Engineer-vacatures-in-Amsterdam",
+      "snippet": "Zoeken op salaris: AI Backend Software Engineer II - AI Application Platform salarissen in Amsterdam Centrum \u00b7 Zie veelgestelde vragen en antwoorden over Booking.com \u00b7 Contributes to the processes that support the release of new features for the entire company, such as the release process, the build process, etc. Alle vacatures voor Booking.com - Amsterdam Centrum vacatures - vacatures voor iOS Developer in Amsterdam Centrum bekijken \u00b7 Zoeken op salaris: iOS Software Engineer I - Tech Enablement",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-09T10:43:05.191020"
+    },
+    "score": 0,
+    "reason": "This is a search results page/listing aggregator, not an actual job posting. Generic snippet about IT Support and Backend roles. No specific opportunity details available. Cannot evaluate.",
+    "embed_sim": 0.30642855167388916,
+    "ai_native_score": 0.5201764702796936
   }
 ]
