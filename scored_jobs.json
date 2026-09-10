@@ -4114,18 +4114,18 @@
   {
     "job": {
       "id": "dfb7ad6bb148e2e2c104c1390d611448",
-      "title": "52 vacatures voor junior data scientist in Nederland | Glassdoor",
+      "title": "44 vacatures voor junior data scientist in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-junior-data-scientist-vacatures-SRCH_IL.0,9_IN178_KO10,31.htm",
-      "snippet": "... AI-oplossingen, waarbij Generative AI een belangrijk specialisme\u2026\u2026 ... Flexible working hours and a hybrid workplace. Most team members come into ...",
+      "snippet": "Zoek vacatures voor Junior data scientist in Nederland met bedrijfsreviews en salarissen. 44 vacatures voor Junior data scientist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-16T08:00:22.227237"
+      "date_found": "2026-09-10T10:31:55.146974"
     },
     "score": 0,
-    "reason": "Search results page for junior data scientist roles. Candidate is senior-level and explicitly does NOT want pure data science positions.",
-    "embed_sim": 0.3298530578613281,
-    "ai_native_score": 0.6502548456192017
+    "reason": "Junior Data Scientist vacancies aggregate page. Not a specific job posting. Candidate explicitly does not want junior roles or data science positions. Appears to be index/search results, not an active opening.",
+    "embed_sim": 0.18914365768432617,
+    "ai_native_score": 0.5034559965133667
   },
   {
     "job": {
@@ -31678,5 +31678,181 @@
     "reason": "This is a search results page/listing aggregator, not an actual job posting. Generic snippet about IT Support and Backend roles. No specific opportunity details available. Cannot evaluate.",
     "embed_sim": 0.30642855167388916,
     "ai_native_score": 0.5201764702796936
+  },
+  {
+    "job": {
+      "id": "f8a8a7097fc661d4fc1689f1cce18460",
+      "title": "Senior AI-Native Java Engineer - Accenture - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1079507/senior-ai-native-java-engineer",
+      "snippet": "5 dagen geleden \u00b7 At Accenture Netherlands, we're looking for a Senior AI-Native Java Engineer with around 7 years of experience who combines strong Java ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:30:55.296099"
+    },
+    "score": 3,
+    "reason": "Senior AI-Native Java Engineer at Accenture likely focuses on building AI systems with Java, not enabling team adoption of AI tools. Java background doesn't align with candidate's web/TypeScript expertise. No evidence of DevEx/adoption focus.",
+    "embed_sim": 0.42723900079727173,
+    "ai_native_score": 0.6704976558685303
+  },
+  {
+    "job": {
+      "id": "3e3073bbfde62b3fb33f62bcbab05bb5",
+      "title": "Senior AI Engineer - QuantumBlack, AI by McKinsey - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1057463/senior-ai-engineer---quantumblack--ai-by-mckinsey",
+      "snippet": "11 jul 2026 \u00b7 Degree in Computer Science, Engineering, Mathematics, or equivalent experience \u00b7 6+ years of professional experience in building and deploying ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:30:55.296146"
+    },
+    "score": 1,
+    "reason": "QuantumBlack (McKinsey AI) is pure ML/data science. Requires Computer Science degree, 6+ years building/deploying ML models. Exactly what candidate does NOT want. No adoption/enablement angle.",
+    "embed_sim": 0.4399963617324829,
+    "ai_native_score": 0.5620865225791931
+  },
+  {
+    "job": {
+      "id": "1fffceaf62ee798ba0ab75cdf7dc7a9c",
+      "title": "Software Engineer | AI in Healthcare - LinkedIn",
+      "company": "AI in Healthcare - LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-ai-in-healthcare-at-that-recruitment-company-4463311576",
+      "snippet": "Around 3\u20136 years of software engineering experience \u00b7 Experience working on complex systems or cross-team projects \u00b7 Hands-on knowledge of CI/CD and deployments ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-10T10:31:03.581084"
+    },
+    "score": 2,
+    "reason": "Software Engineer role at AI in Healthcare appears focused on building healthcare AI systems, not enabling team adoption. Generic software engineering without evidence of AI tooling adoption mission.",
+    "embed_sim": 0.5163640975952148,
+    "ai_native_score": 0.7201419472694397
+  },
+  {
+    "job": {
+      "id": "9849be2343113a12532c05a8dedc0bb4",
+      "title": "27 big data consultant vacatures | 6 september 2026",
+      "company": "6 september 2026",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/big-data-consultant",
+      "snippet": "29 jul 2026 \u00b7 Van de provincies heb je in Noord-Holland, Utrecht en Zuid-Holland de beste mogelijkheden om een baan te vinden als Big Data Consultant.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-10T10:31:48.036685"
+    },
+    "score": 0,
+    "reason": "Big Data Consultant listing appears to be an index/aggregator page, not a specific job opening. No actual vacancy details or clear position. Likely expired or placeholder content.",
+    "embed_sim": 0.17559020221233368,
+    "ai_native_score": 0.3240050971508026
+  },
+  {
+    "job": {
+      "id": "326ad86d82ddfea650f686ca000e4960",
+      "title": "Traineeship Change & AI Adoption @ ASML - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1080299/traineeship-change---ai-adoption---asml",
+      "snippet": "2 dagen geleden \u00b7 Werk aan actuele AI- en digital adoption vraagstukken binnen ASML. Van Microsoft Copilot tot nieuwe digitale oplossingen: jij helpt technologie ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:31:51.407553"
+    },
+    "score": 2,
+    "reason": "Traineeship at ASML for Change & AI Adoption sounds conceptually close (Copilot, adoption) but explicitly targets traineeship level. Candidate requires senior-level role, not traineeship. Wrong seniority.",
+    "embed_sim": 0.3011404871940613,
+    "ai_native_score": 0.7522757649421692
+  },
+  {
+    "job": {
+      "id": "b8cf3516adb1fdd5676c1c7a9dab2c33",
+      "title": "Adoption & Changemanagement Specialist - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/985186/adoption---changemanagement-specialist",
+      "snippet": "Kom jij werken bij \u00e9\u00e9n van de leukste en dynamische IT Teams vol verandering en uitdaging? Adoption & Changemanagement Specialist.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:31:51.407577"
+    },
+    "score": 4,
+    "reason": "Adoption & Changemanagement Specialist has adoption/change focus which aligns conceptually, but no AI-specific angle evident. Generic change management, not AI tool enablement. Missing technical depth and AI champion mission.",
+    "embed_sim": 0.29807692766189575,
+    "ai_native_score": 0.7530704736709595
+  },
+  {
+    "job": {
+      "id": "23950d1975ea777c6a6a9cf61240347a",
+      "title": "Head of Documentation and Enablement - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1045583/head-of-documentation-and-enablement",
+      "snippet": "5 dagen geleden \u00b7 Bij Wolters Kluwer zoeken we een vooruitstrevende en hands-on leider om het Documentation and Enablement-team aan te sturen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:31:58.630871"
+    },
+    "score": 5,
+    "reason": "Head of Documentation and Enablement at Wolters Kluwer could involve AI tool documentation/enablement but is primarily leadership of enablement team (documentation focus). May lack hands-on AI adoption work candidate seeks. No AI-specific evidence.",
+    "embed_sim": 0.16648611426353455,
+    "ai_native_score": 0.6178110837936401
+  },
+  {
+    "job": {
+      "id": "a0794c917697fa374645d2054166e507",
+      "title": "Business Transformation Consultant - Highberg B.V. - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1035922/business-transformation-consultant",
+      "snippet": "22 aug 2026 \u00b7 You are AI literate and able to apply AI in a conscious, critical, and responsible way to enhance your work. What are we asking? You have ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:32:03.140546"
+    },
+    "score": 4,
+    "reason": "Business Transformation Consultant mentions AI literacy but is transformation-focused, not technical AI tool adoption. Likely emphasizes strategy/consulting over hands-on implementation with dev teams. Could have adoption aspects but unclear.",
+    "embed_sim": 0.2836112380027771,
+    "ai_native_score": 0.469809353351593
+  },
+  {
+    "job": {
+      "id": "1844edcf01051a509c9f9e902d7f0197",
+      "title": "Pentester / Red Teamer - ABN AMRO - Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1031575/pentester---red-teamer",
+      "snippet": "You are responsible for executing advanced penetration tests and red team activities on ABN AMRO's information assets. You identify gaps, report them, and ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-10T10:32:03.140607"
+    },
+    "score": 0,
+    "reason": "Pentester/Red Teamer at ABN AMRO is security-focused penetration testing. Completely outside AI adoption/enablement domain. No relevance to candidate's AI tool championing mission.",
+    "embed_sim": 0.2539595067501068,
+    "ai_native_score": 0.632587194442749
+  },
+  {
+    "job": {
+      "id": "5d5b187e47ccc54d2cbf67e45dab0940",
+      "title": "Bekijk alle vacatures bij de Rijksoverheid",
+      "company": "De Rijksoverheid",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures",
+      "snippet": "Front-end developer met passie voor DevOps \u00b7 Utrecht \u00b7 32 - 36 uur \u00b7 Schaal 10, Schaal 11 \u20ac3.496 - \u20ac6.275 (bruto) \u00b7 Hbo, Wo \u00b7 Solliciteer voor 1 oktober 2026 ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-10T10:32:12.279398"
+    },
+    "score": 0,
+    "reason": "Generic job listing page, not a specific job posting. Cannot assess relevance without actual role details.",
+    "embed_sim": 0.14570572972297668,
+    "ai_native_score": 0.518919825553894
+  },
+  {
+    "job": {
+      "id": "8d2a8ecffd0b34d4da307e1a84b0c41f",
+      "title": "Data Platform & AI Engineer Utrecht bij DVJ Insights",
+      "company": "Dvj Insights",
+      "location": "Utrecht",
+      "url": "https://marketingreport.nl/vacancy-dvj-insights-has-a-position-for-data-platform-and-ai-engineer",
+      "snippet": "10 aug 2026 \u00b7 Vacature Data Platform & AI Engineer bij DVJ Insights in Utrecht. Bekijk de werkzaamheden, vereisten en arbeidsvoorwaarden. Vacature in het kort.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-10T10:32:12.279439"
+    },
+    "score": 2,
+    "reason": "Data Platform & AI Engineer role focuses on data pipelines and platform infrastructure, not AI tool adoption for dev teams. Requires data engineering expertise, not AI enablement/coaching. Wrong domain for candidate's goals.",
+    "embed_sim": 0.3604663610458374,
+    "ai_native_score": 0.4547838866710663
   }
 ]
