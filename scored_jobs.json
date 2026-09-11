@@ -13458,18 +13458,18 @@
   {
     "job": {
       "id": "35973d132253f8df3b7b35fa722f4245",
-      "title": "624 vacatures voor digital transformation and ai in Nederland ...",
+      "title": "798 vacatures voor digital transformation and ai in Nederland ...",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-digital-transformation-and-ai-vacatures-SRCH_IL.0,9_IN178_KO10,39.htm",
-      "snippet": "Zoek vacatures voor Digital transformation and ai in Nederland met bedrijfsreviews en salarissen. 624 vacatures voor Digital transformation and ai in Nederland.",
+      "snippet": "Zoek vacatures voor Digital transformation and ai in Nederland met bedrijfsreviews en salarissen. 798 vacatures voor Digital transformation and ai in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-15T11:57:20.007868"
+      "date_found": "2026-09-11T10:33:53.441333"
     },
     "score": 0,
-    "reason": "This is a Glassdoor search results page, not a specific job listing. Cannot evaluate.",
-    "embed_sim": 0.1756729781627655,
-    "ai_native_score": 0.6742962002754211
+    "reason": "Generic search results page listing 798 vacancies, not an actual job posting. Not a specific role. Cannot assess.",
+    "embed_sim": 0.17479799687862396,
+    "ai_native_score": 0.6760703921318054
   },
   {
     "job": {
@@ -18152,11 +18152,11 @@
       "url": "https://magnet.me/nl-NL/vacature/1032653/ai-strategy-lead",
       "snippet": "May 21, 2026 - Bij Conclusion Enablement ontwikkel en beheer je samen met experts al jaren applicaties, moderniseer je IT-omgevingen en neem je deze in beheer. Met de opkomst van AI staat deze wereld aan de vooravond van een fundamentele verandering.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-30T09:28:27.642563"
+      "date_found": "2026-09-11T10:33:09.529696"
     },
     "score": 7,
-    "reason": "AI Strategy Lead role at Conclusion Enablement with focus on application modernization and AI transformation. Amsterdam location is acceptable range. Suggests strategic AI coordination aligned with candidate's goals, though snippet doesn't confirm hands-on technical aspects or DevEx focus.",
-    "embed_sim": 0.1964031159877777,
+    "reason": "AI Strategy Lead at Conclusion Enablement in Amsterdam. Title, company focus on 'enablement', and AI adoption context align well. Amsterdam within 40km of Utrecht. Likely involves translating AI opportunities into organizational change. Missing detail on whether hands-on or purely strategic, but strong match on enablement mission.",
+    "embed_sim": 0.19640310108661652,
     "ai_native_score": 0.7288437485694885
   },
   {
@@ -19298,18 +19298,18 @@
   {
     "job": {
       "id": "40fa60e104894a34cab31d7243232cb5",
-      "title": "2.384 vacature(s) voor Werken als ai specialist in Nederland - Glassdoor",
+      "title": "2.862 vacature (s) voor Werken als ai specialist in Nederland",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-werken-als-ai-specialist-vacatures-SRCH_IL.0,9_KO10,34.htm",
-      "snippet": "Zoek vacatures voor Werken als ai specialist in Nederland met bedrijfsreviews en salarissen. 2.384 vacatures voor Werken als ai specialist in Nederland.",
+      "snippet": "Zoek vacatures voor Werken als ai specialist in Nederland met bedrijfsreviews en salarissen. 2.862 vacatures voor Werken als ai specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-04T08:32:22.473863"
+      "date_found": "2026-09-11T10:33:53.441340"
     },
     "score": 0,
-    "reason": "Generic search results page, not a specific job listing. Cannot evaluate.",
-    "embed_sim": 0.17814716696739197,
-    "ai_native_score": 0.6296895146369934
+    "reason": "Generic search results page listing 2,862 vacancies for 'AI specialist', not an actual job posting. Not a specific role. Cannot assess.",
+    "embed_sim": 0.153804749250412,
+    "ai_native_score": 0.618626594543457
   },
   {
     "job": {
@@ -19352,12 +19352,12 @@
       "url": "https://magnet.me/nl-NL/vacature/1055193/ai-engineer",
       "snippet": "Je verbindt disciplines, engineering, product, data en business en zorgt dat AI-initiatieven niet op een eiland blijven liggen; Je jaagt versnelling aan en faciliteert die: je tilt de AI-werkwijze van onze engineers naar een hoger niveau en helpt teams effectiever met tooling als Cursor en Claude te werken;",
       "source": "ddg:magnet",
-      "date_found": "2026-07-04T08:32:58.952358"
+      "date_found": "2026-09-11T10:33:57.497049"
     },
-    "score": 9,
-    "reason": "Near-perfect match. AI Engineer role at Pararius in Rotterdam (within 40km of Utrecht). Focus on helping teams adopt AI tooling (Cursor, Claude). Connects disciplines and lifts AI workflows. Senior level implied. Exactly the candidate's target role.",
-    "embed_sim": 0.4040164351463318,
-    "ai_native_score": 0.7524597644805908
+    "score": 8,
+    "reason": "AI Engineer at Pararius in Rotterdam. Snippet explicitly mentions 'help teams effectiever met tooling als Cursor en Claude' (help teams work more effectively with tools like Cursor and Claude), 'tilt de AI-werkwijze' (elevates AI practices), and connects disciplines. This is near-perfect AI adoption/enablement role. Rotterdam ~50km from Utrecht but still reasonable distance. Strong match on core mission.",
+    "embed_sim": 0.4040164053440094,
+    "ai_native_score": 0.7524598836898804
   },
   {
     "job": {
@@ -31854,5 +31854,117 @@
     "reason": "Data Platform & AI Engineer role focuses on data pipelines and platform infrastructure, not AI tool adoption for dev teams. Requires data engineering expertise, not AI enablement/coaching. Wrong domain for candidate's goals.",
     "embed_sim": 0.3604663610458374,
     "ai_native_score": 0.4547838866710663
+  },
+  {
+    "job": {
+      "id": "6ddc34ce2d2226276d6b917b96cd2481",
+      "title": "Data Scientist - Knab - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/data-scientist-knab/",
+      "snippet": "PhD or Master's degree in a quantitative field (i.e. Econometrics, Physics, Mathematics, Artificial intelligence, Business Analytics etc.) 2 years+ working experience in the field of Data Science with commercial models focus Expertise in data science, statistics and machine learning techniques Familiarity with casual inference is a plus.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-09-11T10:32:51.171687"
+    },
+    "score": 0,
+    "reason": "Pure Data Science role requiring PhD/Master's in quantitative field, 2+ years DS experience, focus on commercial ML models. No AI adoption/enablement aspect. Wrong career path entirely.",
+    "embed_sim": 0.42925670742988586,
+    "ai_native_score": 0.6207003593444824
+  },
+  {
+    "job": {
+      "id": "30d1d47fa7262eed786195becb3db264",
+      "title": "Vacature voor een functie als AI developer bij Cleopatra Enterprise in Zwijndrecht | Glassdoor",
+      "company": "Cleopatra Enterprise In Zwijndrecht",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-developer-cleopatra-enterprise-JV_IC3049242_KO0,12_KE13,33.htm?jl=1010206071319",
+      "snippet": "Hands-on experience with popular machine learning frameworks and libraries, such as TensorFlow and PyTorch, Excellent problem-solving skills and ability to work independently as well as part of a team. Effective communication and collaboration skills. As an AI Developer at Cleopatra Enterprise, you will have the opportunity to design, build, and deploy intelligent AI solutions that enhance our products and services.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-11T10:33:01.188892"
+    },
+    "score": 1,
+    "reason": "ML engineer role focused on TensorFlow/PyTorch, building ML models. Requires deep ML framework expertise. Zwijndrecht location far from Utrecht. Completely misaligned with AI adoption champion profile.",
+    "embed_sim": 0.4579542577266693,
+    "ai_native_score": 0.6512184143066406
+  },
+  {
+    "job": {
+      "id": "e60494ad8e70cdf1a849d625f893bb5e",
+      "title": "Head of AI bij ALGOTEQUE Innovation Hub - Almere - LinkedIn",
+      "company": "Algoteque Innovation Hub - Almere - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-ai-at-algoteque-innovation-hub-4464477437",
+      "snippet": "As Head of AI, you will be responsible for building and executing the AI roadmap, identifying practical AI opportunities, supporting build-vs-buy decisions, and leading AI initiatives from idea to production. You will work closely with leadership, product, engineering and business stakeholders to make sure AI is used in a practical, valuable and scalable way. The ideal person should be able to ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-11T10:33:05.705540"
+    },
+    "score": 4,
+    "reason": "Head of AI role has some strategy/leadership appeal, but snippet suggests 'building and executing AI roadmap' with 'idea to production' emphasis implies building AI solutions, not enabling teams to adopt AI tools. Almere is acceptable distance from Utrecht but role seems more ML/product-focused than enablement-focused.",
+    "embed_sim": 0.5731325745582581,
+    "ai_native_score": 0.6701794862747192
+  },
+  {
+    "job": {
+      "id": "5e617dba0f2532c2194079d8308162bd",
+      "title": "Tisser zoekt een AI Implementation Lead in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-implementation-lead-at-tisser-4465050384?position=1&pageNum=0",
+      "snippet": "You sit down with a client, work out which parts of their process AI can actually carry, and then build it. Not a deck about what could be built: the workflows, the agents, the knowledge sources and the review steps, configured in Tisser One and tested against real work.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-11T10:33:05.705591"
+    },
+    "score": 2,
+    "reason": "AI Implementation Lead at Tisser focuses on building custom AI workflows and agents for clients ('build it...workflows, agents, knowledge sources configured'). This is solution implementation, not helping dev teams adopt AI tools. Consulting angle doesn't align with enablement mission.",
+    "embed_sim": 0.3957349359989166,
+    "ai_native_score": 0.6263231039047241
+  },
+  {
+    "job": {
+      "id": "d9707bb38f7333825e68b0dae149e98e",
+      "title": "AI Engineer Zoetermeer in Zoetermeer bij Heeyoo | Magnet.me",
+      "company": "Heeyoo",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1079874/ai-engineer-zoetermeer",
+      "snippet": "AI is niet meer weg te denken uit IT-projecten, maar \u00e9cht goede AI engineers wel. Bij Heeyoo bouw en test je AI-oplossingen die klanten daadwerkelijk verder helpen: van data tot model, van prototype tot productie. Jij zorgt niet alleen dat het werkt\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-11T10:33:57.497069"
+    },
+    "score": 1,
+    "reason": "AI Engineer Zoetermeer focused on 'bouw en test je AI-oplossingen' (build and test AI solutions) 'van data tot model, van prototype tot productie' (from data to model, prototype to production). This is ML/AI solution building, not AI tool adoption enablement. Wrong focus entirely.",
+    "embed_sim": 0.24558894336223602,
+    "ai_native_score": 0.5776745080947876
+  },
+  {
+    "job": {
+      "id": "ce1449a03068c2c3e312bf61fe91819b",
+      "title": "Vacature voor een functie als Generatieve AI adoptie ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/generatieve-ai-adoptie-specialist-heijmans-JV_IC3036965_KO0,33_KE34,42.htm?jl=1010249225062",
+      "snippet": "Als GenAI Adoptie specialist ben jij de drijvende kracht achter het vergroten van bewustwording en vaardigheden rondom GenAI. Je inspireert, traint en begeleidt collega\u2019s in het verantwoord en effectief toepassen van GenAI, met een sterke focus op adoptie en verandermanagement. Je bent de verbindende schakel tussen technologie, mens en organisatie. Je hoeft geen technisch AI-specialist te ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-11T10:34:12.722158"
+    },
+    "score": 9,
+    "reason": "GenAI Adoptie Specialist (Generative AI Adoption Specialist) at Heijmans. Role explicitly focuses on 'awareness and skills around GenAI', 'inspire, train and coach colleagues in responsible and effective GenAI use', 'adoption and change management'. This is nearly perfect alignment with candidate's AI adoption champion mission. Heijmans location not specified but likely Netherlands-based. Ideal role match.",
+    "embed_sim": 0.20373457670211792,
+    "ai_native_score": 0.7880799770355225
+  },
+  {
+    "job": {
+      "id": "56b8e3be8c0e138f60aad3cc3f4e0043",
+      "title": "Vacature voor een functie als Senior AI Adoption & Change ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/senior-ai-adoption-change-specialist-cho-keizersgracht-amsterdam-32-40h-rituals-JV_IC3064478_KO0,71_KE72,79.htm?jl=1010242158021",
+      "snippet": "Develop adoption content, communications and success stories that make AI practical, relevant and accessible. Assess AI maturity and readiness, translating insights into targeted adoption and capability-building interventions.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-11T10:34:12.722167"
+    },
+    "score": 8,
+    "reason": "Excellent match \u2014 Senior-level AI adoption & change specialist role focused on making AI practical and accessible, assessing maturity, and building capability interventions. Amsterdam location is within the 40km Utrecht range. Directly aligns with championing AI adoption in organizations without requiring ML expertise.",
+    "embed_sim": 0.3823356330394745,
+    "ai_native_score": 0.7539490461349487
   }
 ]
