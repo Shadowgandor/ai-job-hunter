@@ -2360,12 +2360,12 @@
       "url": "https://magnet.me/nl-NL/vacature/1023911/associate-ai-adoption---change--amsterdam--rotterdam-",
       "snippet": "April 22, 2026 - Je analyseert werkprocessen en helpt bepalen hoe AI effectief kan worden ingebed in de dagelijkse praktijk \u00b7 Je draagt bij aan communicatie- en trainingsactiviteiten die gebruikers helpen nieuwe werkwijzen toe te passen \u00b7 Je werkt samen met klanten, technische teams en change specialisten om adoptie-uitdagingen inzichtelijk te maken en aan te pakken",
       "source": "ddg:magnet",
-      "date_found": "2026-07-12T08:12:18.161356"
+      "date_found": "2026-09-12T10:00:57.704002"
     },
     "score": 6,
-    "reason": "AI Adoption & Change role with process analysis and training activities. Good conceptual fit for adoption champion. However, listed as Associate-level (too junior for 13-year senior developer), and location unclear (Rotterdam mentioned but far from Utrecht). Some relevance but missing seniority and proximity match.",
-    "embed_sim": 0.20481741428375244,
-    "ai_native_score": 0.7042597532272339
+    "reason": "AI Adoption & Change role with change management and training focus is conceptually aligned. However, 'Associate' level suggests mid-level, not senior. Amsterdam/Rotterdam are acceptable but not optimal location. Change focus is broader than dev team enablement.",
+    "embed_sim": 0.20481742918491364,
+    "ai_native_score": 0.7042598724365234
   },
   {
     "job": {
@@ -5286,14 +5286,14 @@
       "company": "Glassdoor",
       "location": "Rotterdam",
       "url": "https://www.glassdoor.nl/Vacature/rotterdam-adoption-specialist-vacatures-SRCH_IL.0,9_IC3049255_KO10,29.htm",
-      "snippet": "Mensen die hebben gezocht naar vacatures in Rotterdam, hebben ook gezocht naar newborn hearing screener, adoption counselor, hearing instrument specialist, residential, adoption counsellor, dog daycare, residential therapist, evaluator, residential assistant. Als er weinig resultaten worden weergegeven, probeer dan een algemenere zoekterm.",
+      "snippet": "Zoek naar vacatures voor Adoption specialist in Rotterdam met bedrijfsreviews en salarissen. 43 vacatures voor Adoption specialist in Rotterdam.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-05-19T09:38:28.784554"
+      "date_found": "2026-09-12T10:00:44.336908"
     },
     "score": 0,
-    "reason": "Search results aggregation page, not an actual job listing. Generic 'adoption specialist' results with no specific AI-related vacancy details.",
-    "embed_sim": 0.09123341739177704,
-    "ai_native_score": 0.5424219965934753
+    "reason": "This is a search results page, not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.13806656002998352,
+    "ai_native_score": 0.5288786888122559
   },
   {
     "job": {
@@ -31966,5 +31966,117 @@
     "reason": "Excellent match \u2014 Senior-level AI adoption & change specialist role focused on making AI practical and accessible, assessing maturity, and building capability interventions. Amsterdam location is within the 40km Utrecht range. Directly aligns with championing AI adoption in organizations without requiring ML expertise.",
     "embed_sim": 0.3823356330394745,
     "ai_native_score": 0.7539490461349487
+  },
+  {
+    "job": {
+      "id": "481a4663dcafddcc0315c5ccac886c86",
+      "title": "Senior AI&T Engineer - Space Systems - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-t-engineer-space-systems-at-axient-systems-b-v-4453052849",
+      "snippet": "You will become the owner of AI&T at Axient: the approach, the standards, and the judgement about whether hardware is ready for the next step. The role has two sides to it from the start.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-12T10:00:36.655822"
+    },
+    "score": 1,
+    "reason": "AI&T in space systems context refers to Assurance & Test, not Artificial Intelligence adoption. Wrong domain entirely.",
+    "embed_sim": 0.4284706115722656,
+    "ai_native_score": 0.6274576187133789
+  },
+  {
+    "job": {
+      "id": "0e4bdb61ebf5f7bca2f25d2cbd80071b",
+      "title": "Artificial Intelligence Engineer bij GloPros - Amsterdam ...",
+      "company": "Glopros - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-glopros-4462162251",
+      "snippet": "Sep 2, 2026 \u00b7 We're looking for an AI Engineer to help build and scale the AI systems powering our hiring marketplace. You'll own features end-to-end, from data pipelines and embeddings to matching, search,...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-12T10:00:36.655833"
+    },
+    "score": 2,
+    "reason": "Building AI systems (data pipelines, embeddings, matching algorithms) \u2014 pure ML engineering. Not about enabling dev teams to adopt AI tools. Wrong focus.",
+    "embed_sim": 0.4245675206184387,
+    "ai_native_score": 0.5542812347412109
+  },
+  {
+    "job": {
+      "id": "5c0f91465e76cd340931dfaff631bdbd",
+      "title": "Vacature voor een functie als AI Adoption Enablement Engineer bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-adoption-enablement-engineer-alliander-JV_IC3033811_KO0,31_KE32,41.htm?jl=1010253540566",
+      "snippet": "Deze vacature sluit op 15 oktober 2026 Wil je dat AI niet het speeltje van een paar specialisten blijft, maar een vanzelfsprekend onderdeel wordt van hoe iedereen bij ENTRNCE werkt? Als AI Adoption & Enablement Engineer maak je van generatieve AI een dagelijks hulpmiddel in onze software workflows, operations en klantcontact. Jij zorgt dat goede idee\u00ebn niet blijven hangen bij losse ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-12T10:00:44.336901"
+    },
+    "score": 9,
+    "reason": "Perfect match: AI Adoption & Enablement Engineer role explicitly about making generative AI part of daily software workflows. Near-ideal title and concept. Location unclear but Dutch company suggests Netherlands proximity.",
+    "embed_sim": 0.2747134566307068,
+    "ai_native_score": 0.7427566051483154
+  },
+  {
+    "job": {
+      "id": "2a4b7c1dcb2439d1e10410ca50bb0abb",
+      "title": "Senior Business Analist AI in Utrecht bij Capgemini | Magnet.me | #988419 (nl)",
+      "company": "Capgemini",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/988419/senior-business-analist-ai",
+      "snippet": "July 29, 2026 - Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Als Business Analist (AI) help jij organisaties, van ministeries tot grote bedrijven, om AI slim en verantwoord in te zetten. Jij bent de brug tussen business en technologie en zorgt dat AI oplossingen echt waarde toevoegen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-12T10:00:57.704021"
+    },
+    "score": 3,
+    "reason": "Senior Business Analist AI bridges business and technology, but this is business-focused strategy role, not hands-on dev team enablement. Lacks technical developer tools adoption focus. Utrecht location is good.",
+    "embed_sim": 0.21187439560890198,
+    "ai_native_score": 0.6017297506332397
+  },
+  {
+    "job": {
+      "id": "4b68de9b099da658dda811b4d209f05f",
+      "title": "25+ vacatures voor Chatbot Developer en werk: 11 september 2026| Indeed",
+      "company": "",
+      "location": "Amersfoort",
+      "url": "https://nl.indeed.com/q-chatbot-developer-vacatures.html?vjk=a46a9595a60adb48",
+      "snippet": "Alle vacatures voor SnelStart - ... salarissen in Amersfoort \u00b7 Zie veelgestelde vragen en antwoorden over SnelStart \u00b7 Experience in developing AI solutions for contract analysis or chatbots....",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-12T10:01:07.817506"
+    },
+    "score": 1,
+    "reason": "Chatbot developer role focused on building AI solutions (contract analysis), not enabling teams to adopt AI tools. Wrong focus entirely.",
+    "embed_sim": 0.14331959187984467,
+    "ai_native_score": 0.5462159514427185
+  },
+  {
+    "job": {
+      "id": "8e43da97f8a5f0ccf1afdd770ef3cbcb",
+      "title": "Vacature voor een functie als Specialist Solution Engineer - Netherlands bij Salesforce in Amsterdam | Glassdoor",
+      "company": "Salesforce In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/specialist-solution-engineer-netherlands-salesforce-JV_IC3064478_KO0,40_KE41,51.htm?jl=1010155378265",
+      "snippet": "Informatica Intelligent Data Management Cloud (IDMC): Including related services (AI/Agentforce, Data Integration, Access Management, Marketplace, Data Governance & Catalog, Master Data Management, etc.). Sales Enablement Platforms: Including Seismic, Slack, and Salesforce CRM.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-12T10:01:21.360018"
+    },
+    "score": 2,
+    "reason": "Solution Engineer for Salesforce platform. While Salesforce has AI features (Agentforce), this is sales/customer enablement, not internal dev team AI adoption champion role.",
+    "embed_sim": 0.33222395181655884,
+    "ai_native_score": 0.4404529631137848
+  },
+  {
+    "job": {
+      "id": "f5361841c455dfd71f39546ac7bf2f8e",
+      "title": "Senior AI Engineer - AI-native SDLC Platform - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-ai-native-sdlc-platform-at-shine-4459200776?position=11&pageNum=0",
+      "snippet": "The Engineering Enablement Team at Shine Shine is moving all of Product & Tech toward AI-native engineering. The Enablement team builds the platform, workflows, and standards that make this vision real\u2014placing tools directly into the hands of engineers.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-12T10:02:08.130277"
+    },
+    "score": 9,
+    "reason": "Excellent match: Senior AI Engineer on AI-native SDLC Platform explicitly about engineering enablement, placing tools in engineers' hands, building workflows and standards. Exactly the candidate's target. Senior level confirmed. Location unknown but title and scope are near-perfect fit.",
+    "embed_sim": 0.5516852140426636,
+    "ai_native_score": 0.6992258429527283
   }
 ]
