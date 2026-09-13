@@ -13794,18 +13794,18 @@
   {
     "job": {
       "id": "84f122d2d0f2dbd1328eb5380c63d89e",
-      "title": "900+ vacatures voor Ai Implementatie en werk: 22 mei 2026| Indeed",
+      "title": "1.000+ vacatures voor Ai Implementatie en werk: 25 augustus ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-implementatie-vacatures.html?vjk=7d83c8bb07867220",
-      "snippet": "Alle vacatures voor Capgemini - Groningen vacatures - vacatures voor AI Engineer in Groningen bekijken Zoeken op salaris: AI Agile Test Engineer salarissen in Groningen Zie veelgestelde vragen en antwoorden over Capgemini",
+      "snippet": "Vanuit ons kantoor in Den Bosch werk je als AI Engineer aan het praktisch \u00e9n schaalbaar toepassen van AI bij onze klanten.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-16T11:06:48.349199"
+      "date_found": "2026-09-13T11:02:16.847114"
     },
-    "score": 0,
-    "reason": "This is a search results landing page mentioning Groningen (too far from Utrecht) with generic job categories, not a specific listing.",
-    "embed_sim": 0.2539803981781006,
-    "ai_native_score": 0.6503215432167053
+    "score": 2,
+    "reason": "AI Engineer role in Den Bosch working on practical AI implementation for clients. Location is outside 40km radius. Snippet suggests consulting/implementation work but lacks clarity on whether this is about helping dev teams adopt AI tools vs. building AI solutions.",
+    "embed_sim": 0.21224923431873322,
+    "ai_native_score": 0.7418535351753235
   },
   {
     "job": {
@@ -18674,18 +18674,18 @@
   {
     "job": {
       "id": "245a4287d98f9a3475c32cbe40d6cbde",
-      "title": "198 vacatures voor adoption specialist in Nederland | Glassdoor",
+      "title": "259 vacatures voor adoption specialist in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "",
+      "location": "Rotterdam",
       "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
-      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 198 vacatures voor Adoption specialist in Nederland.",
+      "snippet": "Salarissen bij New Spring Network Salarissen voor environmental specialist in Rotterdam Reviews van werknemers bij New Spring Network Sollicitatie-ervaring bij New Spring Network Werken bij New Spring Network Tata Steel 3,8 AI adoption & incubation lead Velsen-Noord \u20ac 5.026 - \u20ac 9.959 (opgegeven door werkgever)",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-02T08:51:51.784419"
+      "date_found": "2026-09-13T11:01:32.516303"
     },
     "score": 0,
-    "reason": "This is a search results page/listing aggregator, not an actual job posting. No specific role details, company, or location information provided.",
-    "embed_sim": 0.17133893072605133,
-    "ai_native_score": 0.6230175495147705
+    "reason": "This is a Glassdoor search results page listing 259 adoption specialist vacancies, not a specific job posting. Cannot evaluate a search index.",
+    "embed_sim": 0.12822262942790985,
+    "ai_native_score": 0.5228738188743591
   },
   {
     "job": {
@@ -32078,5 +32078,149 @@
     "reason": "Excellent match: Senior AI Engineer on AI-native SDLC Platform explicitly about engineering enablement, placing tools in engineers' hands, building workflows and standards. Exactly the candidate's target. Senior level confirmed. Location unknown but title and scope are near-perfect fit.",
     "embed_sim": 0.5516852140426636,
     "ai_native_score": 0.6992258429527283
+  },
+  {
+    "job": {
+      "id": "39b606836cfdaa5be78521f39e6c0dad",
+      "title": "Adoptiespecialist M365 | Nederlandse Spoorwegen (NS ...",
+      "company": "Nederlandse Spoorwegen (NS ...",
+      "location": "Utrecht",
+      "url": "https://www.impactvandaag.nl/vacature/adoptiespecialist-m365/2EB4DC4B-18B5-4E20-8FB8-CFF2515EB3FE",
+      "snippet": "Je maakt deel uit van het Adoption & Analytics-team: een nieuw, hecht en ambitieus team dat zich richt op het verhogen van digitale vaardigheden en het ontwikkelen van adoptiestrategie\u00ebn op basis van data. Het team werkt op maandag en donderdag op kantoor in Utrecht.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-13T11:01:37.145604"
+    },
+    "score": 3,
+    "reason": "M365 adoption specialist focused on Microsoft 365 tools and digital skills training. While in Utrecht and adoption-focused, it's about M365 (Office, Teams, SharePoint) rather than AI tooling adoption for developers. Wrong domain.",
+    "embed_sim": 0.11162078380584717,
+    "ai_native_score": 0.7089810371398926
+  },
+  {
+    "job": {
+      "id": "d605855ef101d73b3622f52dd1e1ee1e",
+      "title": "426 vacature(s) voor Ai automation specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-automation-specialist-job-vacatures-SRCH_IL.0,9_KO10,38.htm",
+      "snippet": "Experience evaluating and implementing automation or AI tooling at an organizational level.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-13T11:01:41.818700"
+    },
+    "score": 0,
+    "reason": "Glassdoor search results page for AI automation specialist vacancies (426 listings). Cannot evaluate a search index rather than a specific job posting.",
+    "embed_sim": 0.40049758553504944,
+    "ai_native_score": 0.7484515905380249
+  },
+  {
+    "job": {
+      "id": "e2eba50f53fa5c4f7161ea8bf8bea122",
+      "title": "425 vacature(s) voor Ai automation specialist in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-automation-specialist-job-vacatures-SRCH_KO0,28.htm",
+      "snippet": "Experience evaluating and implementing automation or AI tooling at an organizational level.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-13T11:01:41.818708"
+    },
+    "score": 0,
+    "reason": "Glassdoor search results page for AI automation specialist vacancies (425 listings). Cannot evaluate a search index rather than a specific job posting.",
+    "embed_sim": 0.3823145925998688,
+    "ai_native_score": 0.7345772385597229
+  },
+  {
+    "job": {
+      "id": "55a491f346a20b80b4ef088624cdea26",
+      "title": "25+ vacatures voor Ai Adoption en werk in Tilburg 1 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-adoption-l-tilburg-vacatures.html",
+      "snippet": "Ai Adoption vacatures in Tilburg. Forward Deployed Engineer, Intern, Shift Leader en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-13T11:01:55.594961"
+    },
+    "score": 0,
+    "reason": "Indeed search results aggregation page for AI Adoption vacancies in Tilburg. This is a search index, not a specific job posting. Tilburg is also outside the 40km Utrecht radius.",
+    "embed_sim": 0.2823583483695984,
+    "ai_native_score": 0.7502304911613464
+  },
+  {
+    "job": {
+      "id": "1b4aa07f7b8d37b45246023a63c2b801",
+      "title": "ai tooling developer vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-tooling-developer-vacatures.html?vjk=bcf70a82d7fb10b9",
+      "snippet": "Ai Tooling Developer vacatures. Ai Engineer, Python Developer, Java Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-13T11:02:03.752036"
+    },
+    "score": 0,
+    "reason": "Indeed search results page for AI Tooling Developer vacancies. This is a search index aggregation, not a specific job posting. Cannot evaluate.",
+    "embed_sim": 0.5704248547554016,
+    "ai_native_score": 0.8000670075416565
+  },
+  {
+    "job": {
+      "id": "38f89499033274599c99e5092d287310",
+      "title": "25+ vacatures voor Ai Automattion Engineer en werk: 12 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automattion-engineer-vacatures.html?vjk=442a0f4a34100a14",
+      "snippet": "Als AI Engineer Bouw & BIM werk je op het snijvlak van bouwkunde, BIM, automatisering en kunstmatige intelligentie. Je ontwikkelt slimme tools en toepassingen die dagelijkse werkzaamheden binnen ontwerp-, engineerings- en bouwprocessen effici\u00ebnter maken.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-13T11:02:03.752071"
+    },
+    "score": 1,
+    "reason": "AI Engineer role in construction/BIM automation focused on building design and engineering processes. This is domain-specific automation (construction) not developer-focused AI tooling adoption. Wrong domain entirely.",
+    "embed_sim": 0.23501792550086975,
+    "ai_native_score": 0.5831100344657898
+  },
+  {
+    "job": {
+      "id": "97f2b4db2f69536e3cf777b080d5f21a",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 8 september 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=5787b63e63c9129e",
+      "snippet": "Dat je in het bezit bent van een masterdiploma in AI, Machine Learning, Computer Science of vergelijkbaar, en minimaal 3 jaar relevante werkervaring hebt. Dat je makkelijk schakelt tussen verschillende stakeholders, zowel technisch als niet-technisch.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-13T11:02:16.847141"
+    },
+    "score": 0,
+    "reason": "AI Engineer role requiring Master's degree in AI/ML/Computer Science and 3+ years relevant experience. Explicitly disqualified by candidate's requirement: roles requiring Master's/PhD in AI, CS, or Data Science are NOT a match.",
+    "embed_sim": 0.2569834589958191,
+    "ai_native_score": 0.6901043057441711
+  },
+  {
+    "job": {
+      "id": "a08eb27822b8ea610061af19de92ee51",
+      "title": "AI Adoption Enablement Engineer in Arnhem bij Alliander ...",
+      "company": "Alliander ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1081701/ai-adoption-enablement-engineer",
+      "snippet": "2 days ago \u00b7 Als AI Adoption & Enablement Engineer maak je van generatieve AI een dagelijks hulpmiddel in onze software workflows, operations en klantcontact. Jij zorgt dat goede idee\u00ebn niet blijven hangen bij losse experimenten, maar de nieuwe manier van werken worden.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-13T11:02:39.379476"
+    },
+    "score": 7,
+    "reason": "AI Adoption & Enablement Engineer at Alliander focused on embedding generative AI into software workflows and operations. Excellent match conceptually (adoption, enablement, making AI a daily tool). Arnhem location is ~35km from Utrecht, within acceptable range. However, missing specific details about developer team focus vs. broader operations scope. Strong but location slightly ambiguous.",
+    "embed_sim": 0.3337641954421997,
+    "ai_native_score": 0.7801864743232727
+  },
+  {
+    "job": {
+      "id": "e477b0f8e8fc88ff92636c0263c51815",
+      "title": "Generative AI Artist Fashion - Freelance bij INDG - Magnet.me",
+      "company": "Indg - Magnet.Me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1069145/generative-ai-artist-fashion---freelance",
+      "snippet": "18 aug 2026 \u00b7 You will work inside the tension that defines this role: fast-moving AI models, production deadlines, visual realism, brand consistency, and ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-13T11:02:53.536327"
+    },
+    "score": 0,
+    "reason": "Fashion/creative design role using generative AI for visual content. Not related to software development, engineering workflows, or developer tool adoption. Wrong domain entirely.",
+    "embed_sim": 0.20377983152866364,
+    "ai_native_score": 0.6440402865409851
   }
 ]
