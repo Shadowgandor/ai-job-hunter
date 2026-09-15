@@ -3912,12 +3912,12 @@
       "url": "https://werkeninai.nl/ai-integration-automation-engineer-eo/",
       "snippet": "Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-16T08:07:50.658861"
+      "date_found": "2026-09-15T10:58:27.526667"
     },
-    "score": 5,
-    "reason": "AI Integration & Automation Engineer at EO in Hilversum. Good location (Hilversum is within 40km of Utrecht). But 'Integration & Automation Engineer' suggests technical implementation of AI systems rather than enabling developer team adoption. Unclear if this is about tooling adoption or building automation pipelines.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 0,
+    "reason": "Listing appears to be a job board entry without substantive role details. No job description, responsibilities, or requirements provided to assess relevance. Cannot determine if role focuses on AI tool adoption vs. ML engineering without actual job content.",
+    "embed_sim": 0.46982502937316895,
+    "ai_native_score": 0.6679247617721558
   },
   {
     "job": {
