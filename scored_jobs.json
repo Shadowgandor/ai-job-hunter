@@ -1218,18 +1218,18 @@
   {
     "job": {
       "id": "75459f2be5d78cd19ee3024b5fc087cb",
-      "title": "ai adoption lead vacatures",
+      "title": "300+ vacatures voor Ai Adoption Lead en werk: 7 september ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-adoption-lead-vacatures.html?vjk=d693b2e7b375a706",
-      "snippet": "Support adoption by communicating clearly and bringing teams along. Act as the technical AI lead within a small, cross-functional experimentation team.",
+      "snippet": "ABN AMRO\u2019s AI team is seeking a visionary GenAI Project Lead to guide our efforts in leveraging AI across various domains in banking, including the creation of agentic AI solutions.",
       "source": "ddg:indeed",
-      "date_found": "2026-07-08T08:22:17.105927"
+      "date_found": "2026-09-16T10:47:04.496535"
     },
-    "score": 7,
-    "reason": "AI adoption lead role with focus on team enablement and communication. Matches core vision of championing AI adoption. Missing details on location and specific tooling focus, but conceptually strong.",
-    "embed_sim": 0.40323948860168457,
-    "ai_native_score": 0.832064688205719
+    "score": 3,
+    "reason": "Generic job search aggregator page for 'AI Adoption Lead' roles. ABN AMRO GenAI Project Lead mentioned is about creating agentic AI solutions and banking applications, not helping dev teams adopt AI tools. Cannot properly assess from snippet.",
+    "embed_sim": 0.30241623520851135,
+    "ai_native_score": 0.6833428740501404
   },
   {
     "job": {
@@ -16914,18 +16914,18 @@
   {
     "job": {
       "id": "de83f7e1b980a681ff51ce01f4f0ec74",
-      "title": "12 vacature(s) voor Maximo specialist in Nederland | Glassdoor",
+      "title": "35 vacature(s) voor Maximo specialist in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/maximo-specialist-vacatures-SRCH_KO0,17.htm",
-      "snippet": "Vind de juiste vacature voor Maximo specialist met bedrijfsreviews en salarissen. 12 vacatures voor Maximo specialist ... Maximo AI EAM Specialist. Netherlands.",
+      "snippet": "Vacatures voor monteur technische dienst (m/v/x) in ElstVacatures in ElstVacatures bij FedEx in Elst ... If you are passionate about Maximo, reliability, data, and the future of AI in asset management \u2014 this is the role for you. AI Adoption & Use Case Delivery.\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-26T08:58:43.721950"
+      "date_found": "2026-09-16T10:46:56.654483"
     },
-    "score": 0,
-    "reason": "Maximo specialist vacancies are for enterprise asset management software, not AI tooling adoption. Wrong domain entirely.",
-    "embed_sim": 0.17534726858139038,
-    "ai_native_score": 0.5725206732749939
+    "score": 2,
+    "reason": "Maximo specialist role is about asset management software, not AI tool adoption for developers. Generic listing aggregator page. No evidence of AI adoption champion work or dev team enablement focus.",
+    "embed_sim": 0.21174055337905884,
+    "ai_native_score": 0.5275316834449768
   },
   {
     "job": {
@@ -20310,14 +20310,14 @@
       "company": "Nn Group In Den Haag",
       "location": "",
       "url": "https://www.glassdoor.nl/job-listing/vacature-digital-adoption-engagement-consultant-view-vacancy-nn-group-JV_IC3049115_KO0,60_KE61,69.htm?jl=1010163806879",
-      "snippet": "You have an interest in responsible AI use and the impact of AI on everyday work \u00b7 Who you will work with You will join the Digital Employee Experience (DEX) team, where we work on adoption, enablement, communication, and value realization for digital workplace capabilities across NN.",
+      "snippet": "As the use of Copilot and personal productivity AI tooling grows across NN, you will help colleagues move from awareness to everyday value by learning how to use these tools responsibly, effectively, and in ways that support their work. In this role, you will drive adoption, strengthen learning and community engagement, and turn practical examples into reusable inspiration while also contributing to broader Digital Employee eXperience priorities within the DEX team.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-08T08:22:47.989135"
+      "date_found": "2026-09-16T10:46:56.654455"
     },
-    "score": 7,
-    "reason": "Digital Adoption & Engagement Consultant with NN Group's Digital Employee Experience team. Focus on adoption, enablement, communication, and value realization for digital capabilities. Responsible AI use emphasis. Den Haag is acceptable location. Strong match for adoption/enablement mission.",
-    "embed_sim": 0.33778002858161926,
-    "ai_native_score": 0.7369951009750366
+    "score": 9,
+    "reason": "Digital Adoption & Engagement Consultant at NN Group explicitly focuses on Copilot and personal productivity AI tooling adoption. Drives learning and responsible AI use across organization. Near-perfect match for AI enablement champion role. Den Haag within acceptable range of Utrecht.",
+    "embed_sim": 0.3225663900375366,
+    "ai_native_score": 0.7664994597434998
   },
   {
     "job": {
@@ -22086,14 +22086,14 @@
       "company": "Developer Experience in Amsterdam ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/915230/senior-software-engineer---developer-experience",
-      "snippet": "Strong passion for improving developer workflows, productivity and infrastructure. Good understanding of the software development lifecycle and challenges faced by developers operating at scale. Experience building internal developer tools, CI/CD systems, or related infrastructure.",
+      "snippet": "Our Developer Experience team is dedicated to making Databricks engineers happy and highly productive. We build the tools, processes, and infrastructure to accelerate engineering velocity as Databricks scales.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-16T08:07:02.664040"
+      "date_found": "2026-09-16T10:47:25.548050"
     },
-    "score": 8,
-    "reason": "Senior Software Engineer - Developer Experience in Amsterdam. Strong match: DevEx focus, developer workflows/productivity, CI/CD infrastructure. Right seniority level. Amsterdam is within acceptable range. Main uncertainty: unclear if AI tooling adoption is central to role.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "score": 4,
+    "reason": "Senior Software Engineer - Developer Experience at Databricks is DevEx-focused which aligns conceptually, but Databricks builds data/ML infrastructure. Role likely involves building tools for ML engineers rather than helping general dev teams adopt AI assistants. Amsterdam location is good, but wrong DevEx focus.",
+    "embed_sim": 0.3783181309700012,
+    "ai_native_score": 0.5516706109046936
   },
   {
     "job": {
@@ -22146,18 +22146,18 @@
   {
     "job": {
       "id": "f96dc811e3cd388cc80e7d5414e67668",
-      "title": "ABN AMRO Bank N.V. zoekt een Head of AI ... - LinkedIn",
+      "title": "Head of AI & Analytics Model Risk - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/head-of-ai-analytics-model-risk-at-abn-amro-bank-n-v-4410525724",
-      "snippet": "Working environment The AI & Analytics Model Risk department is part of ABN AMRO\u2019s Model Risk Management & Model Validation (MRM&MV) department. There are three other model risk teams within the MRM&MV department: Financial Markets Model Risk, Retail Credit Model Risk, Non-Retail Credit Model Risk.",
+      "snippet": "Working environment The AI & Analytics Model Risk department is part of ABN AMRO's Model Risk Management & Model Validation (MRM&MV) department. There are three other model risk teams within the MRM&MV department: Financial Markets Model Risk, Retail Credit Model Risk, Non-Retail Credit Model Risk.",
       "source": "ddg:linkedin",
-      "date_found": "2026-07-16T08:07:37.619980"
+      "date_found": "2026-09-16T10:47:00.636000"
     },
     "score": 1,
-    "reason": "Head of AI & Analytics Model Risk at ABN AMRO. This is a model risk management role focused on financial models and regulatory compliance, not developer experience or AI tool adoption. Requires deep data science/ML knowledge. Wrong domain entirely.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Head of AI & Analytics Model Risk at ABN AMRO is clearly a data science/ML risk management role focused on model validation, not developer tool adoption. Requires deep ML/analytics expertise. Wrong domain entirely.",
+    "embed_sim": 0.3080914318561554,
+    "ai_native_score": 0.5037279725074768
   },
   {
     "job": {
@@ -32302,5 +32302,181 @@
     "reason": "This is a job search aggregator page (Glassdoor), showing 988 vacancies for 'Adoption' in the Netherlands. No specific job listing provided, only a search results link.",
     "embed_sim": 0.04477875307202339,
     "ai_native_score": 0.594988226890564
+  },
+  {
+    "job": {
+      "id": "fa92c5986646597afd51ebac330129c0",
+      "title": "Vacature voor een functie als Tech Enablement Specialist \u2013 Change & Adoption bij Adyen in Amsterdam | Glassdoor",
+      "company": "Adyen In Amsterdam",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/tech-enablement-specialist-change-adoption-adyen-JV_IC3064478_KO0,42_KE43,48.htm?jl=1010082399514",
+      "snippet": "Hands\u2011on experience planning and running change and adoption activities (e.g. small group sessions, async explainers, pilots, or \"first\u2011time use\" support) rather than only large training events; Comfortable using AI as a thought partner \u2013 to explore options, analyse feedback, create and refine interventions, and generate concrete examples or use cases;",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-16T10:46:56.654375"
+    },
+    "score": 8,
+    "reason": "Tech Enablement Specialist at Adyen focused on change & adoption, explicitly mentions using AI as thought partner. Hands-on adoption activities align perfectly with candidate's goals. Amsterdam is within 40km of Utrecht. Senior level appropriate.",
+    "embed_sim": 0.3725511431694031,
+    "ai_native_score": 0.7167268991470337
+  },
+  {
+    "job": {
+      "id": "1b1fa1f9d0ae1331f406accf0023147f",
+      "title": "Medtronic zoekt een Process Excellence Specialist in Heerlen | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/process-excellence-specialist-at-medtronic-4446591615",
+      "snippet": "Experience developing process documentation, knowledge management and standardized ways of working. Demonstrated ability to leverage digital technologies, automation and AI to improve operational performance and support continuous improvement initiatives.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:00.635928"
+    },
+    "score": 3,
+    "reason": "Process Excellence Specialist mentions AI to improve operations, but focus is on operational processes and automation for manufacturing/healthcare domain, not developer team AI tooling adoption. Location (Heerlen) is outside preferred range.",
+    "embed_sim": 0.38156431913375854,
+    "ai_native_score": 0.6173378229141235
+  },
+  {
+    "job": {
+      "id": "0b2a1e02fb8bb599efbd5110db21a5e1",
+      "title": "Consultant - Global Advisory Services bij IQVIA - LinkedIn",
+      "company": "Iqvia - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/consultant-\u2013-global-advisory-services-at-iqvia-4415024807",
+      "snippet": "We leverage modern tools, standardized ways of working, and increasing use of automation and AI so our teams can focus on delivering meaningful outcomes for clients. Joining Advisory Services offers a rewarding career in life sciences consulting, with exposure to diverse therapy areas, geographies, and business challenges.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:00.635970"
+    },
+    "score": 2,
+    "reason": "Consultant role in life sciences consulting mentions automation and AI generally, but is focused on client outcomes in medical/pharma domain, not developer team enablement or AI tool adoption for engineers.",
+    "embed_sim": 0.4158923625946045,
+    "ai_native_score": 0.5776798725128174
+  },
+  {
+    "job": {
+      "id": "0a917066081dcd50e2bbc01dfc01048d",
+      "title": "AI Software Engineer bij Venquis - Bussum | LinkedIn Vacatures",
+      "company": "Venquis - Bussum",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-software-engineer-at-venquis-4466503299",
+      "snippet": "The AI Engineer will operate as a horizontal AI specialist across all Central Services teams, identifying where artificial intelligence can meaningfully improve processes, tools, and ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:00.635983"
+    },
+    "score": 6,
+    "reason": "AI Software Engineer at Venquis positioned as horizontal AI specialist identifying improvements across teams. Could involve enablement but title and framing suggests building/implementing AI systems rather than helping teams adopt existing tools. Bussum is acceptable location. Unclear if requires ML expertise.",
+    "embed_sim": 0.5649531483650208,
+    "ai_native_score": 0.7134873270988464
+  },
+  {
+    "job": {
+      "id": "773a909428da2f09307c42711d42f5e3",
+      "title": "AI Engineer in Amsterdam bij SuitSupply | Magnet.me",
+      "company": "Suitsupply",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1080558/ai-engineer",
+      "snippet": "Sep 8, 2026 \u00b7 IT Development AI Engineer As one of Suitsupply\u2019s first dedicated AI Engineers, you will build the agents that turn our GCP data platform and governed context layer into automated, tool-calling workflows running real business processes.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-16T10:47:25.548079"
+    },
+    "score": 1,
+    "reason": "AI Engineer at SuitSupply is building AI agents and automated workflows on GCP data platform. Clear ML/AI systems building role, not tool adoption enablement. Requires ML engineering expertise. Explicitly wrong focus for candidate.",
+    "embed_sim": 0.45636045932769775,
+    "ai_native_score": 0.6339799761772156
+  },
+  {
+    "job": {
+      "id": "c1d2fa73d2a836e10cbc84777e4b3390",
+      "title": "Automation Engineer Digital Enablement Team - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/automation-engineer-digital-enablement-team-at-heerema-marine-contractors-4458219785",
+      "snippet": "Aug 24, 2026 \u00b7 As Automation Engineer DET, you are the bridge between Engineering and IT & Digital. You understand the needs emerging from our engineering disciplines and help translate them into solutions that...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:42.975647"
+    },
+    "score": 3,
+    "reason": "Automation Engineer role focused on bridging Engineering and IT, but no mention of AI tooling adoption or developer enablement. Appears to be infrastructure/process automation, not AI champion work.",
+    "embed_sim": 0.4133239984512329,
+    "ai_native_score": 0.761895477771759
+  },
+  {
+    "job": {
+      "id": "948a91f631496ee015b6adfe1b09dbc2",
+      "title": "[6348] AI Engineer bij GardPass Consulting & Space ... - LinkedIn",
+      "company": "Gardpass Consulting & Space ... - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/6348-ai-engineer-at-gardpass-consulting-space-4466346111",
+      "snippet": "Experience developing, optimising, deploying, and maintaining end-to-end AI/ML pipelines, including training, packaging, monitoring, and lifecycle management. Strong hands-on experience in programming, machine learning, software engineering, and applied AI development.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:47.753891"
+    },
+    "score": 1,
+    "reason": "Pure ML/Data Science role requiring end-to-end AI/ML pipeline development, model training, deployment, and lifecycle management. Explicitly calls for machine learning and applied AI development expertise \u2014 the opposite of what the candidate seeks.",
+    "embed_sim": 0.5243334174156189,
+    "ai_native_score": 0.5831342339515686
+  },
+  {
+    "job": {
+      "id": "b2e2ccf6507615506862da7040b8f9ce",
+      "title": "AI Agent Engineer (Relocation Provided) bij Wypoon ... - LinkedIn",
+      "company": "Wypoon ... - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-agent-engineer-relocation-provided-at-wypoon-technologies-4437263708",
+      "snippet": "Whether your experience is in AI agent development, Retrieval-Augmented Generation (RAG), or cloud-native AI engineering, you'll contribute to innovative projects that shape the future of...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:47.753911"
+    },
+    "score": 2,
+    "reason": "AI Agent development role focused on building AI systems (RAG, cloud-native AI engineering). This is product-focused AI engineering, not developer enablement or AI tool adoption coaching.",
+    "embed_sim": 0.4073280990123749,
+    "ai_native_score": 0.6397550702095032
+  },
+  {
+    "job": {
+      "id": "beb2c742ac2687db9852ea2acc050d42",
+      "title": "AI Engineer bij ABN AMRO Bank N.V. - Amsterdam - LinkedIn",
+      "company": "Abn Amro Bank N.V. - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-abn-amro-bank-n-v-4413993285",
+      "snippet": "You'll be part of a 25+ person AI team inside ABN AMRO's Innovation department. We operate with a startup mindset within a bank that serves millions of customers and employs thousands of...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-16T10:47:47.753925"
+    },
+    "score": 4,
+    "reason": "ABN AMRO AI Engineer role in Amsterdam (good location, relevant company). However, vague snippet suggests research/innovation team model rather than clear AI adoption enablement focus. May be primarily ML/research-oriented given the 'startup mindset' in an innovation department.",
+    "embed_sim": 0.3607904314994812,
+    "ai_native_score": 0.5935770869255066
+  },
+  {
+    "job": {
+      "id": "659efc1c32aaba858250855ae64579d8",
+      "title": "AI Engineer in 's-Hertogenbosch bij ilionx | Magnet.me",
+      "company": "Ilionx",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/987592/ai-engineer",
+      "snippet": "Jul 29, 2026 \u00b7 Vanuit ons kantoor in Den Bosch werk je als AI Engineer aan het praktisch \u00e9n schaalbaar toepassen van AI bij onze klanten. Jij bouwt niet alleen slimme oplossingen, je helpt organisaties ook echt vooruit.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-16T10:48:21.206962"
+    },
+    "score": 2,
+    "reason": "ilionx AI Engineer building 'smart solutions' for clients. Phrasing suggests custom AI product development and implementation for customers, not internal team enablement or AI tool adoption. Location (Den Bosch) is also outside preferred 40km radius of Utrecht.",
+    "embed_sim": 0.3168300986289978,
+    "ai_native_score": 0.7043178081512451
+  },
+  {
+    "job": {
+      "id": "40066408dfeef0ec211570e26bb73cc9",
+      "title": "AI Engineer in Amsterdam bij KPN New Business | Magnet.me",
+      "company": "Kpn New Business",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1080857/ai-engineer",
+      "snippet": "Sep 8, 2026 \u00b7 Je bent een Medior AI Engineer die technologie \u00e9n business-impact laat samenkomen. Je werkt zelfstandig, neemt initiatief en krijgt energie van het oplossen van echte corporate uitdagingen binnen HR & Finance.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-16T10:48:21.206978"
+    },
+    "score": 5,
+    "reason": "KPN AI Engineer role in Amsterdam (good location, strong company in fintech-adjacent space). 'Medior' level (candidate is senior, but transferable). Claims to bridge technology and business impact, working on HR & Finance challenges. However, snippet lacks clarity on whether this is AI tool enablement vs. building AI solutions. Could be a partial match but needs more detail to confirm it's adoption/enablement focused.",
+    "embed_sim": 0.3171314001083374,
+    "ai_native_score": 0.6627295017242432
   }
 ]
