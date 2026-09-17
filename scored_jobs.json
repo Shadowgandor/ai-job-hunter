@@ -1010,18 +1010,18 @@
   {
     "job": {
       "id": "268bb2e47c6573df4b046b725dc74ece",
-      "title": "2.445 vacatures voor ai specialist in Nederland | Glassdoor",
+      "title": "2.832 vacatures voor ai specialist in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-specialist-vacatures-SRCH_IL.0,11_IN178_KO12,25.htm",
-      "snippet": "Zoek vacatures voor Ai specialist in Nederland met bedrijfsreviews en salarissen. 2.445 vacatures voor Ai specialist in Nederland.",
+      "snippet": "Zoek vacatures voor Ai specialist in Nederland met bedrijfsreviews en salarissen. 2.832 vacatures voor Ai specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-05T08:49:48.514321"
+      "date_found": "2026-09-17T10:55:20.451515"
     },
     "score": 0,
-    "reason": "Not a job listing \u2014 this is a Glassdoor search results page showing 2,445 aggregate job listings. No specific role, company, location, or job details provided. Not a valid job posting to evaluate.",
-    "embed_sim": 0.24777358770370483,
-    "ai_native_score": 0.6301811933517456
+    "reason": "No match. This is a search results aggregation page, not a job listing. Cannot evaluate as a specific role.",
+    "embed_sim": 0.2508385181427002,
+    "ai_native_score": 0.6296899318695068
   },
   {
     "job": {
@@ -9026,18 +9026,18 @@
   {
     "job": {
       "id": "90b689bc078143713b399f8a7b1d1cdc",
-      "title": "Sectra zoekt een AI Adoption Specialist in Almere - LinkedIn",
-      "company": "",
+      "title": "Sectra zoekt een AI Adoption Specialist in Almere | LinkedIn",
+      "company": "LinkedIn",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-sectra-4392936403",
-      "snippet": "As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes.",
+      "snippet": "As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes. Sectra\u2019s Amplifier Services is a new...",
       "source": "ddg:linkedin",
-      "date_found": "2026-06-04T09:52:19.588829"
+      "date_found": "2026-09-17T10:55:07.846340"
     },
     "score": 3,
-    "reason": "AI Adoption Specialist title matches, but focused on integrating AI into clinical workflows (healthcare domain), not developer/engineering team adoption. Location (Almere) is acceptable but domain mismatch is significant.",
-    "embed_sim": 0.0,
-    "ai_native_score": 0.0
+    "reason": "Weak match. AI Adoption Specialist in Almere (acceptable proximity to Utrecht). Title is promising but context is clinical workflows in healthcare (Sectra), not dev team enablement. Different industry/audience than engineering teams.",
+    "embed_sim": 0.3347316086292267,
+    "ai_native_score": 0.6200997233390808
   },
   {
     "job": {
@@ -18642,18 +18642,18 @@
   {
     "job": {
       "id": "b9a5a3a3fd493964fb57f3ec63bb26cf",
-      "title": "400+ vacatures voor Developer en werk in Utrecht (provincie) 26 juni...",
+      "title": "400+ vacatures voor Developer en werk in Utrecht (provincie ...",
       "company": "",
-      "location": "Utrecht",
+      "location": "",
       "url": "https://nl.indeed.com/q-developer-l-utrecht-vacatures.html",
-      "snippet": "Developer vacatures in Utrecht (provincie). Java Developer, Senior Software Engineer, Business Developer en meer op Indeed.com.Previous experience as a Software Developer, Coder, Software Engineer, or Programmer is preferred. Note: Payment is made via PayPal.",
-      "source": "ddg:indeed",
-      "date_found": "2026-07-01T09:42:34.514573"
+      "snippet": "We groeien en zoeken daarom een Business Developer / Adviseur Energie die commerci\u00eble kansen ziet, nieuwe klanten aan CloudCrest weet te verbinden \u00e9n als inhoudelijke gesprekspartner kan optreden.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-17T10:56:02.784853"
     },
     "score": 0,
-    "reason": "This is a generic search results aggregation page for 'Developer' roles in Utrecht. No specific job listing, company, or details. Too generic to assess relevance.",
-    "embed_sim": 0.18765515089035034,
-    "ai_native_score": 0.6506201028823853
+    "reason": "Not a job listing \u2014 this is a job search results page aggregator. No specific role details, company, or application information provided. Title mentions 'Business Developer / Adviseur Energie' (energy advisor) which is completely unrelated to AI adoption or engineering roles.",
+    "embed_sim": 0.18425136804580688,
+    "ai_native_score": 0.6242071986198425
   },
   {
     "job": {
@@ -19042,18 +19042,18 @@
   {
     "job": {
       "id": "804506b730ebbac62f8fc1e8726f07dd",
-      "title": "DEPT\u00ae zoekt een AI Consultant in Amsterdam | LinkedIn",
-      "company": "LinkedIn",
+      "title": "AI Consultant bij DEPT\u00ae - Amsterdam | LinkedIn Vacatures",
+      "company": "Dept\u00ae - Amsterdam",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/ai-consultant-at-dept\u00ae-4403536630",
       "snippet": "As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them with the support from our team of talented engineers and developers.",
       "source": "ddg:linkedin",
-      "date_found": "2026-07-03T08:57:44.068531"
+      "date_found": "2026-09-17T10:55:07.846417"
     },
-    "score": 8,
-    "reason": "AI Consultant role at DEPT in Amsterdam (within candidate's 40km range) focused on client AI adoption and implementation guidance. Strong match for consulting/advisory track of AI enablement work.",
-    "embed_sim": 0.46519866585731506,
-    "ai_native_score": 0.6425138711929321
+    "score": 5,
+    "reason": "Partial match. AI Consultant at DEPT in Amsterdam (good location). Translates business problems into AI solutions and guides implementation. However, role appears more consultant-to-clients on general AI strategy rather than helping internal dev teams adopt specific AI coding tools. Ambiguous on hands-on technical aspect.",
+    "embed_sim": 0.42036277055740356,
+    "ai_native_score": 0.5900766253471375
   },
   {
     "job": {
@@ -32478,5 +32478,117 @@
     "reason": "KPN AI Engineer role in Amsterdam (good location, strong company in fintech-adjacent space). 'Medior' level (candidate is senior, but transferable). Claims to bridge technology and business impact, working on HR & Finance challenges. However, snippet lacks clarity on whether this is AI tool enablement vs. building AI solutions. Could be a partial match but needs more detail to confirm it's adoption/enablement focused.",
     "embed_sim": 0.3171314001083374,
     "ai_native_score": 0.6627295017242432
+  },
+  {
+    "job": {
+      "id": "3d45a3f3938e8d0f908420d79655f4bd",
+      "title": "Vacature voor een functie als AI Enablement Engineer bij Usercentrics ...",
+      "company": "Usercentrics ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-enablement-engineer-usercentrics-JV_IC2218704_KO0,22_KE23,35.htm?jl=1010239209924",
+      "snippet": "Run technical enablement sessions with non-engineering teams: walk them through what was built, how to use it, and how to ask for the next thing well. Guide teams on tech stack choices, MCP servers, AI artefacts (Skills, Connectors, plugins), and integration patterns for AI in a business context.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-17T10:53:58.934648"
+    },
+    "score": 8,
+    "reason": "Excellent match. AI Enablement Engineer role explicitly about guiding teams on tech stack, MCP servers, AI integration patterns. Enablement-focused, non-ML. Missing location detail but Usercentrics has European presence.",
+    "embed_sim": 0.40757811069488525,
+    "ai_native_score": 0.7063182592391968
+  },
+  {
+    "job": {
+      "id": "296c7003ccc9c9e2790b5d12281d0d37",
+      "title": "Vacature voor een functie als AI Engineer, Enablement (Amsterdam) bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-enablement-amsterdam-langchain-JV_KO0,32_KE33,42.htm?jl=1010222590219",
+      "snippet": "The Enablement team works directly with companies building AI agents for production, getting new LangChain customers off to a fast, confident start. We own onboarding and instructor-led education for our customers, and run focused advisory sprints for accounts that need deeper support on architecture and evaluation.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-17T10:53:58.934660"
+    },
+    "score": 6,
+    "reason": "Partial match. Amsterdam-based AI Enablement role with LangChain (customer education, advisory). Location is good. However, focused on LangChain customers building AI agents (product-building) rather than helping dev teams adopt tools. More consultant-to-clients than internal champion.",
+    "embed_sim": 0.3150678277015686,
+    "ai_native_score": 0.6918987035751343
+  },
+  {
+    "job": {
+      "id": "beff203386e3761688d432ac0ecda30d",
+      "title": "Vacature voor een functie als GNSS Support & Test Engineer bij Fugro in Nootdorp | Glassdoor",
+      "company": "Fugro In Nootdorp",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/gnss-support-test-engineer-fugro-JV_IC3047748_KO0,26_KE27,32.htm?jl=1010227361604",
+      "snippet": "You will work AI-native: coding agents, LLM-assisted tooling and automated pipelines will be your default way of working here \u2014 whether you bring that habit with you or build it with us.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-17T10:54:11.406047"
+    },
+    "score": 2,
+    "reason": "Weak match. GNSS Support & Test Engineer at Fugro (Nootdorp, outside Utrecht radius). Despite 'AI-native' language, primary role is GNSS/testing, not AI adoption/enablement. Wrong domain and location.",
+    "embed_sim": 0.31313759088516235,
+    "ai_native_score": 0.5761527419090271
+  },
+  {
+    "job": {
+      "id": "d85897ea4005cd268e3701cf3a9bf3f3",
+      "title": "OverheidZZP zoekt een Adoptiespecialist in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/adoptiespecialist-at-overheidzzp-4446188131",
+      "snippet": "Jul 28, 2026 \u00b7 Als Adoptie specialist adviseer en rapporteer je pro-actief de projectleiding over de Adoptie, Communicatie & implementatie strategie en de bijbehorende aanpak voor de Purview basisconfiguratie...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-17T10:55:07.846399"
+    },
+    "score": 1,
+    "reason": "No match. Adoption Specialist for Microsoft Purview configuration (data governance), not AI tool adoption. Wrong domain entirely. Amsterdam location acceptable but wrong role concept.",
+    "embed_sim": 0.20973581075668335,
+    "ai_native_score": 0.6697473526000977
+  },
+  {
+    "job": {
+      "id": "0da90b78258d4abef228cade92eaa6fb",
+      "title": "Data & AI Engineer bij wolk - Utrecht | LinkedIn Vacatures",
+      "company": "Wolk - Utrecht",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-engineer-at-wolk-4434979288",
+      "snippet": "At Wolk, we're on an exciting mission to create meaningful change through the power of data and AI. We are a young, growing company aiming to accelerate sustainable innovation with modern data...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-17T10:55:16.626964"
+    },
+    "score": 3,
+    "reason": "Weak match. Data & AI Engineer at Wolk in Utrecht (perfect location). But title and 'data and AI' focus suggests data engineering/ML pipeline work, not AI tool adoption/enablement. Likely requires data science background.",
+    "embed_sim": 0.2610577344894409,
+    "ai_native_score": 0.4018143117427826
+  },
+  {
+    "job": {
+      "id": "4c6c738fb4bf26183101b0037acbff04",
+      "title": "Forward Deployed Engineer bij MarvelX AI - Amsterdam ...",
+      "company": "Marvelx Ai - Amsterdam ...",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/forward-deployed-engineer-at-marvelx-ai-4454237638",
+      "snippet": "Aug 17, 2026 \u00b7 Solliciteer naar Forward Deployed Engineer bij MarvelX AI in Amsterdam. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-17T10:55:16.626989"
+    },
+    "score": 6,
+    "reason": "Partial match. Forward Deployed Engineer at MarvelX AI in Amsterdam (good location, senior level). Forward-deployed roles often involve customer enablement and hands-on technical support. However, snippet lacks detail; unclear if focused on AI tool adoption or ML product implementation.",
+    "embed_sim": 0.33891722559928894,
+    "ai_native_score": 0.6578841209411621
+  },
+  {
+    "job": {
+      "id": "497b024da17b708032589ac145c13342",
+      "title": "50+ vacatures voor Artificial Intelligence en werk in Utrecht ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-l-utrecht-(provincie)-vacatures.html?vjk=d279fdc6c5d0a4db",
+      "snippet": "Van Microsoft Copilot en slimme workflows tot AI-oplossingen die processen versnellen en administratieve lasten verlagen: jij maakt technologie praktisch, toepasbaar en waardevol.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-17T10:55:39.808476"
+    },
+    "score": 0,
+    "reason": "No match. This is a search results aggregation page (Indeed), not a specific job listing. Cannot evaluate.",
+    "embed_sim": 0.2786542475223541,
+    "ai_native_score": 0.7112889289855957
   }
 ]
