@@ -32590,5 +32590,21 @@
     "reason": "No match. This is a search results aggregation page (Indeed), not a specific job listing. Cannot evaluate.",
     "embed_sim": 0.2786542475223541,
     "ai_native_score": 0.7112889289855957
+  },
+  {
+    "job": {
+      "id": "0a371f34d3b174979ce3a6ab56d96968",
+      "title": "netherlands ai machine learning vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-netherlands-ai-machine-learning-vacatures.html?vjk=c150f3b5f7e38f73",
+      "snippet": "Netherlands Ai Machine Learning vacatures. Verification Engineer, Productiemedewerker, Builder en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-18T10:29:11.135648"
+    },
+    "score": 0,
+    "reason": "This is a search results page/index listing, not a specific job posting. No actual job details, location, or company information provided. Cannot assess as a valid job opportunity.",
+    "embed_sim": 0.3388594388961792,
+    "ai_native_score": 0.5100305676460266
   }
 ]
