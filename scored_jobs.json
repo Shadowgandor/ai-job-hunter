@@ -18450,18 +18450,18 @@
   {
     "job": {
       "id": "56c1fcbdf699bd56e7129588cf55f4c5",
-      "title": "1.367 vacatures voor ai automation in Nederland - Glassdoor",
+      "title": "1.533 vacatures voor ai automation in Nederland - Glassdoor",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-automation-vacatures-SRCH_IL.0,9_IN178_KO10,23.htm",
-      "snippet": "Zoek vacatures voor Ai automation in Nederland met bedrijfsreviews en salarissen. 1.367 vacatures voor Ai automation in Nederland.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-07-01T09:40:34.305408"
+      "snippet": "Zoek vacatures voor Ai automation in Nederland met bedrijfsreviews en salarissen. 1.533 vacatures voor Ai automation in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:46.564316"
     },
     "score": 0,
-    "reason": "This is a search results page listing 1,367 AI automation vacancies in the Netherlands, not an actual job posting. Cannot evaluate.",
-    "embed_sim": 0.20030911266803741,
-    "ai_native_score": 0.6577996611595154
+    "reason": "Generic search results aggregation page (1,533 listings for 'AI automation in Netherlands'), not a specific job posting. Cannot evaluate without actual job details.",
+    "embed_sim": 0.20037686824798584,
+    "ai_native_score": 0.6668592095375061
   },
   {
     "job": {
@@ -32606,5 +32606,261 @@
     "reason": "This is a search results page/index listing, not a specific job posting. No actual job details, location, or company information provided. Cannot assess as a valid job opportunity.",
     "embed_sim": 0.3388594388961792,
     "ai_native_score": 0.5100305676460266
+  },
+  {
+    "job": {
+      "id": "727fdee0a42d28e5c63a12d551f37680",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 19 september 2026 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=5bee296453b7012b",
+      "snippet": "Minimaal 3 jaar ervaring als software engineer, data scientist of AI engineer. Het bouwen van LLM-applicaties zoals chatbots, virtuele assistenten en AI-agents.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-19T10:14:40.852374"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page, not a specific job listing. Cannot evaluate an actual role.",
+    "embed_sim": 0.3798587918281555,
+    "ai_native_score": 0.6646704077720642
+  },
+  {
+    "job": {
+      "id": "83e1cdcf7d14550009f74e8c0d461477",
+      "title": "100+ vacatures voor Ai Engineer en werk in Den Haag 19 september 2026 ...",
+      "company": "",
+      "location": "Den Haag",
+      "url": "https://nl.indeed.com/q-ai-engineer-l-den-haag-vacatures.html?vjk=d76c67396f4c0b64",
+      "snippet": "Ai Engineer vacatures in Den Haag. Ai Engineer, Data Scientist, IT Project Manager en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-19T10:14:40.852411"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page for Den Haag, not a specific job listing. Cannot evaluate an actual role.",
+    "embed_sim": 0.24804367125034332,
+    "ai_native_score": 0.672109842300415
+  },
+  {
+    "job": {
+      "id": "1b3712ecd264e02714b9cc8a32799bc9",
+      "title": "Rewire zoekt een Junior Roles - Data & AI in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/junior-roles-data-ai-at-rewire-4467701895",
+      "snippet": "4 days ago \u00b7 Founded in 2006, Rewire is an applied AI company helping organizations reinvent how they work with data and AI. We partner with leading organizations across industries to create scalable business impact by solving complex challenges through data, AI, and technology. Our team of 100+ data scientists, engineers, and change agents operates across Europe from offices in the Netherlands and Germany ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:14:49.426971"
+    },
+    "score": 1,
+    "reason": "Junior role in Data & AI at an applied AI company focused on building data/AI solutions. Requires junior-level data science/ML background. Candidate explicitly seeks senior roles and is not a data scientist/ML engineer.",
+    "embed_sim": 0.3835594654083252,
+    "ai_native_score": 0.5540244579315186
+  },
+  {
+    "job": {
+      "id": "516a5a875f1c27fe23eee4fc3c047c0b",
+      "title": "Data & AI Intern bij Workwize - Amsterdam | LinkedIn Vacatures",
+      "company": "Workwize - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-intern-at-workwize-4464061283",
+      "snippet": "Strong analytical and problem-solving skills; you enjoy working with data to draw insights and support decisions. Curiosity about AI and LLMs, and ideally some hands-on experience building with them or with automation tools. Clear written and verbal communication, with the ability to structure complex ideas simply.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:14:49.426984"
+    },
+    "score": 0,
+    "reason": "Intern position in Data & AI. Candidate is explicitly seeking senior-level roles, not internships/traineeships. Wrong seniority level.",
+    "embed_sim": 0.4344410300254822,
+    "ai_native_score": 0.5508081316947937
+  },
+  {
+    "job": {
+      "id": "c615eff3ce46a262c2afd14e50d885b8",
+      "title": "100+ vacatures voor Ai Enablement Lead en werk - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-enablement-lead-vacatures.html",
+      "snippet": "16 uur geleden \u00b7 Ai Enablement Lead vacatures. Solution Architect, Community Team Leader, Sales Representative en meer op Indeed.com.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-19T10:14:57.507696"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page, not a specific job listing. Cannot evaluate an actual role.",
+    "embed_sim": 0.10949264466762543,
+    "ai_native_score": 0.6488243341445923
+  },
+  {
+    "job": {
+      "id": "d3e6ca600f0684663225feab53f573e6",
+      "title": "Vacature voor een functie als Data & AI Platform Engineer bij CGI in Netherlands | Glassdoor",
+      "company": "Cgi In Netherlands",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/data-ai-platform-engineer-cgi-JV_KO0,25_KE26,29.htm?jl=1010016689072",
+      "snippet": "Jouw rol in ons team Als Data & AI Platform Engineer werk je in enablement-teams die het platform en de delivery-capabilities neerzetten waar data- en AI-domeinen op kunnen versnellen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:06.083617"
+    },
+    "score": 7,
+    "reason": "Data & AI Platform Engineer at CGI focused on enablement teams building platform capabilities for data/AI domains. Platform engineering with enablement focus aligns well with candidate's interests. Location (Netherlands) is acceptable. Does not explicitly require ML expertise. Strong fit for AI tooling/adoption champion role.",
+    "embed_sim": 0.36651307344436646,
+    "ai_native_score": 0.5752135515213013
+  },
+  {
+    "job": {
+      "id": "594ed6a3ce08eb2c719bf808c6c718ef",
+      "title": "117 vacatures voor product designer in Amsterdam - Glassdoor",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-product-designer-vacatures-SRCH_IL.0,9_IC3064478_KO10,26.htm",
+      "snippet": "117 vacature(s) voor Product designer in Amsterdam ... Proficiency in Figma and new AI tools, as well as a curiosity to experiment with new ways of working ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:10.310752"
+    },
+    "score": 0,
+    "reason": "Product Designer role. Wrong domain entirely. AI tool mention is tangential (Figma + AI tools for designers). Not an engineering/developer role.",
+    "embed_sim": 0.20451787114143372,
+    "ai_native_score": 0.5718149542808533
+  },
+  {
+    "job": {
+      "id": "da9534853a07ad79e5d1a705cbd4e1c4",
+      "title": "191.773 vacatures voor Verenigde Staten - thuiswerk - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/work-from-home-verenigde-staten-vacatures-SRCH_FW0,14_IL.15,31_IN1.htm",
+      "snippet": "Zoek thuiswerk vacatures in Verenigde Staten. Vind de juiste thuiswerk vacature in Verenigde Staten met bedrijfsreviews en salarissen.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:10.310766"
+    },
+    "score": 0,
+    "reason": "This is a search results aggregation page for US work-from-home roles. Not a specific job listing. Candidate prefers roles near Utrecht (Netherlands), not US-based.",
+    "embed_sim": -0.06679210811853409,
+    "ai_native_score": 0.514083981513977
+  },
+  {
+    "job": {
+      "id": "4160b6809cc73bb28dc756e905c32135",
+      "title": "AI & Optimisation Engineer - Lionsville - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/jv",
+      "snippet": "AI & Optimisation Engineer \u00b7 A gross monthly salary between \u20ac5.600,- and \u20ac7.000. \u00b7 Electric lease car or mobility allowance \u00b7 MacBook or Windows laptop \u00b7 Claude ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:10.310793"
+    },
+    "score": 2,
+    "reason": "AI & Optimisation Engineer with Claude mention. Location/company details are incomplete (Glassdoor listing cut off). Without full context, unclear if this is ML/optimization modeling (likely) vs. AI adoption/enablement. Vague listing makes assessment difficult. Mentions Claude but no indication this is about enabling teams to use AI tools.",
+    "embed_sim": 0.4479658305644989,
+    "ai_native_score": 0.6777870655059814
+  },
+  {
+    "job": {
+      "id": "2cdc9d3cda3135d5f9e964aa8e22cd73",
+      "title": "Talent Acquisition Ops & AI Enablement Manager - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/talent-acquisition-ops-ai-enablement-manager-at-backbase-4439853987",
+      "snippet": "Talent Acquisition at Backbase is building the function that brings AI capability to recruiting, for real. As our TA Ops & AI Enablement Manager, you'll be the strategic and operational arm of our Senior TA Manager, owning the operational backbone of how we hire: the systems, data, workflows, and operating rhythm - and the recruiters who depend on them. You'll be the person who makes new AI ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:15:14.857700"
+    },
+    "score": 3,
+    "reason": "Talent Acquisition Ops & AI Enablement Manager at Backbase. Has 'AI Enablement' in title and focuses on TA systems/workflows. However, this is an HR/recruiting operations role, not a software engineering/developer tools adoption role. Not aligned with candidate's core focus of helping dev teams adopt AI coding tools.",
+    "embed_sim": 0.44840866327285767,
+    "ai_native_score": 0.6390630602836609
+  },
+  {
+    "job": {
+      "id": "2416be6c01a2b966e3321767ea095fe3",
+      "title": "Swift zoekt een Senior GenAI Engineer \u2013 AI, Analytics ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-genai-engineer-\u2013-ai-analytics-automation-environments-strategy-at-swift-4431750173",
+      "snippet": "Aug 3, 2026 \u00b7 Experience with traditional ML or MLOps is helpful, but the primary emphasis is GenAI engineering and platform enablement. You will help design, implement, and evolve GenAI platform capabilities...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:15:14.857729"
+    },
+    "score": 6,
+    "reason": "GenAI platform enablement focus is promising, but 'GenAI engineering' suggests model/platform building rather than adoption coaching. Emphasizes 'traditional ML or MLOps' knowledge. Location unknown. Partial match on platform enablement but likely requires more ML depth than ideal.",
+    "embed_sim": 0.4059523940086365,
+    "ai_native_score": 0.5321438312530518
+  },
+  {
+    "job": {
+      "id": "1f620906fe1470dd8b901f18f2d7a764",
+      "title": "100+ vacatures voor Ai Adoption Consultant en werk: 7 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-adoption-consultant-vacatures.html?vjk=1ec607fb5a357d74",
+      "snippet": "Voor onze groeiende Data & AI-capability zoeken wij een Adoptie Consultant AI die collega\u2019s helpt AI effectief, verantwoord en vol vertrouwen te gebruiken.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-19T10:15:31.172099"
+    },
+    "score": 0,
+    "reason": "Search results page listing 100+ job openings, not a specific job posting. Cannot evaluate relevance without actual job details. Appears to be a job board aggregation link rather than a closed posting.",
+    "embed_sim": 0.24291086196899414,
+    "ai_native_score": 0.7049782872200012
+  },
+  {
+    "job": {
+      "id": "f83195dfc6c006959c88e042554acf39",
+      "title": "Vacature voor een functie als Developer Relations AI (100% remote ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/developer-relations-ai-100-remote-tether-operations-limited-JV_IC3064478_KO0,33_KE34,59.htm",
+      "snippet": "4\u20136 years of experience in software development or developer relations. Experience leveraging AI tools (such as Cursor, Codex, or similar AI-assisted ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:46.564294"
+    },
+    "score": 8,
+    "reason": "Developer Relations AI role with 4-6 years software dev experience required (candidate has 13). Explicitly mentions AI tools adoption (Cursor, Codex). 100% remote is accessible from Utrecht area. Strong match for AI tool enablement and developer advocacy, though seniority expectations may be slightly junior-facing for someone with 13 years experience.",
+    "embed_sim": 0.35085681080818176,
+    "ai_native_score": 0.7544038891792297
+  },
+  {
+    "job": {
+      "id": "a6f8b9af17cdbe486d17ec8dd36398b4",
+      "title": "160 vacatures voor software developer in Turkije - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/turkey-software-developer-vacatures-SRCH_IL.0,6_IN238_KO7,25.htm",
+      "snippet": "AI Solutions Developer. Istanbul. 1-2 years of experience in software development, automation engineering, AI engineering, data engineering, or a similar ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-19T10:15:46.564306"
+    },
+    "score": 0,
+    "reason": "Location is Istanbul, Turkey \u2014 far outside 40km radius of Utrecht and no remote indication. Does not meet geographic requirements.",
+    "embed_sim": 0.29014718532562256,
+    "ai_native_score": 0.6206479072570801
+  },
+  {
+    "job": {
+      "id": "d6a700d9bcc2981b6008f6acb2e92b42",
+      "title": "Corecom Consulting zoekt een Developer Experience ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/developer-experience-engineer-at-corecom-consulting-4452582977",
+      "snippet": "10:58:31 geplaatst. We are looking for an experienced Developer Experience Engineer to join a platform engineering team\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:15:50.571601"
+    },
+    "score": 7,
+    "reason": "Developer Experience Engineer at platform engineering firm aligns well with DevEx/AI tooling focus. Likely involves helping teams adopt tools. Location and specific AI focus unknown from snippet, but DevEx roles are a strong match for the candidate's goals. Missing details on AI specifics and location.",
+    "embed_sim": 0.3979770541191101,
+    "ai_native_score": 0.5827375650405884
+  },
+  {
+    "job": {
+      "id": "6cef5b98b98b7c5af54013346da0e3bc",
+      "title": "Frontend Engineer - UI Infrastructure and Developer Tools ...",
+      "company": "UI Infrastructure and Developer Tools ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-engineer-ui-infrastructure-and-developer-tools-early-talent-at-nebius-4459959936",
+      "snippet": "We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-19T10:15:50.571638"
+    },
+    "score": 2,
+    "reason": "Frontend Engineer role building full-stack AI cloud platform \u2014 this is about building AI products and supporting infrastructure, not adopting AI tools within dev teams. Wrong direction. 'Early-talent' suggests junior level. Location unknown.",
+    "embed_sim": 0.4966135025024414,
+    "ai_native_score": 0.39504414796829224
   }
 ]
