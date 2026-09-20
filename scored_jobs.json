@@ -22632,10 +22632,10 @@
       "url": "https://nl.indeed.com/m/jobs?q=Tooling+Engineer",
       "snippet": "Op de hoogte blijven van ontwikkelingen binnen LLM\u2019s, generative AI en tooling. ... Alle vacatures voor Every Day\u00ae - Roosendaal vacatures - vacatures voor Engineer (m/v) in Roosendaal bekijken",
       "source": "ddg:indeed",
-      "date_found": "2026-07-19T08:11:02.290775"
+      "date_found": "2026-09-20T10:33:17.628104"
     },
     "score": 0,
-    "reason": "Generic job board search results aggregation page, not a specific job posting. Snippet mentions LLM/GenAI tooling but no concrete role description, company, location, or seniority level provided.",
+    "reason": "Cannot evaluate. Generic Indeed search results page listing 500+ vacancies with no specific job details, company, or location information. Not a real job posting.",
     "embed_sim": 0.15728671848773956,
     "ai_native_score": 0.572813868522644
   },
@@ -32862,5 +32862,85 @@
     "reason": "Frontend Engineer role building full-stack AI cloud platform \u2014 this is about building AI products and supporting infrastructure, not adopting AI tools within dev teams. Wrong direction. 'Early-talent' suggests junior level. Location unknown.",
     "embed_sim": 0.4966135025024414,
     "ai_native_score": 0.39504414796829224
+  },
+  {
+    "job": {
+      "id": "3a67df79d77971f1eb7a84afc10ecc6e",
+      "title": "Vacature voor een functie als Senior AI Developer Enablement Engineer ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/senior-ai-developer-enablement-engineer-github-copilot-itsync-JV_IC3045310_KO0,54_KE55,61.htm?jl=1010263833086",
+      "snippet": "As Senior AI Developer Enablement Engineer, you are the technical go-to person for AI-assisted development at Rabobank. You coach teams, try out new features before anyone else, prove their value with data, and make sure everything stays secure and compliant. You combine a solid software engineering background with a passion for helping other developers work smarter.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-20T10:33:04.055744"
+    },
+    "score": 9,
+    "reason": "Near-perfect match. Senior AI Developer Enablement Engineer at Rabobank\u2014exactly the role description. Coaching teams on AI-assisted development, testing features, proving value with data, security/compliance focus. Senior level, enterprise context (banking/compliance aligns with candidate background). Location likely Utrecht area. This is the candidate's ideal role.",
+    "embed_sim": 0.48875391483306885,
+    "ai_native_score": 0.7240936160087585
+  },
+  {
+    "job": {
+      "id": "c81e969798490bc1d2dbd50ac5dfa3f5",
+      "title": "AI Developer in Zwijndrecht bij Cleopatra Enterprise | Magnet ...",
+      "company": "Cleopatra Enterprise",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1069188/ai-developer",
+      "snippet": "You are eager to research and adopt new AI technologies to solve complex problems and are able to perform well in a fast-paced environment. In addition to strong analytical and problem-solving skills, you have proven yourself as an AI Developer through your previous professional experience in AI, machine learning, or data-driven applications.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-20T10:33:08.130984"
+    },
+    "score": 2,
+    "reason": "Wrong fit. 'AI Developer' at Cleopatra Enterprise emphasizes researching/adopting AI technologies and solving complex problems\u2014suggests ML/data science work, not AI tool enablement. Snippet mentions 'proven yourself as an AI Developer through previous professional experience in AI'\u2014implies ML expertise required. Not a champion/adoption role.",
+    "embed_sim": 0.4092915654182434,
+    "ai_native_score": 0.7053560018539429
+  },
+  {
+    "job": {
+      "id": "c1a31957143b35062d6a7b250c8ea8cf",
+      "title": "Machine Learning Internship - ASML - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
+      "url": "https://werkeninai.nl/machine-learning-internship-asml/",
+      "snippet": "Introduction Are you a student pursuing a master\u2019s in the fields of computer science, machine learning, computer vision, electrical engineering, mathematics and physics. Do you have affinity in Machine Learning and Deep Learning and have a good understanding of Python and MATLAB? Then this internship is for you!",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-09-20T10:33:53.472813"
+    },
+    "score": 0,
+    "reason": "No match. Machine Learning Internship at ASML\u2014explicitly requires Master's student in CS/ML, Python/MATLAB expertise, and deep learning focus. Internship level (candidate is senior). Pure ML work, not AI adoption/enablement.",
+    "embed_sim": 0.40052881836891174,
+    "ai_native_score": 0.5420657396316528
+  },
+  {
+    "job": {
+      "id": "d82e980e1bb3fc53fc5a23be9646883b",
+      "title": "Generatieve AI adoptie specialist in Rosmalen bij Heijmans ...",
+      "company": "Heijmans ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1078057/generatieve-ai-adoptie-specialist",
+      "snippet": "Sep 1, 2026 \u00b7 Generatieve AI adoptie specialist Baan \u2022 Rosmalen, NL Geplaatst 1 sep. 2026 Vacature delen",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-20T10:33:58.374023"
+    },
+    "score": 7,
+    "reason": "Strong match. 'Generatieve AI adoptie specialist' (Generative AI Adoption Specialist) at Heijmans in Rosmalen\u2014directly aligns with AI adoption/enablement mission. Location is ~30km south of Utrecht (within 40km range). However, role details are sparse; score reflects title/concept match but limited confirmation of scope.",
+    "embed_sim": 0.23348000645637512,
+    "ai_native_score": 0.6053047776222229
+  },
+  {
+    "job": {
+      "id": "f10638faad5f7b1f206ed2e61997f50c",
+      "title": "Digital Adoption Specialist in Utrecht bij Capgemini | Magnet ...",
+      "company": "Capgemini",
+      "location": "",
+      "url": "https://www.magnet.me/nl-NL/vacature/888588/digital-adoption-specialist",
+      "snippet": "Wij zoeken een Digital Adoption specialist die (complexe) technische transformaties in de digitale werkplek vanuit een mensgerichte kant begeleidt en succesvol maakt. Je zorgt voor waardering van technologie bij de medewerkers en verhoogt de productiviteit en digitale vaardigheden in tijden van continue digitale werkplekverandering.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-20T10:33:58.374048"
+    },
+    "score": 3,
+    "reason": "Weak match. 'Digital Adoption Specialist' at Capgemini in Utrecht\u2014location is ideal, but focus appears to be on general digital workplace transformation and change management, not specifically AI tooling enablement. Lacks the technical AI champion/engineering focus candidate seeks. Title suggests broader organizational change work.",
+    "embed_sim": 0.1672932505607605,
+    "ai_native_score": 0.7157644629478455
   }
 ]
