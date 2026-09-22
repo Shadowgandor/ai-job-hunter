@@ -20676,16 +20676,16 @@
       "id": "db6c370917e084ca490d64bef9ebf73d",
       "title": "168 vacatures voor openai in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "",
+      "location": "Rotterdam",
       "url": "https://www.glassdoor.nl/Vacature/netherlands-openai-vacatures-SRCH_IL.0,11_IN178_KO12,18.htm",
-      "snippet": "Vacatures voor director machine learning engineer in NederlandVacatures bij EPAM Systems in Nederland ... Reviews van werknemers bij EPAM SystemsSollicitatie-ervaring bij EPAM SystemsWerken bij EPAM Systems ... Acting as a trusted advisor to C-suite executives, you will drive the design, deployment and adoption of AI and agentic solutions that deliver measurable\u2026\u2026",
+      "snippet": "Vacatures voor full stack engineer in RotterdamVacatures in RotterdamVacatures bij Dentsu in Rotterdam ... You will lead enterprise-scale agentic transformation for global BFSI organizations, act as a trusted advisor to C-suite executives and drive adoption of\u2026\u2026 Vaardigheden: Azure, Google Cloud Platform, Schaalbaarheid, Financi\u00eble diensten, AI",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-09T09:33:05.553817"
+      "date_found": "2026-09-22T10:53:36.480610"
     },
     "score": 0,
-    "reason": "Aggregated search results page, not a real job listing - no actual position details",
-    "embed_sim": 0.23778510093688965,
-    "ai_native_score": 0.5284283757209778
+    "reason": "This is a Glassdoor search results page listing aggregator ('168 vacatures'), not a specific job posting. Cannot score as a discrete role. Appears to be a link to search results, not a jobposting.",
+    "embed_sim": 0.16998684406280518,
+    "ai_native_score": 0.43472597002983093
   },
   {
     "job": {
@@ -23666,18 +23666,18 @@
   {
     "job": {
       "id": "8f1851ababf2642e82cad5b560f4ddf7",
-      "title": "Content & AI Enablement Team Lead in Amsterdam bij Payhawk ...",
-      "company": "Payhawk ...",
+      "title": "Content & AI Enablement Team Lead - magnet.me",
+      "company": "magnet.me",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1057000/content---ai-enablement-team-lead",
-      "snippet": "Jul 9, 2026 \u00b7 As Content & AI Enablement Team Lead, you will lead our global editorial agenda and build the systems that help high-quality content scale across Payhawk. This is a player-coach role.",
+      "snippet": "As Content & AI Enablement Team Lead, you will lead our global editorial agenda and build the systems that help high-quality content scale across Payhawk. This is a player-coach role.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-23T08:25:22.851096"
+      "date_found": "2026-09-22T10:53:23.819733"
     },
-    "score": 1,
-    "reason": "Content marketing team leadership role. 'AI Enablement' here refers to scaling content, not developer tool adoption. Wrong function.",
-    "embed_sim": 0.21937143802642822,
-    "ai_native_score": 0.6450890302658081
+    "score": 4,
+    "reason": "Content & AI Enablement suggests some adoption aspects, but 'lead our global editorial agenda and build systems' indicates product/content focus, not engineering team AI tooling adoption. Also location unknown and appears to be at magnet.me (recruiter, not hiring).",
+    "embed_sim": 0.339641809463501,
+    "ai_native_score": 0.7204458117485046
   },
   {
     "job": {
@@ -33038,5 +33038,85 @@
     "reason": "Generic 'AI Product Developer' search results. Snippet suggests building innovative software with AI, which aligns more with building AI products than enabling team adoption. No specific role details or location provided.",
     "embed_sim": 0.35332950949668884,
     "ai_native_score": 0.6765730977058411
+  },
+  {
+    "job": {
+      "id": "97bb06c10e779c4c180268b2ac43eee6",
+      "title": "AI Engineer in Amsterdam bij Vattenfall | Magnet.me",
+      "company": "Vattenfall",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1083515/ai-engineer",
+      "snippet": "Do you want to build AI solutions that empower thousands of employees across Europe? There is a way to shape the future of AI while contributing to one of Europe's largest energy companies. As an AI Engineer within Digital Platform Enablement, you will help create the intelligent services, platforms and digital capabilities that enable colleagues across Vattenfall to work smarter, find ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-22T10:53:23.819674"
+    },
+    "score": 6,
+    "reason": "Digital Platform Enablement suggests DevEx focus and empowering employees, but 'build AI solutions' implies product development rather than pure adoption/enablement. Amsterdam is acceptable location. Lacks clarity on whether it's tooling enablement vs. building ML systems.",
+    "embed_sim": 0.4072367250919342,
+    "ai_native_score": 0.6711593866348267
+  },
+  {
+    "job": {
+      "id": "7e00b0c7c50967e118ad08909c6c5dee",
+      "title": "AI Engineer in Amsterdam bij Sogeti | Magnet.me",
+      "company": "Sogeti",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1083164/ai-engineer",
+      "snippet": "Word de beste versie van jezelf als AI Engineer Als AI Engineer bij Sogeti bouw je mee aan AI-toepassingen die organisaties dagelijks gebruiken. Je hebt je eerste ervaring met AI opgedaan en wilt verder groeien in Generative AI en agentic AI. Samen met ervaren collega's ontwikkel je bijvoorbeeld een kennisassistent, een toepassing voor documentverwerking of een AI-agent die afgebakende taken ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-22T10:53:23.819720"
+    },
+    "score": 2,
+    "reason": "Explicitly about building AI applications ('bouw je mee aan AI-toepassingen') and growing in Generative AI/agentic AI development. This is product/model building, not adoption enablement. Wrong track despite AI title.",
+    "embed_sim": 0.36793574690818787,
+    "ai_native_score": 0.7461788058280945
+  },
+  {
+    "job": {
+      "id": "e918b6797c3a71f798533cffc342d7fe",
+      "title": "Altura zoekt een Senior AI Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-altura-4460369386",
+      "snippet": "As a Senior AI Engineer, you\u2019ll join a high-caliber team building the agentic layer that powers Altura\u2019s next evolution. This is not a \u201cplug prompts into an API\u201d role. You\u2019ll design and ship real agentic workflows: context-aware, production-grade systems that sit on top of our proprietary data graph and become a core technical moat.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-22T10:53:45.974409"
+    },
+    "score": 1,
+    "reason": "Senior AI Engineer role explicitly about 'designing and shipping agentic workflows' and 'production-grade systems on proprietary data graph.' This is ML/AI product engineering, not adoption enablement. Candidate wants to champion adoption, not build agentic architectures.",
+    "embed_sim": 0.5183650851249695,
+    "ai_native_score": 0.6190090179443359
+  },
+  {
+    "job": {
+      "id": "b4d56b1ef7b25e3842d6e18558601c0c",
+      "title": "1.000+ vacatures voor Ai Automatisering en werk: 31 augustus ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automatisering-vacatures.html?vjk=1d532cbe4ef45871",
+      "snippet": "AI-tooling implementeren: Je ondersteunt bij het integreren van AI-oplossingen in bestaande systemen en workflows. Blijf up-to-date: Je volgt de nieuwste ontwikkelingen in AI en vertaalt deze naar praktische toepassingen voor onze organisatie.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-22T10:54:00.535062"
+    },
+    "score": 7,
+    "reason": "Strong match on core mission: 'implementeren van AI-tooling,' 'integreren van AI-oplossingen in bestaande systemen,' 'volg nieuwste ontwikkelingen en vertaal naar praktische toepassingen.' This is adoption/enablement focused. However, URL is generic Indeed search results page without specific company/location details, making it hard to verify proximity to Utrecht.",
+    "embed_sim": 0.3303743302822113,
+    "ai_native_score": 0.7746481895446777
+  },
+  {
+    "job": {
+      "id": "25cc377892977e29a9e1fb35de69cad8",
+      "title": "Senior Power Platform & AI Developer - LinkedIn",
+      "company": "",
+      "location": "Amstelveen",
+      "url": "https://nl.linkedin.com/jobs/view/senior-power-platform-ai-developer-at-kpmg-nederland-4445727758?position=24&pageNum=0",
+      "snippet": "As a Senior Power Platform & AI Developer, you'll combine technical expertise, creativity, and collaboration to deliver impactful solutions at scale. As part of our Power Platform team in Amstelveen, you will design, develop, and optimise business-critical applications, automations, dashboards, and AI-driven solutions.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-22T10:54:10.155119"
+    },
+    "score": 3,
+    "reason": "Senior Power Platform & AI Developer is primarily about building/developing business applications and automations. While it mentions AI, the focus is on platform-specific development (Power Platform) rather than adopting AI tools for dev teams. Amstelveen is within range but role trajectory is wrong.",
+    "embed_sim": 0.4406118094921112,
+    "ai_native_score": 0.5919076204299927
   }
 ]
