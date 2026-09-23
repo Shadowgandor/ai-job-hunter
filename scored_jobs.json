@@ -23560,12 +23560,12 @@
       "url": "https://vacatures.dutchworkz.nl/",
       "snippet": "Word Azure AI-Engineer bij Dutchworkz in Utrecht. Werk met Azure OpenAI, AI Agents, .NET en cloud-native architectuur. Salaris \u20ac4.000\u2013\u20ac6.500 bruto/maand.",
       "source": "ddg:web-nl",
-      "date_found": "2026-07-23T08:24:51.314394"
+      "date_found": "2026-09-23T10:42:30.189858"
     },
-    "score": 3,
-    "reason": "Azure AI-Engineer role focused on Azure OpenAI, AI Agents, and .NET cloud architecture suggests ML/AI system building rather than AI tool adoption for dev teams. Right location (Utrecht) but wrong specialization\u2014requires deep AI/ML expertise.",
-    "embed_sim": 0.3822045922279358,
-    "ai_native_score": 0.4945235252380371
+    "score": 2,
+    "reason": "Azure AI-Engineer role focused on Azure OpenAI, AI Agents, .NET, and cloud-native architecture suggests ML/model building and backend development rather than AI tool adoption and developer enablement. Requires .NET expertise (candidate's background is web/TypeScript). Location (Utrecht) is good, but role focus doesn't match AI champion/adoption role.",
+    "embed_sim": 0.38220450282096863,
+    "ai_native_score": 0.49452343583106995
   },
   {
     "job": {
@@ -33118,5 +33118,21 @@
     "reason": "Senior Power Platform & AI Developer is primarily about building/developing business applications and automations. While it mentions AI, the focus is on platform-specific development (Power Platform) rather than adopting AI tools for dev teams. Amstelveen is within range but role trajectory is wrong.",
     "embed_sim": 0.4406118094921112,
     "ai_native_score": 0.5919076204299927
+  },
+  {
+    "job": {
+      "id": "43bfa84e8726b72ca05f841e111798d2",
+      "title": "292 vacature (s) voor Ai and machine learning in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-and-machine-learning-vacatures-SRCH_IL.0,9_IN178_KO10,33.htm",
+      "snippet": "Zoek vacatures voor Ai and machine learning in Nederland met bedrijfsreviews en salarissen. 292 vacatures voor Ai and machine learning in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-23T10:42:17.774550"
+    },
+    "score": 0,
+    "reason": "This is a job board listing page, not an actual job posting. Cannot evaluate relevance without specific role details, company, requirements, or location information.",
+    "embed_sim": 0.242387592792511,
+    "ai_native_score": 0.5834961533546448
   }
 ]
