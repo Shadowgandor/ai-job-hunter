@@ -5672,12 +5672,12 @@
       "url": "https://werkeninai.nl/junior-machine-learning-engineer-operations-albert-heijn/",
       "snippet": "October 15, 2024 - You\u2019re finished work for the day, you\u2019ve pushed your code, and it\u2019s been reviewed and merged, you need to pick up some groceries on the way home. You bike to your local Albert Heijn and you think to yourself with a smile that the forecasting model that you and your team just deployed is already running behind the scenes to make sure that your favorite products are fresh and available! As you walk through the refrigerated aisles you pick up a bargain \u2013 some salad leaves that ha",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-24T08:21:50.673381"
+      "date_found": "2026-09-24T11:03:01.253704"
     },
     "score": 1,
-    "reason": "Junior Machine Learning Engineer focused on forecasting models and MLOps \u2014 pure ML/data science role requiring model deployment expertise. Candidate explicitly excludes ML engineering roles. Junior level also mismatches 13-year senior background.",
+    "reason": "Junior ML Engineer role focused on building forecasting models for Albert Heijn. Requires ML expertise (model deployment, operations). Candidate explicitly does NOT want model-building roles and is senior-level, not junior. Clear mismatch on seniority and technical direction.",
     "embed_sim": 0.2842620015144348,
-    "ai_native_score": 0.46571117639541626
+    "ai_native_score": 0.465711385011673
   },
   {
     "job": {
@@ -33134,5 +33134,21 @@
     "reason": "This is a job board listing page, not an actual job posting. Cannot evaluate relevance without specific role details, company, requirements, or location information.",
     "embed_sim": 0.242387592792511,
     "ai_native_score": 0.5834961533546448
+  },
+  {
+    "job": {
+      "id": "60dede11dbcbd6bb895c048ea09d1bc4",
+      "title": "ai automation vacatures in Amsterdam",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-l-amsterdam-vacatures.html",
+      "snippet": "Work in a rapidly growing international company with a modern, highly digital way of working and short lines of communication Professional and personal development opportunities through training and courses",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-24T11:02:27.102838"
+    },
+    "score": 0,
+    "reason": "This is a search results page aggregate, not a specific job listing. No concrete role details, company, or job description available. Cannot assess relevance.",
+    "embed_sim": 0.46970993280410767,
+    "ai_native_score": 0.7843568921089172
   }
 ]

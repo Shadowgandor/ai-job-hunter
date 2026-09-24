@@ -1,52 +1,4 @@
 {
-  "bc4b646f75794c1da8566dd7a0784c83": {
-    "title": "27.000+ vacatures voor Engineering en werk: 22 juli 2026| Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/Engineering-vacatures",
-    "date": "2026-07-26T08:21:39.985140"
-  },
-  "8c3a865559e68afdb62808855ee6ba86": {
-    "title": "1.000+ vacatures voor Programmeur en werk: 22 juli 2026| Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/Programmeur-vacatures",
-    "date": "2026-07-26T08:21:39.985158"
-  },
-  "f661d2508c9cfa557534d4e914cb6a04": {
-    "title": "AI Engineering bij LINKIT",
-    "company": "Linkit",
-    "url": "https://careers.linkit.nl/l/en/ai-engineering",
-    "date": "2026-07-26T08:21:44.303510"
-  },
-  "99ad4a0dc351374b8607254cc9202e06": {
-    "title": "2.457 vacatures voor financial assistant in Nederland | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/nederland-financial-assistant-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
-    "date": "2026-07-26T08:21:44.303591"
-  },
-  "a23152dec40bc0c49e42287e82a34d7e": {
-    "title": "Hb Works - vacatures - 29 juni 2026 | Indeed",
-    "company": "Indeed",
-    "url": "https://nl.indeed.com/q-hb-works-vacatures.html",
-    "date": "2026-07-26T08:21:48.207705"
-  },
-  "9a3048089c6851a7e472af6ff7afe657": {
-    "title": "Machine Learning Specialist - De Volksbank - Werken in AI",
-    "company": "Werken in AI",
-    "url": "https://werkeninai.nl/machine-learning-specialist-de-volksbank/",
-    "date": "2026-07-26T08:21:52.293389"
-  },
-  "e504befeb2ae872adb170e446a9dd076": {
-    "title": "15 vacatures voor Workwize in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/workwize-jobs/?f_C=72188985",
-    "date": "2026-07-26T08:22:38.009094"
-  },
-  "0324f5cece697132091a9cfb32311046": {
-    "title": "14 vacatures voor Prorail in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/prorail-jobs/?f_C=7113",
-    "date": "2026-07-26T08:22:38.009110"
-  },
   "e66a4723a652e5a224e0b85f429acdfb": {
     "title": "Vacature voor een functie als Developer Relations/Experience Engineer - Kimchi bij Cast.AI in Amsterdam | Glassdoor",
     "company": "Cast.Ai In Amsterdam",
@@ -4678,5 +4630,17 @@
     "company": "",
     "url": "https://vacatures.dutchworkz.nl/",
     "date": "2026-09-23T10:42:30.189858"
+  },
+  "60dede11dbcbd6bb895c048ea09d1bc4": {
+    "title": "ai automation vacatures in Amsterdam",
+    "company": "",
+    "url": "https://nl.indeed.com/q-ai-automation-l-amsterdam-vacatures.html",
+    "date": "2026-09-24T11:02:27.102838"
+  },
+  "c605c96686d37dda410812f17d147cd5": {
+    "title": "Junior Machine Learning Engineer Operations - Albert Heijn - \ud83e\udd16 Werken in AI",
+    "company": "\ud83e\udd16 Werken in AI",
+    "url": "https://werkeninai.nl/junior-machine-learning-engineer-operations-albert-heijn/",
+    "date": "2026-09-24T11:03:01.253704"
   }
 }
