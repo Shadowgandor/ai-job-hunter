@@ -4472,12 +4472,12 @@
       "url": "https://werkeninai.nl/internship-ai-digital-media-analytics-kpn/",
       "snippet": "The team is part of the Data, AI & Adoption department and an active AI community within KPN, where around 50 AI specialists regularly come together to share knowledge, inspire one another, and take part in fun activities.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-23T08:24:55.314400"
+      "date_found": "2026-09-25T11:03:26.976561"
     },
     "score": 0,
-    "reason": "Internship position. Candidate explicitly seeks senior-level roles, not traineeships or internships.",
-    "embed_sim": 0.47824937105178833,
-    "ai_native_score": 0.6890960931777954
+    "reason": "Internship position. Candidate explicitly excludes junior/intern/traineeship positions. Irrelevant seniority level regardless of other factors.",
+    "embed_sim": 0.4782494306564331,
+    "ai_native_score": 0.6890961527824402
   },
   {
     "job": {
@@ -5446,14 +5446,14 @@
       "company": "AI Change and Adoption",
       "location": "",
       "url": "https://www.consultant.nl/vacatures/vacature/1305/senior-consultant-ai-change-and-adoption",
-      "snippet": "Bekijk 3132 actuele consultant vacatures en consultancy vacatures bij bedrijven en organisaties in Nederland. Filter op functie en locatie en solliciteer direct met je consultant-profiel.",
+      "snippet": "Bekijk 3193 actuele consultant vacatures en consultancy vacatures bij bedrijven en organisaties in Nederland. Filter op functie en locatie en solliciteer direct met je consultant-profiel.",
       "source": "ddg:web-nl",
-      "date_found": "2026-07-22T08:22:29.004480"
+      "date_found": "2026-09-25T11:02:41.382851"
     },
-    "score": 0,
-    "reason": "Listing appears to be a search results page showing 3132 vacancies, not an actual job posting. No specific role details, company information, or application link provided. Cannot evaluate.",
-    "embed_sim": 0.25362536311149597,
-    "ai_native_score": 0.6854449510574341
+    "score": 8,
+    "reason": "Senior Consultant - AI Change and Adoption is nearly ideal match. Title directly aligns with adoption/change management coaching role. Senior level appropriate. Location unknown but consultant.nl suggests Netherlands-based. Exact fit for 'consulting/advisory roles that embed AI practices.'",
+    "embed_sim": 0.24225440621376038,
+    "ai_native_score": 0.6833221912384033
   },
   {
     "job": {
@@ -23574,30 +23574,30 @@
       "company": "Werken in AI",
       "location": "Utrecht",
       "url": "https://werkeninai.nl/category/parttime/",
-      "snippet": "Apr 9, 2026 \u00b7 Data & AI specialist \u2013 NS Vacature: De NS in Utrecht zoekt een Data & AI specialist voor 32 tot 36 uur per week | Salaris: van \u20ac 4.190,- tot \u20ac 7.015,- per maand | Sluitingsdatum: 24 oktober 2024.",
+      "snippet": "Apr 9, 2026 \u00b7 Vacature: De NS in Utrecht zoekt een Data & AI specialist voor 32 tot 36 uur per week | Salaris: van \u20ac 4.190,- tot \u20ac 7.015,- per maand | Sluitingsdatum: 24 oktober 2024.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-23T08:24:55.314409"
+      "date_found": "2026-09-25T11:03:26.976591"
     },
-    "score": 0,
-    "reason": "Page appears to be a job listing aggregator/category page rather than a specific job. Closure date (Oct 24, 2024) is in the past, suggesting expired listings.",
-    "embed_sim": 0.34365415573120117,
-    "ai_native_score": 0.5567415952682495
+    "score": 2,
+    "reason": "Data & AI Specialist at NS Utrecht \u2014 location perfect but role appears data/analytics focused ('Data & AI specialist') rather than developer adoption/enablement. Partial-time work (32-36 hrs) may not match expectations for senior champion role. Title suggests data science orientation.",
+    "embed_sim": 0.29429781436920166,
+    "ai_native_score": 0.529541015625
   },
   {
     "job": {
       "id": "150ae69dbf226561cbb37a212649c831",
       "title": "Werken in AI",
       "company": "",
-      "location": "",
+      "location": "Hilversum",
       "url": "https://werkeninai.nl/feed/",
-      "snippet": "Vacature: Universiteit Leiden zoekt een AI DevOps Engineer voor 32 tot 40 uur per week | Salaris: tussen \u20ac3546 en \u20ac5538 euro per maand | Sluitingsdatum: 26 april 2026. Impact, maatschappelijke relevantie \u00e9n een goede werk-priv\u00e9balans. Daar kun je op rekenen in deze baan bij het ICT Shared Service Centre (ISSC) van de Universiteit Leiden.",
+      "snippet": "Vacature: KRO-NCRV in Hilversum zoekt een fulltime Creative Technologist (AI & Interactie) voor 32 tot 36 uur per week | Salaris: tussen \u20ac3.449,57 en \u20ac5.056,94 per maand | Sluitingsdatum: 16 april 2026.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-23T08:24:55.314424"
+      "date_found": "2026-09-25T11:03:26.976600"
     },
-    "score": 2,
-    "reason": "AI DevOps Engineer at university (Leiden, ~100km from Utrecht, outside range). DevOps focus with AI suggests infrastructure/MLOps rather than AI tool adoption for developers. Location is too far.",
-    "embed_sim": 0.38927191495895386,
-    "ai_native_score": 0.6030359864234924
+    "score": 4,
+    "reason": "Creative Technologist (AI & Interactie) at KRO-NCRV Hilversum \u2014 location acceptable (Hilversum in range). Role could have AI adoption aspects but 'Creative Technologist' suggests media/production focus rather than developer enablement for engineering teams. Ambiguous fit.",
+    "embed_sim": 0.330288290977478,
+    "ai_native_score": 0.7113139033317566
   },
   {
     "job": {
@@ -33150,5 +33150,149 @@
     "reason": "This is a search results page aggregate, not a specific job listing. No concrete role details, company, or job description available. Cannot assess relevance.",
     "embed_sim": 0.46970993280410767,
     "ai_native_score": 0.7843568921089172
+  },
+  {
+    "job": {
+      "id": "5e58d205f7814c1e248dfa3658a9a60b",
+      "title": "Data & AI Specialist (For independent contractors) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-specialist-for-independent-contractors-at-booking-com-4470963728",
+      "snippet": "Working fluency with AI/LLM-based tools and workflows; has moved beyond casual use into designing, prototyping, and rolling out AI-assisted ways of working for others.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:02:28.273937"
+    },
+    "score": 7,
+    "reason": "Data & AI Specialist role explicitly about 'designing, prototyping, and rolling out AI-assisted ways of working for others' \u2014 core match for adoption enablement. Contractor flexibility good. Location unknown but Booking.com has NL presence. No ML expertise requirement evident.",
+    "embed_sim": 0.4567202031612396,
+    "ai_native_score": 0.5769903063774109
+  },
+  {
+    "job": {
+      "id": "842a5be3984868141f2d249029918eea",
+      "title": "Technical Product Lead - AI Finance - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/technical-product-lead-ai-finance-at-bjak-4468350897",
+      "snippet": "Experience working closely with engineers and ability to review, challenge and contribute to technical designs. Experience in payments, banking, remittance, insurance, trading or another regulated, high-consequence product domain. Strong product judgment and ability to make difficult trade-offs under technical, regulatory and operational ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:02:28.273962"
+    },
+    "score": 2,
+    "reason": "Technical Product Lead for AI Finance is a product/business role, not an enablement/adoption role. Focus appears to be on building AI finance products, not helping dev teams adopt AI tools. Regulated domain matches background but role direction is wrong.",
+    "embed_sim": 0.34094706177711487,
+    "ai_native_score": 0.5474359393119812
+  },
+  {
+    "job": {
+      "id": "3fd29b11b276fc3e61ed1e4b314c5c59",
+      "title": "Technical Product Manager - AI Stockbroking - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/technical-product-manager-ai-stockbroking-at-bjak-4468358742",
+      "snippet": "Experience working closely with engineers and ability to review, challenge and contribute to technical designs. Experience in payments, banking, remittance, insurance, trading or another regulated, high-consequence product domain. Strong product judgment and ability to make difficult trade-offs under technical, regulatory and operational ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:02:28.273982"
+    },
+    "score": 2,
+    "reason": "Technical Product Manager for AI Stockbroking is product-focused, not developer enablement. Building AI products for stockbroking, not championing AI tool adoption within engineering teams.",
+    "embed_sim": 0.3699071407318115,
+    "ai_native_score": 0.5103354454040527
+  },
+  {
+    "job": {
+      "id": "562f74a6d181e3b279a3aa9a6623ec6a",
+      "title": "100+ vacatures voor Agentic Ai Developer en werk: 23 september 2026| Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-agentic-ai-developer-vacatures.html",
+      "snippet": "Zoeken op salaris: Medior Backend Developer | Python salarissen in Amsterdam ... Je hebt ervaring met, of aantoonbare interesse in, LLM\u2019s, RAG, evaluatie en agentic workflows. Voor RAG en agentic AI gebruiken we bijvoorbeeld LangGraph,\u2026 \u00b7 Alle vacatures voor PwC - Amsterdam vacatures - vacatures voor AI Engineer in Amsterdam bekijken",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-25T11:02:58.508991"
+    },
+    "score": 1,
+    "reason": "Agentic AI Developer role requires LLM, RAG, LangGraph expertise \u2014 pure ML/AI development stack (Python, model workflows). Candidate explicitly does NOT want to build AI systems. Amsterdam location is acceptable but role is fundamentally misaligned.",
+    "embed_sim": 0.31471338868141174,
+    "ai_native_score": 0.689701497554779
+  },
+  {
+    "job": {
+      "id": "5816f445bd524905cb2043f94d92e3f8",
+      "title": "2.000+ vacatures voor Ai Specialist en werk: 22 september ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-specialist-vacatures.html?vjk=a6dcae41c87472a7",
+      "snippet": "Als AI Engineer (High-Code) maak je strategische impact op de manier waarop Enexis onze netbeheeroperaties digitaliseert. Bijdrage van 70% aan je ABP.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-25T11:03:21.830239"
+    },
+    "score": 3,
+    "reason": "AI Engineer (High-Code) at Enexis involves 'strategic impact on digitalizing operations' but snippet suggests infrastructure/systems work, not developer enablement. 'High-Code' designation implies significant technical ML/systems work. Location (Arnhem area) outside 40km radius of Utrecht.",
+    "embed_sim": 0.3015371561050415,
+    "ai_native_score": 0.7739138603210449
+  },
+  {
+    "job": {
+      "id": "c46f8473d32a79cae9b70442592621f5",
+      "title": "AI Engineer in Amsterdam at Vattenfall | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1083515/ai-engineer",
+      "snippet": "Sep 16, 2026 \u00b7 As an AI Engineer within Digital Platform Enablement, you will help create the intelligent services, platforms and digital capabilities that enable colleagues across Vattenfall to work smarter, find information faster and unlock new business value.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-25T11:03:36.770886"
+    },
+    "score": 8,
+    "reason": "AI Engineer within Digital Platform Enablement at Vattenfall \u2014 directly aligned with 'platform/DevEx team focused on AI tooling' and helping colleagues 'work smarter, find information faster.' Core mission is enablement and creating intelligent services for internal adoption. Senior-level role. Amsterdam location acceptable. Strong match.",
+    "embed_sim": 0.4129635691642761,
+    "ai_native_score": 0.7549325823783875
+  },
+  {
+    "job": {
+      "id": "0d4dab62177abc1495dbeef521bdbd78",
+      "title": "Front-end Developer bij AI FLOM - Rijswijk | LinkedIn Vacatures",
+      "company": "Ai Flom - Rijswijk",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-developer-at-ai-flom-4440185381",
+      "snippet": "Then AI FLOM is the right place for you! We are looking for an enthusiastic Front-end Developer to strengthen our team. Job Description As a Front-end Developer, you will work with your teammates to optimize our applications. Your efforts will ensure an even better user experience for our clients.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:03:57.634702"
+    },
+    "score": 2,
+    "reason": "Front-end developer role building AI applications, not enabling teams to adopt AI tools. Wrong focus area for the candidate's AI champion profile.",
+    "embed_sim": 0.3966206908226013,
+    "ai_native_score": 0.4597051441669464
+  },
+  {
+    "job": {
+      "id": "9577323336979a8834eb522a98f5c2ed",
+      "title": "Back End Developer (AI Infrastructure) - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/back-end-developer-ai-infrastructure-at-alignerr-4468329479",
+      "snippet": "We're looking for Back End Developers in Amsterdam to design, build, and optimize the server-side systems and APIs that drive cutting-edge AI products \u2014 from data pipelines and model-serving infrastructure to scalable microservices that handle real-world traffic at scale. This is a fully remote, flexible contract role.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:03:57.634747"
+    },
+    "score": 1,
+    "reason": "Back-end infrastructure role for AI products (data pipelines, model-serving). Requires ML infrastructure expertise. Candidate wants to enable AI adoption, not build AI systems.",
+    "embed_sim": 0.4882732927799225,
+    "ai_native_score": 0.4560658037662506
+  },
+  {
+    "job": {
+      "id": "5fbbb417b86cc4c8eb926fe422064b81",
+      "title": "AI Software Engineer bij TWD - Rotterdam - LinkedIn",
+      "company": "Twd - Rotterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/twd-ai-software-engineer-at-twd-4462512093",
+      "snippet": "Sep 8, 2026 \u00b7 As an AI Software Engineer at TWD, you are a passionate, quick learner with strong technical insight. You enjoy solving real engineering problems with AI, not just building AI for its own...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-25T11:03:57.634759"
+    },
+    "score": 2,
+    "reason": "AI Software Engineer role focused on solving problems with AI/building AI solutions, not enabling teams to adopt AI tools. Wrong focus despite senior level.",
+    "embed_sim": 0.37575846910476685,
+    "ai_native_score": 0.6641729474067688
   }
 ]
