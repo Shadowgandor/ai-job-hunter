@@ -1080,10 +1080,10 @@
       "url": "https://www.glassdoor.nl/Vacature/machine-learning-developer-vacatures-SRCH_KO0,26.htm",
       "snippet": "Apply and experiment with machine learning (ML) and artificial intelligence (AI) techniques to support predictive maintenance and anomaly detection projects.\u2026 Vaardigheden: TensorFlow, Azure, Big data, DevOps, Spark ... Vacatures voor data scientist in EindhovenVacatures in EindhovenVacatures bij HighTechXL in Eindhoven ... Relevant work or academic experience (MSc + 5 years of working experience, or PhD + 3 years of working experience), involved in the application of Machine\u2026\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-05T08:48:54.562825"
+      "date_found": "2026-09-27T11:19:13.325921"
     },
-    "score": 1,
-    "reason": "Machine Learning Developer role requiring TensorFlow, Big Data, Spark \u2014 pure ML engineering, not AI adoption enablement; Eindhoven location outside radius",
+    "score": 0,
+    "reason": "Machine Learning developer role. Requires TensorFlow, Spark, Big Data, predictive modeling expertise. Candidate explicitly does NOT want ML/model building roles. Eindhoven is 90km+ from Utrecht, far outside preferred range.",
     "embed_sim": 0.294293075799942,
     "ai_native_score": 0.4081953465938568
   },
@@ -22260,16 +22260,16 @@
       "id": "ff3d2b901e0c46dd30c6da2eca2428ce",
       "title": "Junior AI Consultant in Rotterdam bij Riverwise | Magnet.me | #645232 (nl)",
       "company": "Riverwise",
-      "location": "",
+      "location": "Rotterdam",
       "url": "https://magnet.me/nl-NL/vacature/645232/junior-ai-consultant",
-      "snippet": "Je hebt een achtergrond in AI/data-technieken met gezonde interesse in business en/of een studie achtergrond in business/economie/econometrie met affiniteit met en interesse in AI/data-technieken ... Informele activiteiten zoals borrels, barbecues, het kerstdiner, sportevenementen en jaarlijkse skitrip. Twijfel je nog of heb je nog een aantal vragen? Maak dan eerst kennis met \u00e9\u00e9n van onze consultants via een Virtual Coffee. Stuur een bericht naar nicoline.hoekstra@riverwise.nl en we plannen snel",
+      "snippet": "Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures. ... Kick-start je carri\u00e8re als Junior AI Consultant bij Riverwise. Een Rotterdamse strategie boutique die organisaties helpt de sprong naar AI te maken. Niet als hype, maar met een trackrecord aan oplossingen die vandaag al echte strategische meerwaarde bieden aan klanten.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-17T08:03:45.079763"
+      "date_found": "2026-09-27T11:19:00.459004"
     },
     "score": 2,
-    "reason": "Junior position with required background in AI/data techniques or econometrics. Candidate is senior web developer, not junior, and role appears to require data science background, not AI adoption enablement.",
-    "embed_sim": 0.318695068359375,
-    "ai_native_score": 0.5615995526313782
+    "reason": "Junior-level position. Candidate is senior with 13 years experience. Wrong seniority level. Rotterdam is 40km+ from Utrecht, outside preferred range.",
+    "embed_sim": 0.2842305600643158,
+    "ai_native_score": 0.6393586993217468
   },
   {
     "job": {
@@ -23736,10 +23736,10 @@
       "url": "https://www.glassdoor.nl/Vacature/amsterdam-platform-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,27.htm",
       "snippet": "Vacatures voor platform engineer (m/v/x) in AmsterdamVacatures in AmsterdamVacatures bij Hot ITem in Amsterdam ... Dat je in het bezit bent van een masterdiploma in AI, Machine Learning, Computer Science of vergelijkbaar, en minimaal 3 jaar relevante werkervaring hebt.\u2026",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-24T08:20:35.624459"
+      "date_found": "2026-09-27T11:18:52.388937"
     },
     "score": 0,
-    "reason": "Generic Glassdoor search results page listing 758 vacancies, not a specific job posting. Requires Master's in AI/ML/CS. Not a real job listing.",
+    "reason": "Requires Master's degree in AI/ML/Computer Science. Platform engineer role focused on infrastructure, not AI adoption enablement for dev teams. Wrong profile.",
     "embed_sim": 0.19153380393981934,
     "ai_native_score": 0.5903795957565308
   },
@@ -24002,18 +24002,18 @@
   {
     "job": {
       "id": "7d9bc52ebd7b9667d82be3a77bffba42",
-      "title": "Consultant AI in Zoetermeer bij Highberg B.V. | Magnet.me",
+      "title": "Consultant AI in Zoetermeer bij Highberg B.V. | Magnet.me | #1057441 (nl)",
       "company": "Highberg B.V.",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1057441/consultant-ai",
-      "snippet": "Jul 10, 2026 \u00b7 You are experienced in working with a variety of AI tools and Large Language Models (LLMs). You are proactive, take initiative, and quickly find your way within complex organizations.",
+      "snippet": "July 10, 2026 - Develop AI strategies and translate them into practical roadmaps, from initial pilots to organization-wide adoption and integration.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-24T08:21:46.786627"
+      "date_found": "2026-09-27T11:19:00.459029"
     },
-    "score": 4,
-    "reason": "Consultant AI in Zoetermeer working with LLMs and AI tools. Consultant/advisory role has appeal, but Zoetermeer is ~30km from Utrecht (acceptable range). Limited detail on whether role focuses on team adoption vs. client ML implementations. 'Working with AI tools' could mean either enablement or building with them.",
-    "embed_sim": 0.39317217469215393,
-    "ai_native_score": 0.5248467326164246
+    "score": 7,
+    "reason": "AI Consultant role in Zoetermeer (near Utrecht). Develops AI strategies and drives organization-wide adoption - aligns well with candidate's goal of championing AI adoption. Zoetermeer is ~25km from Utrecht. Good fit if strategy work translates to practical implementation.",
+    "embed_sim": 0.4565678536891937,
+    "ai_native_score": 0.7009987235069275
   },
   {
     "job": {
@@ -24070,14 +24070,14 @@
       "company": "LinkedIn",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-sectra-4445218457",
-      "snippet": "1 day ago \u00b7 As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes. Sectra\u2019s Amplifier Services is a new and growing part of our portfolio, designed to make AI adoption smoother, smarter, and more scalable.",
+      "snippet": "As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes. Sectra\u2019s Amplifier Services is a new and growing part of our portfolio, designed to make AI adoption smoother, smarter, and more scalable.",
       "source": "ddg:linkedin",
-      "date_found": "2026-07-25T08:02:07.781591"
+      "date_found": "2026-09-27T11:20:00.760684"
     },
-    "score": 3,
-    "reason": "AI Adoption Specialist title is promising, but Sectra operates in medical imaging/healthcare AI \u2014 likely requires domain expertise and focuses on clinical workflows, not dev team tooling adoption. Not a software engineering AI adoption role.",
-    "embed_sim": 0.34092462062835693,
-    "ai_native_score": 0.5769466757774353
+    "score": 4,
+    "reason": "AI Adoption Specialist at Sectra, focused on clinical workflows (healthcare domain). Title matches candidate's goal, but context is medical/clinical AI adoption, not software development team enablement. Almere location is acceptable (~40km from Utrecht). Wrong domain focus for candidate's background.",
+    "embed_sim": 0.35910940170288086,
+    "ai_native_score": 0.5816067457199097
   },
   {
     "job": {
@@ -33310,5 +33310,85 @@
     "reason": "Snippet indicates 'localized AI tooling' and 'cutting-edge projects' but lacks detail. Title 'AI Engineer' typically implies ML/model building. No indication this is about enabling dev teams to adopt AI tools. Insufficient evidence of DevEx/adoption focus.",
     "embed_sim": 0.47120076417922974,
     "ai_native_score": 0.6878582239151001
+  },
+  {
+    "job": {
+      "id": "9ee78ebe13d241d5151f24fd5a5d6b91",
+      "title": "200+ vacatures voor Adoptie Consultant en werk: 26 september 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-adoptie-consultant-vacatures.html",
+      "snippet": "Adoptie Consultant vacatures. SAP Consultant, Change Manager, Senior Project Manager en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-27T11:18:42.836433"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page, not an actual job posting. No specific role details, company, or location information provided.",
+    "embed_sim": 0.270729660987854,
+    "ai_native_score": 0.5713226199150085
+  },
+  {
+    "job": {
+      "id": "0fb72e3d0ef8da498921ef67cc78e89f",
+      "title": "developer ai vacatures",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-developer-ai-vacatures.html?vjk=f8b5147405e67285",
+      "snippet": "The AI Builder Experience AI-Powered Development: You'll be developing real customer solutions with the best-in-class suite of leading-edge AI tools: Including Cursor, Claude, and our coding products like Vibes , to accelerate development.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-27T11:18:47.589650"
+    },
+    "score": 0,
+    "reason": "Generic job listing aggregator page. While snippet mentions Cursor and Claude, this appears to be a search results page, not a specific job posting with details.",
+    "embed_sim": 0.44336336851119995,
+    "ai_native_score": 0.7307147979736328
+  },
+  {
+    "job": {
+      "id": "f4d725a4c677ce88bb0d952d96129bb6",
+      "title": "1.000+ vacatures voor Java en werk: 27 september 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Java-vacatures",
+      "snippet": "You understand the Agile way of working, tools and techniques; You have an eye for writing code with attention to performance, scalability, maintainability and testability; ... You are interested in using AI-assisted development tools such as Claude, ChatGPT or Codex as part of the software ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-27T11:18:56.717606"
+    },
+    "score": 0,
+    "reason": "Generic Java developer job listings aggregator page. Not a specific posting. While mentions AI-assisted tools, this is a search results page without role details.",
+    "embed_sim": 0.24344176054000854,
+    "ai_native_score": 0.6829368472099304
+  },
+  {
+    "job": {
+      "id": "eb505acb2884d6bfbc64ebc748bd17f2",
+      "title": "Legal Operations Manager - AI and Innovation in Rotterdam bij The Ocean Cleanup | Magnet.me | #1048941 (nl)",
+      "company": "The Ocean Cleanup",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1048941/legal-operations-manager---ai-and-innovation",
+      "snippet": "Technology fluency, including AI and automation, is essential. We are looking for someone who has already applied these tools in practice, understands where they create genuine value, and can successfully drive adoption within a team of experienced legal professionals.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-27T11:19:00.459043"
+    },
+    "score": 3,
+    "reason": "Legal Operations Manager focused on legal domain, not software development/engineering teams. Requires legal background. While mentions AI tool adoption, it's domain-specific (legal professionals) rather than dev team enablement. Wrong functional area.",
+    "embed_sim": 0.4181655943393707,
+    "ai_native_score": 0.6515487432479858
+  },
+  {
+    "job": {
+      "id": "b38bf13c20c074fa82ded374e4364c78",
+      "title": "AI Developer in Den Haag bij GreenPepper | Magnet.me",
+      "company": "Greenpepper",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1085337/ai-developer",
+      "snippet": "5 days ago \u00b7 HR - Ministerie van Defensie Als AI developer werk je aan een multi-agent systeem waarbij verschillende AI-agents samenwerken om complexe taken uit te voeren. Je ontwerpt en ontwikkelt intelligente agents met eigen verantwoordelijkheden, vertaalt pr\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-27T11:19:48.108151"
+    },
+    "score": 0,
+    "reason": "AI Developer building multi-agent systems. Core responsibility is designing/developing intelligent agents, not enabling teams to adopt AI tools. This is building AI systems, not championing adoption. Wrong role type.",
+    "embed_sim": 0.39772677421569824,
+    "ai_native_score": 0.7576045989990234
   }
 ]
