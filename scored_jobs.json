@@ -6354,18 +6354,18 @@
   {
     "job": {
       "id": "cf2171444a326231dd18bed82923babe",
-      "title": "Supermicro zoekt een (Sr.) Technology Enablement Manager in ...",
-      "company": "",
+      "title": "(Sr.) Technology Enablement Manager bij Supermicro - 's ...",
+      "company": "Supermicro - 'S ...",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/sr-technology-enablement-manager-at-supermicro-4277294221",
-      "snippet": "Jul 28, 2025 \u00b7 Job Summary The (Sr.) Technology Enablement Manager will be part of a growing, dynamic, highly focused Technology Enablement team responsible for developing new, and expanding existing opportunities in the global IT market with a focus on AI/ML workloads, GPU Acceleration and the suites of advanced solutions supporting these subject domains.",
+      "snippet": "Jul 28, 2025 \u00b7 We seek talented, passionate, and committed engineers, technologists, and business leaders to join us to drive accelerated growth and technology-led innovation in the global marketplace.",
       "source": "ddg:linkedin",
-      "date_found": "2026-07-25T08:02:07.781618"
+      "date_found": "2026-09-28T12:48:21.997583"
     },
-    "score": 2,
-    "reason": "Technology Enablement Manager at infrastructure/hardware company focused on AI/ML workloads and GPU acceleration \u2014 this is about selling/enabling enterprise AI infrastructure, not helping dev teams adopt coding AI tools. Mismatch in focus area.",
-    "embed_sim": 0.28360646963119507,
-    "ai_native_score": 0.52338045835495
+    "score": 1,
+    "reason": "Technology Enablement Manager at hardware company (Supermicro). Likely focused on sales enablement or hardware technology, not developer AI adoption. No location, vague snippet, likely misaligned with dev tooling focus.",
+    "embed_sim": 0.3008427619934082,
+    "ai_native_score": 0.5437716841697693
   },
   {
     "job": {
@@ -11634,18 +11634,18 @@
   {
     "job": {
       "id": "6c59d47dbbe261680d44fa7bdaea66a2",
-      "title": "(Junior) Product Adoption Specialist - magnet.me",
-      "company": "magnet.me",
+      "title": "(Junior) Product Adoption Specialist in Rotterdam bij KPMG ...",
+      "company": "Kpmg ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/934304/-junior--product-adoption-specialist",
-      "snippet": "Your responsibilities will include facilitating adoption of the tool, engaging stakeholders, and supporting communication and knowledge-sharing initiatives to ensure we capitalize on increasing interest from our (global) KPMG network.",
+      "snippet": "Sep 11, 2025 \u00b7 You will work on in-house digital tools that enable KPMG to craft engaging and interactive digital experiences, staying aligned with the latest technology trends in AI and web design.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-10T09:52:57.738543"
+      "date_found": "2026-09-28T12:47:35.327494"
     },
-    "score": 2,
-    "reason": "Junior/entry-level position explicitly stated. Candidate is senior with 13 years experience. Also product adoption at KPMG likely not focused on developer AI tooling adoption.",
-    "embed_sim": 0.33243340253829956,
-    "ai_native_score": 0.4965808093547821
+    "score": 1,
+    "reason": "Junior/Product Adoption Specialist \u2014 explicitly junior level, not senior. Rotterdam location acceptable but seniority is a hard mismatch. Focus on digital tools/web design, not AI adoption in dev teams.",
+    "embed_sim": 0.19172097742557526,
+    "ai_native_score": 0.4376756548881531
   },
   {
     "job": {
@@ -18196,16 +18196,16 @@
       "id": "0d53ab48d8fc9f5c5844e352048b317f",
       "title": "Alle vacatures | Magnet.me (nl)",
       "company": "Magnet.me (nl)",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://magnet.me/nl-NL/vacatures",
-      "snippet": "HBO & WO alle vacatures bij meer dan 6.200 werkgevers zoals WerkenbijdeEU, Stedin, Young Colfield.Verzekeringen. \u2022 16.000 medewerkers. Reken-Engineer Calculation Services.",
+      "snippet": "Of je nu op zoek bent naar een baan in Amsterdam, Rotterdam, Utrecht of Den Haag, hier vind je alle leuke vacatures die beschikbaar zijn. Door te zoeken op stad of regio, kun je eenvoudig vacatures vinden die bij jou in de buurt zijn.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-30T09:28:41.543581"
+      "date_found": "2026-09-28T12:47:35.327483"
     },
     "score": 0,
-    "reason": "This is a generic job board index page, not a specific job listing. Cannot evaluate.",
-    "embed_sim": 0.08256331831216812,
-    "ai_native_score": 0.5400764346122742
+    "reason": "Generic job board listing page, not an actual job posting. No specific role details, requirements, or company information provided.",
+    "embed_sim": 0.022386550903320312,
+    "ai_native_score": 0.5153509378433228
   },
   {
     "job": {
@@ -33390,5 +33390,133 @@
     "reason": "AI Developer building multi-agent systems. Core responsibility is designing/developing intelligent agents, not enabling teams to adopt AI tools. This is building AI systems, not championing adoption. Wrong role type.",
     "embed_sim": 0.39772677421569824,
     "ai_native_score": 0.7576045989990234
+  },
+  {
+    "job": {
+      "id": "795eb20cbdb74675a584b0ef733f818d",
+      "title": "Tisser zoekt een AI Implementation Lead in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-implementation-lead-at-tisser-4465050384",
+      "snippet": "Sep 9, 2026 \u00b7 That is also why the work lands: the person who promised it is the person who made it. Practical Amsterdam, hybrid, with at least two days a week on site. Four or five days a week. Employment or freelance, long term either way. Start as soon as you can. How to apply Email quincy@tisser.ai.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-28T12:47:11.873604"
+    },
+    "score": 6,
+    "reason": "AI Implementation Lead suggests adoption focus, but snippet is vague about technical depth. Amsterdam location is acceptable (within 40km). No detail on whether this is DevEx/tooling or broader consulting. Unclear if senior-level match.",
+    "embed_sim": 0.33522364497184753,
+    "ai_native_score": 0.613383412361145
+  },
+  {
+    "job": {
+      "id": "d5cc2e0dff0a31e1b8a055c5c804811b",
+      "title": "AI Engineer Utrecht, Nederland | Randstad Professional",
+      "company": "Randstad Professional",
+      "location": "Utrecht",
+      "url": "https://www.randstadprofessional.nl/vacatures/9215615/ai-engineer",
+      "snippet": "4 days ago \u00b7 Wij zijn op zoek naar een AI Engineer in Utrecht, Nederland voor 40.0 uur bij Randstad Digital",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-28T12:47:40.506736"
+    },
+    "score": 2,
+    "reason": "Title is 'AI Engineer' but no details provided. High likelihood this is a traditional ML/model-building role given generic 'AI Engineer' framing at Randstad. Utrecht location is perfect but role type is suspect without more info.",
+    "embed_sim": 0.2386673390865326,
+    "ai_native_score": 0.6847863793373108
+  },
+  {
+    "job": {
+      "id": "fde016d525844912cf5cbe29a03acefa",
+      "title": "20 beste vacatures voor de functie van ai engineer in utrecht ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.simplyhired.nl/search?q=ai+engineer&l=utrecht",
+      "snippet": "Find your next career move: 378 ai engineer jobs are available in utrecht. AI Engineer, AI Engineers and more. Updated daily on SimplyHired.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-28T12:47:40.506753"
+    },
+    "score": 0,
+    "reason": "Generic search results page aggregating multiple job listings, not a specific job posting. No actionable role details.",
+    "embed_sim": 0.37717539072036743,
+    "ai_native_score": 0.7380751967430115
+  },
+  {
+    "job": {
+      "id": "81f76c70c59b542f89b30ade67b8547c",
+      "title": "Vacature voor een functie als Platform Enablement & AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/platform-enablement-ai-engineer-payoneer-JV_KO0,31_KE32,40.htm?jl=1010256260263",
+      "snippet": "To operate at scale, the team builds and owns its internal platform, and is progressively evolving into an AI-native, automation-first function. This is a hands-on, individual-contributor position focused on engineering delivery and technical ownership rather than people management.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-28T12:47:53.947093"
+    },
+    "score": 7,
+    "reason": "Platform Enablement & AI Engineer \u2014 strong match conceptually. Hands-on, individual-contributor, AI-native platform work is very aligned. No location provided but Payoneer may be remote-friendly. Missing detail on whether this is about enabling teams to use AI tools or building ML systems.",
+    "embed_sim": 0.28249919414520264,
+    "ai_native_score": 0.638856828212738
+  },
+  {
+    "job": {
+      "id": "c324fe4cf99173932d51ba1bf8f32319",
+      "title": "1.000+ vacatures voor Developer Ai en werk: 25 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-developer-ai-vacatures.html?vjk=4657f3cfdbc69740",
+      "snippet": "Jij bent een nieuwsgierige en gedreven developer die energie krijgt van het bouwen aan innovatieve software. Je ontwikkelt applicaties in C# (.NET), TypeScript\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-28T12:48:18.068210"
+    },
+    "score": 0,
+    "reason": "Generic job search results aggregation page. No specific job posting, company, location, or role details provided.",
+    "embed_sim": 0.3314511179924011,
+    "ai_native_score": 0.7636085152626038
+  },
+  {
+    "job": {
+      "id": "1036fed16df112e49357d4d757737cf5",
+      "title": "Vice President, AI Enablement bij Genmab - Utrecht - LinkedIn",
+      "company": "Genmab - Utrecht - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/vice-president-ai-enablement-at-genmab-4470739363",
+      "snippet": "15+ years of leadership experience in artificial intelligence, data science, software engineering, digital transformation, or technology strategy. Demonstrated success building and scaling AI capabilities in a complex enterprise.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-28T12:48:21.997552"
+    },
+    "score": 2,
+    "reason": "Vice President level \u2014 too senior and people-management focused. Requires 15+ years in AI/data science/software engineering/digital transformation. Genmab is biotech; unlikely to be about dev team AI tooling adoption. Wrong seniority tier.",
+    "embed_sim": 0.5484030842781067,
+    "ai_native_score": 0.7640315294265747
+  },
+  {
+    "job": {
+      "id": "e2642d34be094783d3f3e16f7fb8e0a9",
+      "title": "Senior Process and AI Enabler - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-process-and-ai-enabler-at-abn-amro-bank-n-v-4456745025",
+      "snippet": "To accelerate this transformation, we're looking for a Senior Process & AI Enabler who is ready to challenge the status quo, drive innovation and turn ambitious ideas into measurable results.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-28T12:48:21.997594"
+    },
+    "score": 5,
+    "reason": "Senior Process & AI Enabler at ABN AMRO Bank suggests seniority match and AI enablement theme. However, 'Process & AI Enabler' suggests process transformation/automation rather than dev team tooling adoption. Banking compliance experience is relevant, but role scope unclear. Location not provided.",
+    "embed_sim": 0.4096943140029907,
+    "ai_native_score": 0.583148717880249
+  },
+  {
+    "job": {
+      "id": "35af0b1c7f9233e35d8d756b9fd242e7",
+      "title": "Senior Back-end Developer (.NET / C#) in Rotterdam bij JEX | Magnet.me | #1067236 (nl)",
+      "company": "Jex",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1067236/senior-back-end-developer--.net---c--",
+      "snippet": "Als Senior Back-end Developer draai je mee in een multidisciplinair Scrum team. Je bouwt mee aan een product dat onderdeel is van een cloud-based microservice landschap. Dit ga je doen: Samenwerken met collega\u2019s van verschillende expertises; ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-28T12:48:27.147328"
+    },
+    "score": 0,
+    "reason": "Pure backend development role (.NET/C#). No mention of AI tooling, adoption, enablement, or DevEx. Not aligned with candidate's AI champion objectives. Wrong domain entirely.",
+    "embed_sim": 0.34105417132377625,
+    "ai_native_score": 0.478728711605072
   }
 ]
