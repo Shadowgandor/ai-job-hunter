@@ -13778,18 +13778,18 @@
   {
     "job": {
       "id": "073816cc7f1cf56b33617cf1f6be0a08",
-      "title": "1.000+ vacatures voor Ai Engineer en werk: 9 juni 2026| Indeed",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 4 juli 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Ai-Engineer-vacatures",
-      "snippet": "Ai Engineer vacatures. Software Engineer, Devops Engineer, Machine Learning Engineer en meer op Indeed.com",
+      "snippet": "We zetten bedrijfsbreed volop in op deze technologie en zoeken mensen die AI aantoonbaar omhelsd hebben. Dit betekent dat je bij ons de vrijheid krijgt om te experimenteren met nieuwe tools om processen te versnellen, zolang je kritisch blijft op de output en de controle behoudt.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-16T11:06:48.349150"
+      "date_found": "2026-09-29T12:03:13.159455"
     },
     "score": 0,
-    "reason": "This is a search results landing page aggregating AI Engineer positions, not a specific job listing to evaluate.",
-    "embed_sim": 0.4000510275363922,
-    "ai_native_score": 0.6639605164527893
+    "reason": "API error",
+    "embed_sim": 0.15738441050052643,
+    "ai_native_score": 0.6316094398498535
   },
   {
     "job": {
@@ -23060,16 +23060,16 @@
       "id": "e5f08f2d637c31445fe18db8c259ac60",
       "title": "216.000+ vacatures voor & en werk: 29 oktober 2025| Indeed",
       "company": "",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://nl.indeed.com/q-&-vacatures.html",
-      "snippet": "Alle vacatures voor Platform Engineering Masters - Amsterdam vacatures - vacatures voor Content Manager in Amsterdam bekijken \u00b7 Zoeken op salaris: Content Operations Manager salarissen in Amsterdam \u00b7 Architect systems that will power thousands of interoperating AI agents.",
+      "snippet": "Through events like PlatformCon, which brings together over 35,000+ participants every year, we connect thousands of professionals, share best practices, and help shape the future of how teams build and scale internal developer platforms. We\u2019re looking for a Content Operations Manager to scale and optimize the way we produce and distribute content. You\u2019ll own our AI-powered workflows for articles, videos, and community-driven content and make sure outputs are consistent, high-quality, and delive",
       "source": "ddg:indeed",
-      "date_found": "2026-07-20T08:52:40.972691"
+      "date_found": "2026-09-29T12:03:33.212414"
     },
     "score": 0,
-    "reason": "Generic search results page, not an actual job listing. No specific role details, company context, or application information provided.",
-    "embed_sim": 0.26484236121177673,
-    "ai_native_score": 0.5363306999206543
+    "reason": "API error",
+    "embed_sim": 0.32527053356170654,
+    "ai_native_score": 0.42463114857673645
   },
   {
     "job": {
@@ -33518,5 +33518,149 @@
     "reason": "Pure backend development role (.NET/C#). No mention of AI tooling, adoption, enablement, or DevEx. Not aligned with candidate's AI champion objectives. Wrong domain entirely.",
     "embed_sim": 0.34105417132377625,
     "ai_native_score": 0.478728711605072
+  },
+  {
+    "job": {
+      "id": "f7e116ac55c8cfe2dae3361a777130e0",
+      "title": "50+ vacatures voor Ai Enablement Specialist en werk: 24 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-enablement-specialist-vacatures.html?vjk=208ab7fcbdafe9cd",
+      "snippet": "As a sales enablement specialist, you\u2019ll design, plan, and deliver end-to-end enablement programs for TOPdesk representatives.",
+      "source": "ddg:indeed",
+      "date_found": "2026-09-29T12:03:13.159412"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3264261484146118,
+    "ai_native_score": 0.6230101585388184
+  },
+  {
+    "job": {
+      "id": "07db82735e7685884cab83d45629372c",
+      "title": "Data & AI Intern (data infrastructure and AI-powered ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-ai-intern-data-infrastructure-and-ai-powered-automations-focus-amsterdam-hybrid-at-workwize-4464061283",
+      "snippet": "6 days ago \u00b7 Strong analytical and problem-solving skills; you enjoy working with data to draw insights and support decisions. Curiosity about AI and LLMs, and ideally some hands-on experience building with them or with automation tools. Clear written and verbal communication, with the ability to structure complex ideas simply.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-29T12:03:23.163916"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44689512252807617,
+    "ai_native_score": 0.5404280424118042
+  },
+  {
+    "job": {
+      "id": "8352103a53cd11773b712286184c919a",
+      "title": "Vacature voor een functie als AI Engineer \u2013 Foundational Models with Multi-Modality (Analog IC Design) bij NXP Semiconductors in Eindhoven | Glassdoor",
+      "company": "Nxp Semiconductors In Eindhoven",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-foundational-models-with-multi-modality-analog-ic-design-nxp-semiconductors-JV_IC3043137_KO0,68_KE69,87.htm?jl=1010271216281",
+      "snippet": "Being part of the NXP Design Enablement (DE) global team as a CAD Methodology & Flow Engineer offers a unique opportunity to work at the intersection of semiconductor design, software engineering, and AI innovation.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-29T12:03:28.288754"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.35026222467422485,
+    "ai_native_score": 0.6933141350746155
+  },
+  {
+    "job": {
+      "id": "e8f337c766a42bc47d6326859c360667",
+      "title": "Android Developer - AI Finance Agent bij Doit - Nederland ...",
+      "company": "Doit - Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/android-developer-ai-finance-agent-at-doit-4467161986",
+      "snippet": "Sep 17, 2026 \u00b7 The Role We are looking for Android software engineers to build the native Android experience for Doit's AI Finance Agent. This role is for someone who cares about clean user flows, fast performance, product quality and shipping reliable mobile features used by real customers.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-29T12:03:41.888100"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.352242112159729,
+    "ai_native_score": 0.5839115381240845
+  },
+  {
+    "job": {
+      "id": "0173fc38fbff882b40d5391758656efd",
+      "title": "Junior Digital Adoption Consultant in Utrecht bij Capgemini ...",
+      "company": "Capgemini ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/933613/junior-digital-adoption-consultant",
+      "snippet": "Met Digital Adoption staat de medewerker centraal en verzekeren we het succes van technologie. Jouw uitdaging bestaat uit het snel doorgronden van de verandering en het leveren van een succesvol adoptieprogramma voor onze klanten.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-29T12:03:55.761029"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.08757480978965759,
+    "ai_native_score": 0.7370538115501404
+  },
+  {
+    "job": {
+      "id": "18ba1bd05238f7c0f8d2063c1c521b78",
+      "title": "514 vacature (s) voor Tooling engineer salaries in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/tooling-engineer-salaries-vacatures-SRCH_KO0,25.htm",
+      "snippet": "Zoek vacatures voor Tooling engineer salaries. Vind de juiste vacature voor Tooling engineer salaries met bedrijfsreviews en salarissen. 514 vacatures voor Tooling engineer salaries.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-29T12:04:11.477019"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2603543996810913,
+    "ai_native_score": 0.6821646690368652
+  },
+  {
+    "job": {
+      "id": "2b5f49353a89c7069aef041cb655cc61",
+      "title": "Vacature: AI Tech Lead, Belastingdienst - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-tech-lead-BD-2026-5808",
+      "snippet": "De werklocatie is Utrecht. Dit doe je bij de Belastingdienst. In jouw rol als AI Tech Lead ben je de meewerkend voorman binnen een team dat generatieve AI oplossingen ontwerpt, bouwt en evalueert.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-09-29T12:04:41.818775"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.19611285626888275,
+    "ai_native_score": 0.7528824210166931
+  },
+  {
+    "job": {
+      "id": "b801458fff98f312772ccf50e8a12b6b",
+      "title": "AI Consultant in Rotterdam bij DEPT\u00ae | Magnet.me",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1082487/ai-consultant",
+      "snippet": "Sep 14, 2026 \u00b7 We are looking for an AI Consultant who can create strategic impact with AI, translating complex technology into business value for our clients. You will work with senior stakeholders to define AI strategies, lead transformation programmes, and design scalable AI solutions.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-29T12:04:46.661404"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.46229901909828186,
+    "ai_native_score": 0.5805183053016663
+  },
+  {
+    "job": {
+      "id": "cd9e5151829b7ab860a09d39dec94bec",
+      "title": "AI Engineer in Groningen bij Follo | Magnet.me | #1084911 (nl)",
+      "company": "Follo",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1084911/ai-engineer",
+      "snippet": "Sep 22, 2026 \u00b7 You prototype fast with AI coding agents and take to production whatever works. You make sure our data and analytics tools connect properly, so reporting stays current and automated.",
+      "source": "ddg:magnet",
+      "date_found": "2026-09-29T12:04:46.661415"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.43450769782066345,
+    "ai_native_score": 0.70015549659729
   }
 ]
