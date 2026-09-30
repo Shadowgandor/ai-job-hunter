@@ -12610,18 +12610,18 @@
   {
     "job": {
       "id": "9e6c6ccbf45ada2988eb8b81c7033580",
-      "title": "Business consultant/Adoption Lead - Sherpa Digital - Magnet.me",
-      "company": "Magnet.me",
+      "title": "Business consultant/Adoption Lead in Amsterdam bij Sherpa ...",
+      "company": "Sherpa ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/943728/business-consultant-adoption-lead",
-      "snippet": "Je begeleidt de organisaties door hun complexe reis van digitale transformatie, terwijl je nieuwe technologie\u00ebn, waaronder AI, adopteert. Je bent de brug tussen ...",
+      "snippet": "Dec 6, 2025 \u00b7 We zoeken iemand zoals jij, een energieke business consultant/adoption lead voor gave projecten bij onze klanten. Je begeleidt de organisaties door hun complexe reis van digitale transformatie, terwijl je nieuwe technologie\u00ebn, waaronder AI, adopteer\u2026",
       "source": "ddg:magnet",
-      "date_found": "2026-06-12T10:07:44.970017"
+      "date_found": "2026-09-30T11:51:43.998849"
     },
-    "score": 5,
-    "reason": "Business consultant/Adoption Lead at Sherpa Digital bridges digital transformation and AI adoption\u2014conceptually aligned. However, role appears to be business/change management focused rather than hands-on technical AI enablement for dev teams. Location unknown, unclear if near Utrecht. Vague snippet provides limited detail.",
-    "embed_sim": 0.17922306060791016,
-    "ai_native_score": 0.6586267948150635
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22377163171768188,
+    "ai_native_score": 0.6607680320739746
   },
   {
     "job": {
@@ -24482,18 +24482,18 @@
   {
     "job": {
       "id": "a1201e063746365741b4b20f4f48f803",
-      "title": "50+ vacatures voor Artificial Intelligence en werk in Utrecht ... - Indeed",
+      "title": "50+ vacatures voor Artificial Intelligence en werk in Utrecht ...",
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-artificial-intelligence-l-utrecht-(provincie)-vacatures.html?vjk=5bc964b5a5cc5fea",
-      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Data Scientist, Online Marketing Manager, Senior Data Scientist en meer op Indeed.com",
+      "snippet": "Artificial Intelligence vacatures in Utrecht (provincie). Data Scientist, Senior Process Engineer, Online Marketing Manager en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-07-28T08:29:10.362533"
+      "date_found": "2026-09-30T11:52:18.256831"
     },
     "score": 0,
-    "reason": "This is a search results aggregator page from Indeed showing multiple AI vacancies in Utrecht province. Not a specific job posting that can be evaluated. Listings likely include data scientist and manager roles not matching the candidate profile.",
-    "embed_sim": 0.21590623259544373,
-    "ai_native_score": 0.5830033421516418
+    "reason": "API error",
+    "embed_sim": 0.19469235837459564,
+    "ai_native_score": 0.6246483325958252
   },
   {
     "job": {
@@ -33662,5 +33662,181 @@
     "reason": "API error",
     "embed_sim": 0.43450769782066345,
     "ai_native_score": 0.70015549659729
+  },
+  {
+    "job": {
+      "id": "16b7f4b95d0017058f043cdacd2512f3",
+      "title": "AI adoption & incubation lead bij Tata Steel Nederland ...",
+      "company": "Tata Steel Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-incubation-lead-at-tata-steel-nederland-4460336005",
+      "snippet": "You will identify where AI creates real business value and help turn ideas into scalable, adopted solutions. From early discovery to enterprise rollout, you ensure AI is not just explored, but embedded in the way people work. You will collaborate with stakeholders across business, IT, architecture and external partners to translate opportunities into impact. As AI adoption & incubation lead at ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-30T11:51:22.026787"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.39659833908081055,
+    "ai_native_score": 0.6829138994216919
+  },
+  {
+    "job": {
+      "id": "e220d8d0399730fdddf2a0746c7c845a",
+      "title": "Applied AI Engineer - AI Finance Agent bij BJAK - Nederland ...",
+      "company": "Bjak - Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-ai-finance-agent-at-bjak-4456876683",
+      "snippet": "Aug 24, 2026 \u00b7 Solliciteer naar Applied AI Engineer - AI Finance Agent bij BJAK in Nederland. Fulltime Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-30T11:51:22.026801"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.35214316844940186,
+    "ai_native_score": 0.723477303981781
+  },
+  {
+    "job": {
+      "id": "3556d88806a6ed2bb370446b7da1c3fe",
+      "title": "2.909 vacatures voor ai lead in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-ai-lead-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
+      "snippet": "Zoek vacatures voor Ai lead in Nederland met bedrijfsreviews en salarissen. 2.909 vacatures voor Ai lead in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:48.370759"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.10202779620885849,
+    "ai_native_score": 0.6608560085296631
+  },
+  {
+    "job": {
+      "id": "ef7f810873b5e946cb99d3110793492f",
+      "title": "12.468 vacatures voor ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://glassdoor.nl/Vacature/nederland-ai-jobs-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
+      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.468 vacatures voor Ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:48.370800"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.11225157976150513,
+    "ai_native_score": 0.6204701662063599
+  },
+  {
+    "job": {
+      "id": "048d6aa5d87a0059d70965886dac923b",
+      "title": "Vacature voor een functie als Ways of Working Lead bij Mollie ...",
+      "company": "Mollie ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/head-of-ways-of-working-mollie-JV_IC3064478_KO0,23_KE24,30.htm?jl=1010237333977",
+      "snippet": "Build Mollie's information architecture with the data team, so employees can navigate the organisation, find up-to-date information, and get accurate answers through AI-enabled tools Lead the implementation of ways of working with GoCardless, educating new colleagues on how Mollie operates while incorporating what they do well",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:48.370818"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.14998981356620789,
+    "ai_native_score": 0.5688596367835999
+  },
+  {
+    "job": {
+      "id": "1b1665d6eebe01d004c112d4777f9114",
+      "title": "384 vacatures voor generative ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-generative-ai-vacatures-SRCH_IL.0,9_IN178_KO10,23.htm",
+      "snippet": "Zoek vacatures voor Generative ai in Nederland met bedrijfsreviews en salarissen. 384 vacatures voor Generative ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:48.370832"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.13488192856311798,
+    "ai_native_score": 0.6449697613716125
+  },
+  {
+    "job": {
+      "id": "b0d98c235a7881dd05dd2a17136cb3f1",
+      "title": "1.484 vacature(s) voor Ai engineer in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://glassdoor.nl/Vacature/ai-engineer-vacatures-SRCH_KO0,11.htm",
+      "snippet": "Zoek vacatures voor Ai engineer. Vind de juiste vacature voor Ai engineer met bedrijfsreviews en salarissen. 1.484 vacatures voor Ai engineer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:52.148293"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.251919150352478,
+    "ai_native_score": 0.6695058345794678
+  },
+  {
+    "job": {
+      "id": "c9acc7666fb6fcf343a37ae9cc992fea",
+      "title": "90 vacatures voor artificial intelligence engineer in ...",
+      "company": "",
+      "location": "",
+      "url": "https://glassdoor.nl/Vacature/nederland-artificial-intelligence-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,42.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence engineer in Nederland met bedrijfsreviews en salarissen. 90 vacatures voor Artificial intelligence engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-09-30T11:51:52.148339"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30154550075531006,
+    "ai_native_score": 0.6777441501617432
+  },
+  {
+    "job": {
+      "id": "9ffd2472b8c1aa3e6a801f36b2ec840a",
+      "title": "(Senior or Staff) Backend Engineer, AI tooling bij Jobgether",
+      "company": "Jobgether",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-or-staff-backend-engineer-ai-tooling-at-jobgether-4471586466",
+      "snippet": "Strong hands-on experience building and operating developer platforms, developer tooling, CI/CD systems, observability or metrics infrastructure, code quality ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-30T11:52:46.079627"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5996125340461731,
+    "ai_native_score": 0.6463276147842407
+  },
+  {
+    "job": {
+      "id": "b2fc7e4614da4a104f16fa1333413d34",
+      "title": "Full Stack Engineer | $80/hr | Remote - LinkedIn",
+      "company": "$80/hr",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-$80-hr-remote-at-the-ai-training-company-4468488865",
+      "snippet": "You will work across complete application stacks, including browser applications, APIs, backend services, databases, authentication, integrations, ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-30T11:52:46.079660"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2670997977256775,
+    "ai_native_score": 0.3423570692539215
+  },
+  {
+    "job": {
+      "id": "a926e5f43f327b1002837b953b390e82",
+      "title": "AI Harness Engineer bij Jobgether - Vacatures - LinkedIn",
+      "company": "Jobgether - Vacatures - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-harness-engineer-at-jobgether-4471347355",
+      "snippet": "As an AI Harness Engineer, you will build the systems and integrations that connect people with powerful local AI capabilities. You'll work at the intersection ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-09-30T11:52:46.079673"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.46337854862213135,
+    "ai_native_score": 0.6791501045227051
   }
 ]
