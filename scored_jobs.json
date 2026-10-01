@@ -4482,18 +4482,18 @@
   {
     "job": {
       "id": "d658490569f7c645369cf0653d8b077c",
-      "title": "Machine Learning Engineer - Enexis - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Machine Learning Engineer \u2013 Enexis - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/machine-learning-engineer-enexis/",
-      "snippet": "August 26, 2024 - Vacature: Enexis in Den Bosch zoekt een Machine Learning Engineer | Salaris: \u20ac 3.863,- en \u20ac 5.519,- | Startdatum: onbekend",
+      "snippet": "Als Machine Learning Engineer houd jij je bezig met een breed scala aan activiteiten die bijdragen aan de ontwikkeling van cutting-edge oplossingen. Je bent een onmisbare schakel binnen het datascience team. Dan kun je ook nog eens rekenen op veel vrijheid bij het organiseren van je werk \u00e9n een gezonde werk-priv\u00e9balans.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-21T08:21:57.774071"
+      "date_found": "2026-10-01T12:21:52.276873"
     },
-    "score": 1,
-    "reason": "Machine Learning Engineer role focused on building ML models, not AI tool adoption. Wrong career track entirely.",
-    "embed_sim": 0.4559336304664612,
-    "ai_native_score": 0.5585708022117615
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4126221537590027,
+    "ai_native_score": 0.7075900435447693
   },
   {
     "job": {
@@ -33838,5 +33838,149 @@
     "reason": "API error",
     "embed_sim": 0.46337854862213135,
     "ai_native_score": 0.6791501045227051
+  },
+  {
+    "job": {
+      "id": "43cbe091596694bb196cc6a2c719ffdc",
+      "title": "Ai engineer Vacatures | Oktober 2026 | Topvacaturebank.nl",
+      "company": "Oktober 2026",
+      "location": "",
+      "url": "https://www.topvacaturebank.nl/vacatures/ai-engineer",
+      "snippet": "Sep 1, 2026 \u00b7 Aan de slag als Ai engineer? Ontdek de nieuwste vacatures, stel een zoekalert in en solliciteer direct zonder account.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-01T12:20:55.850989"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2956696152687073,
+    "ai_native_score": 0.6484818458557129
+  },
+  {
+    "job": {
+      "id": "37cfa3c5837eec4cbaa0ca7ecf09e3e1",
+      "title": "Artificial intelligence vacatures in de provincie Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence/in-provincie-utrecht",
+      "snippet": "Aan de slag als Artificial intelligence in de provincie Utrecht? Bekijk het uitgebreide aanbod Artificial intelligence vacatures in de provincie Utrecht op Nationale Vacaturebank en ga de uitdaging aan!",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-01T12:21:05.362107"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.24569545686244965,
+    "ai_native_score": 0.757106602191925
+  },
+  {
+    "job": {
+      "id": "a7e6a484e0bc714f0644bd1f7c5a0e5a",
+      "title": "Intern AI Application Developer in Best bij Philips | Magnet.me",
+      "company": "Philips",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1088156/intern-ai-application-developer",
+      "snippet": "As an Intern AI Application Developer, you contribute to this mission by building deployable AI-powered apps (and agents) that can be used directly by business teams across the organization. The Healthcare Consultancy Service team at Philips helps h\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-01T12:21:13.689839"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5207318067550659,
+    "ai_native_score": 0.6999281048774719
+  },
+  {
+    "job": {
+      "id": "29eb80909f3c6b81e04f7a6b6c76de6c",
+      "title": "AI Engineer in Amsterdam bij DEPT\u00ae | Magnet.me",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1087360/ai-engineer",
+      "snippet": "Experience with cloud platforms (AWS, Azure, GCP) and their respective AI services (SageMaker, Azure ML, Vertex AI) Solid proficiency in Python and experience writing clean, testable, reusable code in professional software development environments.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-01T12:21:13.689907"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5245444774627686,
+    "ai_native_score": 0.5297750234603882
+  },
+  {
+    "job": {
+      "id": "c5fe1b15b5ce08f779369333029b9272",
+      "title": "AI Engineer in Utrecht bij DataGrow | Magnet.me | #1070075 (nl)",
+      "company": "Datagrow",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1070075/ai-engineer",
+      "snippet": "Aug 18, 2026 \u00b7 Werk jij graag met data en wil je samen met ons bijdragen aan de verdere ontwikkeling van Artificial Intelligence bij DataGrow? Een dag als AI engineer bij DataGrow Op een doordeweekse dag werk je samen met een klant aan een data- en AI-oplossing. Je start met het bekijken van de voortgang: werken de pipelines goed, zijn de AI-resultaten betrouwbaar en waar is bijsturing nodig? Samen met je ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-01T12:21:24.437649"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2018386423587799,
+    "ai_native_score": 0.563325822353363
+  },
+  {
+    "job": {
+      "id": "c4c39199354503887000194147a42435",
+      "title": "Junior AI Engineer bij AI Pilots - Den Haag | LinkedIn Vacatures",
+      "company": "Ai Pilots - Den Haag",
+      "location": "Den Haag",
+      "url": "https://nl.linkedin.com/jobs/view/junior-ai-engineer-at-ai-pilots-4238262804",
+      "snippet": "Solliciteer naar Junior AI Engineer bij AI Pilots in Den Haag. Fulltime Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-01T12:21:28.326044"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3999916911125183,
+    "ai_native_score": 0.732596218585968
+  },
+  {
+    "job": {
+      "id": "7ad353926d2f115c413bdd8e36b298bf",
+      "title": "HighRadius zoekt een Forward Deployed Engineer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/forward-deployed-engineer-amsterdam-at-highradius-4462959131",
+      "snippet": "About The Role Run Customer Engagements: As a Forward Deployed Engineer (FDE) at HighRadius, you are the bridge between our AI platform and the world\u2019s largest enterprise finance departments. You will be \"deployed\" to solve financial challenges using Autonomous AI Agents.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-01T12:21:28.326060"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3291577696800232,
+    "ai_native_score": 0.5603304505348206
+  },
+  {
+    "job": {
+      "id": "d027aacdd52754b1475e4f9690e504c9",
+      "title": "13 vacature (s) voor Adoption services specialist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/adoption-services-specialist-vacatures-SRCH_KO0,28.htm",
+      "snippet": "Zoek vacatures voor Adoption services specialist. Vind de juiste vacature voor Adoption services specialist met bedrijfsreviews en salarissen. 13 vacatures voor Adoption services specialist.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-01T12:22:10.846549"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.25214365124702454,
+    "ai_native_score": 0.5679823160171509
+  },
+  {
+    "job": {
+      "id": "f694bb9cbdd231b0b949564893970be9",
+      "title": "1.000+ vacatures voor Ai Engineer en werk: 15 juli 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=15bc9039524ca2a4",
+      "snippet": "Jij verbindt INEX cloud en slimme sensor\u2011AI platformen met de wifi- en netwerkomgevingen van onze klanten. Je helpt ontwerpen, migreren, implementeren en onderhouden zodat alarmen, data en inzichten veilig, snel en betrouwbaar stromen \u2014 door heel Nederland.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-01T12:22:20.126644"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.20498964190483093,
+    "ai_native_score": 0.4568219780921936
   }
 ]
