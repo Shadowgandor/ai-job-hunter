@@ -1,52 +1,4 @@
 {
-  "a4856e4b9523ce2f86a8486fe23c7dba": {
-    "title": "Generative AI engineer in Amsterdam bij aaff | Magnet.me | #869092 (nl)",
-    "company": "Aaff",
-    "url": "https://magnet.me/nl-NL/vacature/869092/generative-ai-engineer",
-    "date": "2026-08-03T09:37:19.404873"
-  },
-  "b638796bb4328a8a12ea84bdbaf05c26": {
-    "title": "Databricks Engineer in Groningen bij ilionx | Magnet.me | #1038326 (nl)",
-    "company": "Ilionx",
-    "url": "https://magnet.me/nl-NL/vacature/1038326/databricks-engineer",
-    "date": "2026-08-03T09:37:19.404895"
-  },
-  "a563b7d8f53ee59ab729ecb186c9310c": {
-    "title": "Audio Engineer - vacatures - 2 augustus 2026 | Indeed",
-    "company": "Indeed",
-    "url": "https://nl.indeed.com/Audio-Engineer-vacatures",
-    "date": "2026-08-03T09:37:24.342814"
-  },
-  "73b5776664c139ffd7f65edbc2082388": {
-    "title": "MIT-onderzoek: 'Vacatureteksten schrijven met AI... - Recruitmenttech.nl",
-    "company": "Recruitmenttech.nl",
-    "url": "https://www.recruitmenttech.nl/2026/07/30/mit-onderzoek-vacatureteksten-schrijven-met-ai-leidt-15-procent-minder-vaak-tot-een-hire/",
-    "date": "2026-08-03T09:37:24.342846"
-  },
-  "3c559e30abd77bd3b45f8efb66072802": {
-    "title": "Meer dan 1.000 vacatures voor Dott in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/dott-jobs?f_AL=true",
-    "date": "2026-08-03T09:37:28.398503"
-  },
-  "8ddfe3bea9b88f8cdfc6a04106ecb321": {
-    "title": "Meer dan 1.000 vacatures voor Juridisch in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/juridisch-jobs?f_EA=true",
-    "date": "2026-08-03T09:37:28.398519"
-  },
-  "69a3d95ea48795888314b8ec5555f637": {
-    "title": "50+ vacatures voor Artificial Intelligence Master en werk: 29 juli 2026| Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/Artificial-Intelligence-Master-vacatures",
-    "date": "2026-08-03T09:37:36.474630"
-  },
-  "9121dd174d887c7dddd65b933c0054d9": {
-    "title": "4.000+ vacatures voor Artificial Intelligence Communicatie en werk: 23 mei 2026| Indeed",
-    "company": "",
-    "url": "https://nl.indeed.com/q-artificial-intelligence-communicatie-vacatures.html",
-    "date": "2026-08-03T09:37:36.474650"
-  },
   "aef66e297c694cbf535606b072e59766": {
     "title": "Meer dan 1.000 vacatures voor Staff Software Engineer in Nederland",
     "company": "",
@@ -4570,5 +4522,35 @@
     "company": "",
     "url": "https://nl.indeed.com/q-ai-engineer-vacatures.html?vjk=15bc9039524ca2a4",
     "date": "2026-10-01T12:22:20.126644"
+  },
+  "9c10a14899a4fb74bcc3f10ae5d6a2a1": {
+    "title": "10 vacatures voor ai enablement engineer in Waardenburg",
+    "company": "",
+    "url": "https://www.glassdoor.nl/Vacature/waardenburg-ai-enablement-engineer-vacatures-SRCH_IL.0,11_IC3036215_KO12,34.htm",
+    "date": "2026-10-02T11:49:41.896673"
+  },
+  "fff4a3d97860ef908b7ada972a39cd43": {
+    "title": "machine learning engineer, King of Prussia, PA - Glassdoor",
+    "company": "",
+    "url": "https://www.glassdoor.nl/Vacature/king-of-prussia-machine-learning-engineer-vacatures-SRCH_IL.0,15_IC1152620_KO16,41.htm",
+    "date": "2026-10-02T11:49:41.896704"
+  },
+  "7cc2db683bcf6d663d80b5750df235ca": {
+    "title": "40 vacatures voor bi engineer in Arlington, VA | Glassdoor",
+    "company": "Glassdoor",
+    "url": "https://www.glassdoor.nl/Vacature/arlington-bi-engineer-vacatures-SRCH_IL.0,9_IC1130337_KO10,21.htm",
+    "date": "2026-10-02T11:49:41.896718"
+  },
+  "ef76cfe7663f1a49da7b19a67f874af6": {
+    "title": "849 vacatures voor platform engineer in Remote - Glassdoor",
+    "company": "",
+    "url": "https://www.glassdoor.nl/Vacature/remote-platform-engineer-vacatures-SRCH_IL.0,6_IS12563_KO7,24.htm",
+    "date": "2026-10-02T11:49:41.896731"
+  },
+  "f4e0b5a32056143e57c5749373425608": {
+    "title": "Jonge Nederlandse uitvinder wint prijs met AI-gestuurd minilab ...",
+    "company": "",
+    "url": "https://www.skipr.nl/nieuws/jonge-nederlandse-uitvinder-wint-prijs-met-ai-gestuurd-minilab/",
+    "date": "2026-10-02T11:49:58.814970"
   }
 }

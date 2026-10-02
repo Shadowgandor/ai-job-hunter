@@ -33982,5 +33982,85 @@
     "reason": "API error",
     "embed_sim": 0.20498964190483093,
     "ai_native_score": 0.4568219780921936
+  },
+  {
+    "job": {
+      "id": "9c10a14899a4fb74bcc3f10ae5d6a2a1",
+      "title": "10 vacatures voor ai enablement engineer in Waardenburg",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/waardenburg-ai-enablement-engineer-vacatures-SRCH_IL.0,11_IC3036215_KO12,34.htm",
+      "snippet": "Zoek vacatures voor Ai enablement engineer in Waardenburg met bedrijfsreviews en salarissen. 10 vacatures voor Ai enablement engineer in Waardenburg.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-02T11:49:41.896673"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2921254634857178,
+    "ai_native_score": 0.6492077708244324
+  },
+  {
+    "job": {
+      "id": "fff4a3d97860ef908b7ada972a39cd43",
+      "title": "machine learning engineer, King of Prussia, PA - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/king-of-prussia-machine-learning-engineer-vacatures-SRCH_IL.0,15_IC1152620_KO16,41.htm",
+      "snippet": "224 vacature(s) voor Machine learning engineer in King of Prussia, PA ; AI Security Manager \u00b7 US$ 135K - US$ 265K (opgegeven door werkgever) \u00b7 Vacatures voor ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-02T11:49:41.896704"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.25533485412597656,
+    "ai_native_score": 0.628126859664917
+  },
+  {
+    "job": {
+      "id": "7cc2db683bcf6d663d80b5750df235ca",
+      "title": "40 vacatures voor bi engineer in Arlington, VA | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/arlington-bi-engineer-vacatures-SRCH_IL.0,9_IC1130337_KO10,21.htm",
+      "snippet": "Zoek vacatures voor Bi engineer in Arlington, VA met bedrijfsreviews en salarissen. 40 vacatures voor Bi engineer in Arlington.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-02T11:49:41.896718"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.25305071473121643,
+    "ai_native_score": 0.5923861265182495
+  },
+  {
+    "job": {
+      "id": "ef76cfe7663f1a49da7b19a67f874af6",
+      "title": "849 vacatures voor platform engineer in Remote - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/remote-platform-engineer-vacatures-SRCH_IL.0,6_IS12563_KO7,24.htm",
+      "snippet": "Zoek vacatures voor Platform engineer in Remote met bedrijfsreviews en salarissen. 849 vacatures voor Platform engineer in Remote.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-02T11:49:41.896731"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23285305500030518,
+    "ai_native_score": 0.5863232016563416
+  },
+  {
+    "job": {
+      "id": "f4e0b5a32056143e57c5749373425608",
+      "title": "Jonge Nederlandse uitvinder wint prijs met AI-gestuurd minilab ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.skipr.nl/nieuws/jonge-nederlandse-uitvinder-wint-prijs-met-ai-gestuurd-minilab/",
+      "snippet": "10 jul 2024 \u00b7 Een Nederlandse wetenschapper, de 29-jarige Rochelle Niemeijer, heeft een prijs van 20.000 euro gewonnen van het Europees Octrooibureau ...",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-02T11:49:58.814970"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.022472241893410683,
+    "ai_native_score": 0.5978941321372986
   }
 ]
