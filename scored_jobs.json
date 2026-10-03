@@ -12696,12 +12696,12 @@
       "url": "https://nl.indeed.com/q-ai-developers-l-utrecht-(provincie)-vacatures.html?vjk=df5464d9d9c73629",
       "snippet": "Ben jij een gedreven Developer met een passie voor E-commerce? Wil jij een cruciale rol spelen in het ontwikkelen, verbeteren en automatiseren van onze e-commerce platformen?",
       "source": "ddg:web-nl",
-      "date_found": "2026-06-13T08:54:09.573657"
+      "date_found": "2026-10-03T11:04:00.322970"
     },
     "score": 0,
-    "reason": "Generic job aggregator page with no specific listing. Title mentions 'AI Developers' but snippet is about e-commerce platform development\u2014unrelated to AI adoption/enablement.",
+    "reason": "API error",
     "embed_sim": 0.2409355193376541,
-    "ai_native_score": 0.5858758091926575
+    "ai_native_score": 0.5858757495880127
   },
   {
     "job": {
@@ -24274,18 +24274,18 @@
   {
     "job": {
       "id": "e66a4723a652e5a224e0b85f429acdfb",
-      "title": "Vacature voor een functie als Developer Relations/Experience Engineer - Kimchi bij Cast.AI in Amsterdam | Glassdoor",
-      "company": "Cast.Ai In Amsterdam",
+      "title": "Vacature voor een functie als Developer Relations/Experience ...",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/job-listing/developer-relations-experience-engineer-kimchi-cast-ai-JV_IC3064478_KO0,46_KE47,54.htm?jl=1010159122131",
-      "snippet": "Please note that Cast AI does not provide any form of visa sponsorship/work permit. #LI-Remote ... Meld je aan om reviews, anonieme beoordelingen en salarisgegevens te bekijken voordat je solliciteert. ... Vacatures voor Developer Relations/Experience Engineer - Ki...",
+      "snippet": "Build things publicly with Kimchi - tutorials, demos, integrations - that show developers how to solve real problems. Think live build logs, OSS integrations, or benchmarks you'd want to read yourself.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-07-27T09:43:17.605324"
+      "date_found": "2026-10-03T11:02:43.441209"
     },
-    "score": 6,
-    "reason": "Developer Relations/Experience Engineer role at Cast.AI could involve AI tooling adoption, but Cast.AI focuses on container/cloud optimization, not general AI tool enablement. Location unclear, likely remote which is acceptable. Some DevEx alignment but unclear if focused on AI adoption for dev teams.",
-    "embed_sim": 0.3360558748245239,
-    "ai_native_score": 0.700068473815918
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2648920714855194,
+    "ai_native_score": 0.5239424705505371
   },
   {
     "job": {
@@ -34062,5 +34062,85 @@
     "reason": "API error",
     "embed_sim": 0.022472241893410683,
     "ai_native_score": 0.5978941321372986
+  },
+  {
+    "job": {
+      "id": "191ad0991ef0403d7a27298bec13955b",
+      "title": "144 vacature (s) voor Head of ways of working in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/head-of-ways-of-working-vacatures-SRCH_KO0,23.htm",
+      "snippet": "AI is already woven into how we work and what we build. We're not starting from zero our AI Lab is up and running, with a dedicated team that explores new ideas, tests them in the real world, and turns the promising ones into working solutions for both our people and our customers.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-03T11:03:07.436413"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3331020176410675,
+    "ai_native_score": 0.685265302658081
+  },
+  {
+    "job": {
+      "id": "901504cca58113f76b3186beec5ce852",
+      "title": "AI Enablement Lead bij MR MARVIS - Amsterdam - LinkedIn",
+      "company": "Mr Marvis - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-enablement-lead-at-mr-marvis-4466188520",
+      "snippet": "Sep 15, 2026 \u00b7 Raise the AI baseline of the whole company with the Tech Director and other engineers: education, workshops, hackathons, ambassadors, a central AI channel, and practical guardrails people actually use. Expand AI coverage across departments through integrations and knowledge base grounding. Outcomes we expect (first 6\u201312 months)",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-03T11:03:32.781314"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5214216709136963,
+    "ai_native_score": 0.7920575141906738
+  },
+  {
+    "job": {
+      "id": "74c5b9501f91ec84f748ff3ce73782b8",
+      "title": "Awin Global zoekt een Head of Product, AI Enablement (f/m/d ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-product-ai-enablement-f-m-d-at-awin-global-4470832691?position=1&pageNum=0",
+      "snippet": "06:28:24 geplaatst. Purpose of Position Own the product agenda for how AI creates real, measurable value across Awin \u2014\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-03T11:03:32.781333"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27196747064590454,
+    "ai_native_score": 0.5062809586524963
+  },
+  {
+    "job": {
+      "id": "7727c8f64c2937ee499a0a9c351c458f",
+      "title": "CGI Nederland zoekt een Senior AI Architect ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-architect-telecommunicatie-at-cgi-nederland-4343504132",
+      "snippet": "Als AI Architect ben jij de visionair \u00e9n technisch leider achter belangrijke AI-initiatieven. Je ontwerpt end-to-end AI-architecturen, bepaalt de technologische richting en zorgt dat AI-,...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-03T11:03:32.781343"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42950239777565,
+    "ai_native_score": 0.7811872959136963
+  },
+  {
+    "job": {
+      "id": "af73768883bf6118844875a71406e8ac",
+      "title": "AI Engineer in Rotterdam bij DEPT\u00ae | Magnet.me | #1087361 (nl)",
+      "company": "Dept\u00ae",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1087361/ai-engineer",
+      "snippet": "5 days ago \u00b7 We are seeking a talented and passionate AI Engineer to join our growing team. In this role, you will design, develop, and deploy AI solutions for our clients across various industries.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-03T11:03:55.890735"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.461282342672348,
+    "ai_native_score": 0.6117439270019531
   }
 ]
