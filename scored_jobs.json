@@ -13960,12 +13960,12 @@
       "url": "https://nl.indeed.com/q-ai-research-vacatures.html?vjk=10b5cad3f7a3050e",
       "snippet": "SkillAIbility, AI, and the Future of Work in Manufacturing Artificial Intelligence is transforming jobs in profound ways. In contrast with earlier technology-driven transformations, where physical automation was among the key drivers, AI increasingly impacts cognitively rich tasks. The risk of job losses and human roles being replaced by AI are a subject of intense interest, including fear. At ...",
       "source": "ddg:indeed",
-      "date_found": "2026-06-17T10:49:12.939242"
+      "date_found": "2026-10-04T11:44:11.413309"
     },
     "score": 0,
-    "reason": "Generic job listing aggregator page (Indeed search results for AI Research). Not a real job posting. No specific role details or application mechanism.",
-    "embed_sim": 0.3296947777271271,
-    "ai_native_score": 0.6503326892852783
+    "reason": "API error",
+    "embed_sim": 0.3296947479248047,
+    "ai_native_score": 0.6503326296806335
   },
   {
     "job": {
@@ -17462,14 +17462,14 @@
       "company": "Dept\u00ae",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1022199/ai-consultant",
-      "snippet": "As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them with the support from our team of talented engineers and developers.",
+      "snippet": "Jul 21, 2026 \u00b7 As an AI Consultant, you will work with our excellent portfolio of clients to accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them with the support from our team of talented engineers and developers.",
       "source": "ddg:magnet",
-      "date_found": "2026-06-28T08:47:30.506011"
+      "date_found": "2026-10-04T11:45:08.583005"
     },
-    "score": 7,
-    "reason": "AI Consultant role matches candidate's consulting/advisory preference. Focuses on AI adoption and implementation guidance. Location unknown but DEPT is Netherlands-based. Lacks specific mention of developer tooling focus (Copilot, Claude, etc.) but consulting model aligns well.",
-    "embed_sim": 0.48008590936660767,
-    "ai_native_score": 0.6153644919395447
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45969492197036743,
+    "ai_native_score": 0.5833472013473511
   },
   {
     "job": {
@@ -34142,5 +34142,101 @@
     "reason": "API error",
     "embed_sim": 0.461282342672348,
     "ai_native_score": 0.6117439270019531
+  },
+  {
+    "job": {
+      "id": "3c5d5a3c87c36e0edde3b1c443e6ef8f",
+      "title": "Vacatures voor Ai Adoption in Nederland (5,000+ beschikbare ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/ai-adoption-jobs",
+      "snippet": "5,000+ topvacatures voor Ai Adoption in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Ai Adoption toegevoegd.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-04T11:44:07.806202"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.0992974042892456,
+    "ai_native_score": 0.6693242192268372
+  },
+  {
+    "job": {
+      "id": "796383d31a157d76749da3c9cd16eaeb",
+      "title": "600+ vacatures voor Ai Automation en werk in Amsterdam 22 ... - Indeed",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.indeed.com/q-ai-automation-l-amsterdam-vacatures.html?vjk=62d126432fa88bec",
+      "snippet": "Ai Automation vacatures in Amsterdam. Enterprise Data Architect, Industrial Consultant, Specialist en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-04T11:44:11.413317"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2974739968776703,
+    "ai_native_score": 0.652751088142395
+  },
+  {
+    "job": {
+      "id": "9436ed3ca720903a847e5bacb33e9218",
+      "title": "AI Platform Engineer \u2013 AI Capabilities & Developer Platform",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-platform-engineer-\u2013-ai-capabilities-developer-platform-at-a2g-consulting-bv-a2g-technologies-4472150274?position=12&pageNum=0",
+      "snippet": "Improve the AI developer experience and drive adoption across domains. Design cloud-native solutions, CI/CD pipelines, and platform automation. Integrate AI services, AKS, and supporting platforms. Collaborate with architecture, security, risk, data governance, and regulatory teams.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-04T11:44:23.852989"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.7092139720916748,
+    "ai_native_score": 0.6783815026283264
+  },
+  {
+    "job": {
+      "id": "b4f65bcb441ecbfe1258ad29d0b8a498",
+      "title": "Torentify zoekt een AI Engineer (Remote) in Nederland | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-remote-at-torentify-4469509339",
+      "snippet": "Experience: Experience in software development, debugging complex issues, feature development, refactoring, and performance optimization is required. Prior AI experience is not required.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-04T11:44:23.853038"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.454306960105896,
+    "ai_native_score": 0.6900354027748108
+  },
+  {
+    "job": {
+      "id": "c74f4a44037e0e8f3d5f8aa0e6ed58e4",
+      "title": "Mobile Developer - AI Finance Agent bij BJAK - Nederland ...",
+      "company": "Bjak - Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/mobile-developer-ai-finance-agent-at-bjak-4444977224",
+      "snippet": "Solliciteer naar Mobile Developer - AI Finance Agent bij BJAK in Nederland. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-04T11:44:23.853055"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3014642000198364,
+    "ai_native_score": 0.6873167157173157
+  },
+  {
+    "job": {
+      "id": "4db109f4f9b6491e7fe7470686ea4188",
+      "title": "ai developer vacatures in Eindhoven",
+      "company": "",
+      "location": "Eindhoven",
+      "url": "https://nl.indeed.com/q-ai-developer-l-eindhoven-vacatures.html?vjk=e874dabe181bdd8b",
+      "snippet": "Ai Developer vacatures in Eindhoven. Software Trainer, Senior Software Developer, Senior Software Engineer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-04T11:44:50.309175"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42747873067855835,
+    "ai_native_score": 0.7436437606811523
   }
 ]
