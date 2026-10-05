@@ -34238,5 +34238,69 @@
     "reason": "API error",
     "embed_sim": 0.42747873067855835,
     "ai_native_score": 0.7436437606811523
+  },
+  {
+    "job": {
+      "id": "ef835a3859a375121fe5955debda29d5",
+      "title": "AI adoption specialist bij Smairtly - Gelderland, Nederland ...",
+      "company": "Smairtly - Gelderland, Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-smairtly-4464472427",
+      "snippet": "Sep 8, 2026 \u00b7 Solliciteer naar AI adoption specialist bij Smairtly in Gelderland, Nederland. Fulltime Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-05T13:28:43.441925"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.20442615449428558,
+    "ai_native_score": 0.6113911271095276
+  },
+  {
+    "job": {
+      "id": "38d4dae6f4e03d87de4546deac7e23ba",
+      "title": "NS zoekt een Senior Adoptiespecialist - Digitale Werkplek in ...",
+      "company": "Digitale Werkplek in ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-adoptiespecialist-digitale-werkplek-at-nederlandse-spoorwegen-4445770949",
+      "snippet": "20:50:43 geplaatst. Daarom wil je als Adoptiespecialist bij NS werkenJe draagt direct bij aan de digitale volwassenheid\u2026Bekijk deze en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-05T13:28:43.441977"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.06553330272436142,
+    "ai_native_score": 0.6941069960594177
+  },
+  {
+    "job": {
+      "id": "39ec9f9b3424861feef24e1fc87ef1ee",
+      "title": "Wiraa zoekt een Full Stack Developer in Gelderland, Nederland ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-at-wiraa-4475096961",
+      "snippet": "Experience with code reviews and maintaining high code quality standards Knowledge of or interest in AI-assisted development tools such as Claude Code, GitHub Copilot, or similar Experience working within an Agile environment, participating in standups, refinements, and retrospectives Ownership mentality and proactive approach to development tasks",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-05T13:29:45.445552"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3010527491569519,
+    "ai_native_score": 0.672832190990448
+  },
+  {
+    "job": {
+      "id": "23e24e6a91124cf33e351ce4c63bce59",
+      "title": "Everience Benelux zoekt een Front-End Developer - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-developer-amsterdam-at-everience-benelux-4469721637",
+      "snippet": "Sep 24, 2026 \u00b7 Everience is an international consulting group delivering AI-augmented digital services and placing people at the heart of the AI revolution. With a presence in Europe, Africa, Asia and America, Everience offers its 4,000-strong workforce the most demanding and stimulating environment in which to transform and develop their skills, learning about new AI-based roles and building their future ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-05T13:29:45.445589"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.31275272369384766,
+    "ai_native_score": 0.49718061089515686
   }
 ]
