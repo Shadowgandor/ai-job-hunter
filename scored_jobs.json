@@ -1032,12 +1032,12 @@
       "url": "https://werkeninai.nl/data-engineer-conversational-ai-abn-amro/",
       "snippet": "At a glance We are looking for an enthusiastic colleague that will help us shape the future of Conversational AI at ABN AMRO in the role of an engineering who can maintain and improve our Conversational AI workflows by automating the data and ml processes used within the team to improve solutions like Chatbot Anna, Conversational IVR (Voicebot) and LLM-based Advisor Assist.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-23T08:25:06.551043"
+      "date_found": "2026-10-06T12:42:04.757493"
     },
-    "score": 1,
-    "reason": "Data Engineer role focused on automating data and ML processes for Conversational AI workflows. This is pure ML/data pipeline engineering, not AI tool adoption or developer enablement. Candidate explicitly does not want this type of role.",
-    "embed_sim": 0.47553494572639465,
-    "ai_native_score": 0.5963149070739746
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4755350351333618,
+    "ai_native_score": 0.5963151454925537
   },
   {
     "job": {
@@ -6226,18 +6226,18 @@
   {
     "job": {
       "id": "cab3708dde1a28703750377b1210a48b",
-      "title": "10.000+ vacatures voor Ai en werk: 27 juli 2026| Indeed",
+      "title": "12.000+ vacatures voor Ai en werk: 6 oktober 2026| Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-\"ai\"-vacatures.html",
-      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword \u2014 it's a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
+      "snippet": "Ai vacatures. Internship Software Development, Product Owner, Informatiemanager en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-07-28T08:28:39.894387"
+      "date_found": "2026-10-06T12:41:50.915410"
     },
     "score": 0,
-    "reason": "This is a search results aggregator page from Indeed, not a specific job listing. Cannot evaluate actual role requirements.",
-    "embed_sim": 0.32644811272621155,
-    "ai_native_score": 0.5807057619094849
+    "reason": "API error",
+    "embed_sim": 0.29173582792282104,
+    "ai_native_score": 0.5976150035858154
   },
   {
     "job": {
@@ -9106,18 +9106,18 @@
   {
     "job": {
       "id": "70a5de5032dfe37d59727ccfb91738d5",
-      "title": "17 artificial intelligence vacatures in Utrecht | 5 augustus ...",
-      "company": "5 augustus ...",
+      "title": "29 artificial intelligence vacatures in Utrecht | 5 oktober 2026 ...",
+      "company": "5 oktober 2026 ...",
       "location": "Utrecht",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence/in-utrecht",
       "snippet": "Aan de slag als Artificial intelligence in Utrecht? Bekijk het uitgebreide aanbod vacatures in Utrecht voor Artificial intelligence op Nationale Vacaturebank en ga de uitdaging aan!",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-06T08:30:45.928962"
+      "date_found": "2026-10-06T12:41:20.340808"
     },
     "score": 0,
-    "reason": "No match \u2014 This is an aggregated search results page showing 17 artificial intelligence vacancies in Utrecht from Nationale Vacaturebank, not a specific job listing. Cannot evaluate a directory of listings.",
-    "embed_sim": 0.15201357007026672,
-    "ai_native_score": 0.6927083730697632
+    "reason": "API error",
+    "embed_sim": 0.1532723754644394,
+    "ai_native_score": 0.6734992265701294
   },
   {
     "job": {
@@ -9298,34 +9298,34 @@
   {
     "job": {
       "id": "e5e180bfa4dba30ceb9fb627c85e425c",
-      "title": "25+ vacatures voor Ai Ml Engineer en werk in Utrecht ... - Indeed",
+      "title": "ai ml engineer vacatures in Utrecht (provincie) - Indeed",
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-ai-ml-engineer-l-utrecht-vacatures.html?vjk=580073c30ddbe829",
-      "snippet": "Ai Ml Engineer vacatures in Utrecht (provincie). Machine Learning Engineer, Ai Engineer, Engineer en meer op Indeed.com",
+      "snippet": "Ai Ml Engineer vacatures in Utrecht (provincie). Ai Engineer, Machine Learning Engineer, Data Scientist en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-06T08:30:45.928853"
+      "date_found": "2026-10-06T12:41:20.340957"
     },
     "score": 0,
-    "reason": "No match \u2014 This is an aggregated search results page on Indeed showing multiple AI/ML Engineer positions in Utrecht, not a specific job listing. Cannot score a directory of listings.",
-    "embed_sim": 0.33371827006340027,
-    "ai_native_score": 0.6518605947494507
+    "reason": "API error",
+    "embed_sim": 0.41973942518234253,
+    "ai_native_score": 0.6450373530387878
   },
   {
     "job": {
       "id": "c158ac1c844909f3712ff11f1c73b474",
-      "title": "1.000+ vacatures voor Ai Developers en werk: 22 juni 2026| Indeed",
+      "title": "1.000+ vacatures voor Ai Developers en werk: 6 oktober 2026 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-developers-vacatures.html",
-      "snippet": "Ai Developers vacatures. Data Scientist, Specialist, Software Engineer en meer op Indeed.com",
-      "source": "ddg:web-nl",
-      "date_found": "2026-08-06T08:29:47.404080"
+      "snippet": "Ai Developers vacatures. Technical Lead, PHP Developer, Java Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-06T12:41:50.915403"
     },
     "score": 0,
-    "reason": "Generic job search listing page, not an actual job posting. Aggregates multiple roles without specific details.",
-    "embed_sim": 0.4234411120414734,
-    "ai_native_score": 0.6888109445571899
+    "reason": "API error",
+    "embed_sim": 0.4132134020328522,
+    "ai_native_score": 0.7005729079246521
   },
   {
     "job": {
@@ -21158,14 +21158,14 @@
       "company": "-",
       "location": "",
       "url": "https://www.datajobs.nl/vacatures/ai-engineer-bij-capgemini",
-      "snippet": "6 days ago \u00b7 Een dag als AI Engineer bij Capgemini is een mix van innovatie, engineering en samenwerking. Het ene moment ben je misschien aan het experimenteren met de nieuwste GenAI-modellen, het ontwerpen van prompts of het bouwen van multi-agentoplossingen in Python, en het volgende moment werk je samen met data scientists, cloud engineers, architecten en klanten om die idee\u00ebn in productie te brengen ...",
+      "snippet": "Jul 6, 2026 \u00b7 Als Data Scientist of AI Engineer implementeer je in teamverband end-to-end oplossingen, waarbij je verantwoordelijk bent voor het ontwerpen, bouwen en implementeren van statistische modellen, machine-learningoplossingen of AI-componenten.",
       "source": "ddg:web-nl",
-      "date_found": "2026-07-12T08:11:33.202341"
+      "date_found": "2026-10-06T12:42:00.092711"
     },
-    "score": 2,
-    "reason": "AI Engineer at Capgemini mentions building GenAI models, prompts, and multi-agent solutions in Python. This is ML/model-building focused, not AI adoption/enablement. Candidate explicitly does NOT want this type of role.",
-    "embed_sim": 0.2786117494106293,
-    "ai_native_score": 0.6181852221488953
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.33630701899528503,
+    "ai_native_score": 0.6075119972229004
   },
   {
     "job": {
@@ -34302,5 +34302,53 @@
     "reason": "API error",
     "embed_sim": 0.31275272369384766,
     "ai_native_score": 0.49718061089515686
+  },
+  {
+    "job": {
+      "id": "25dff10853f134c339a4ad2dcf93bfcb",
+      "title": "AI Engineer in Utrecht bij Sogeti | Magnet.me | #1083163 (nl)",
+      "company": "Sogeti",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1083163/ai-engineer",
+      "snippet": "Sep 15, 2026 \u00b7 Als AI Engineer bij Sogeti bouw je mee aan AI-toepassingen die organisaties dagelijks gebruiken. Je hebt je eerste ervaring met AI opgedaan en wilt verder groeien in Generative AI en agentic AI.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-06T12:42:00.092686"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30852699279785156,
+    "ai_native_score": 0.7189176082611084
+  },
+  {
+    "job": {
+      "id": "c1447c656ad4b3f517ca308af76097ef",
+      "title": "26 vacature (s) voor Digital adoption manager in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/digital-adoption-manager-vacatures-SRCH_KO0,24.htm",
+      "snippet": "Zoek vacatures voor Digital adoption manager. Vind de juiste vacature voor Digital adoption manager met bedrijfsreviews en salarissen. 26 vacatures voor Digital adoption manager.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-06T12:42:20.808769"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.17067447304725647,
+    "ai_native_score": 0.6307547092437744
+  },
+  {
+    "job": {
+      "id": "b2afce3a0000b4672f7ee69927717175",
+      "title": "108 vacatures voor adoption agency in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-agency-vacatures-SRCH_IL.0,9_IN178_KO10,25.htm",
+      "snippet": "Meer ontdekken 7d Vacatures voor customer relations in Breda Vacatures in Breda Vacatures bij Epredia in Breda Salarissen bij Epredia Reviews van werknemers bij Epredia Sollicitatie-ervaring bij Epredia Werken bij Epredia Rituals 3,5 Senior AI Adoption & Change Specialist \u2013 CHO Keizersgracht Amsterdam | 32-40h Amsterdam",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-06T12:42:20.808787"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.0991196557879448,
+    "ai_native_score": 0.6075317859649658
   }
 ]
