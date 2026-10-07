@@ -6258,18 +6258,18 @@
   {
     "job": {
       "id": "9d7163a136c98d524e2a19fab6b8057e",
-      "title": "ai developer vacatures in Amsterdam",
+      "title": "500+ vacatures voor Ai Developer en werk in Amsterdam 19 ...",
       "company": "",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://nl.indeed.com/q-ai-developer-l-amsterdam-centrum-vacatures.html",
-      "snippet": "Ai Developer vacatures in Amsterdam. Developer, Back End Developer, Android Developer en meer op Indeed.com",
+      "snippet": "We zoeken een ervaren full stack developer die een belangrijke rol wil spelen in de verdere ontwikkeling van het platform. Je werkt aan de chat interface, het adminpanel, de backend, realtime communicatie en integraties met externe diensten.",
       "source": "ddg:indeed",
-      "date_found": "2026-07-24T08:21:16.251899"
+      "date_found": "2026-10-07T12:34:48.394584"
     },
     "score": 0,
-    "reason": "Generic search results page for 'AI Developer' in Amsterdam. Not a specific job posting. Cannot assess relevance.",
-    "embed_sim": 0.4423034191131592,
-    "ai_native_score": 0.703551709651947
+    "reason": "API error",
+    "embed_sim": 0.20651262998580933,
+    "ai_native_score": 0.6517581343650818
   },
   {
     "job": {
@@ -9634,18 +9634,18 @@
   {
     "job": {
       "id": "2b28626373d3d3a83ce149f5e13da654",
-      "title": "907 vacatures voor ai engineer in Nederland | Glassdoor",
+      "title": "1.429 vacatures voor ai engineer in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,21.htm",
-      "snippet": "Zoek vacatures voor Ai engineer in Nederland met bedrijfsreviews en salarissen. 907 vacatures voor Ai engineer in Nederland.",
+      "snippet": "Zoek vacatures voor Ai engineer in Nederland met bedrijfsreviews en salarissen. 1.429 vacatures voor Ai engineer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-06T08:29:30.411268"
+      "date_found": "2026-10-07T12:35:01.956280"
     },
     "score": 0,
-    "reason": "Job search aggregator, not a specific vacancy; no actual job posting",
-    "embed_sim": 0.27050960063934326,
-    "ai_native_score": 0.6614214181900024
+    "reason": "API error",
+    "embed_sim": 0.25347959995269775,
+    "ai_native_score": 0.6748422980308533
   },
   {
     "job": {
@@ -9986,34 +9986,34 @@
   {
     "job": {
       "id": "009c640cc50b8b62282de0bb267611f1",
-      "title": "Conversational AI Engineer - PostNL - Werken in AI",
+      "title": "Conversational AI Engineer \u2013 PostNL - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/conversational-ai-engineer-postnl/",
-      "snippet": "At least 3 years\u2019 experience in a similar role within an IT, tech, or innovation environment. You have experience with conversational AI platforms such as Cognigy or similar bot platforms.",
+      "snippet": "You will work within the IT department in the Conversational AI team, a dynamic agile team full of young and driven colleagues. Together, you are committed to developing innovative solutions that transform and improve PostNL\u2019s customer service.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-07T07:10:09.233290"
+      "date_found": "2026-10-07T12:35:20.050130"
     },
-    "score": 2,
-    "reason": "Conversational AI Engineer role focused on chatbot platforms (Cognigy). Requires 3+ years in similar role. This is about building/deploying conversational AI systems, not enabling dev teams to adopt AI tools. Location unknown but likely not Utrecht area.",
-    "embed_sim": 0.4291321337223053,
-    "ai_native_score": 0.6886684894561768
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42960378527641296,
+    "ai_native_score": 0.6935755014419556
   },
   {
     "job": {
       "id": "62444b0db904eb6770b417a5c5a7288c",
       "title": "Machine Learning Engineer - ING - Werken in AI",
       "company": "Werken in AI",
-      "location": "",
+      "location": "Amsterdam",
       "url": "https://werkeninai.nl/machine-learning-engineer-ing/",
-      "snippet": "Bachelor\u2019s degree or equivalent practical experience. Excellent communication skills, capable of working collaboratively in a semi-remote, globally distributed team.",
+      "snippet": "Vacature: ING in Amsterdam zoekt een Machine Learning Engineer voor 36 uur per week | Salaris: van \u20ac 4,240 tot \u20ac 6,882,- per maand",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-07T07:10:09.233302"
+      "date_found": "2026-10-07T12:34:43.587769"
     },
-    "score": 1,
-    "reason": "Machine Learning Engineer at ING. This is a pure ML role requiring deep technical ML expertise, not an AI adoption/enablement position. Fundamentally misaligned with candidate's goals.",
-    "embed_sim": 0.56227707862854,
-    "ai_native_score": 0.6799066066741943
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4444648027420044,
+    "ai_native_score": 0.5792394280433655
   },
   {
     "job": {
@@ -14562,18 +14562,18 @@
   {
     "job": {
       "id": "3a22521a35e96349dde96fd8485c42f2",
-      "title": "26 vacatures voor ai developer technology engineer in Nederland | Glassdoor",
-      "company": "Glassdoor",
+      "title": "18 vacatures voor ai developer technology engineer in ...",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-developer-technology-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,42.htm",
-      "snippet": "Zoek vacatures voor Ai developer technology engineer in Nederland met bedrijfsreviews en salarissen. 26 vacatures voor Ai developer technology engineer in Nederland.",
+      "snippet": "Zoek vacatures voor Ai developer technology engineer in Nederland met bedrijfsreviews en salarissen. 18 vacatures voor Ai developer technology engineer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-18T10:16:55.253025"
+      "date_found": "2026-10-07T12:35:34.597696"
     },
     "score": 0,
-    "reason": "Search results page, not a specific job listing. Cannot evaluate.",
-    "embed_sim": 0.4443565607070923,
-    "ai_native_score": 0.7314996719360352
+    "reason": "API error",
+    "embed_sim": 0.38623136281967163,
+    "ai_native_score": 0.7277149558067322
   },
   {
     "job": {
@@ -15730,18 +15730,18 @@
   {
     "job": {
       "id": "bc8eb718b3f8e385bbae788af5f9de7c",
-      "title": "ai model developer vacatures",
+      "title": "100+ vacatures voor Ai Model Developer en werk: 14 september ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-model-developer-vacatures.html",
       "snippet": "Experience in maintaining software packages and developing pipelines for AI models. Design and run experiments to benchmark model performance and reliability.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-22T11:47:24.230060"
+      "date_found": "2026-10-07T12:34:48.394573"
     },
-    "score": 1,
-    "reason": "AI Model Developer focused on pipelines and model performance benchmarking \u2014 pure ML/data science role. Requires deep ML expertise. Not a match.",
-    "embed_sim": 0.4269271492958069,
-    "ai_native_score": 0.5062847137451172
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2371952384710312,
+    "ai_native_score": 0.5130692720413208
   },
   {
     "job": {
@@ -23640,10 +23640,10 @@
       "url": "https://www.magnet.me/nl-NL/vacature/996627/business-developer-ai--data---digitalisatie",
       "snippet": "Het AI-innovatiecentrum van de TU Delft, Mondai House of AI, zoekt een gedreven Business Developer voor de AI-hub Zuid-Holland met focus op het MKB.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-23T08:25:19.076505"
+      "date_found": "2026-10-07T12:35:29.795839"
     },
-    "score": 1,
-    "reason": "Business Developer at TU Delft AI innovation center focused on MKB/SMB market development. Academic/innovation center context, likely requires network building with startups rather than hands-on AI tool adoption in enterprises. Location (Delft, ~70km) outside range.",
+    "score": 0,
+    "reason": "API error",
     "embed_sim": 0.33559155464172363,
     "ai_native_score": 0.6442347168922424
   },
@@ -24130,18 +24130,18 @@
   {
     "job": {
       "id": "84763502a5c37478a4fd43a33e040220",
-      "title": "Generatieve AI Specialist \u2013 Coolblue - Werken in AI",
+      "title": "Generatieve AI Specialist - Coolblue - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/generatieve-ai-specialist-coolblue/",
       "snippet": "Als Generatieve AI Specialist werk je aan chatbots voor klanten om een conversationele klantreis te cre\u00ebren. Je schrijft de prompt, test het prototype en evalueert op grote schaal de uitkomsten. Ook Prompt Engineer worden bij Coolblue? Lees dan snel verder! Als toekomstig prompt engineer schrijf jij je motivatiebrief natuurlijk met AI.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-25T08:02:58.900868"
+      "date_found": "2026-10-07T12:34:43.587796"
     },
-    "score": 1,
-    "reason": "Generatieve AI Specialist focused on building chatbots and prompt engineering for customer-facing products. This is about building AI applications, not enabling dev teams to adopt AI tools in their workflows.",
-    "embed_sim": 0.4285374581813812,
-    "ai_native_score": 0.7690792679786682
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42333877086639404,
+    "ai_native_score": 0.7605961561203003
   },
   {
     "job": {
@@ -26088,10 +26088,10 @@
       "url": "https://magnet.me/nl-NL/vacature/1064322/head-of-engineering---developer-experience---platform",
       "snippet": "Jul 31, 2026 \u00b7 The right candidate has strong hands-on experience with modern AI-driven software development and building developer-centric cloud platforms at scale. This is a senior but hands-on role within the Engineering organisation, reporting to the Director of Engineering.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-07T07:09:51.297644"
+      "date_found": "2026-10-07T12:35:29.795798"
     },
-    "score": 8,
-    "reason": "Head of Engineering - Developer Experience & Platform with explicit focus on 'modern AI-driven software development' and 'developer-centric' platforms. Senior level, hands-on technical role. Strong alignment with candidate's goal of championing AI adoption in engineering organizations. Location not specified but likely Netherlands-based. Only minor concern: title suggests executive reporting structure which may differ from candidate's preference for hands-on technical focus.",
+    "score": 0,
+    "reason": "API error",
     "embed_sim": 0.626777708530426,
     "ai_native_score": 0.6063820123672485
   },
@@ -34350,5 +34350,117 @@
     "reason": "API error",
     "embed_sim": 0.0991196557879448,
     "ai_native_score": 0.6075317859649658
+  },
+  {
+    "job": {
+      "id": "1616fef6f71ea0bd09dce401edb9f38c",
+      "title": "Fractional AI Marketing Lead, Consumer (16 hours) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/fractional-ai-marketing-lead-consumer-16-hours-at-signify-4476330496",
+      "snippet": "1 day ago \u00b7 Challenge existing ways of working and help teams move from simply experimenting with AI to embedding AI into everyday marketing processes. Build AI Capability Across Marketing",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-07T12:34:57.543494"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3294367790222168,
+    "ai_native_score": 0.5717347264289856
+  },
+  {
+    "job": {
+      "id": "d4a47424acbfc0a8f94bf2291fc53a23",
+      "title": "AI Engineer bij A2Z-CM N.V. - Utrecht, Nederland - LinkedIn",
+      "company": "A2Z-Cm N.V. - Utrecht, Nederland - Linkedin",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-a2z-cm-n-v-4474698232",
+      "snippet": "1 day ago \u00b7 You will work in a hybrid setup, ideally spending one day a week onsite in Utrecht, collaborating closely with teams to implement new conversational and AI concepts. On Mondays, our department works from the office. For the rest of the week, we coordinate among ourselves whether we work from home or the office. The Digital & Customer Interaction Tribe aims to deliver an excellent customer ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-07T12:34:57.543509"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4823337197303772,
+    "ai_native_score": 0.6700685024261475
+  },
+  {
+    "job": {
+      "id": "252288baad72905bd3385ff483a5e90b",
+      "title": "HR AI & Automation Operations Lead bij Jobgether ...",
+      "company": "Jobgether ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/hr-ai-automation-operations-lead-at-jobgether-4471002220",
+      "snippet": "Lead cross-functional change management, training, adoption, and continuous improvement for AI and automation solutions. Act as a technical lead for AI and automation within Operations, helping establish best practices and scalable ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-07T12:34:57.543537"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4299381375312805,
+    "ai_native_score": 0.6659359335899353
+  },
+  {
+    "job": {
+      "id": "7da9ff2087c07c32d71bd184c9c2d4f1",
+      "title": "admin, auteur op Werken in AI",
+      "company": "",
+      "location": "Hilversum",
+      "url": "https://werkeninai.nl/author/admin/",
+      "snippet": "Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week | Salaris: van tussen \u20ac3.450.- en \u20ac5.000,- per maand | Sluitingsdatum: 1 februari 2026.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-10-07T12:35:10.392068"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4189191162586212,
+    "ai_native_score": 0.632678747177124
+  },
+  {
+    "job": {
+      "id": "458ebdd02eb93f8363c6818d0a391810",
+      "title": "AI Engineer in Eindhoven bij OWOW | Magnet.me | #1089077 (nl)",
+      "company": "Owow",
+      "location": "Eindhoven",
+      "url": "https://magnet.me/nl-NL/vacature/1089077/ai-engineer",
+      "snippet": "3+ years of software engineering experience, with strong experience in our tech stack and hands-on experience building AI-powered products. Based in the Netherlands, available for hybrid work from Eindhoven.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-07T12:35:43.242236"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.420794814825058,
+    "ai_native_score": 0.651894748210907
+  },
+  {
+    "job": {
+      "id": "bec9379d35d2e8ff0e073d436fdd1bc8",
+      "title": "Engineering Lead AI in Amsterdam bij PwC | Magnet.me",
+      "company": "Pwc",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1088954/engineering-lead-ai",
+      "snippet": "6 days ago \u00b7 Als Engineering Lead AI bij PwC leid je de technische realisatie van GenAI-platformen, RAG-oplossingen en agentic AI-systemen voor onder meer banken, publieke organisaties en commerci\u00eble organisaties.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-07T12:35:43.242249"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.21659162640571594,
+    "ai_native_score": 0.6822428107261658
+  },
+  {
+    "job": {
+      "id": "6b0b3656f38aad81c1ff98631e9d1d35",
+      "title": "Junior AI consultant in Utrecht bij IG&H | Magnet.me",
+      "company": "Ig&H",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1082365/junior-ai-consultant",
+      "snippet": "Sep 13, 2026 \u00b7 Bij IG&H start je als Junior AI Consultant binnen ons Data & AI-team, onderdeel van onze consultancypraktijk. Dat betekent dat je niet alleen met technologie werkt, maar ook met klanten \u2014 van boardroom tot operations.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-07T12:35:43.242278"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3946591913700104,
+    "ai_native_score": 0.724033534526825
   }
 ]
