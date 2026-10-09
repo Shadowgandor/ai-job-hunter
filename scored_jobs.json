@@ -9478,14 +9478,14 @@
       "company": "Vacatures voor AI banen in Nederland",
       "location": "",
       "url": "https://werkeninai.nl/",
-      "snippet": "Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI.",
-      "source": "ddg:werkeninai",
-      "date_found": "2026-08-06T08:29:25.482079"
+      "snippet": "Mar 25, 2026 \u00b7 Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI. Blader door vacatures bij toonaangevende bedrijven, ontdek unieke carri\u00e8rekansen, en zet de volgende stap in je loopbaan.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-09T12:31:13.621189"
     },
     "score": 0,
-    "reason": "Job board listing, not a specific vacancy; no actual job posting",
-    "embed_sim": 0.2790135145187378,
-    "ai_native_score": 0.7950772643089294
+    "reason": "API error",
+    "embed_sim": 0.20747876167297363,
+    "ai_native_score": 0.7659363150596619
   },
   {
     "job": {
@@ -17314,18 +17314,18 @@
   {
     "job": {
       "id": "24e72cb5e21a5285f624e480ae3f1146",
-      "title": "100+ vacatures voor Artificial Intelligence Engineer en werk ...",
+      "title": "75+ vacatures voor Artificial Intelligence Engineer en werk ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-artificial-intelligence-engineer-vacatures.html?vjk=2d082e6fdb1afc73",
-      "snippet": "Alle vacatures voor Accenture - Stuttgart vacatures - vacatures voor Cloud Engineer (m/w/d) in Stuttgart bekijken Zoeken op salaris: Google Cloud AI Engineer (all genders) salarissen in Stuttgart Zie veelgestelde vragen en antwoorden over Accenture",
+      "snippet": "Artificial Intelligence Engineer vacatures. Ai Engineer, Data Scientist, Machine Learning Engineer en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-06-27T08:33:06.712771"
+      "date_found": "2026-10-09T12:31:46.126393"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page with mixed results (Stuttgart, Accenture). No specific job listing to evaluate.",
-    "embed_sim": 0.26065555214881897,
-    "ai_native_score": 0.5427060723304749
+    "reason": "API error",
+    "embed_sim": 0.38495567440986633,
+    "ai_native_score": 0.7077444791793823
   },
   {
     "job": {
@@ -34462,5 +34462,53 @@
     "reason": "API error",
     "embed_sim": 0.3946591913700104,
     "ai_native_score": 0.724033534526825
+  },
+  {
+    "job": {
+      "id": "f7cb332311ffa2eb5cabf6382997b932",
+      "title": "Stage - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/tag/stage/feed/",
+      "snippet": "Vacature: IBM in Amsterdam zoekt een AI Engineer (Master\u2019s Internship)| Parttime of Fulltime stage| Sluitingsdatum: onbekend. Introduction At IBM the possibilities are endless.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-10-09T12:31:23.010133"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42426031827926636,
+    "ai_native_score": 0.6612294912338257
+  },
+  {
+    "job": {
+      "id": "c3e896abfd1296938546c518cdc0af5e",
+      "title": "Appian Developer \u2013 Experienced in Utrecht bij Valcon | Magnet ...",
+      "company": "Valcon",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091608/appian-developer--experienced",
+      "snippet": "Experienced? For more experienced developers (2+ years of experience), you will combine the roles of low-code developer and consultant. You will use your technical expertise, platform knowledge, AI knowledge and development experience to lead a DevOps team and deliver high-quality Appian solutions.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-09T12:31:50.376806"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4486125111579895,
+    "ai_native_score": 0.5245774388313293
+  },
+  {
+    "job": {
+      "id": "cb148860b9552c19ba872a3c1c053ea6",
+      "title": "ServiceNow AI Developer in Eindhoven bij BDO Nederland ...",
+      "company": "Bdo Nederland ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1089828/servicenow-ai-developer",
+      "snippet": "5 days ago \u00b7 Daarom zoeken wij een ervaren ServiceNow AI Developer die niet alleen ontwikkelt, maar ook richting geeft aan de verdere groei van het platform. Iemand die ons pad voor inzet van AI versnelt en daarmee een belangrijk bijdrage levert aan verhoogde efficiency en betere gebruikersvriendelijkheid voor onze interne medewerkers.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-09T12:31:50.376895"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22748762369155884,
+    "ai_native_score": 0.6060360670089722
   }
 ]
