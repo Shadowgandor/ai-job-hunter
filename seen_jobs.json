@@ -1,52 +1,4 @@
 {
-  "f18b65fe4c08984eab9e1ac13d1bfe02": {
-    "title": "Werken bij Visa Inc. | Glassdoor",
-    "company": "Visa Inc.",
-    "url": "https://www.glassdoor.nl/Overzicht/Werken-bij-Visa-Inc-EI_IE3035.11,19.htm",
-    "date": "2026-08-11T07:00:41.736541"
-  },
-  "e37cda559f259243bad34a121290f3b1": {
-    "title": "13 vacatures in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/search/?f_C=479080,1650523,31022,2440715,14288,3197287",
-    "date": "2026-08-11T07:01:14.830202"
-  },
-  "856f63d0edd6dd5c339f4efcb40ba696": {
-    "title": "84 vacatures voor Rabobank in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/rabobank-jobs/?f_C=1970,1134566,163394,93365620,16196998,30240496",
-    "date": "2026-08-11T07:01:14.830218"
-  },
-  "637ef4a09ff7c882df644cdc4b53ea05": {
-    "title": "21 vacatures voor Coty in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/coty-jobs/?f_C=5058",
-    "date": "2026-08-11T07:01:14.830226"
-  },
-  "a317a9b68bbc0a0955cc12ff20056601": {
-    "title": "Meer dan 1.000 vacatures voor Gri in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/gri-jobs?f_AL=true",
-    "date": "2026-08-11T07:01:14.830233"
-  },
-  "61e23f25e16f0e2e6b1e7a830b139505": {
-    "title": "Meer dan 1.000 vacatures voor Gri in Nederland",
-    "company": "",
-    "url": "https://nl.linkedin.com/jobs/gri-jobs?f_EA=true",
-    "date": "2026-08-11T07:01:18.888882"
-  },
-  "103babd5da173781b81839750d01efb8": {
-    "title": "Vacature voor een functie als Forward Deployed Engineer - Public Sector, Nonprofit & Education bij Salesforce in Amsterdam | Glassdoor",
-    "company": "Salesforce In Amsterdam",
-    "url": "https://www.glassdoor.nl/job-listing/forward-deployed-engineer-public-sector-nonprofit-education-salesforce-JV_IC3064478_KO0,59_KE60,70.htm?jl=1010216536157",
-    "date": "2026-08-11T07:01:32.719899"
-  },
-  "0513c8073e8ab728f51e6cb4be621181": {
-    "title": "30 vacature(s) voor Ai chatbot developer in Nederland | Glassdoor",
-    "company": "Glassdoor",
-    "url": "https://www.glassdoor.nl/Vacature/ai-chatbot-developer-vacatures-SRCH_KO0,20.htm",
-    "date": "2026-08-11T07:01:46.053975"
-  },
   "445af204f35ecc39c7603c7564f6bd98": {
     "title": "Gen AI Stategy and Lead (native french) - LinkedIn",
     "company": "",
@@ -4174,5 +4126,47 @@
     "company": "Bdo Nederland ...",
     "url": "https://magnet.me/nl-NL/vacature/1089828/servicenow-ai-developer",
     "date": "2026-10-09T12:31:50.376895"
+  },
+  "262efd0a0444952abb11382487e7291e": {
+    "title": "Technical Specialist AI - Loyens & Loeff - Werken in AI",
+    "company": "Werken in AI",
+    "url": "https://werkeninai.nl/technical-specialist-ai-loyens-loeff/",
+    "date": "2026-10-10T11:50:27.019248"
+  },
+  "cc35e25b9303ccc2c3976e550a8b2508": {
+    "title": "Chapter Lead Conversational AI Engineering - ABN AMRO",
+    "company": "ABN AMRO",
+    "url": "https://werkeninai.nl/chapter-lead-conversational-ai-engineering-abn-amro/",
+    "date": "2026-10-10T11:50:27.019279"
+  },
+  "91bbdb6b04c7db822aa91e5ff118061d": {
+    "title": "800+ vacatures voor Artificial Intelligence en werk: 8 ...",
+    "company": "",
+    "url": "https://nl.indeed.com/Artificial-Intelligence-vacatures",
+    "date": "2026-10-10T11:50:48.356841"
+  },
+  "6bb5ab11b5fce6a5894bc34185bef557": {
+    "title": "Vacature: AI DevOps engineer, Belastingdienst - Werken voor ...",
+    "company": "Werken voor ...",
+    "url": "https://www.werkenvoornederland.nl/vacatures/ai-devops-engineer-BD-2026-8844",
+    "date": "2026-10-10T11:50:48.357051"
+  },
+  "96d5598a83d59f4741592fbc8c1b2b60": {
+    "title": "AI Engineer bij Aceve - Rotterdam and The Hague - LinkedIn",
+    "company": "Aceve - Rotterdam And The Hague - Linkedin",
+    "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-aceve-4465061073",
+    "date": "2026-10-10T11:51:07.026821"
+  },
+  "02176922ae7611d85fc15ce31babb80c": {
+    "title": "Senior AI Engineer - AI-native SDLC Platform - LinkedIn",
+    "company": "",
+    "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-ai-native-sdlc-platform-at-shine-4459200776?position=34&pageNum=0",
+    "date": "2026-10-10T11:51:07.026835"
+  },
+  "6ed736fee015b7bfbc25dbabe612d144": {
+    "title": "AI Solutions Engineer bij Fini - Amsterdam | LinkedIn Vacatures",
+    "company": "Fini - Amsterdam",
+    "url": "https://nl.linkedin.com/jobs/view/ai-solutions-engineer-at-fini-4422959792",
+    "date": "2026-10-10T11:51:59.338231"
   }
 }

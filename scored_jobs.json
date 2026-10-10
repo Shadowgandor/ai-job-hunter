@@ -9554,18 +9554,18 @@
   {
     "job": {
       "id": "cc35e25b9303ccc2c3976e550a8b2508",
-      "title": "Chapter Lead Conversational AI Engineering - ABN AMRO - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Chapter Lead Conversational AI Engineering - ABN AMRO",
+      "company": "ABN AMRO",
       "location": "",
       "url": "https://werkeninai.nl/chapter-lead-conversational-ai-engineering-abn-amro/",
-      "snippet": "October 8, 2024 - This department is responsible for all digital client interaction tooling, like Video Banking, Contact Center solutions, Conversational AI and Webcare tooling and the digitalization of processes, like Generic Customer Onboarding, Manage Customer ...",
+      "snippet": "You have a broad technical Data Engineering knowledge; You have experience with technologies like AI Services of Azure (Conversational Language Understanding, AI Search, OpenAI, etc.) Databricks and Microsoft Copilot Studio; Good programming skills in Python and Pyspark; You have working experience in the DevOps and Scrum way of working.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-10T07:25:07.019766"
+      "date_found": "2026-10-10T11:50:27.019279"
     },
-    "score": 3,
-    "reason": "Chapter Lead Conversational AI Engineering at ABN AMRO. Leadership role in AI but focused on building conversational AI products/solutions, not enabling dev teams to adopt AI tools. Date October 2024 suggests potentially expired listing.",
-    "embed_sim": 0.419961541891098,
-    "ai_native_score": 0.7240749597549438
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5837950110435486,
+    "ai_native_score": 0.6930047273635864
   },
   {
     "job": {
@@ -9826,18 +9826,18 @@
   {
     "job": {
       "id": "91bbdb6b04c7db822aa91e5ff118061d",
-      "title": "300+ vacatures voor Artificial Intelligence en werk: 22 juli 2026| Indeed",
+      "title": "800+ vacatures voor Artificial Intelligence en werk: 8 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Artificial-Intelligence-vacatures",
-      "snippet": "September 6, 2022 - Artificial Intelligence vacatures. Senior Process Engineer, Senior Business Analist, Officier en meer op Indeed.com",
-      "source": "ddg:indeed",
-      "date_found": "2026-08-09T06:50:14.702382"
+      "snippet": "Artificial Intelligence vacatures. Stagiair, Ai Engineer, Internal Auditor en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-10T11:50:48.356841"
     },
     "score": 0,
-    "reason": "Generic job search aggregator page with expired date (September 6, 2022). Not a specific job listing.",
-    "embed_sim": 0.30746737122535706,
-    "ai_native_score": 0.5464553236961365
+    "reason": "API error",
+    "embed_sim": 0.3227514624595642,
+    "ai_native_score": 0.7219967842102051
   },
   {
     "job": {
@@ -11558,14 +11558,14 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/technical-specialist-ai-loyens-loeff/",
-      "snippet": "understanding how data can be used to implement solutions that can bring efficiency to the legal practice; embedding new technologies, such as Azure AI Search...",
+      "snippet": "Your responsibilities as a technical specialist AI: working in a multidisciplinary IT team and collaborating with the business, you are going to combine standard product groups into solutions by developing: API`s, Connectors, Databases, Applications, Azure Components, programming custom interfaces, etc.;",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-10T07:25:35.173179"
+      "date_found": "2026-10-10T11:50:27.019248"
     },
-    "score": 4,
-    "reason": "Technical Specialist AI at legal firm mentions embedding AI technologies (Azure AI Search), but context suggests implementing AI solutions for legal practice rather than enabling development teams to adopt AI tools. Location unknown, likely not near Utrecht.",
-    "embed_sim": 0.45380520820617676,
-    "ai_native_score": 0.5761626362800598
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.6644462943077087,
+    "ai_native_score": 0.5973145961761475
   },
   {
     "job": {
@@ -34510,5 +34510,69 @@
     "reason": "API error",
     "embed_sim": 0.22748762369155884,
     "ai_native_score": 0.6060360670089722
+  },
+  {
+    "job": {
+      "id": "6bb5ab11b5fce6a5894bc34185bef557",
+      "title": "Vacature: AI DevOps engineer, Belastingdienst - Werken voor ...",
+      "company": "Werken voor ...",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-devops-engineer-BD-2026-8844",
+      "snippet": "Voor een nieuw en ambitieus team zoeken wij een AI DevOps Engineer die generatieve AI-oplossingen succesvol naar productie brengt. Je werkt aan toepassingen die direct impact maken binnen de hele Belastingdienst, zoals slimme zoekfunctionaliteiten, geavanceerde documentverwerking en AI-ondersteuning bij het opstellen van teksten.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-10T11:50:48.357051"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.37847256660461426,
+    "ai_native_score": 0.6507495045661926
+  },
+  {
+    "job": {
+      "id": "96d5598a83d59f4741592fbc8c1b2b60",
+      "title": "AI Engineer bij Aceve - Rotterdam and The Hague - LinkedIn",
+      "company": "Aceve - Rotterdam And The Hague - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-aceve-4465061073",
+      "snippet": "We're an AI-first company, and we work with grit, openness, and a good dose of joy. About The Role As an AI Engineer at Aceve, you will design, build, and deploy the internal AI solutions that power our digital transformation across the group\u2019s portfolio companies.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-10T11:51:07.026821"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5437420606613159,
+    "ai_native_score": 0.681094765663147
+  },
+  {
+    "job": {
+      "id": "02176922ae7611d85fc15ce31babb80c",
+      "title": "Senior AI Engineer - AI-native SDLC Platform - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-ai-native-sdlc-platform-at-shine-4459200776?position=34&pageNum=0",
+      "snippet": "The Engineering Enablement Team at Shine Shine is moving all of Product & Tech toward AI-native engineering. The Enablement team builds the platform, workflows, and standards that make this vision real\u2014placing tools directly into the hands of engineers.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-10T11:51:07.026835"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5516851544380188,
+    "ai_native_score": 0.6992257833480835
+  },
+  {
+    "job": {
+      "id": "6ed736fee015b7bfbc25dbabe612d144",
+      "title": "AI Solutions Engineer bij Fini - Amsterdam | LinkedIn Vacatures",
+      "company": "Fini - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-engineer-at-fini-4422959792",
+      "snippet": "That's the work. We're looking for an AI Solutions Engineer who is rigorous, curious, and obsessed with getting AI behavior right. The role sits at the intersection of AI reasoning, customer solutions, and real-world performance.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-10T11:51:59.338231"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5132846832275391,
+    "ai_native_score": 0.6713776588439941
   }
 ]
