@@ -9010,18 +9010,18 @@
   {
     "job": {
       "id": "fb9cbc4befc1c7b661c4caaef2100049",
-      "title": "Meer dan 2.000 vacatures voor Adoption Specialist in Nederland",
+      "title": "Vacatures voor Adoption Specialist in Nederland (1,000 ...",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/adoption-specialist-jobs",
-      "snippet": "Meer dan 2.000 topvacatures voor Adoption Specialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Adoption Specialist toegevoegd.",
+      "snippet": "1,000+ topvacatures voor Adoption Specialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Adoption Specialist toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-05T08:30:19.187948"
+      "date_found": "2026-10-13T13:27:56.113581"
     },
     "score": 0,
-    "reason": "Generic search results page for Adoption Specialist roles. No specific job posting details or content to evaluate.",
-    "embed_sim": 0.20812970399856567,
-    "ai_native_score": 0.6935690641403198
+    "reason": "API error",
+    "embed_sim": 0.14001896977424622,
+    "ai_native_score": 0.6480790376663208
   },
   {
     "job": {
@@ -34574,5 +34574,149 @@
     "reason": "API error",
     "embed_sim": 0.5132846832275391,
     "ai_native_score": 0.6713776588439941
+  },
+  {
+    "job": {
+      "id": "c828a5d93cf09d96af691dc7d54ab924",
+      "title": "L - founders of loyalty zoekt een Salesforce AI Developer ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/salesforce-ai-developer-founder-at-l-founders-of-loyalty-4472511890",
+      "snippet": "Oct 1, 2026 \u00b7 What you bring Required 5+ years of relevant Salesforce development experience. Strong hands-on experience with Apex development. Experience reviewing code, improving architecture, and driving technical best practices. Demonstrated experience with AI-assisted development or vibe coding methodologies. Knowledge of Salesforce data models and SOQL.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:27:46.489096"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4061196446418762,
+    "ai_native_score": 0.4701331853866577
+  },
+  {
+    "job": {
+      "id": "86a200444b977e794e882ee486a9a8c0",
+      "title": "Back End Developer (AI Infrastructure) - LinkedIn",
+      "company": "",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/view/back-end-developer-ai-infrastructure-at-alignerr-4475520455",
+      "snippet": "We're looking for Back End Developers in Rotterdam to design, build, and optimize the server-side systems and APIs that drive cutting-edge AI products \u2014 from data pipelines and model-serving infrastructure to scalable microservices that handle real-world traffic at scale.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:27:46.489146"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.447615385055542,
+    "ai_native_score": 0.38582080602645874
+  },
+  {
+    "job": {
+      "id": "5c07019433c395dc5c2cc751e6606815",
+      "title": "Wiraa zoekt een AI Engineer in Noord-Holland, Nederland ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-wiraa-4478053231",
+      "snippet": "As part of the Developer Experience group within the Customer Experience solution, you will play a strategic role in enhancing the overall developer and customer journey by providing reliable and contextual knowledge delivery powered by advanced AI interfaces.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:27:46.489160"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3145297169685364,
+    "ai_native_score": 0.6242457628250122
+  },
+  {
+    "job": {
+      "id": "d461b340f4d3167ad0275ba09ebab74f",
+      "title": "Business Product Analyst - Aviation bij CGI Nederland ...",
+      "company": "Cgi Nederland ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/business-product-analyst-aviation-at-cgi-nederland-4421217785",
+      "snippet": "You will have the opportunity to further develop yourself in modern analysis methodologies, data-driven ways of working and AI-supported optimization of business processes.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:28:10.116585"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32490599155426025,
+    "ai_native_score": 0.44136592745780945
+  },
+  {
+    "job": {
+      "id": "3c9bb0317f2ac295ab78a4c18a45d80a",
+      "title": "Senior Business Controller bij Plat4mation - Utrecht ...",
+      "company": "Plat4Mation - Utrecht ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-business-controller-at-plat4mation-4451667178",
+      "snippet": "Affinity with AI and data-driven ways of working is essential Experience with Power BI, NetSuite and/or ServiceNow is a plus Fluent in English (Dutch is preferred but not required) We\u2019re looking for: A builder: able to set up structure, processes and team from the ground up Senior enough to challenge the business, pragmatic enough to execute",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:28:10.116606"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.41911768913269043,
+    "ai_native_score": 0.5019928812980652
+  },
+  {
+    "job": {
+      "id": "41bb26269d6b2d02614621a335e98ca6",
+      "title": "AI Software Engineer bij PostNL - Rotterdam and The Hague ...",
+      "company": "Postnl - Rotterdam And The Hague ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-software-engineer-at-postnl-4474488301",
+      "snippet": "At the same time, you are curious about what is happening in AI and enjoy experimenting with new technologies and ways of working. When you identify an opportunity for improvement, you proactively champion new ideas and help others understand their value.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-13T13:28:10.116621"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.325486958026886,
+    "ai_native_score": 0.6582840085029602
+  },
+  {
+    "job": {
+      "id": "44f6e2f9bdc95c2e2c6ccd9fcaafb64d",
+      "title": "168 vacatures voor agentic ai developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-agentic-ai-developer-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
+      "snippet": "Hands-on experience with AI-powered development, agentic workflows or AI agents, combined with a strong interest in applying AI to software engineering.\u2026",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-13T13:28:19.643338"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4756118953227997,
+    "ai_native_score": 0.7640914916992188
+  },
+  {
+    "job": {
+      "id": "6e25dfe4c350658ed6ba478c66286036",
+      "title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
+      "company": "jij bouwt de AI in onze toepassingen",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1089787/ai-engineer---jij-bouwt-de-ai-in-onze-toepassingen---5-vacatures",
+      "snippet": "Oct 4, 2026 \u00b7 Wat een AI Engineer bij ons is Jouw expertise zit in de AI \u00edn de toepassing. Je kiest en combineert bestaande modellen en bouwt de retrieval, context, tool use en controles eromheen. Je begrijpt hoe die keuzes doorwerken in kwaliteit, snelheid, betrouwbaarheid en kosten. Je ontwikkelt vooral met bestaande taal- en beeldmodellen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-13T13:28:29.628197"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.36406204104423523,
+    "ai_native_score": 0.711591362953186
+  },
+  {
+    "job": {
+      "id": "491394776c2133c517fb6ab68cf8c236",
+      "title": "Senior AI Engineer in Heerlen bij Sogeti | Magnet.me",
+      "company": "Sogeti",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1083172/senior-ai-engineer",
+      "snippet": "Sep 15, 2026 \u00b7 Word de beste versie van jezelf als Senior AI Engineer Als Senior AI Engineer bij Sogeti geef je richting aan AI-oplossingen die dagelijks worden gebruikt. Je werkt op het snijvlak van data, AI en software engineering en ontwikkelt betrouwbare, scha\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-13T13:28:29.628215"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3849214017391205,
+    "ai_native_score": 0.6780415773391724
   }
 ]
