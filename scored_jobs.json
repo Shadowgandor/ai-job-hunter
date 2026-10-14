@@ -10466,18 +10466,18 @@
   {
     "job": {
       "id": "46d16323a54d56a8439a586cb2e1ae3c",
-      "title": "216 vacature (s) voor Adoption specialist in Nederland",
+      "title": "255 vacature (s) voor Adoption specialist in Nederland",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-specialist-vacatures-SRCH_IL.0,9_KO10,29.htm",
-      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 216 vacatures voor Adoption specialist in Nederland.",
+      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 255 vacatures voor Adoption specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:20:30.749316"
+      "date_found": "2026-10-14T11:06:06.723896"
     },
     "score": 0,
-    "reason": "Generic search results page, not an actual job listing. No specific role, company, or location information.",
-    "embed_sim": 0.18550372123718262,
-    "ai_native_score": 0.6095890998840332
+    "reason": "API error",
+    "embed_sim": 0.1837490350008011,
+    "ai_native_score": 0.6060371398925781
   },
   {
     "job": {
@@ -11908,16 +11908,16 @@
       "id": "87944e76b4896bd4d7c7411a316bd8ee",
       "title": "Alle fulltime vacatures in AI - Werken in AI",
       "company": "Werken in AI",
-      "location": "Hilversum",
+      "location": "Amsterdam",
       "url": "https://werkeninai.nl/category/fulltime/",
-      "snippet": "AI Integration & Automation Engineer - EO Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week | Salaris: van tussen \u20ac3.450.- en \u20ac5.000,- per maand | Sluitingsdatum: 1 februari 2026.",
+      "snippet": "Vacature: Het Amsterdam UMC in Amsterdam zoekt een Coordinator of AI Initiatives, Amsterdam Center for AI and Health voor 28 tot 36 uur per week | Salaris: tussen \u20ac 3.598 - \u20ac 5.669 per maand, op basis van fulltime | Sluitingsdatum: 18 februari 2026.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-13T07:22:37.587726"
+      "date_found": "2026-10-14T11:05:18.987384"
     },
-    "score": 7,
-    "reason": "AI Integration & Automation Engineer at EO (Hilversum) \u2014 strong alignment. Role focuses on AI integration and automation in workflows rather than building ML models. Hilversum is within 40km of Utrecht. Salary range reasonable for senior role. Likely involves helping organization adopt/integrate AI tools. Missing detail on whether it requires ML expertise, hence not 8-9.",
-    "embed_sim": 0.42620164155960083,
-    "ai_native_score": 0.6314719915390015
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3398241698741913,
+    "ai_native_score": 0.6675664782524109
   },
   {
     "job": {
@@ -12226,18 +12226,18 @@
   {
     "job": {
       "id": "ef4d98446ac98be2220418a059f0b69d",
-      "title": "1.000 vacatures voor Tooling Engineer in Nederland (99 nieuw)",
+      "title": "576 vacatures voor Tooling Engineer in Nederland - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/tooling-engineer-jobs",
-      "snippet": "Populairste 1.000 vacatures voor Tooling Engineer in Nederland. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures in Tooling Engineer.",
+      "snippet": "576 topvacatures voor Tooling Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Tooling Engineer toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-12T07:20:37.786947"
+      "date_found": "2026-10-14T11:06:48.083298"
     },
     "score": 0,
-    "reason": "Generic search results page aggregating Tooling Engineer roles. Not a specific job listing. Most tooling engineer roles are hardware/manufacturing-focused, not AI adoption.",
-    "embed_sim": 0.254712849855423,
-    "ai_native_score": 0.6522160172462463
+    "reason": "API error",
+    "embed_sim": 0.25288987159729004,
+    "ai_native_score": 0.6803287267684937
   },
   {
     "job": {
@@ -25906,18 +25906,18 @@
   {
     "job": {
       "id": "a15ae3756897d49b05c4d32fcdb797ac",
-      "title": "Pilex AI zoekt een AI Engineer in Volendam | LinkedIn",
-      "company": "LinkedIn",
+      "title": "AI Engineer bij Pilex AI - Volendam | LinkedIn Vacatures",
+      "company": "Pilex Ai - Volendam",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-pilex-ai-4447987900",
-      "snippet": "3 days ago \u00b7 Je bouwt AI-workflows en automatiseringen met tools als n8n, Python en Node.js Je ontwikkelt RAG-pipelines met vector databases en taalmodellen (Ollama, OpenAI, Anthropic) Je integreert AI-oplossingen in bestaande klantomgevingen (CRM, ERP, klantenservice) Je werkt samen met consultants om klantvragen te vertalen naar technische oplossingen Je draagt bij aan interne tooling en herbruikbare ...",
+      "snippet": "Aug 3, 2026 \u00b7 Je integreert AI-oplossingen in bestaande klantomgevingen (CRM, ERP, klantenservice) Je werkt samen met consultants om klantvragen te vertalen naar technische oplossingen Je draagt bij aan interne tooling en herbruikbare templates Wat we zoeken Ervaring met Python en/of Node.js Kennis van LLM's, prompt engineering en RAG-architecturen",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-06T08:30:09.091120"
+      "date_found": "2026-10-14T11:06:48.083330"
     },
-    "score": 2,
-    "reason": "AI Engineer at Pilex AI in Volendam \u2014 role focuses on building AI workflows, RAG pipelines, and custom integrations using Python/n8n. More about building AI solutions than enabling teams to adopt tools. Volendam is far from Utrecht (50+ km).",
-    "embed_sim": 0.3985148072242737,
-    "ai_native_score": 0.6439924240112305
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.37769997119903564,
+    "ai_native_score": 0.6422737836837769
   },
   {
     "job": {
@@ -25970,18 +25970,18 @@
   {
     "job": {
       "id": "d18dc3be1a133063564ba975fb37e95b",
-      "title": "Xomnia zoekt een Portfolio Lead \u2014 Data, AI & Digital ...",
+      "title": "Portfolio Lead \u2014 Data, AI & Digital Transformation - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/view/portfolio-lead-\u2014-data-ai-digital-transformation-at-xomnia-4413317647",
       "snippet": "May 19, 2026 \u00b7 Affinity with modern delivery methodologies, AI-enabled ways of working, and organisational transformation. Fluent in both Dutch and English. What\u2019s in it for you? We invest in our people and offer a package that supports your professional development, well-being, and work-life balance.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-06T08:30:13.068137"
+      "date_found": "2026-10-14T11:06:20.551165"
     },
-    "score": 3,
-    "reason": "Weak match \u2014 Portfolio Lead role focuses on organizational transformation and delivery methodologies with AI enablement, but emphasizes 'Data, AI & Digital' broadly and likely requires strategic/leadership skills beyond technical AI adoption. Could be too senior/strategic and might involve data science oversight which candidate wants to avoid.",
-    "embed_sim": 0.2804163098335266,
-    "ai_native_score": 0.5993627309799194
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.34294626116752625,
+    "ai_native_score": 0.6018518209457397
   },
   {
     "job": {
@@ -26946,18 +26946,18 @@
   {
     "job": {
       "id": "2aa6eef900a9a61485af2566f9187f32",
-      "title": "1.117 vacatures voor adoption in Nederland | Glassdoor",
+      "title": "1.139 vacatures voor adoption in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-vacatures-SRCH_IL.0,9_IN178_KO10,18.htm",
-      "snippet": "Zoek vacatures voor Adoption in Nederland met bedrijfsreviews en salarissen. 1.117 vacatures voor Adoption in Nederland.",
+      "snippet": "Zoek vacatures voor Adoption in Nederland met bedrijfsreviews en salarissen. 1.139 vacatures voor Adoption in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:20:30.749366"
+      "date_found": "2026-10-14T11:06:06.723920"
     },
     "score": 0,
-    "reason": "Generic search results aggregation page, not an actual job listing. No specific role details provided.",
-    "embed_sim": 0.047492869198322296,
-    "ai_native_score": 0.6011232137680054
+    "reason": "API error",
+    "embed_sim": 0.051366277039051056,
+    "ai_native_score": 0.5896175503730774
   },
   {
     "job": {
@@ -34718,5 +34718,53 @@
     "reason": "API error",
     "embed_sim": 0.3849214017391205,
     "ai_native_score": 0.6780415773391724
+  },
+  {
+    "job": {
+      "id": "dff861b282068ac581186638a5d919fc",
+      "title": "75+ vacatures voor Dutch Remote Work Ai en werk: 14 oktober ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-dutch-remote-work-ai-vacatures.html?vjk=37f9610146027831",
+      "snippet": "Dutch Remote Work Ai vacatures. Kostendeskundige, Ai Engineer, Finance Intern en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-14T11:05:47.890640"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2104339450597763,
+    "ai_native_score": 0.6930521726608276
+  },
+  {
+    "job": {
+      "id": "5e65e49207201bd025b4a735c64fe90f",
+      "title": "Head of Developer Experience (DevEx) in Amsterdam bij bloomon ...",
+      "company": "Bloomon ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1092240/head-of-developer-experience--devex-",
+      "snippet": "Platform Strategy: owning the DevEx roadmap and our internal developer platform as a product. AI-Native Transformation: leading on our DevEx AI roadmap and driving AI enablement across Product & Technology. Team Leadership: line-managing and growing the DevEx engineering team.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-14T11:05:52.521402"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5174930095672607,
+    "ai_native_score": 0.660029947757721
+  },
+  {
+    "job": {
+      "id": "6e3fd0f590541f24e0be782db0f54f8b",
+      "title": "AI Developer in Breda bij Fingerspitz | Magnet.me",
+      "company": "Fingerspitz",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091944/ai-developer",
+      "snippet": "4 days ago \u00b7 Vacature AI Developer Word de technische spil achter onze AI-innovaties en bouw de tools van morgen Ben jij een gepassioneerde developer die gefascineerd is door de eindeloze mogelijkheden van Artificial Intelligence? Bouw jij liever slimme automatiseringen en complexe AI-applicaties dan standaard websites?",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-14T11:05:52.521464"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45388302206993103,
+    "ai_native_score": 0.7936685085296631
   }
 ]
