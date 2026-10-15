@@ -2130,18 +2130,18 @@
   {
     "job": {
       "id": "84b5b5439ff167ce5862d10fe924494a",
-      "title": "187 developer vacatures in de provincie Utrecht | 4 mei 2026 ...",
-      "company": "4 mei 2026 ...",
+      "title": "153 developer vacatures in de provincie Utrecht | 14 oktober ...",
+      "company": "14 oktober ...",
       "location": "Utrecht",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/developer/in-provincie-utrecht",
       "snippet": "Aan de slag als Developer in de provincie Utrecht? Bekijk het uitgebreide aanbod Developer vacatures in de provincie Utrecht op Nationale Vacaturebank en ga de uitdaging aan!",
       "source": "ddg:web-nl",
-      "date_found": "2026-05-07T08:30:51.435200"
+      "date_found": "2026-10-15T10:47:38.545484"
     },
     "score": 0,
-    "reason": "Generic search results aggregator page showing developer vacancies in Utrecht province, not an actual job listing. No specific role or company details provided.",
-    "embed_sim": 0.13650429248809814,
-    "ai_native_score": 0.6305441856384277
+    "reason": "API error",
+    "embed_sim": 0.14777687191963196,
+    "ai_native_score": 0.6354798674583435
   },
   {
     "job": {
@@ -9090,18 +9090,18 @@
   {
     "job": {
       "id": "af9734b9d149c52e5601e2e7a05458b5",
-      "title": "Senior Machine Learning Engineer - Naturalis - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Senior Machine Learning Engineer - Naturalis - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/senior-machine-learning-engineer-naturalis/",
-      "snippet": "August 29, 2025 - A collaborative attitude, allowing you to adapt smoothly when working with colleagues, whether they are your team mates, project leaders or collection managers. You know how to explain complex information in an understandable way, can listen well and ask questions. You are also strong in planning and prioritizing, so that changes and releases are available in a timely manner. You analyze incidents quickly and you dare to make decisions to find solutions. ... Master-level in a r",
+      "snippet": "As senior machine learning engineer at Naturalis, you\u2019ll build and implement large-scale AI models and tools to understand biodiversity. Your work supports citizen science and helps track nature across the Netherlands.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-06T08:30:05.219738"
+      "date_found": "2026-10-15T10:49:00.281796"
     },
-    "score": 1,
-    "reason": "Senior Machine Learning Engineer at Naturalis \u2014 classic ML role requiring deep expertise in machine learning, research, and data science. Opposite of what candidate seeks. Not an AI adoption/enablement role.",
-    "embed_sim": 0.4930779039859772,
-    "ai_native_score": 0.6899458169937134
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5208098292350769,
+    "ai_native_score": 0.6313063502311707
   },
   {
     "job": {
@@ -9234,18 +9234,18 @@
   {
     "job": {
       "id": "3bc4e4956dbf0e12966cc03d2f24740c",
-      "title": "1.218 vacature(s) voor Ai engineer in Nederland | Glassdoor",
-      "company": "Glassdoor",
+      "title": "1.429 vacature(s) voor Ai engineer in Nederland - Glassdoor",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/ai-engineer-vacatures-SRCH_KO0,11.htm",
-      "snippet": "Zoek vacatures voor Ai engineer. Vind de juiste vacature voor Ai engineer met bedrijfsreviews en salarissen. 1.218 vacatures voor Ai engineer.",
+      "snippet": "Zoek vacatures voor Ai engineer. Vind de juiste vacature voor Ai engineer met bedrijfsreviews en salarissen. 1.429 vacatures voor Ai engineer.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-06T08:29:30.411227"
+      "date_found": "2026-10-15T10:48:14.147705"
     },
     "score": 0,
-    "reason": "Job search aggregator, not a specific vacancy; no actual job posting",
-    "embed_sim": 0.2570312023162842,
-    "ai_native_score": 0.6752287149429321
+    "reason": "API error",
+    "embed_sim": 0.25876325368881226,
+    "ai_native_score": 0.6810075044631958
   },
   {
     "job": {
@@ -10578,18 +10578,18 @@
   {
     "job": {
       "id": "8050341c804f3881aeba3eb6ddf587bc",
-      "title": "794 vacatures voor tooling engineer in Nederland | Glassdoor",
+      "title": "703 vacatures voor tooling engineer in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-tooling-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,26.htm",
-      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 794 vacatures voor Tooling engineer in Nederland.",
+      "snippet": "Zoek vacatures voor Tooling engineer in Nederland met bedrijfsreviews en salarissen. 703 vacatures voor Tooling engineer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:19:43.574439"
+      "date_found": "2026-10-15T10:48:14.147735"
     },
     "score": 0,
-    "reason": "This is a search results page on Glassdoor (generic aggregator listing), not a specific job posting. Cannot evaluate. Invalid submission.",
-    "embed_sim": 0.21709653735160828,
-    "ai_native_score": 0.6110573410987854
+    "reason": "API error",
+    "embed_sim": 0.2213943600654602,
+    "ai_native_score": 0.6088701486587524
   },
   {
     "job": {
@@ -27302,14 +27302,14 @@
       "company": "Pon",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1065962/ai-dev-ops-engineer",
-      "snippet": "Je definieert en verbetert standaarden, richtlijnen en best practices voor de Way of Working rondom AI, voor zowel het eigen team als de rest van de organisatie. Je implementeert en optimaliseert infrastructuur om deployment-processen en CI/CD te stroomlijnen.",
+      "snippet": "Aug 6, 2026 \u00b7 Je definieert en verbetert standaarden, richtlijnen en best practices voor de Way of Working rondom AI, voor zowel het eigen team als de rest van de organisatie. Je implementeert en optimaliseert infrastructuur om deployment-processen en CI/CD te stroomlijnen.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-15T06:31:15.670341"
+      "date_found": "2026-10-15T10:49:10.391174"
     },
-    "score": 7,
-    "reason": "Strong match: AI Dev/Ops Engineer defining standards, best practices, and Way of Working for AI adoption across teams. Leusden is ~20km from Utrecht, within range. Infrastructure/CI-CD focus aligns with enabling teams. Senior technical role fits profile.",
-    "embed_sim": 0.3753848075866699,
-    "ai_native_score": 0.7220984697341919
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.39756590127944946,
+    "ai_native_score": 0.7252987027168274
   },
   {
     "job": {
@@ -34766,5 +34766,213 @@
     "reason": "API error",
     "embed_sim": 0.45388302206993103,
     "ai_native_score": 0.7936685085296631
+  },
+  {
+    "job": {
+      "id": "5c4a588f1fbb4057131479297170bd8d",
+      "title": "AI Engineer Utrecht vacature - Werken bij Heeyoo",
+      "company": "Heeyoo",
+      "location": "Utrecht",
+      "url": "https://werkenbijheeyoo.nl/vacatures/ai-engineer/utrecht/",
+      "snippet": "AI Engineer Utrecht AI is niet meer weg te denken uit IT-projecten, maar \u00e9cht goede AI engineers wel. Bij Heeyoo bouw en test je AI-oplossingen die klanten daadwerkelijk verder helpen: van data tot model, van prototype tot productie. Jij zorgt niet alleen dat het werkt, maar ook dat het klopt.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-15T10:47:44.040538"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.1623731404542923,
+    "ai_native_score": 0.5737850069999695
+  },
+  {
+    "job": {
+      "id": "4d7295664723f579f68b64cc420c61c6",
+      "title": "400+ vacatures voor Ai Set Up en werk: 21 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-set-up-vacatures.html",
+      "snippet": "Ai Set Up vacatures. Product Analyst, Automation Engineer, Student Intern en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-15T10:48:36.889402"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.24091318249702454,
+    "ai_native_score": 0.5716446042060852
+  },
+  {
+    "job": {
+      "id": "b278ec1e9a1c65afb65ec25126c1e126",
+      "title": "ai vacatures in Werk Van Thuis",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-l-werk-van-thuis-vacatures.html?vjk=c1155b35cdd440bf",
+      "snippet": "Work on cutting-edge projects with top AI labs while earning up to $100+/hour, fully remote, with flexible weekly hours.",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-15T10:48:36.889432"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.36746761202812195,
+    "ai_native_score": 0.6601001024246216
+  },
+  {
+    "job": {
+      "id": "6459461663f0d52a278684e79071dc22",
+      "title": "A.I. engineer in Rotterdam bij EIFFEL | Magnet.me",
+      "company": "Eiffel",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1092888/a.i.-engineer",
+      "snippet": "3 days ago \u00b7 Dit is een vacature van EIFFEL voor een A.I. engineer. Als Medior AI Engineer werk je bij verschillende opdrachtgevers aan vraagstukken rondom AI, automatisering en data.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-15T10:48:40.897352"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.20410871505737305,
+    "ai_native_score": 0.6598087549209595
+  },
+  {
+    "job": {
+      "id": "9f674843573d40b10890ad32630a3b97",
+      "title": "25+ vacatures voor Ai Engineer Llm en werk in Utrecht ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-ai-engineer-llm-l-utrecht-(provincie)-vacatures.html?vjk=ae851660aa287c09",
+      "snippet": "Ai Engineer Llm vacatures in Utrecht (provincie). Ai Engineer, Data Scientist, Ai Developer en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-15T10:48:46.358774"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.24773086607456207,
+    "ai_native_score": 0.6448778510093689
+  },
+  {
+    "job": {
+      "id": "57d769214b733ccc4a23260bf55d9881",
+      "title": "Venquis zoekt een AI Engineer in Bussum | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-venquis-4475410473",
+      "snippet": "Oct 7, 2026 \u00b7 5+ years of professional software engineering experience, preferably in a startup, scale-up or fast-growing, product-led environment. Native in using AI-assisted development tools to accelerate coding, testing, debugging and documentation while maintaining high engineering standards.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-15T10:48:56.532092"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4633673131465912,
+    "ai_native_score": 0.6254104375839233
+  },
+  {
+    "job": {
+      "id": "2867a0aa2b23781c3f2d5fa828aa34e0",
+      "title": "AI Deployment Strategist, Science - EMEA - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-deployment-strategist-science-emea-at-mistral-4439504570",
+      "snippet": "Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-15T10:48:56.532107"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4467065930366516,
+    "ai_native_score": 0.49610990285873413
+  },
+  {
+    "job": {
+      "id": "a796749471e8b85cf8cf402e94e8ec63",
+      "title": "Vacatures voor Tecforce in Nederland (4,000+ beschikbare ...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/tecforce-jobs",
+      "snippet": "Team Lead (Founding Leader) \u2014 AI IDE & Agentic Developer Tooling / Developer Experience / IDE Platform European Tech Recruit Amsterdam 3 weken geleden",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-15T10:48:56.532126"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3328479826450348,
+    "ai_native_score": 0.7408545613288879
+  },
+  {
+    "job": {
+      "id": "155616197fad8ad751ccd2066dcae5f1",
+      "title": "Vacature voor een functie als AI Enablement Engineer bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-enablement-engineer-robin-radar-systems-JV_IC3049115_KO0,22_KE23,42.htm?jl=1010278173175",
+      "snippet": "You work side-by-side with Operations, Finance, Marketing, and Engineering teams \u2013 unblocking technical hurdles, building rapid prototypes, and showcasing plug-and-play setups. You report to the AI Transformation Lead, and you're a big part of why our whole organisation moves fast with AI.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-15T10:49:05.367222"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.408366858959198,
+    "ai_native_score": 0.7174075245857239
+  },
+  {
+    "job": {
+      "id": "408fde22510b5c099dcbf7d28b9fa83a",
+      "title": "AI Engineer - Cloud in Utrecht bij Rabobank | Magnet.me",
+      "company": "Rabobank",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1090434/ai-engineer---cloud",
+      "snippet": "You are an AI Engineer - Cloud with Cloud expertise (AWS preferred) and a strong product mindset. You combine technology and user needs to make AI-assisted software development valuable in practice.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-15T10:49:10.391210"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4640538990497589,
+    "ai_native_score": 0.4577699303627014
+  },
+  {
+    "job": {
+      "id": "b895d74dfd0dbc5206f3c495a813efac",
+      "title": "AI Engineer - Data in Utrecht bij Rabobank | Magnet.me",
+      "company": "Rabobank",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1090436/ai-engineer---data",
+      "snippet": "You are an AI Engineer with a Data background and strong product mindset. Starting with GitHub Copilot, you combine hands-on expertise, user needs, and data-driven insights to help engineering teams get more value from Coding Assistants, measure their impact, and safely scale adoption across Rabobank.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-15T10:49:10.391221"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4147210121154785,
+    "ai_native_score": 0.5989823341369629
+  },
+  {
+    "job": {
+      "id": "ae5e53463f8633d378bea104eacd2a45",
+      "title": "Build the future of work, create reusable AI skills for ...",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091277/build-the-future-of-work--create-reusable-ai-skills-for-vanderlande",
+      "snippet": "At Vanderlande, we are accelerating the way our global workforce operates by embedding AI initiatives into daily workflows. Today, many employees and citizen developers across teams are actively experimenting with Microsoft 365 Copilot, Power Platform, SharePoint agents, and Copilot Studio.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-15T10:49:10.391233"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3603082299232483,
+    "ai_native_score": 0.705288827419281
+  },
+  {
+    "job": {
+      "id": "84808cefbe7a0a5499916e87c579fc58",
+      "title": "Bunq - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/tag/bunq/feed/",
+      "snippet": "Vacature: Bunq in Amsterdam zoekt een Product Owner Finn AI| Salaris: \u20ac58,000 \u2013 \u20ac73,000 per jaar | Startdatum: onbekend Ready to Get Shit Done? At bunq, we\u2019re on a mission to revolutionize the world of banking and Make Life Easy for our users.",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-10-15T10:49:15.185499"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.15355050563812256,
+    "ai_native_score": 0.4434763193130493
   }
 ]
