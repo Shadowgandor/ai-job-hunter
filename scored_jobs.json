@@ -10610,18 +10610,18 @@
   {
     "job": {
       "id": "38f2fbe68a355e93d9063a035ba9ff40",
-      "title": "343 vacatures voor artificial intelligence in Nederland ...",
+      "title": "342 vacatures voor artificial intelligence in Nederland ...",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-vacatures-SRCH_IL.0,9_IN178_KO10,33.htm",
-      "snippet": "Zoek vacatures voor Artificial intelligence in Nederland met bedrijfsreviews en salarissen. 343 vacatures voor Artificial intelligence in Nederland.",
+      "snippet": "Je werkt vanaf dag \u00e9\u00e9n aan echte vraagstukken rondom Artificial Intelligence, data-analyse en digitalisering en ontdekt hoe je nieuwe technologie vertaalt naar toepassingen waar een organisatie daadwerkelijk iets aan heeft.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:19:03.738108"
+      "date_found": "2026-10-16T10:36:14.578711"
     },
     "score": 0,
-    "reason": "Generic job board search results page listing 343 vacancies. Not an actual job listing. Cannot score.",
-    "embed_sim": 0.19345107674598694,
-    "ai_native_score": 0.6336043477058411
+    "reason": "API error",
+    "embed_sim": 0.16204936802387238,
+    "ai_native_score": 0.6787852644920349
   },
   {
     "job": {
@@ -13298,18 +13298,18 @@
   {
     "job": {
       "id": "93174fdd8c531deceafd00280d36fa9d",
-      "title": "ai engineer vacatures in Utrecht (provincie)",
+      "title": "ai engineer vacatures in Utrecht (provincie) - Indeed",
       "company": "",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://nl.indeed.com/q-ai-engineer-l-utrecht-(provincie)-vacatures.html?vjk=2d082e6fdb1afc73",
-      "snippet": "AI Engineer Als AI Engineer land je thuis. Of noem je jezelf liever Machine Learning Engineer? Maakt niet uit \u2013 wat je titel ook is, hier voel je je gewoon goed. Letterlijk thuiswerken in je hoodie terwijl je transformer-modellen tunet aan de keukentafel? Kan gewoon. Maar vooral figuurlijk land je hier thuis: bij Datavibes word je onderdeel van een hechte community van AI - en data -experts ...",
+      "snippet": "Ai Engineer vacatures in Utrecht (provincie). Ai Engineer, Data Scientist, Senior Data Engineer en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-16T06:33:51.816628"
+      "date_found": "2026-10-16T10:36:00.334442"
     },
     "score": 0,
-    "reason": "Generic search results page, not an actual job listing. No company, location, or specific role details available.",
-    "embed_sim": 0.28657054901123047,
-    "ai_native_score": 0.6165072917938232
+    "reason": "API error",
+    "embed_sim": 0.40606915950775146,
+    "ai_native_score": 0.694527268409729
   },
   {
     "job": {
@@ -26838,14 +26838,14 @@
       "company": "THU 20 Mar",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/845742/c004124-digital-adoption-specialist---thu-20-mar",
-      "snippet": "Digital Adoption Specialist Duties and Role: Coordinates and collaborates with others on the promotion, acquisition, development, and implementation of information systems and services. Promotes the benefits that a common approach to technology deployment will bring to the business as a whole.",
+      "snippet": "Experience and ability to develop strategic plans for digital adoption. Demonstrated ability to quickly learn and adapt to new tools and technologies. Experience in roles requiring building, maintaining and strengthening customer relationships, communications and follow-up.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-12T07:19:18.970861"
+      "date_found": "2026-10-16T10:37:06.542357"
     },
-    "score": 2,
-    "reason": "Generic Digital Adoption Specialist for information systems. No AI focus. Outdated listing (dated Mar 20, unclear year). Not developer-centric.",
-    "embed_sim": 0.33934834599494934,
-    "ai_native_score": 0.6830325126647949
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27317261695861816,
+    "ai_native_score": 0.6623484492301941
   },
   {
     "job": {
@@ -27442,18 +27442,18 @@
   {
     "job": {
       "id": "d9518c9e8fc6440760f54dcc27019091",
-      "title": "100+ vacatures voor Digital Adoption Specialist en werk: 14 ...",
+      "title": "100+ vacatures voor Digital Adoption Specialist en werk: 28 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-digital-adoption-specialist-vacatures.html?vjk=0c622f9c2f2af69e",
-      "snippet": "Build and activate communities around digital adoption topics, with a strong current focus on Copilot, peer learning, and practical value cases.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-08-15T06:32:02.384336"
+      "snippet": "Digital Adoption Specialist vacatures. Customer Success Manager, Process Technician, Partnership Manager en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-16T10:36:39.966566"
     },
     "score": 0,
-    "reason": "This is a search results page listing 100+ jobs, not an actual job posting. Cannot evaluate. Also appears to be an Indeed search results page rather than a specific vacancy.",
-    "embed_sim": 0.1427077353000641,
-    "ai_native_score": 0.6597088575363159
+    "reason": "API error",
+    "embed_sim": 0.16267183423042297,
+    "ai_native_score": 0.6349877715110779
   },
   {
     "job": {
@@ -34974,5 +34974,85 @@
     "reason": "API error",
     "embed_sim": 0.15355050563812256,
     "ai_native_score": 0.4434763193130493
+  },
+  {
+    "job": {
+      "id": "e2a57eb39a9bae45e230aabc98120b15",
+      "title": "295 vacatures voor artificial intelligence in Nederland ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/artificial-intelligence-vacatures-SRCH_IN178_KO0,23.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence. Vind de juiste vacature voor Artificial intelligence met bedrijfsreviews en salarissen. 295 vacatures voor Artificial intelligence.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-16T10:36:14.578693"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.20561105012893677,
+    "ai_native_score": 0.6446142196655273
+  },
+  {
+    "job": {
+      "id": "d2e37f4c8cfc69f1acbe843e65191b0d",
+      "title": "230 vacatures voor artificial intelligence in Amsterdam ...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/amsterdam-artificial-intelligence-vacatures-SRCH_IL.0,9_IC3064478_KO10,33.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence in Amsterdam met bedrijfsreviews en salarissen. 230 vacatures voor Artificial intelligence in Amsterdam.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-16T10:36:52.053917"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.18282000720500946,
+    "ai_native_score": 0.6125999689102173
+  },
+  {
+    "job": {
+      "id": "058de2476e093f0931a0d3db89f19ece",
+      "title": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties - ...",
+      "company": "...",
+      "location": "",
+      "url": "https://werkeninai.nl/tag/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/",
+      "snippet": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties - \ud83e\udd16 Werken in AI Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-10-16T10:36:57.216436"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.0823666974902153,
+    "ai_native_score": 0.5743240714073181
+  },
+  {
+    "job": {
+      "id": "c7b919ad0d284d53fe3b230c929e9e2c",
+      "title": "94 vacatures voor artificial intelligence specialist in ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,44.htm",
+      "snippet": "Zoek vacatures voor Artificial intelligence specialist in Nederland met bedrijfsreviews en salarissen. 94 vacatures voor Artificial intelligence specialist in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-16T10:37:02.133939"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2540004849433899,
+    "ai_native_score": 0.6333872675895691
+  },
+  {
+    "job": {
+      "id": "02f752e568d3d11367078175db99acaa",
+      "title": "Junior Adoption Lead in Amsterdam bij Sherpa Digital | Magnet ...",
+      "company": "Sherpa Digital",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091529/junior-adoption-lead",
+      "snippet": "Oct 8, 2026 \u00b7 Je begeleidt de organisatie door hun complexe reis van digitale transformatie, terwijl je nieuwe technologie\u00ebn, waaronder AI, adopteert. Je bent de brug tussen business en tech, met volop ruimte voor eigen inbreng en verantwoordelijkheid.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-16T10:37:06.542409"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.16293174028396606,
+    "ai_native_score": 0.7101320624351501
   }
 ]
