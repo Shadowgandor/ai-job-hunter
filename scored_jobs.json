@@ -514,18 +514,18 @@
   {
     "job": {
       "id": "cdbb27758520742e6b28943049901b4c",
-      "title": "841 developer vacatures in Provincie Utrecht | Maart 2026 ...",
-      "company": "Maart 2026 ...",
+      "title": "391 developer vacatures in Provincie Utrecht | Oktober 2026 ...",
+      "company": "Oktober 2026 ...",
       "location": "Utrecht",
       "url": "https://www.adzuna.nl/provincie-utrecht/developer",
-      "snippet": "746 developer vacatures in Provincie Utrecht op Adzuna, de zoekmachine voor vacature in Nederland. Elke dag duizenden nieuwe vacatures en alle beschikbare developer vacatures die in de laatste 14 dagen in Nederland zijn gepubliceerd.",
+      "snippet": "391 developer vacatures in Provincie Utrecht op Adzuna, de zoekmachine voor vacature in Nederland. Elke dag duizenden nieuwe vacatures en alle beschikbare developer vacatures die in de laatste 14 dagen in Nederland zijn gepubliceerd.",
       "source": "ddg:web-nl",
-      "date_found": "2026-04-26T07:25:35.633061"
+      "date_found": "2026-10-17T10:06:06.670375"
     },
     "score": 0,
-    "reason": "Job listing aggregator page for developer roles in Utrecht province. No specific role details provided. Cannot assess individual job fit.",
-    "embed_sim": 0.12186721712350845,
-    "ai_native_score": 0.6106454730033875
+    "reason": "API error",
+    "embed_sim": 0.13061822950839996,
+    "ai_native_score": 0.6122492551803589
   },
   {
     "job": {
@@ -770,18 +770,18 @@
   {
     "job": {
       "id": "49168753cab1aa518bf15399aa698743",
-      "title": "IT Project Manager Data and AI - Fugro - Werken in AI",
+      "title": "IT Project Manager Data and AI \u2013 Fugro - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/it-project-manager-data-and-ai-fugro/",
-      "snippet": "You have at least 5 years\u2019 relevant experience in an international project based company with several years of experience in implementing AI and Data solutions",
+      "snippet": "You will be responsible for creating project plans, including milestones, adhering to deadlines and allocating resources, with a focus on AI and data projects. Specific technologies that play a role here are CoPilot, AzureML, PyTorch, Snowflake and PowerBi.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-04-27T08:19:55.777065"
+      "date_found": "2026-10-17T10:05:34.858245"
     },
-    "score": 3,
-    "reason": "IT Project Manager for Data and AI at Fugro. Requires 5+ years implementing AI/Data solutions, which suggests deep ML/data science background. Project management focus rather than developer tool adoption. Location unknown.",
-    "embed_sim": 0.5505188703536987,
-    "ai_native_score": 0.6476288437843323
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4253087043762207,
+    "ai_native_score": 0.5923917293548584
   },
   {
     "job": {
@@ -9528,12 +9528,12 @@
       "url": "https://werkeninai.nl/digital-ethics-specialist-ai-literacy-ikea/",
       "snippet": "IKEA\u2019s AI Adoption and Governance team is on the lookout for co-workers of tomorrow, who will help spearhead IKEA\u2019s efforts to become a leader in Digital Ethics and Responsible AI.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-16T06:34:34.828880"
+      "date_found": "2026-10-17T10:06:15.043797"
     },
-    "score": 4,
-    "reason": "Digital Ethics Specialist - AI literacy at IKEA. Focuses on AI adoption and responsible AI governance, which aligns with adoption championing. However, 'Digital Ethics' and 'AI Literacy' suggest compliance/policy focus rather than hands-on implementation of AI tools in developer workflows. Location unknown, likely not near Utrecht.",
-    "embed_sim": 0.4246140420436859,
-    "ai_native_score": 0.7662665247917175
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4246140122413635,
+    "ai_native_score": 0.7662664651870728
   },
   {
     "job": {
@@ -11090,18 +11090,18 @@
   {
     "job": {
       "id": "99d458215e303409ce1d3b570513f574",
-      "title": "200+ vacatures voor Ai Engineer en werk in Amsterdam 15 ...",
+      "title": "200+ vacatures voor Ai Engineer en werk in Amsterdam 16 ...",
       "company": "",
       "location": "Amsterdam",
       "url": "https://nl.indeed.com/q-ai-engineer-l-amsterdam-vacatures.html?vjk=d1c60d60ff79a024",
-      "snippet": "Ai Engineer vacatures in Amsterdam. Data Scientist, Software Engineer, Senior Data Engineer en meer op Indeed.com",
+      "snippet": "Ai Engineer vacatures in Amsterdam. Cloud Engineer, Engineer, Data Consultant en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-08-16T06:33:11.102969"
+      "date_found": "2026-10-17T10:05:38.541819"
     },
     "score": 0,
-    "reason": "This is a search results page listing 200+ job openings, not a specific job posting. Cannot evaluate relevance without actual job details.",
-    "embed_sim": 0.33061349391937256,
-    "ai_native_score": 0.7170429825782776
+    "reason": "API error",
+    "embed_sim": 0.31505030393600464,
+    "ai_native_score": 0.6243657469749451
   },
   {
     "job": {
@@ -11890,18 +11890,18 @@
   {
     "job": {
       "id": "7fa1eb54b95e5dafb3ece1a235e47ad9",
-      "title": "Data & AI Expert - Growth Tribe - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Data & AI Expert \u2013 Growth Tribe - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-ai-expert-growth-tribe/",
-      "snippet": "October 13, 2024 - Contribute to Growth Tribe\u2019s thought leadership through blog posts, white papers, and industry events. ... Strong experience in data science, AI, or business analytics roles, with a strong focus on generative AI and large language models (LLMs).",
+      "snippet": "As a Data & AI Expert with a focus on generative AI, data strategy, and business analytics, you will be instrumental in accelerating AI adoption and implementation for our clients.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-12T07:18:48.893301"
+      "date_found": "2026-10-17T10:06:15.043914"
     },
-    "score": 2,
-    "reason": "Data & AI Expert role requiring strong data science and AI background with focus on LLMs and analytics. This is a data science position, not a dev enablement/adoption specialist role. Wrong domain.",
-    "embed_sim": 0.4463546872138977,
-    "ai_native_score": 0.5723464488983154
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5043007731437683,
+    "ai_native_score": 0.6842808127403259
   },
   {
     "job": {
@@ -12050,18 +12050,18 @@
   {
     "job": {
       "id": "e6f6844ce0486414549273bb505b25ee",
-      "title": "12.357 vacatures voor ai in Nederland | Glassdoor",
+      "title": "12.015 vacatures voor ai in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland--ai-vacatures-SRCH_IL.0,9_IN178_KO10,13.htm",
-      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.357 vacatures voor Ai in Nederland.",
+      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.015 vacatures voor Ai in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:19:03.738076"
+      "date_found": "2026-10-17T10:05:25.980196"
     },
     "score": 0,
-    "reason": "Generic job board search results page listing 12,357 vacancies. Not an actual job listing. Cannot score.",
-    "embed_sim": 0.07537053525447845,
-    "ai_native_score": 0.6030253767967224
+    "reason": "API error",
+    "embed_sim": 0.11343574523925781,
+    "ai_native_score": 0.6301806569099426
   },
   {
     "job": {
@@ -26770,18 +26770,18 @@
   {
     "job": {
       "id": "3484d6ebfc930b303a1db7d07e40d450",
-      "title": "700+ vacatures voor Tooling Engineer en werk: 10 augustus 2026| Indeed",
+      "title": "700+ vacatures voor Tooling Engineer en werk: 5 oktober 2026 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-tooling-engineer-vacatures.html?vjk=d76c67396f4c0b64",
-      "snippet": "Als AI Engineer ben jij degene die het verschil maakt in het succesvol uitrollen van de AI-componenten binnen onze documentautomatisering. Wanneer deze rol niet goed vervuld wordt, blijven processen handmatig, ineffici\u00ebnt en foutgevoelig, de automatiseringskracht blijft uit.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-08-12T07:19:10.353724"
+      "snippet": "Als AI Engineer ben jij degene die het verschil maakt in het succesvol uitrollen van de AI-componenten binnen onze documentautomatisering. Je werkt daarbij vanuit ons kantoor in Breda of Zoetermeer.",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-17T10:05:38.541787"
     },
-    "score": 4,
-    "reason": "AI Engineer role in document automation\u2014appears to focus on rolling out AI components. Possible tooling/adoption angle but snippet suggests building automation rather than enabling dev team adoption. Location unknown. Insufficient detail.",
-    "embed_sim": 0.3083895146846771,
-    "ai_native_score": 0.6912417411804199
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2865154445171356,
+    "ai_native_score": 0.6893578171730042
   },
   {
     "job": {
@@ -35054,5 +35054,85 @@
     "reason": "API error",
     "embed_sim": 0.16293174028396606,
     "ai_native_score": 0.7101320624351501
+  },
+  {
+    "job": {
+      "id": "84891f0e1c131d4c57de5b92c1cf9cbf",
+      "title": "75+ vacatures voor Artificial Intelligence en werk in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Artificial-Intelligence-vacatures-in-Amsterdam",
+      "snippet": "Als manager AI insights and engagement help je organisaties bij vraagstukken rondom AI, data, analytics en automatisering. Je vertaalt strategische ambities naar toekomstbestendige oplossingen en begeleidt projecten van strategie tot uitvoering.",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-17T10:05:47.606903"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30512332916259766,
+    "ai_native_score": 0.7285722494125366
+  },
+  {
+    "job": {
+      "id": "4754b8001b8f2571a8cf1796fc62f421",
+      "title": "AI Engineer bij Follo - Dare to lead - Dongen - LinkedIn",
+      "company": "Follo - Dare To Lead - Dongen - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-follo-dare-to-lead-4467728218",
+      "snippet": "Solliciteer naar AI Engineer bij Follo - Dare to lead in Dongen. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-17T10:06:23.597750"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.304794579744339,
+    "ai_native_score": 0.7197863459587097
+  },
+  {
+    "job": {
+      "id": "465751b450d1e25fb976eaf0f85c495d",
+      "title": "AI Engineer bij ilionx - Amersfoort | LinkedIn Vacatures",
+      "company": "Ilionx - Amersfoort",
+      "location": "Amersfoort",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-ilionx-4429349827",
+      "snippet": "Solliciteer naar AI Engineer bij ilionx in Amersfoort. Fulltime Medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-17T10:06:23.597808"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.37044811248779297,
+    "ai_native_score": 0.7271243333816528
+  },
+  {
+    "job": {
+      "id": "8567f04f523ab95cb89cc8d8522136a3",
+      "title": "AI Engineer bij neno - Amsterdam | LinkedIn Vacatures",
+      "company": "Neno - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-neno-4406701199",
+      "snippet": "Contribute to Neno's AI architecture decisions, model selection, agent design patterns, memory and tool orchestration, as a senior technical voice Help raise the AI capability of the broader engineering team through code review, technical mentorship and shared best practices What we give you",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-17T10:06:23.597822"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4752748906612396,
+    "ai_native_score": 0.7191480398178101
+  },
+  {
+    "job": {
+      "id": "fee72c10580029a0b3a3a463ecc4685f",
+      "title": "AI Full-Stack Developer in Amsterdam bij Nebius | Magnet.me",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1096601/ai-full-stack-developer",
+      "snippet": "Experience building backend services and API integrations. Practical experience with LLM APIs or AI-based services. Strong familiarity with AI developer ecosystems. Proven ability to use AI-assisted coding tools effectively. Ability to work independently and efficiently. Familiarity with workflow automation systems or distributed architectures.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-17T10:06:37.010107"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5529649257659912,
+    "ai_native_score": 0.5542923212051392
   }
 ]
