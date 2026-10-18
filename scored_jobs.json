@@ -5784,12 +5784,12 @@
       "url": "https://nl.indeed.com/q-ai-integration-engineer-vacatures.html",
       "snippet": "As Staff Engineer (gn) \u2013 AI Enablement, you will close the gap between AI potential and engineering reality. We have the platform, the tools, and the ambition \u2013 what we need is the person who sees where AI is changing how we build, drives that change without being asked, and makes it stick across teams. You work hands-on across our engineering organisation \u2013 enabling engineers to think ...",
       "source": "ddg:indeed",
-      "date_found": "2026-08-16T06:33:11.103007"
+      "date_found": "2026-10-18T10:18:58.400903"
     },
-    "score": 8,
-    "reason": "Staff Engineer \u2013 AI Enablement role that explicitly bridges AI potential and engineering reality. Matches core vision of driving AI adoption across teams without being asked. Snippet suggests platform/tooling focus aligned with candidate goals.",
-    "embed_sim": 0.44325608015060425,
-    "ai_native_score": 0.7350521683692932
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4432560205459595,
+    "ai_native_score": 0.7350520491600037
   },
   {
     "job": {
@@ -10596,16 +10596,16 @@
       "id": "6cffb407dbfb9456fd5693bbd70d91e7",
       "title": "Werken in AI - Vacatures voor AI banen in Nederland",
       "company": "Vacatures voor AI banen in Nederland",
-      "location": "Rotterdam",
+      "location": "",
       "url": "https://werkeninai.nl/page/2/",
-      "snippet": "Vacature: Coolblue in Rotterdam zoekt iemand voor de de Stage AI ChatGPT Specialist voor 32 tot 40 uur per week | Sluitingsdatum: onbekend.",
+      "snippet": "Jan 3, 2025 \u00b7 Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI. Blader door vacatures bij toonaangevende bedrijven, ontdek unieke carri\u00e8rekansen, en zet de volgende stap in je loopbaan.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-08T06:45:36.972442"
+      "date_found": "2026-10-18T10:19:02.826986"
     },
     "score": 0,
-    "reason": "Internship position (Stage). Candidate explicitly excludes traineeships and junior roles. Also Rotterdam location is outside 40km of Utrecht.",
-    "embed_sim": 0.2491408884525299,
-    "ai_native_score": 0.6689483523368835
+    "reason": "API error",
+    "embed_sim": 0.2076781988143921,
+    "ai_native_score": 0.7666084170341492
   },
   {
     "job": {
@@ -35134,5 +35134,69 @@
     "reason": "API error",
     "embed_sim": 0.5529649257659912,
     "ai_native_score": 0.5542923212051392
+  },
+  {
+    "job": {
+      "id": "200c6e5044fbf1ffe1f88013f67f1180",
+      "title": "AI Engineer - Remote bij Torentify - Nederland - LinkedIn",
+      "company": "Torentify - Nederland - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-remote-at-torentify-4466768645",
+      "snippet": "Solliciteer naar AI Engineer - Remote bij Torentify in Nederland. Fulltime Medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-18T10:18:38.312705"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.41049373149871826,
+    "ai_native_score": 0.7109940052032471
+  },
+  {
+    "job": {
+      "id": "3a0b877fed567d10b53f850c7b5cf182",
+      "title": "Vacature: GenAI Engineer, Belastingdienst - Werken voor Nederland",
+      "company": "Werken voor Nederland",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/genai-engineer-BD-2026-2776",
+      "snippet": "Als GenAI engineer ontwerp, bouw, evalueer en verbeter je generatieve AI oplossingen (prompting, RAG, agentic workflows) die aantoonbare waarde leveren voor de klant. Deze oplossingen toets je zodat ze voldoen aan de eisen die aan de Belastingdienst worden gesteld op het gebied van betrouwbaarheid, transparantie en verantwoord gebruik.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-18T10:19:37.553912"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.24144785106182098,
+    "ai_native_score": 0.784507155418396
+  },
+  {
+    "job": {
+      "id": "de8ed877b7b04edfde0a7c081b9fcbe2",
+      "title": "Senior AI Engineer bij Sogeti - Utrecht | LinkedIn Vacatures",
+      "company": "Sogeti - Utrecht",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-sogeti-4465218708",
+      "snippet": "Solliciteer naar Senior AI Engineer bij Sogeti in Utrecht. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-18T10:19:46.585774"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.37133097648620605,
+    "ai_native_score": 0.6659269332885742
+  },
+  {
+    "job": {
+      "id": "71323da5bae3f6bcbe13fda5c415f548",
+      "title": "259 vacature (s) voor Ai transformation specialist in ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-transformation-specialist-vacatures-SRCH_KO0,28.htm",
+      "snippet": "Zoek vacatures voor Ai transformation specialist. Vind de juiste vacature voor Ai transformation specialist met bedrijfsreviews en salarissen. 259 vacatures voor Ai transformation specialist.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-18T10:19:58.578418"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.26550745964050293,
+    "ai_native_score": 0.6458091139793396
   }
 ]
