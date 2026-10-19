@@ -9430,14 +9430,14 @@
       "company": "Magnet.me",
       "location": "",
       "url": "https://magnet.me/",
-      "snippet": "Ontdek vacatures die matchen met je profiel en voorkeuren, en solliciteer direct. Word benaderd door recruiters als je connect met een bedrijf of een vacature liket. Op Magnet.me vind je meer dan 30.000 vacatures. Bij meer dan 6.000 werkgevers, van startups tot multinationals.",
+      "snippet": "Connect met bedrijven, ontdek matchende vacatures en word benaderd. Connect met topwerkgevers en blijf op de hoogte van hun nieuwe vacatures. Ontdek vacatures die matchen met je profiel en voorkeuren, en solliciteer direct. Word benaderd door recruiters als je connect met een bedrijf of een vacature liket.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-05T08:30:51.527016"
+      "date_found": "2026-10-19T12:00:11.346610"
     },
     "score": 0,
-    "reason": "Generic job board homepage, not a specific job posting. No actionable role information provided.",
-    "embed_sim": 0.16204915940761566,
-    "ai_native_score": 0.6130972504615784
+    "reason": "API error",
+    "embed_sim": 0.16164788603782654,
+    "ai_native_score": 0.6102553606033325
   },
   {
     "job": {
@@ -9506,18 +9506,18 @@
   {
     "job": {
       "id": "a903efac279b9936eeae42bc8bdf47f3",
-      "title": "Alle stage vacatures in AI - Werken in AIProduct Owner Finn AI - Bunq - ... - Werken in AIData Analist AI Team \u2013 Lely - Werken in AIVacature AI Officer - Nederlandse Loterij - Werken in AIInternship Automotive Radar Machine Learning - NXP - Werken ...",
-      "company": "Werken ...",
-      "location": "Rijswijk",
+      "title": "Alle stage vacatures in AI - Werken in AIadmin, auteur op Werken in AIAI Content Marketeer \u2013 Zonneplan - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Hilversum",
       "url": "https://werkeninai.nl/category/stages/",
-      "snippet": "Oct 4, 2024 \u00b7 Bekijk hier alle Nederlandse stage-vacatures in AI. Voor studenten, stagebegeleiders en bedrijven die zoeken naar stagiairs. Product Development: Leading end-to-end AI product creation, from concept to market, optimizing both the backend and frontend to guarantee top performance. User Experience: Designing intuitive AI features that guide users through their banking journey smoothly, ensuring Finn delivers clear, accurate responses to their questions about account setup, features, ",
+      "snippet": "Oct 4, 2024 \u00b7 Bekijk hier alle Nederlandse stage-vacatures in AI. Voor studenten, stagebegeleiders en bedrijven die zoeken naar stagiairs. Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week | Salaris: van tussen \u20ac3.450.- en \u20ac5.000,- per maand | Sluitingsdatum: 1 februari 2026. Als AI Content Marketeer bij Zonneplan combineer je jouw passie voor kunstmatige intelligentie met je creativiteit. Je cre\u00ebert innovatieve conten",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-16T06:34:09.515560"
+      "date_found": "2026-10-19T11:59:49.975788"
     },
     "score": 0,
-    "reason": "Generic listing aggregation page for internships. Multiple roles listed but all appear to be entry-level/internship positions. Candidate explicitly excludes junior/intern/traineeship roles.",
-    "embed_sim": 0.44845256209373474,
-    "ai_native_score": 0.5347949862480164
+    "reason": "API error",
+    "embed_sim": 0.39138519763946533,
+    "ai_native_score": 0.6418130993843079
   },
   {
     "job": {
@@ -13938,18 +13938,18 @@
   {
     "job": {
       "id": "5d1f1f5f817cd8c57d62e0807acb4800",
-      "title": "2.000+ vacatures voor Ai Specialist en werk: 18 augustus 2026 ... - Indeed",
+      "title": "3.000+ vacatures voor Ai Specialist en werk: 18 oktober 2026 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Ai-Specialist-vacatures",
-      "snippet": "Ai Specialist vacatures. Specialist, Accountmanager, Verification Engineer en meer op Indeed.com",
-      "source": "ddg:indeed",
-      "date_found": "2026-08-19T06:37:19.097210"
+      "snippet": "As we scale, we want to become a truly data-driven company \u2014 and we're looking for an AI Implementation & Automation Specialist to make that happen. This isn't a pure development role: we need someone who can take an idea, build it, and actually get it live and working inside the business.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-19T12:00:35.496762"
     },
     "score": 0,
-    "reason": "Search results page listing (aggregator), not actual job posting. Cannot evaluate relevance without specific job details.",
-    "embed_sim": 0.3076072931289673,
-    "ai_native_score": 0.6546980142593384
+    "reason": "API error",
+    "embed_sim": 0.46247491240501404,
+    "ai_native_score": 0.6204432845115662
   },
   {
     "job": {
@@ -27522,18 +27522,18 @@
   {
     "job": {
       "id": "cb162a7214039539150f9d42136a8605",
-      "title": "McKinsey & Company zoekt een Associate - Tech & AI in ...",
-      "company": "Tech & AI in ...",
-      "location": "Amsterdam",
+      "title": "Associate - Tech & AI bij McKinsey & Company - Amsterdam ...",
+      "company": "Mckinsey & Company - Amsterdam ...",
+      "location": "",
       "url": "https://nl.linkedin.com/jobs/view/associate-tech-ai-at-mckinsey-company-4305644920",
-      "snippet": "You'll work as part of our McKinsey Tech & AI team in Amsterdam. McKinsey Tech & AI helps enterprises think strategically about how to leverage technology to create fundamental business change \u2013 from formulating tech-driven growth strategies to enabling more efficient operations, through the use of technology.",
+      "snippet": "McKinsey Tech & AI helps enterprises think strategically about how to leverage technology to create fundamental business change \u2013 from formulating tech-driven growth strategies to enabling more...",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-16T06:33:34.564737"
+      "date_found": "2026-10-19T11:59:55.296007"
     },
-    "score": 4,
-    "reason": "McKinsey Associate role in Tech & AI focuses on strategic consulting about technology/AI adoption. Could involve some AI enablement, but likely emphasizes broad management consulting over hands-on developer tooling advocacy. Also associate-level may be junior relative to candidate's 13 years experience.",
-    "embed_sim": 0.3813138008117676,
-    "ai_native_score": 0.6392965912818909
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.34552037715911865,
+    "ai_native_score": 0.5922560691833496
   },
   {
     "job": {
@@ -27670,14 +27670,14 @@
       "company": "Always Be Learning ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1070766/vacature-ai-engineer",
-      "snippet": "1 day ago \u00b7 Als AI Engineer bij Always Be Learning zorg jij dat slimme modellen bouwen en een stevig datafundament hand in hand gaan. Je bouwt AI-toepassingen op basis van betrouwbare, goed gemodelleerde data, geen losse demo\u2019s, maar oplossingen die in het dataplatform van de klant landen en dagelijks gebruikt worden.",
+      "snippet": "Aug 18, 2026 \u00b7 Als AI Engineer bij Always Be Learning zorg jij dat slimme modellen bouwen en een stevig datafundament hand in hand gaan. Je bouwt AI-toepassingen op basis van betrouwbare, goed gemodelleerde data, geen losse demo\u2019s, maar oplossingen die in het dataplatform van de klant landen en dagelijks gebruikt worden.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-19T06:37:22.792912"
+      "date_found": "2026-10-19T11:59:04.740535"
     },
-    "score": 2,
-    "reason": "AI Engineer role focused on building ML models, data pipelines, and 'slimme modellen bouwen' (building smart models). Candidate is not seeking to build AI systems but enable adoption. Requires data engineering expertise candidate doesn't need.",
-    "embed_sim": 0.2077198177576065,
-    "ai_native_score": 0.6036514043807983
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23299747705459595,
+    "ai_native_score": 0.6142159700393677
   },
   {
     "job": {
@@ -35198,5 +35198,85 @@
     "reason": "API error",
     "embed_sim": 0.26550745964050293,
     "ai_native_score": 0.6458091139793396
+  },
+  {
+    "job": {
+      "id": "ddf0158948aeacc28662ad243574db5c",
+      "title": "AI Automation Intern, Communications in Amsterdam bij Prosus ...",
+      "company": "Prosus ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1096406/ai-automation-intern--communications",
+      "snippet": "Hands-on experience with AI tools such as ChatGPT, Claude or Copilot and curiosity about how to apply them. Strong Excel or Google Sheets skills and comfort working with data. A structured way of working, with the ability to turn messy information into clear systems. Clear written English and the confidence to work with senior stakeholders.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-19T11:59:29.579569"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45734739303588867,
+    "ai_native_score": 0.7809755206108093
+  },
+  {
+    "job": {
+      "id": "7d3b7f8f38301940439705f44f021bbc",
+      "title": "Growth Marketer bij Tebi - Amsterdam | LinkedIn Vacatures",
+      "company": "Tebi - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/growth-marketer-at-tebi-4480390735",
+      "snippet": "3 days ago \u00b7 We use AI the way our merchants use Tebi, to cut out the friction and get to what matters faster. We believe in a world where AI increases quality, efficiency and speed.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-19T11:59:55.295965"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2223544716835022,
+    "ai_native_score": 0.5849602222442627
+  },
+  {
+    "job": {
+      "id": "f3c5e3ac2519a2e8ab4b7b40b8a835eb",
+      "title": "AdamI zoekt een AI Adoption Lead in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-lead-at-adami-4480974191",
+      "snippet": "As AI Adoption Lead, you put that vision into practice. You guide clients through the transition of their processes and procedures, from the way they work today to a redefined way of working with AI.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-19T11:59:55.295996"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.37786370515823364,
+    "ai_native_score": 0.7652497887611389
+  },
+  {
+    "job": {
+      "id": "194b5120a11f6dbb932587aaf3583e50",
+      "title": "PostNL zoekt een Platform Engineer (Data & AI Platform) in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/platform-engineer-data-ai-platform-at-postnl-4441995582",
+      "snippet": "You work closely with Data Scientists, Analytics Engineers and AI Engineers to understand their needs and improve the platform they use every day. Based on these insights, you translate...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-19T11:59:55.296015"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.34486114978790283,
+    "ai_native_score": 0.5298256874084473
+  },
+  {
+    "job": {
+      "id": "c72409ded2571bf40f83c519918c2b0f",
+      "title": "AI-Trainer &-adoptiespecialist in Breda bij Ministerie van ...",
+      "company": "Ministerie Van ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097557/ai-trainer---adoptiespecialist",
+      "snippet": "AI-Trainer &-adoptiespecialist in Breda voor 38 uur bij Ministerie van Defensie.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-19T12:00:11.346576"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23993156850337982,
+    "ai_native_score": 0.6626754999160767
   }
 ]
