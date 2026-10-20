@@ -14466,18 +14466,18 @@
   {
     "job": {
       "id": "a89abec85aef3236b3ff16edc7e49312",
-      "title": "1.631 vacatures voor ai developer in Nederland | Glassdoor",
+      "title": "1.718 vacatures voor ai developer in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "Amsterdam",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-developer-vacatures-SRCH_IL.0,9_IN178_KO10,22.htm",
-      "snippet": "Vacatures voor machine learning engineer in AmsterdamVacatures in AmsterdamVacatures bij McKinsey & Company in Amsterdam ... Reviews van werknemers bij McKinsey & CompanySollicitatie-ervaring bij McKinsey & CompanyWerken bij McKinsey & Company ... Build and lead a testing team, be the go-to expert on AI quality. We're looking for experienced AI Developers in Test to work on validating LLM-based\u2026\u2026",
+      "snippet": "Zoek vacatures voor Ai developer in Nederland met bedrijfsreviews en salarissen. 1.718 vacatures voor Ai developer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-20T06:39:26.902297"
+      "date_found": "2026-10-20T10:53:12.364900"
     },
     "score": 0,
-    "reason": "This is a search results page/listing aggregate, not a specific job posting. Cannot evaluate a collection of unspecified roles.",
-    "embed_sim": 0.32978469133377075,
-    "ai_native_score": 0.5812156200408936
+    "reason": "API error",
+    "embed_sim": 0.2768908739089966,
+    "ai_native_score": 0.6669919490814209
   },
   {
     "job": {
@@ -25782,14 +25782,14 @@
       "company": "DataJobs",
       "location": "",
       "url": "https://www.datajobs.nl/",
-      "snippet": "2 days ago \u00b7 D\u00e9 niche vacaturesite voor data, AI en analytics in Nederland. Ontdek actuele vacatures van data analyst tot AI engineer en vind jouw volgende stap.",
+      "snippet": "1 day ago \u00b7 D\u00e9 niche vacaturesite voor data, AI en analytics in Nederland. Ontdek actuele vacatures van data analyst tot AI engineer en vind jouw volgende stap.",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-06T08:29:38.385527"
+      "date_found": "2026-10-20T10:53:44.893949"
     },
     "score": 0,
-    "reason": "Job board listing, not a specific vacancy; no actual job posting",
-    "embed_sim": 0.21591618657112122,
-    "ai_native_score": 0.4747075140476227
+    "reason": "API error",
+    "embed_sim": 0.21403145790100098,
+    "ai_native_score": 0.4686230719089508
   },
   {
     "job": {
@@ -35278,5 +35278,149 @@
     "reason": "API error",
     "embed_sim": 0.23993156850337982,
     "ai_native_score": 0.6626754999160767
+  },
+  {
+    "job": {
+      "id": "4fa58f5ec75d4a1a2147fa08ae593cb4",
+      "title": "1.934 vacature(s) voor Developer in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/developer-vacatures-SRCH_KO0,9.htm",
+      "snippet": "Zoek vacatures voor Developer. Vind de juiste vacature voor Developer met bedrijfsreviews en salarissen. 1.934 vacatures voor Developer.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-20T10:53:12.364934"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22226616740226746,
+    "ai_native_score": 0.6172091364860535
+  },
+  {
+    "job": {
+      "id": "655f357449d36c369a925273a4160492",
+      "title": "2.000+ vacatures voor Tooling Holland en werk: 14 september ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/Tooling-Holland-vacatures",
+      "snippet": "Je beschikt over sterke projectmanagementvaardigheden, bent analytisch vlijmscherp en hebt ervaring met (of sterke affiniteit met) moderne salestechnologie\u00ebn en AI-tooling.",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-20T10:53:26.882611"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.1768917739391327,
+    "ai_native_score": 0.6416467428207397
+  },
+  {
+    "job": {
+      "id": "5a96e1a487a4000b8a6c628333409238",
+      "title": "Moods Studio zoekt een Frontend Developer Intern ... - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-developer-intern-at-moods-studio-4479054333",
+      "snippet": "Oct 13, 2026 \u00b7 About Moods Studio Moods Studio is an Amsterdam-based development studio building digital products across AI, blockchain, Web3, and SaaS. We\u2019re a small, experienced team working on real...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-20T10:53:30.689335"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2534744441509247,
+    "ai_native_score": 0.4875204563140869
+  },
+  {
+    "job": {
+      "id": "e0b3fc89c2cb1bf60327158b89dfb482",
+      "title": "Forward Deployed Engineer (Audit experience required)",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/forward-deployed-engineer-audit-experience-required-at-datasnipper-4463391194",
+      "snippet": "Sep 8, 2026 \u00b7 Nice-to-Have Prior Forward Deployed Engineer, solutions engineering, or implementation experience at an applied AI or enterprise software company Experience with document processing and spreadsheet-heavy workflows Familiarity with agent design patterns, evals, or AI observability",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-20T10:53:30.689356"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4643247425556183,
+    "ai_native_score": 0.6417990326881409
+  },
+  {
+    "job": {
+      "id": "d99c8e849ca59d6775b879921acd1b54",
+      "title": "Product Owner AI Enablement in Amsterdam bij Highberg B.V ...",
+      "company": "Highberg B.V ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091747/product-owner-ai-enablement",
+      "snippet": "As Product Owner \u2013 AI Enablement, you determine where AI can create the most value for Highberg and translate those opportunities into clear priorities for the development team.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-20T10:54:09.188917"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27870434522628784,
+    "ai_native_score": 0.5827915072441101
+  },
+  {
+    "job": {
+      "id": "456afffe9bde5a27572fc9bbace16cb3",
+      "title": "AI Engineer \u2013 Foundational Models with Multi-Modality (Analog ...",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1096381/ai-engineer--foundational-models-with-multi-modality--analog-ic-design-",
+      "snippet": "AI Engineer \u2013 Foundational Models with Multi-Modality (Analog IC Design) Being part of the NXP Design Enablement (DE) global team as a CAD Methodology & Flow Engineer offers a unique opportunity to work at the intersection of semiconductor design, software engineering, and AI innovation.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-20T10:54:09.188931"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45424923300743103,
+    "ai_native_score": 0.6852908134460449
+  },
+  {
+    "job": {
+      "id": "596aec5ac3706c630e1f474ff1794862",
+      "title": "AI and Data Engineering lead in Veghel bij Vanderlande ...",
+      "company": "Vanderlande ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1095590/ai-and-data-engineering-lead",
+      "snippet": "The role focuses on transforming the end-to-end engineering way of working, from customer requirements and system design through configuration, development, testing and deployment.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-20T10:54:13.821709"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3977915942668915,
+    "ai_native_score": 0.598110020160675
+  },
+  {
+    "job": {
+      "id": "6de83952412c9509cd1e836a707d7c0b",
+      "title": "AI Engineer in Amsterdam bij Loyens & Loeff | Magnet.me",
+      "company": "Loyens & Loeff",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1095187/ai-engineer",
+      "snippet": "As an AI Engineer, you will be part of the AI Solutions Team. The team develops and manages AI solutions for both our legal practice groups and business support departments.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-20T10:54:24.122023"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4988899230957031,
+    "ai_native_score": 0.6512776613235474
+  },
+  {
+    "job": {
+      "id": "5f83b44b8db594e0a3c490a9e06b0af0",
+      "title": "AI Engineer in Amsterdam at Flow Traders | Magnet.me",
+      "company": "Magnet.me",
+      "location": "",
+      "url": "https://magnet.me/en/opportunity/1089076/ai-engineer",
+      "snippet": "Oct 1, 2026 \u00b7 Flow Traders are looking for an AI Engineer who wants to work on one of the most exciting engineering challenges at the firm right now. As an AI Engineer on the team, you will design, build, and scale enterprise-grade AI agents and automation workflows across the organization.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-20T10:54:24.122034"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45181262493133545,
+    "ai_native_score": 0.6371812224388123
   }
 ]
