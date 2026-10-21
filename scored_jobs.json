@@ -9490,18 +9490,18 @@
   {
     "job": {
       "id": "802da1254bfe25aaaa114de1a6d48991",
-      "title": "Senior AI Specialist - Nexperia - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Senior AI Specialist \u2013 Nexperia - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/senior-ai-specialist-nexperia/",
-      "snippet": "August 26, 2024 - Develop an AI roadmap for Revenue, Cost, Margin, Smart Pricing, Smart yield management, Smart OEE management, WIP management, scheduling , procurement automation amongst other use cases.",
+      "snippet": "With your broad understanding of AI and the business you drive AI adoption in the organization. Develop deep understanding of various L2/L3 Nexperia processes in semiconductor R&D and Manufacturing.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-20T06:39:10.957382"
+      "date_found": "2026-10-21T11:06:11.129702"
     },
-    "score": 2,
-    "reason": "AI roadmap development for manufacturing/operational use cases (pricing, OEE, scheduling). Focused on building AI solutions for business domains, not enabling dev teams to adopt AI tooling. Wrong domain and unclear if it's about developer productivity.",
-    "embed_sim": 0.5611779689788818,
-    "ai_native_score": 0.7412422299385071
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5101889371871948,
+    "ai_native_score": 0.7374613881111145
   },
   {
     "job": {
@@ -10690,18 +10690,18 @@
   {
     "job": {
       "id": "811ec0697262055b3b49ba20e34c0c06",
-      "title": "Data & AI specialist - NS - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Data & AI specialist \u2013 NS - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-ai-specialist-ns/",
-      "snippet": "October 13, 2024 - Data is een cruciale asset voor het sneller en effici\u00ebnter bereiken van de ComIT doelstellingen. FC Data en AI helpt hierbij met visievorming en het geven van richting aan ComIT op het gebied van data, zodat kansen en bedreigingen op basis ...",
+      "snippet": "Voor deze rol zijn we op zoek naar een Data & AI specialist die samen met de Functionele Lead het team Data en AI op gaat zetten. Data is een cruciale asset voor het sneller en effici\u00ebnter bereiken van de ComIT doelstellingen.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-20T06:39:10.957400"
+      "date_found": "2026-10-21T11:06:11.129749"
     },
-    "score": 2,
-    "reason": "Data & AI specialist at NS focused on data strategy and visioning for organizational initiatives. This is data strategy/governance, not about helping development teams adopt AI coding tools or embedding AI in SDLC workflows.",
-    "embed_sim": 0.27147895097732544,
-    "ai_native_score": 0.5661224722862244
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.39090579748153687,
+    "ai_native_score": 0.7129782438278198
   },
   {
     "job": {
@@ -35422,5 +35422,133 @@
     "reason": "API error",
     "embed_sim": 0.45181262493133545,
     "ai_native_score": 0.6371812224388123
+  },
+  {
+    "job": {
+      "id": "a44ba4305b8d088a47698e44554c2436",
+      "title": "AI Engineer in Zwolle bij ilionx | Magnet.me | #1097947 (nl)",
+      "company": "Ilionx",
+      "location": "Utrecht",
+      "url": "https://magnet.me/nl-NL/vacature/1097947/ai-engineer",
+      "snippet": "Locatie: Woerden, Utrecht, Groningen, Amersfoort, Zwolle Jouw nieuwe functie als AI Engineer Binnen ilionx en dan op een vestiging bij jou in de buurt werk je als AI Engineer aan het praktisch \u00e9n schaalbaar toepassen van AI bij onze klanten. Jij bouwt niet alleen slimme oplossingen, je helpt organisaties ook echt vooruit.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-21T11:05:09.162540"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30093643069267273,
+    "ai_native_score": 0.6836415529251099
+  },
+  {
+    "job": {
+      "id": "917a91e727b15f4d4fcd9281153e3d6b",
+      "title": "AI Engineer in Amsterdam bij Marktlink Fusies & Overnames B.V ...",
+      "company": "Marktlink Fusies & Overnames B.V ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1098069/ai-engineer",
+      "snippet": "AI is reshaping the way Marktlink works and you're one of the people building that future. As an AI Engineer, you design and develop solutions that make M&A professionals faster, smarter and better informed: from intelligent agents that automate recurring tasks to systems that put the right knowledge in front of the right person at the right ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-21T11:05:09.162573"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.38131558895111084,
+    "ai_native_score": 0.7184542417526245
+  },
+  {
+    "job": {
+      "id": "69d5284f5c2c572a0d6a3aa5583ed4ac",
+      "title": "Forward Deployed Engineer bij ML6 - Amsterdam - LinkedIn",
+      "company": "Ml6 - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/forward-deployed-engineer-at-ml6-4458917449",
+      "snippet": "Experience: 3+ years of professional experience in software, product engineering, applied AI, or forward deployed engineering. Experience as a founder, early engineer, technical lead, or customer-facing builder is a strong plus.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-21T11:05:13.825725"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4269457757472992,
+    "ai_native_score": 0.46855100989341736
+  },
+  {
+    "job": {
+      "id": "106c28b52c06c008d7d31c1618eadbc7",
+      "title": "BrainBite zoekt een Full-Stack Growth Marketer (AI-native ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-growth-marketer-ai-native-vibe-coding-at-brainbite-4480555204",
+      "snippet": "5 days ago \u00b7 About BrainBite BrainBite is an AI-driven EdTech company. We build 1-on-1 AI tutoring and learning tools for kids aged 6 and up, for parents, schools and partners. The role A marketer first, a builder second. You own growth end to end and you don't wait for a developer or an agency: you ship landing pages, websites, funnels and ads yourself with AI tools (Lovable, Cursor, Claude, v0 and the ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-21T11:05:13.825740"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.39095643162727356,
+    "ai_native_score": 0.6746887564659119
+  },
+  {
+    "job": {
+      "id": "d5d9756ea4fe016200e6be91b97fe2eb",
+      "title": "Growth Marketing Manager bij LearnWise AI - Amsterdam ...",
+      "company": "Learnwise Ai - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/growth-marketing-manager-at-learnwise-ai-4476682235",
+      "snippet": "Oct 14, 2026 \u00b7 An AI-first way of working: you use AI and automation daily across research, content, analysis, and campaign execution, and you can show how they\u2019ve made your work faster and better.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-21T11:05:54.780768"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3520916700363159,
+    "ai_native_score": 0.6454278826713562
+  },
+  {
+    "job": {
+      "id": "367e4f13996efe500be0bd0d3ee15549",
+      "title": "MANILAI zoekt een Founding AI & Engineering Lead in ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/founding-ai-engineering-lead-at-manilai-4450317587",
+      "snippet": "Als Founding AI & Engineering Lead krijg je volledige verantwoordelijkheid over de technische richting van MANILAI. Je combineert strategisch leiderschap met hands-on engineering en werkt...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-21T11:05:58.754532"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3096456229686737,
+    "ai_native_score": 0.7687918543815613
+  },
+  {
+    "job": {
+      "id": "22c5d56780236e5e9fa9a267ee728037",
+      "title": "Onboarding & Adoption Specialist in Arnhem bij Roxit | Magnet ...",
+      "company": "Roxit",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1098458/onboarding---adoption-specialist",
+      "snippet": "11 hours ago \u00b7 Onboarding & Adoption Specialist Baan \u2022 Arnhem, NL Geplaatst 21 okt. 2026 Vacature delen Werkervaring 2 tot 5 jaar Full-time / part-time",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-21T11:06:03.463361"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2532861828804016,
+    "ai_native_score": 0.5637951493263245
+  },
+  {
+    "job": {
+      "id": "457d9d92e51fa6b584a3ed2b21dfaf00",
+      "title": "AI Adoption Specialist bij delaware Netherlands - Den Bosch ...",
+      "company": "Delaware Netherlands - Den Bosch ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-delaware-the-netherlands-4472756721",
+      "snippet": "Solliciteer naar AI Adoption Specialist bij delaware Netherlands in Den Bosch. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-21T11:06:07.415121"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.28695833683013916,
+    "ai_native_score": 0.6474909782409668
   }
 ]
