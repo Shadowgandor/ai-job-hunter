@@ -12178,18 +12178,18 @@
   {
     "job": {
       "id": "890630ee10568adeff590fee3f64b6c0",
-      "title": "75+ vacatures voor Adoptie Specialist en werk: 3 maart 2026| Indeed",
+      "title": "200+ vacatures voor Adoptie Specialist en werk: 18 oktober ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html",
-      "snippet": "Als AI Specialist & Trainer speel je een sleutelrol in de adoptie van AI binnen onze organisatie. Je zorgt ervoor dat medewerkers niet alleen de juiste AI-tools\u2026 \u00b7 Alle vacatures voor CLB Groep - Nederland vacatures - vacatures voor Trainer (m/v) in Nederland bekijken",
-      "source": "ddg:indeed",
-      "date_found": "2026-08-21T06:39:05.388346"
+      "snippet": "Denk jij als GZ-psycholoog of Verpleegkundig Specialist vaak: hoe complexer de problematiek, hoe interessanter de uitdaging? Dan is de functie van behandelco\u00f6rdinator in ons Penitentiair Psychiatrisch Centrum (PPC) jou misschien op het lijf geschreven.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-22T11:05:48.827671"
     },
     "score": 0,
-    "reason": "This is a search results aggregation page, not an actual job listing. No specific role details, company information, or location provided.",
-    "embed_sim": 0.23097273707389832,
-    "ai_native_score": 0.7004092931747437
+    "reason": "API error",
+    "embed_sim": 0.1802293062210083,
+    "ai_native_score": 0.7430719137191772
   },
   {
     "job": {
@@ -14070,14 +14070,14 @@
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/over-ons/",
-      "snippet": "Over ons Werken in AI is een vacaturebank met de nieuwste vacatures in AI. Wij verzamelen alle Nederlandse vacatures op het gebied van AI in \u00e9\u00e9n handig overzicht. Wij verbinden getalenteerde AI professionals met bedrijven die op zoek zijn naar AI-talent. Daarom is Werken in Ai \u00e9\u00e9n van de beste plekken om AI-banen in Nederland te vinden.",
+      "snippet": "Wij verzamelen alle Nederlandse vacatures op het gebied van AI in \u00e9\u00e9n handig overzicht. Wij verbinden getalenteerde AI professionals met bedrijven die op zoek zijn naar AI-talent.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-19T06:38:27.585647"
+      "date_found": "2026-10-22T11:06:02.461478"
     },
     "score": 0,
-    "reason": "This is a company landing page/about page, not a job listing. Cannot be evaluated as a vacancy.",
-    "embed_sim": 0.18319842219352722,
-    "ai_native_score": 0.7286819815635681
+    "reason": "API error",
+    "embed_sim": 0.16395042836666107,
+    "ai_native_score": 0.6928821206092834
   },
   {
     "job": {
@@ -27716,16 +27716,16 @@
       "id": "307073aa13f553e5323ea37440eb3759",
       "title": "bol zoekt een AI Tooling Engineer in Utrecht | LinkedIn",
       "company": "LinkedIn",
-      "location": "",
+      "location": "Utrecht",
       "url": "https://nl.linkedin.com/jobs/view/ai-tooling-engineer-at-bol-4365054209",
-      "snippet": "Er kan niet meer worden gesolliciteerd Deze vacature melden How do you make our customers happy? By transforming how 900+ engineers work with AI. One tool, integration, and workflow improvement at a time. As a AI Tool Enablement Engineer in the AI Way of Working team, you help define how bol engineers adopt and benefit from AI\u2011powered tools.",
+      "snippet": "You\u2019ll join the AI Way of Working team, part of our AI Enablement & Tech Community, based in Utrecht. This team shapes how bol\u2019s engineering community adopts and benefits from AI.",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-19T06:37:43.551119"
+      "date_found": "2026-10-22T11:05:15.456221"
     },
     "score": 0,
-    "reason": "Listing states 'Er kan niet meer worden gesolliciteerd' (No longer accepting applications). Vacancy is closed.",
-    "embed_sim": 0.4534187614917755,
-    "ai_native_score": 0.707762598991394
+    "reason": "API error",
+    "embed_sim": 0.40794283151626587,
+    "ai_native_score": 0.6794317364692688
   },
   {
     "job": {
@@ -35550,5 +35550,85 @@
     "reason": "API error",
     "embed_sim": 0.28695833683013916,
     "ai_native_score": 0.6474909782409668
+  },
+  {
+    "job": {
+      "id": "1c26d54e3f444df307fadffacdd13cbc",
+      "title": "Internship Data & AI Engineering bij ING Nederland ... - LinkedIn",
+      "company": "Ing Nederland ... - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/internship-data-ai-engineering-at-ing-nederland-4469333695",
+      "snippet": "Sep 23, 2026 \u00b7 As an intern in the Data & Analytics Engineering team, you will support ING Analytics department in the development of the Repo Scanner (Repo Radar) platform, helping analyze repositories and generate insights on technology usage, code quality, and dependencies. You will contribute to both rule-based and intelligent (agentic) scanning while gaining hands-on experience with modern developer ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-22T11:05:05.263279"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4108329713344574,
+    "ai_native_score": 0.5470284819602966
+  },
+  {
+    "job": {
+      "id": "c1809adcd62eb2b2528054cec550fd73",
+      "title": "Principal AI Engineer in Amsterdam bij ML6 | Magnet.me",
+      "company": "Ml6",
+      "location": "Amsterdam",
+      "url": "https://magnet.me/nl-NL/vacature/1098039/principal-ai-engineer",
+      "snippet": "Principal AI Engineer Locations: Amsterdam, Berlin, Eindhoven, Ghent, Munich Remote status: Hybrid Employment type: Full-time YOUR IMPACT At ML6, we design, build, and deploy AI solutions that are used in production for a broad range of industries, all the while driving AI towards making a positive impact. Our people are smart, ambitious and always curious. As a Principal Engineer, you will ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-22T11:05:24.279641"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4584369957447052,
+    "ai_native_score": 0.6266160607337952
+  },
+  {
+    "job": {
+      "id": "a9de377c0c50a6d89e8ca651ecfe7650",
+      "title": "Vacature: AI-Trainer &-adoptiespecialist, Ministerie van ...",
+      "company": "",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-trainer-adoptiespecialist-DEF-2026-4487",
+      "snippet": "AI-Trainer &-adoptiespecialist Ministerie van Defensie Breda - route Hbo bachelor 38 uur Schaal 10 / \u20ac3.913 - \u20ac6.244 (bruto) ICT Solliciteren Kenmerk: 81757, Plaatsingsdatum: 19 oktober 2026",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-22T11:05:48.827712"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23027797043323517,
+    "ai_native_score": 0.6837396025657654
+  },
+  {
+    "job": {
+      "id": "5ddd0286ef1c855819e1686a4c23a105",
+      "title": "AI Adoptie specialist | 75000.- + auto Minimaal HBO en ...",
+      "company": "75000.- + auto Minimaal HBO en ...",
+      "location": "",
+      "url": "https://www.add-value.nl/vacatures/ai-adoptieconsultant-amsterdam",
+      "snippet": "Oct 12, 2026 \u00b7 Als AI Adoption Specialist ben jij de cruciale schakel tussen de technische ontwikkelingen en de eindgebruiker. Je zorgt ervoor dat AI niet enkel wordt ge\u00efmplementeerd als tool, maar wordt omarmd als onderdeel van de dagelijkse werkprocessen.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-22T11:05:48.827740"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3407868444919586,
+    "ai_native_score": 0.7718298435211182
+  },
+  {
+    "job": {
+      "id": "ccb6be06a042ae1fbdf8c2deb07f66bd",
+      "title": "Shape the Future of AI \u2014 Dutch Talent Hub - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/shape-the-future-of-ai-\u2014-dutch-talent-hub-at-welo-data-4399971579",
+      "snippet": "Apr 15, 2026 \u00b7 Solliciteer naar Shape the Future of AI \u2014 Dutch Talent Hub bij Welo Data in Nederland. Parttime Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-22T11:05:57.917857"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3594644367694855,
+    "ai_native_score": 0.6708266139030457
   }
 ]
