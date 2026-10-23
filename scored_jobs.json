@@ -11298,18 +11298,18 @@
   {
     "job": {
       "id": "c1171467fd7e598aa26475292c638a4a",
-      "title": "Machine Learning Engineer - Achmea - Werken in AI",
+      "title": "Machine Learning Engineer \u2013 Achmea - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/machine-learning-engineer-achmea/",
       "snippet": "Je hebt minimaal 3 jaar werkervaring als machine learning engineer of soortgelijke rol. Je hebt ervaring met programmeren in talen zoals Python, PySpark en SQL. Je hebt ervaring in tools en platformen zoals zoals OpenShift, Azure, Github, daarnaast is kennis van ArgoCD en/of Artifactory een pr\u00e9.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-12T07:20:46.361380"
+      "date_found": "2026-10-23T10:58:34.567200"
     },
-    "score": 1,
-    "reason": "Machine Learning Engineer at Achmea requires 3+ years ML engineering experience, Python, PySpark, SQL. This is pure ML/data science role, explicitly excluded from candidate's criteria. No match.",
-    "embed_sim": 0.45037180185317993,
-    "ai_native_score": 0.5730080008506775
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4548006057739258,
+    "ai_native_score": 0.5740820169448853
   },
   {
     "job": {
@@ -14296,12 +14296,12 @@
       "url": "https://werkeninai.nl/product-owner-finn-ai-bunq/",
       "snippet": "Product Development: Leading end-to-end AI product creation, from concept to market, optimizing both the backend and frontend to guarantee top performance. User Experience: Designing intuitive AI features that guide users through their banking journey smoothly, ensuring Finn delivers clear, accurate responses to their questions about account setup, features, and everyday tasks. AI Advocacy ...",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-19T06:38:11.476559"
+      "date_found": "2026-10-23T10:58:12.504106"
     },
     "score": 0,
-    "reason": "Product Owner role for an AI banking product (Finn AI). Focus is on product development and UX for an AI service, not on helping dev teams adopt AI tools. Wrong domain and seniority misalignment.",
-    "embed_sim": 0.3658527731895447,
-    "ai_native_score": 0.5006675720214844
+    "reason": "API error",
+    "embed_sim": 0.36585283279418945,
+    "ai_native_score": 0.5006674528121948
   },
   {
     "job": {
@@ -35630,5 +35630,85 @@
     "reason": "API error",
     "embed_sim": 0.3594644367694855,
     "ai_native_score": 0.6708266139030457
+  },
+  {
+    "job": {
+      "id": "74b38d39821c8bc647b639d7f3925e8d",
+      "title": "AI Engineering Internship in Amsterdam bij Accenture | Magnet.me",
+      "company": "Accenture",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1099392/ai-engineering-internship",
+      "snippet": "Improving engineering and business processes: Analyzing current ways of working and redesigning product development processes through workshops, interviews, and practical improvements \u2014 including where generative AI and automation can accelerate them.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-23T10:57:29.224357"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5059255361557007,
+    "ai_native_score": 0.6922199130058289
+  },
+  {
+    "job": {
+      "id": "6bcd435b0db8e24698583efdb49e52be",
+      "title": "Senior AI Solutions & Delivery Manager - magnet.me",
+      "company": "magnet.me",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1098265/senior-ai-solutions---delivery-manager",
+      "snippet": "As a Senior AI Solutions & Delivery Manager, you will join our growing AI Hub and play a key role in making this vision a reality. You'll work closely with business and technology teams to discover opportunities, challenge existing ways of working, and turn promising AI ideas into solutions that people actually use and that deliver measurable ...",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-23T10:57:29.224371"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44361069798469543,
+    "ai_native_score": 0.6127002239227295
+  },
+  {
+    "job": {
+      "id": "e577d50008bb515004ca5a5b54e329bd",
+      "title": "AI Engineer in Rotterdam bij Capgemini | Magnet.me",
+      "company": "Capgemini",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097382/ai-engineer",
+      "snippet": "5 days ago \u00b7 Word de beste versie van jezelf als AI Engineer Als AI Engineer bij Sogeti bouw je mee aan AI-toepassingen die organisaties dagelijks gebruiken. Je hebt je eerste ervaring met AI opgedaan en wilt verder groeien in Generative AI en agentic AI. Samen\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-23T10:57:37.775301"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2928488552570343,
+    "ai_native_score": 0.6785095930099487
+  },
+  {
+    "job": {
+      "id": "164b11dea7024c3e4e9dd09e3dd337d1",
+      "title": "AI Engineer in Groningen bij ilionx | Magnet.me | #1097944 (nl)",
+      "company": "Ilionx",
+      "location": "Utrecht",
+      "url": "https://magnet.me/nl-NL/vacature/1097944/ai-engineer",
+      "snippet": "3 days ago \u00b7 Locatie: Woerden, Utrecht, Groningen, Amersfoort, Zwolle Jouw nieuwe functie als AI Engineer Binnen ilionx en dan op een vestiging bij jou in de buurt werk je als AI Engineer aan het praktisch \u00e9n schaalbaar toepassen van AI bij onze klanten. Jij bouwt niet alleen slimme oplossingen, je helpt organisaties ook echt vooruit.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-23T10:57:37.775365"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.285366415977478,
+    "ai_native_score": 0.6798595190048218
+  },
+  {
+    "job": {
+      "id": "da3c7962fbf70a7546267943cca995b0",
+      "title": "AI Adoption - Stage in Amsterdam bij Van Lanschot Kempen ...",
+      "company": "Van Lanschot Kempen ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097727/ai-adoption---stage",
+      "snippet": "4 days ago \u00b7 AI Adoption - Stage: Word onderdeel van een prijswinnend team! Tijdens deze stage help je Van Lanschot Kempen om AI te verankeren in het dagelijkse werk. Je inspireert en ondersteunt collega\u2019s om Microsoft 365 Copilot slim en verantwoord te gebruiken en draagt bij aan low-code AI-agents in Copilot Studio.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-23T10:58:51.268292"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.21225422620773315,
+    "ai_native_score": 0.752027690410614
   }
 ]

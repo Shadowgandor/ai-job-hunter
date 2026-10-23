@@ -1,34 +1,4 @@
 {
-  "39abc91122e70b588d067e57add1226f": {
-    "title": "Tnw Jobs in Netherlands (998 Open Roles) | LinkedIn",
-    "company": "LinkedIn",
-    "url": "https://nl.linkedin.com/jobs/tnw-jobs?trk=expired_jd_redirect",
-    "date": "2026-08-24T06:49:25.407649"
-  },
-  "3d21f1dbc5f97c1bb9506d0d9ab189ce": {
-    "title": "Vacature voor een functie als Deployment Strategist - Public Sector, Nonprofit & Education bij Salesforce in Amsterdam | Glassdoor",
-    "company": "Salesforce In Amsterdam",
-    "url": "https://www.glassdoor.nl/job-listing/deployment-strategist-public-sector-nonprofit-education-salesforce-JV_IC3064478_KO0,55_KE56,66.htm?jl=1010216535191",
-    "date": "2026-08-24T06:49:29.166100"
-  },
-  "abc32356ca0774ebd7feefdfe6ca1f44": {
-    "title": "Vacature voor een functie als AI Deployment Strategist bij Mistral AI in Amsterdam | Glassdoor",
-    "company": "Mistral Ai In Amsterdam",
-    "url": "https://www.glassdoor.nl/job-listing/ai-deployment-strategist-mistral-ai-JV_IC3064478_KO0,24_KE25,35.htm?jl=1010206881603",
-    "date": "2026-08-24T06:49:29.166134"
-  },
-  "cdc19acbfafc681248bc1944a56a9d7e": {
-    "title": "AI R&D Engineer in Amsterdam bij Software Improvement Group | Magnet.me | #1019974 (nl)",
-    "company": "Software Improvement Group",
-    "url": "https://magnet.me/nl-NL/vacature/1019974/ai-r-d-engineer",
-    "date": "2026-08-24T06:49:40.709102"
-  },
-  "e35416f43b46b54eb93805c7499f2a6e": {
-    "title": "Android Developer in Alkmaar bij CODE D'AZUR | Magnet.me | #1037366 (nl)",
-    "company": "Code D'Azur",
-    "url": "https://magnet.me/nl-NL/vacature/1037366/android-developer",
-    "date": "2026-08-24T06:49:40.709172"
-  },
   "be95fe1df16a861b54232d381e56658e": {
     "title": "Senior Process and AI Enabler - magnet.me",
     "company": "magnet.me",
@@ -4018,5 +3988,47 @@
     "company": "Werken in AI",
     "url": "https://werkeninai.nl/over-ons/",
     "date": "2026-10-22T11:06:02.461478"
+  },
+  "74b38d39821c8bc647b639d7f3925e8d": {
+    "title": "AI Engineering Internship in Amsterdam bij Accenture | Magnet.me",
+    "company": "Accenture",
+    "url": "https://magnet.me/nl-NL/vacature/1099392/ai-engineering-internship",
+    "date": "2026-10-23T10:57:29.224357"
+  },
+  "6bcd435b0db8e24698583efdb49e52be": {
+    "title": "Senior AI Solutions & Delivery Manager - magnet.me",
+    "company": "magnet.me",
+    "url": "https://magnet.me/nl-NL/vacature/1098265/senior-ai-solutions---delivery-manager",
+    "date": "2026-10-23T10:57:29.224371"
+  },
+  "e577d50008bb515004ca5a5b54e329bd": {
+    "title": "AI Engineer in Rotterdam bij Capgemini | Magnet.me",
+    "company": "Capgemini",
+    "url": "https://magnet.me/nl-NL/vacature/1097382/ai-engineer",
+    "date": "2026-10-23T10:57:37.775301"
+  },
+  "164b11dea7024c3e4e9dd09e3dd337d1": {
+    "title": "AI Engineer in Groningen bij ilionx | Magnet.me | #1097944 (nl)",
+    "company": "Ilionx",
+    "url": "https://magnet.me/nl-NL/vacature/1097944/ai-engineer",
+    "date": "2026-10-23T10:57:37.775365"
+  },
+  "eade9c736c5ad54476e2ab65304e14db": {
+    "title": "Product Owner Finn AI - Bunq - ... - Werken in AI",
+    "company": "Werken in AI",
+    "url": "https://werkeninai.nl/product-owner-finn-ai-bunq/",
+    "date": "2026-10-23T10:58:12.504106"
+  },
+  "c1171467fd7e598aa26475292c638a4a": {
+    "title": "Machine Learning Engineer \u2013 Achmea - Werken in AI",
+    "company": "Werken in AI",
+    "url": "https://werkeninai.nl/machine-learning-engineer-achmea/",
+    "date": "2026-10-23T10:58:34.567200"
+  },
+  "da3c7962fbf70a7546267943cca995b0": {
+    "title": "AI Adoption - Stage in Amsterdam bij Van Lanschot Kempen ...",
+    "company": "Van Lanschot Kempen ...",
+    "url": "https://magnet.me/nl-NL/vacature/1097727/ai-adoption---stage",
+    "date": "2026-10-23T10:58:51.268292"
   }
 }
