@@ -10802,18 +10802,18 @@
   {
     "job": {
       "id": "13eec06675d2a82202ec455a8cbefc5b",
-      "title": "2.066 vacatures voor ai specialist in Nederland | Glassdoor",
+      "title": "3.107 vacatures voor ai specialist in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,23.htm",
-      "snippet": "Zoek vacatures voor Ai specialist in Nederland met bedrijfsreviews en salarissen. 2.066 vacatures voor Ai specialist in Nederland.",
+      "snippet": "Zoek vacatures voor Ai specialist in Nederland met bedrijfsreviews en salarissen. 3.107 vacatures voor Ai specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-06-08T10:30:48.278837"
+      "date_found": "2026-10-24T10:13:46.064236"
     },
     "score": 0,
-    "reason": "Generic search results aggregation page (2,066 AI Specialist listings). Not a specific job listing. Cannot evaluate without actual vacancy details.",
-    "embed_sim": 0.2392614185810089,
-    "ai_native_score": 0.6125544309616089
+    "reason": "API error",
+    "embed_sim": 0.26496151089668274,
+    "ai_native_score": 0.6325973272323608
   },
   {
     "job": {
@@ -27368,11 +27368,11 @@
       "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-treehouse-nl-4434108451",
       "snippet": "Je verbindt disciplines \u2014 engineering, product, data en business \u2014 en zorgt dat AI-initiatieven niet op een eiland blijven liggen. Je jaagt versnelling aan \u00e9n faciliteert die: je tilt de AI-werkwijze van onze engineers naar een hoger niveau en helpt teams effectiever met tooling als Cursor en Claude te werken.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-15T06:31:24.340331"
+      "date_found": "2026-10-24T10:13:17.539870"
     },
-    "score": 9,
-    "reason": "Near-perfect match: TreeHouse AI Engineer role explicitly mentions lifting AI workflow, helping teams use Cursor and Claude, bridging disciplines (engineering/product/data), and facilitating tooling adoption. Rotterdam is ~60km (slightly outside preference but close enough). Exact role candidate seeks.",
-    "embed_sim": 0.38500311970710754,
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3850031793117523,
     "ai_native_score": 0.7048571705818176
   },
   {
@@ -35710,5 +35710,117 @@
     "reason": "API error",
     "embed_sim": 0.21225422620773315,
     "ai_native_score": 0.752027690410614
+  },
+  {
+    "job": {
+      "id": "9e56f2a36aedb5ec1eec3b0857e639be",
+      "title": "fulltime - Pagina 4 van 5 - Werken in AI",
+      "company": "Werken in AI",
+      "location": "Amsterdam",
+      "url": "https://werkeninai.nl/tag/fulltime/page/4/",
+      "snippet": "Technical Specialist AI \u2013 Loyens & Loeff Vacature: Loyens & Loeff in Amsterdam zoekt een Technical Specialist AI | Fulltime | Startdatum: onbekend 25/08/2024",
+      "source": "ddg:werkeninai",
+      "date_found": "2026-10-24T10:12:53.050524"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.47328662872314453,
+    "ai_native_score": 0.6178674697875977
+  },
+  {
+    "job": {
+      "id": "5b6159584da5bc599aef31bcf3adb647",
+      "title": "1.450 vacature(s) voor Ai consultant in Nederland - Glassdoor",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-consultant-vacatures-SRCH_KO0,13.htm",
+      "snippet": "Zoek vacatures voor Ai consultant. Vind de juiste vacature voor Ai consultant met bedrijfsreviews en salarissen. 1.450 vacatures voor Ai consultant.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-24T10:13:05.432667"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.20797216892242432,
+    "ai_native_score": 0.6046603918075562
+  },
+  {
+    "job": {
+      "id": "b4636b1e0657d75b7c2640c3f8783572",
+      "title": "AI Engineer(EN) bij Van Lanschot Kempen - LinkedIn",
+      "company": "Van Lanschot Kempen - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-en-at-van-lanschot-kempen-4478906424",
+      "snippet": "4 days ago \u00b7 You thrive on working with data engineers and data scientists and helping them embrace a software engineering mindset. You enjoy coaching and training others, sharing best practices, and enabling teams to continuously improve their engineering skills and ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-24T10:13:09.847044"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5811331272125244,
+    "ai_native_score": 0.7669396996498108
+  },
+  {
+    "job": {
+      "id": "1e96a54fb12a0bcf0b999541c943d8a1",
+      "title": "McKinsey & Company zoekt een Consultant - Service ...",
+      "company": "Service ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/consultant-service-operations-at-mckinsey-company-4288929535",
+      "snippet": "You will work with cross-functional teams to explore AI-native operating models, integrate intelligent agents into service ecosystems, and help client\u2019s future-proof their service strategies by...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-24T10:13:09.847077"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32166343927383423,
+    "ai_native_score": 0.43197548389434814
+  },
+  {
+    "job": {
+      "id": "4da178e58fad4e5f512e9c8514868987",
+      "title": "Senior Engineer \u2013 AI-Native IDE & Agentic Developer Tooling",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-engineer-\u2013-ai-native-ide-agentic-developer-tooling-at-sparagus-4476588196?position=23",
+      "snippet": "Responsibilities Build working prototypes and technical demos for AI-native IDE and developer-tooling capabilities. Explore how modern coding agents handle context, tool use, planning, orchestration and verification. Design and prototype AI-assisted and agentic developer workflows that improve developer productivity and experience.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-24T10:13:17.539838"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.6747021079063416,
+    "ai_native_score": 0.8217942714691162
+  },
+  {
+    "job": {
+      "id": "53c10ff8b8f0aa717e88ab4165d8d744",
+      "title": "Qogita zoekt een Software Engineer in Amsterdam | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-at-qogita-4479590268",
+      "snippet": "You're a Software Engineer with 2 to 5 years of experience who builds scalable systems, thinks in product outcomes, and uses AI models and coding agents effectively as part of daily engineering...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-24T10:13:17.539892"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.31802111864089966,
+    "ai_native_score": 0.6176286935806274
+  },
+  {
+    "job": {
+      "id": "8e54a6a0d2d830638fde76404454177c",
+      "title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-applied-ai-engineer-\u2013-agent-runtime-alwin-by-datasnipper-at-datasnipper-4467213036",
+      "snippet": "We are looking for a Senior Applied AI Engineer to join the Agent Runtime team behind Alwin, our new Agentic Automation Platform for audit and finance. Alwin agents run for long times, work through multi-step audit procedures over client evidence, and return finished work papers with every number traced back to source. Humans review and sign off.The runtime is the layer every agent depends on ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-24T10:13:17.539908"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44707971811294556,
+    "ai_native_score": 0.6828240752220154
   }
 ]
