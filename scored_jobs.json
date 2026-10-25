@@ -13362,18 +13362,18 @@
   {
     "job": {
       "id": "7a8fee0be1bca4ae53b1d01f613ea709",
-      "title": "Data Scientist - RTL Nederland - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Data Scientist \u2013 RTL Nederland - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-scientist-rtl-nederland/",
-      "snippet": "September 16, 2024 - The ability to build good and ... in the Netherlands and eligible for work in the Netherlands. You have at least 2 years of work experience....",
+      "snippet": "You help others at RTL and beyond understand how we use data science and AI in production and at scale. You mentor, develop, and inspire your colleagues in the team with technical expertise and keep an eye out for improvement opportunities for the long term.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-22T06:33:36.769122"
+      "date_found": "2026-10-25T10:37:49.171610"
     },
-    "score": 2,
-    "reason": "Data Scientist role at RTL Nederland. Requires data science background and ML expertise. Candidate explicitly does not want pure data science/ML positions. Listing is also from September 2024 (expired/outdated).",
-    "embed_sim": 0.31259822845458984,
-    "ai_native_score": 0.6153504848480225
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4603279232978821,
+    "ai_native_score": 0.661350667476654
   },
   {
     "job": {
@@ -24808,12 +24808,12 @@
       "url": "https://werkeninai.nl/page/5/",
       "snippet": "Ontdek de beste AI vacatures bij 'Werken in AI'. Voor alle professionals in AI. Blader door vacatures bij toonaangevende bedrijven, ontdek unieke carri\u00e8rekansen, en zet de volgende stap in je loopbaan.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-07-29T08:35:13.556875"
+      "date_found": "2026-10-25T10:37:49.171560"
     },
     "score": 0,
-    "reason": "Generic job board landing page, not a specific job listing; no substantive role information",
-    "embed_sim": 0.212036594748497,
-    "ai_native_score": 0.7759051322937012
+    "reason": "API error",
+    "embed_sim": 0.21203653514385223,
+    "ai_native_score": 0.7759050130844116
   },
   {
     "job": {
@@ -35822,5 +35822,37 @@
     "reason": "API error",
     "embed_sim": 0.44707971811294556,
     "ai_native_score": 0.6828240752220154
+  },
+  {
+    "job": {
+      "id": "981343b8355abc8e9c878dbe86bca96d",
+      "title": "AI Engineer in Woerden bij ilionx | Magnet.me | #1097946 (nl)",
+      "company": "Ilionx",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097946/ai-engineer",
+      "snippet": "5 days ago \u00b7 Binnen ilionx en dan op een vestiging bij jou in de buurt werk je als AI Engineer aan het praktisch \u00e9n schaalbaar toepassen van AI bij onze klanten. Jij bouwt niet alleen slimme oplossingen, je helpt organisaties ook echt vooruit.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-25T10:37:41.267266"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27283525466918945,
+    "ai_native_score": 0.689003586769104
+  },
+  {
+    "job": {
+      "id": "4295f46e72a0a272fa1c5220ded6eb0e",
+      "title": "Onboarding & Adoption Specialist in Zoetermeer bij Roxit ...",
+      "company": "Roxit ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1098459/onboarding---adoption-specialist",
+      "snippet": "4 days ago \u00b7 Als Onboarding & Adoption Specialist ben jij de onmisbare schakel achter een geslaagde livegang: je combineert de functionele en technische configuratie van de software met het begeleiden van onze gebruikers.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-25T10:38:24.566631"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.282054603099823,
+    "ai_native_score": 0.6277756690979004
   }
 ]
