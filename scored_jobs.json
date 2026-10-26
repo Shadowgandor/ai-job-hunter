@@ -11474,18 +11474,18 @@
   {
     "job": {
       "id": "044f02737617af294f3b5c8d6b447be0",
-      "title": "Junior Machine Learning Engineer Digital - Albert Heijn - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Junior Machine Learning Engineer Digital - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/junior-machine-learning-engineer-digital-albert-heijn/",
-      "snippet": "August 26, 2024 - Vacature: Albert Heijn in Zaandam zoekt een Junior Machine Learning Engineer Digital voor 40 uur per week | Salaris: max. \u20ac4.000 |",
+      "snippet": "Do you want to impact millions of users by improving digital data science products at the biggest omni-channel food retailer in the Netherlands and Belgium? And at the same time you like to improve your technical and problem-solving skills working in a dedicated and enthusiastic team? Then we're looking for you! As a Junior Machine Learning Engineer at Albert Heijn Technology, you will be ...",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-10T07:25:07.019794"
+      "date_found": "2026-10-26T12:10:32.199829"
     },
     "score": 0,
-    "reason": "Junior Machine Learning Engineer position. Candidate is senior-level with 13 years experience. Junior role is not a match. ML engineering focus, not AI adoption enablement.",
-    "embed_sim": 0.3950556814670563,
-    "ai_native_score": 0.628474771976471
+    "reason": "API error",
+    "embed_sim": 0.48001354932785034,
+    "ai_native_score": 0.59576016664505
   },
   {
     "job": {
@@ -11522,18 +11522,18 @@
   {
     "job": {
       "id": "1576009901ba029157019ee2ff0532f2",
-      "title": "135 artificial intelligence vacatures | 25 augustus 2026 | Nationale ...",
-      "company": "25 augustus 2026",
+      "title": "150 artificial intelligence vacatures | 26 oktober 2026 ...",
+      "company": "26 oktober 2026 ...",
       "location": "",
       "url": "https://www.nationalevacaturebank.nl/vacatures/functie/artificial-intelligence",
       "snippet": "Wil jij aan de slag als Artificial intelligence? Bij Nationale Vacaturebank vind je een uitgebreid aanbod Artificial intelligence vacatures. Solliciteer direct!",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-25T06:41:08.210553"
+      "date_found": "2026-10-26T12:11:14.291956"
     },
     "score": 0,
-    "reason": "This is a job listing directory page, not a specific job posting. Cannot evaluate.",
-    "embed_sim": 0.2759034037590027,
-    "ai_native_score": 0.7019026875495911
+    "reason": "API error",
+    "embed_sim": 0.25192439556121826,
+    "ai_native_score": 0.6681323051452637
   },
   {
     "job": {
@@ -14354,18 +14354,18 @@
   {
     "job": {
       "id": "353b8c24ac5d9b81093b1b8ecc9b83e4",
-      "title": "MLOps Engineer - Picnic - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
-      "location": "Amsterdam",
+      "title": "MLOps Engineer - Picnic - Werken in AI",
+      "company": "Werken in AI",
+      "location": "",
       "url": "https://werkeninai.nl/mlops-engineer-picnic/",
-      "snippet": "September 10, 2024 - Vacature: Picnic in Amsterdam zoekt een MLOps Engineer | Fulltime | Sluitingsdatum: onbekend.",
+      "snippet": "\ud83e\udd5c In a nutshell As a MLOps Engineer at Picnic, you'll work on building the tools and infrastructure to help our data scientists quickly build and productionize robust machine learning models.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-18T06:36:38.684050"
+      "date_found": "2026-10-26T12:10:32.199875"
     },
-    "score": 2,
-    "reason": "MLOps Engineer role focused on building/maintaining ML pipelines and infrastructure. Requires deep ML/Python expertise, model training knowledge, and data science background. Candidate is web developer wanting to enable AI adoption, not build ML systems. Also dated September 2024 with unclear closing date\u2014likely expired listing.",
-    "embed_sim": 0.2968888282775879,
-    "ai_native_score": 0.48408234119415283
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3811541795730591,
+    "ai_native_score": 0.4618777632713318
   },
   {
     "job": {
@@ -26754,18 +26754,18 @@
   {
     "job": {
       "id": "5e79372aa1ff21753c09300e2e335833",
-      "title": "10.947 vacatures voor ai in Nederland | Glassdoor",
+      "title": "12.261 vacatures voor ai in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-vacatures-SRCH_IL.0,9_IN178_KO10,12.htm",
-      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 10.947 vacatures voor Ai in Nederland.",
+      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.261 vacatures voor Ai in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-12T07:19:03.738087"
+      "date_found": "2026-10-26T12:11:47.440879"
     },
     "score": 0,
-    "reason": "Generic job board search results page listing 10,947 vacancies. Not an actual job listing. Cannot score.",
-    "embed_sim": 0.11103911697864532,
-    "ai_native_score": 0.6177257299423218
+    "reason": "API error",
+    "embed_sim": 0.11278770864009857,
+    "ai_native_score": 0.6234836578369141
   },
   {
     "job": {
@@ -28104,12 +28104,12 @@
       "url": "https://werkeninai.nl/machine-learning-engineer-rijksoverheid/",
       "snippet": "Het CC-AI is een virtueel team en bestaat uit collega's vanuit verschillende teams en/of afdelingen binnen DICTU. Ben jij een ambitieuze machine learning engineer en wil je AI inzetten voor een verbetere dienstverlening van de Nederlandse overheid?",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-25T06:41:24.940311"
+      "date_found": "2026-10-26T12:10:32.199793"
     },
-    "score": 2,
-    "reason": "Machine Learning Engineer role at Rijksoverheid (Dutch government). Requires ML expertise to build/train models, not focused on helping dev teams adopt AI tools. Wrong profile.",
-    "embed_sim": 0.399855375289917,
-    "ai_native_score": 0.7656463384628296
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3998553156852722,
+    "ai_native_score": 0.7656463980674744
   },
   {
     "job": {
@@ -35854,5 +35854,101 @@
     "reason": "API error",
     "embed_sim": 0.282054603099823,
     "ai_native_score": 0.6277756690979004
+  },
+  {
+    "job": {
+      "id": "e8f77fcfb9bd24651286ee8ae81877cb",
+      "title": "Senior AI Engineer in Amsterdam bij Altura | Magnet.me",
+      "company": "Altura",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1077829/senior-ai-engineer",
+      "snippet": "Sep 1, 2026 \u00b7 Join Altura to help build AI-powered software that automates the entire bid lifecycle. At Altura, we\u2019re making it easier for organisations to win complex deals (tenders and RfPs). With our AI-powered platform, we simplify bid management by turning it into a smooth, strategic process.",
+      "source": "ddg:magnet",
+      "date_found": "2026-10-26T12:10:50.204369"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4187835454940796,
+    "ai_native_score": 0.6240822672843933
+  },
+  {
+    "job": {
+      "id": "9b72431902a7e08478223c728e82fc2e",
+      "title": "Senior Engineer \u2013 AI-Native DevEco IDE & Agentic Developer ...",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/senior-engineer-\u2013-ai-native-deveco-ide-agentic-developer-tooling-at-huawei-nederland-4470401481?position=35",
+      "snippet": "Develop concepts for AI-assisted and agentic developer workflows that improve productivity and developer experience. Collaborate with universities, open-source communities, researchers, and industry partners. Work closely with the Amsterdam Team Lead and DevEco HQ to influence technical direction and future product capabilities.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-26T12:11:04.780975"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5709670782089233,
+    "ai_native_score": 0.7707392573356628
+  },
+  {
+    "job": {
+      "id": "739302377d836fb7a2c2cd3f12da2f74",
+      "title": "Cargill zoekt een Senior Application Developer - SAP/ERP ...",
+      "company": "SAP/ERP ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-application-developer-sap-erp-warehouse-management-at-cargill-4454690269",
+      "snippet": "The role combines SAP domain expertise with modern software engineering practices, including integrations, automation, DevOps practices and AI-enabled engineering productivity.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-26T12:11:04.780990"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3231004774570465,
+    "ai_native_score": 0.49986591935157776
+  },
+  {
+    "job": {
+      "id": "cacc6972ffaa0e5903aa784ea5ef7da4",
+      "title": "AI-vacatures in Utrecht (226) | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "Utrecht",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/utrecht-nederland",
+      "snippet": "Bekijk 226 AI-vacatures in Utrecht, van machine learning tot data science. Filter op werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-26T12:11:14.291905"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2321998029947281,
+    "ai_native_score": 0.6245841979980469
+  },
+  {
+    "job": {
+      "id": "bfd8b36ac4a8a84fffccd3439754e87d",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 26 oktober 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=20d609c4be444d7c",
+      "snippet": "Ai Developer vacatures. Ai Developer, Full Stack Developer, Ai Model Developer en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-26T12:11:42.727794"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.40494561195373535,
+    "ai_native_score": 0.6737136244773865
+  },
+  {
+    "job": {
+      "id": "1c5b8245967f886eb4a43ecb974d2aa7",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 26 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=1df8ef8edd19c63b",
+      "snippet": "A strong understanding of APIs, integrations and workflow automation. Experience taking AI or automation solutions beyond demonstrations and into production.",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-26T12:11:42.727874"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.35658806562423706,
+    "ai_native_score": 0.5949606895446777
   }
 ]
