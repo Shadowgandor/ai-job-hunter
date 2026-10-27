@@ -9570,18 +9570,18 @@
   {
     "job": {
       "id": "73ed9664938f564a78885615f6f63fa6",
-      "title": "Meer dan 1.000 vacatures voor Artificial Intelligence ...",
+      "title": "Vacatures voor Artificial Intelligence Engineer in Nederland ...",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/artificial-intelligence-engineer-jobs",
-      "snippet": "Meer dan 1.000 topvacatures voor Artificial Intelligence Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Artificial Intelligence Engineer toegevoegd.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-08-06T08:29:38.385508"
+      "snippet": "1,000+ topvacatures voor Artificial Intelligence Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Artificial...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:32:31.536274"
     },
     "score": 0,
-    "reason": "Job search aggregator, not a specific vacancy; no actual job posting",
-    "embed_sim": 0.24889172613620758,
-    "ai_native_score": 0.7504523396492004
+    "reason": "API error",
+    "embed_sim": 0.2508500814437866,
+    "ai_native_score": 0.6746498942375183
   },
   {
     "job": {
@@ -35950,5 +35950,85 @@
     "reason": "API error",
     "embed_sim": 0.35658806562423706,
     "ai_native_score": 0.5949606895446777
+  },
+  {
+    "job": {
+      "id": "f77f61bce6143148b771995184d464d5",
+      "title": "Enjins zoekt een AI Engineer in Utrecht | LinkedIn",
+      "company": "LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-enjins-4418974718?position=49",
+      "snippet": "Are you curious about AI and ready to move beyond research - building robust, production-ready solutions that tackle real challenges in Climate Tech? At Enjins, we bring a Software Engineering mindset to everything from traditional ML models to modern LLMs and Agentic architectures.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:32:31.536283"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3935246765613556,
+    "ai_native_score": 0.5946399569511414
+  },
+  {
+    "job": {
+      "id": "dc9a2abd848978dbfff0f86daa65e580",
+      "title": "Senior Adoptiespecialist - Digitale Werkplek - Jobbird.com",
+      "company": "Jobbird.com",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-adoptiespecialist-digitale-werkplek-jobbird-com-at-jobster-4447606003",
+      "snippet": "Je maakt deel uit van het Adoption & Analyticsteam: een nieuw, hecht en ambitieus team dat zich richt op het verhogen van digitale vaardigheden en het ontwikkelen van adoptiestrategie\u00ebn op basis...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:32:48.041457"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.1508459448814392,
+    "ai_native_score": 0.7126078605651855
+  },
+  {
+    "job": {
+      "id": "2a87896c1bec519c9e860bfa125508fd",
+      "title": "Huawei Nederland zoekt een Senior Engineer \u2013 AI ... - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-engineer-\u2013-ai-native-deveco-ide-agentic-developer-tooling-at-huawei-nederland-4470401481?position=55",
+      "snippet": "Contributions to developer-tools, AI coding, research, or open-source communities. Experience working with developer ecosystems that have limited tooling, documentation, or training data.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:33:09.777990"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4387434720993042,
+    "ai_native_score": 0.6448741555213928
+  },
+  {
+    "job": {
+      "id": "3bed9ecbcede8028d49300412fe6857e",
+      "title": "People Operations, AI & HR Systems Lead - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/people-operations-ai-hr-systems-lead-at-polaroid-4469534869",
+      "snippet": "Experience working in a fast-paced, scaling environment, ideally within a technology-led company, scale-up or start-up. Experience in People Operations or a generalist HR role focused on making things run, building from scratch, fixing broken processes, and keeping the operational side of a People function healthy at scale.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:33:13.861491"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3746851682662964,
+    "ai_native_score": 0.641353189945221
+  },
+  {
+    "job": {
+      "id": "9c1294fcb1991c85c6d294ff3117d6ba",
+      "title": "Marketing Operations Team Lead bij team.blue - Amsterdam ...",
+      "company": "Team.Blue - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/marketing-operations-team-lead-at-team-blue-4465341251",
+      "snippet": "Track record of evaluating and rolling out AI-assisted tooling within a marketing or ops function - not just using AI, but having driven adoption across a team or organisation and being able to...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-27T11:33:13.861524"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.34508591890335083,
+    "ai_native_score": 0.6171258091926575
   }
 ]
