@@ -12194,18 +12194,18 @@
   {
     "job": {
       "id": "4690f98e200357f1745946d75d0b33a6",
-      "title": "400+ vacatures voor Adoptie en werk: 4 maart 2026| Indeed",
+      "title": "700+ vacatures voor Adoptie en werk: 21 oktober 2026| Indeed",
       "company": "",
-      "location": "Bunnik",
+      "location": "",
       "url": "https://nl.indeed.com/Adoptie-vacatures",
-      "snippet": "Alle vacatures voor XTRM development - Bunnik vacatures - vacatures voor Specialist (m/v) in Bunnik bekijken \u00b7 Zoeken op salaris: ADOPTIE SPECIALIST salarissen in Bunnik \u00b7 Als AI Automation Expert ontwikkel en implementeer je slimme workflows, AI-tools en automatiseringen die ons team helpen ...",
+      "snippet": "Adoptie vacatures. Sociotherapeut, Begeleider, Medewerker Klantenservice en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-08-21T06:39:05.388358"
+      "date_found": "2026-10-28T12:03:07.158038"
     },
     "score": 0,
-    "reason": "This is a search results aggregation page, not an actual job listing. Only generic snippet about 'AI Automation Expert' with no concrete role details or company information.",
-    "embed_sim": 0.21076244115829468,
-    "ai_native_score": 0.5742329359054565
+    "reason": "API error",
+    "embed_sim": 0.0957484319806099,
+    "ai_native_score": 0.6021978259086609
   },
   {
     "job": {
@@ -16002,18 +16002,18 @@
   {
     "job": {
       "id": "2dd468515ff2fa5fad3e204b4674e444",
-      "title": "Architect Analytics and AI - Rituals - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Architect Analytics and AI - Rituals - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/architect-analytics-and-ai-rituals/",
-      "snippet": "August 26, 2024 - \u2013 Define and document the architecture and design of data solutions, such as data pipelines, data models, data marts, and AI models \u00b7 \u2013 Provide guidance and support to data engineers and developers in building and deploying data solutions, reviewing and optimizing the solutions for performance, quality, and security",
+      "snippet": "Working closely together with several other teams directly using the data we provide, we rely on your superb communication skills to foster that connection and collaboration. You will be part of our Analytics and AI team, working with Google cloud as our central hub for all data products.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-23T09:33:18.013825"
+      "date_found": "2026-10-28T12:02:15.376734"
     },
-    "score": 1,
-    "reason": "Architect Analytics and AI role focused on building data pipelines, data models, and AI models\u2014classic data engineering/ML architecture. Not about enabling dev teams with AI tools.",
-    "embed_sim": 0.46547335386276245,
-    "ai_native_score": 0.4521908760070801
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4521985650062561,
+    "ai_native_score": 0.5339643955230713
   },
   {
     "job": {
@@ -28530,18 +28530,18 @@
   {
     "job": {
       "id": "d66d61c951427712c7d98563613ec3f9",
-      "title": "ai developer vacatures",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 26 oktober 2026 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=359103a020796a29",
       "snippet": "The AI Builder Experience AI-Powered Development: You'll be developing real customer solutions with the best-in-class suite of leading-edge AI tools: Including Cursor, Claude, and our coding products like Vibes , to accelerate development.",
       "source": "ddg:indeed",
-      "date_found": "2026-08-27T17:17:12.572399"
+      "date_found": "2026-10-28T12:02:36.414896"
     },
     "score": 0,
-    "reason": "Generic job board search result page, not a specific job listing. Mentions Cursor and Claude but lacks location, company details, and actual job posting.",
-    "embed_sim": 0.4589703679084778,
-    "ai_native_score": 0.7287659049034119
+    "reason": "API error",
+    "embed_sim": 0.3643559217453003,
+    "ai_native_score": 0.676263153553009
   },
   {
     "job": {
@@ -36030,5 +36030,53 @@
     "reason": "API error",
     "embed_sim": 0.34508591890335083,
     "ai_native_score": 0.6171258091926575
+  },
+  {
+    "job": {
+      "id": "103e1d303c2fff0d91aef055251cf2e0",
+      "title": "Vacature voor een functie als AI Engineer bij FlairsTech in ...",
+      "company": "Flairstech In ...",
+      "location": "",
+      "url": "https://www.glassdoor.nl/job-listing/ai-engineer-flairstech-JV_IC3438985_KO0,11_KE12,22.htm?jl=1010263828964",
+      "snippet": "Tooling Strategy & Enablement Evaluate new AI tooling, models, and agent frameworks for internal use, and recommend what's worth adopting. Create documentation, examples, and lightweight training so both engineers and business teams can build on and extend Skills and internal tooling themselves.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-28T12:02:40.538158"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.38051944971084595,
+    "ai_native_score": 0.7044523358345032
+  },
+  {
+    "job": {
+      "id": "c177e4ce5785df1f413a5a789a789243",
+      "title": "75+ vacatures voor Junior Ai Engineer en werk: 27 oktober ...",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-junior-ai-engineer-vacatures.html?vjk=c65e04d204c5b0a3",
+      "snippet": "Alle vacatures voor Capgemini - Utrecht vacatures - vacatures voor AI Engineer in Utrecht bekijken Zoeken op salaris: Junior AI Solution Engineer salarissen in Utrecht Zie veelgestelde vragen en antwoorden over Capgemini",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-28T12:03:11.837660"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.1934308260679245,
+    "ai_native_score": 0.6415289044380188
+  },
+  {
+    "job": {
+      "id": "c7a1388046d5a1f248d67c7d1c7c46ec",
+      "title": "AI Tooling Engineer bij Jobgether - Nederland - LinkedIn",
+      "company": "Jobgether - Nederland - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-tooling-engineer-at-jobgether-4480775768",
+      "snippet": "We are looking for an AI Tooling Engineer to develop and scale an internal agentic platform that brings together company knowledge, data, and tools in one secure, accessible environment.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-10-28T12:03:33.967694"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.6199580430984497,
+    "ai_native_score": 0.6746308207511902
   }
 ]
