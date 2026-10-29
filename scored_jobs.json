@@ -7458,18 +7458,18 @@
   {
     "job": {
       "id": "79cc0730bc7f8696570bd263af542d5a",
-      "title": "910 vacatures voor Ai Engineer in Nederland - LinkedIn",
+      "title": "Meer dan 3.000 vacatures voor Ai Engineer in Nederland - LinkedIn",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/ai-engineer-jobs",
-      "snippet": "910 Ai Engineer vacatures in Nederland \u00b7 Artificial Intelligence Engineer \u00b7 Artificial Intelligence Engineer \u00b7 Machine Learning Engineer \u00b7 Machine Learning Engineer.",
+      "snippet": "3.000+ topvacatures voor Ai Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Ai Engineer toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-05-28T09:56:45.436105"
+      "date_found": "2026-10-29T12:13:32.894604"
     },
     "score": 0,
-    "reason": "Generic LinkedIn search results page, not a specific job listing \u2014 cannot evaluate",
-    "embed_sim": 0.34216803312301636,
-    "ai_native_score": 0.6966532468795776
+    "reason": "API error",
+    "embed_sim": 0.2795524001121521,
+    "ai_native_score": 0.6888144016265869
   },
   {
     "job": {
@@ -13394,18 +13394,18 @@
   {
     "job": {
       "id": "5c2b9a679fea31ce1984b3605321efc5",
-      "title": "66 vacatures voor artificial intelligence engineer in Nederland | Glassdoor",
-      "company": "Glassdoor",
-      "location": "Utrecht",
+      "title": "82 vacature (s) voor Artificial intelligence engineer in Nederland",
+      "company": "",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,42.htm",
-      "snippet": "Vacatures voor machine learning engineer (m/v/x) in UtrechtVacatures in UtrechtVacatures bij Capgemini in Utrecht ... Je ontwikkelt AI-oplossingen, workflows en applicaties die bijdragen aan effici\u00ebntere processen, hogere kwaliteit en betere besluitvorming.\u2026",
-      "source": "ddg:web-nl",
-      "date_found": "2026-08-28T18:09:43.638983"
+      "snippet": "Zoek vacatures voor Artificial intelligence engineer in Nederland met bedrijfsreviews en salarissen. 82 vacatures voor Artificial intelligence engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-29T12:12:56.740768"
     },
     "score": 0,
-    "reason": "Generic search results page aggregating multiple vacancies, not a specific job. Reference to 'machine learning engineer' and 'AI-oplossingen ontwikkelen' suggests technical ML builder roles, not adoption/enablement.",
-    "embed_sim": 0.22741176187992096,
-    "ai_native_score": 0.5800660848617554
+    "reason": "API error",
+    "embed_sim": 0.316356897354126,
+    "ai_native_score": 0.6956857442855835
   },
   {
     "job": {
@@ -14450,18 +14450,18 @@
   {
     "job": {
       "id": "4061d740fc060bcbcdb7da768713ffa5",
-      "title": "44 vacatures voor artificial intelligence developer in ...",
+      "title": "45 vacatures voor artificial intelligence developer in ...",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-artificial-intelligence-developer-vacatures-SRCH_IL.0,9_IN178_KO10,43.htm",
-      "snippet": "Zoek vacatures voor Artificial intelligence developer in Nederland met bedrijfsreviews en salarissen. 44 vacatures voor Artificial intelligence developer in Nederland.",
+      "snippet": "Zoek vacatures voor Artificial intelligence developer in Nederland met bedrijfsreviews en salarissen. 45 vacatures voor Artificial intelligence developer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-26T06:42:09.398549"
+      "date_found": "2026-10-29T12:13:14.644000"
     },
     "score": 0,
-    "reason": "This is a Glassdoor search results page listing 44 jobs, not an actual job posting. Cannot evaluate a job board index page.",
-    "embed_sim": 0.25021451711654663,
-    "ai_native_score": 0.6385900974273682
+    "reason": "API error",
+    "embed_sim": 0.24203965067863464,
+    "ai_native_score": 0.6753522157669067
   },
   {
     "job": {
@@ -14546,18 +14546,18 @@
   {
     "job": {
       "id": "7600b724b19ffb17da3642149c98d5be",
-      "title": "497 vacature (s) voor Ai software developer in Nederland",
-      "company": "",
+      "title": "518 vacatures voor ai software developer in Nederland | Glassdoor",
+      "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-software-developer-vacatures-SRCH_IL.0,9_IN178_KO10,31.htm",
-      "snippet": "Zoek vacatures voor Ai software developer in Nederland met bedrijfsreviews en salarissen. 497 vacatures voor Ai software developer in Nederland.",
+      "snippet": "Zoek vacatures voor Ai software developer in Nederland met bedrijfsreviews en salarissen. 518 vacatures voor Ai software developer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-26T06:42:09.398535"
+      "date_found": "2026-10-29T12:13:14.643937"
     },
     "score": 0,
-    "reason": "This is a Glassdoor search results page listing 497 jobs, not an actual job posting. Cannot evaluate a job board index page.",
-    "embed_sim": 0.26053792238235474,
-    "ai_native_score": 0.6643933057785034
+    "reason": "API error",
+    "embed_sim": 0.32297277450561523,
+    "ai_native_score": 0.7144379019737244
   },
   {
     "job": {
@@ -36078,5 +36078,69 @@
     "reason": "API error",
     "embed_sim": 0.6199580430984497,
     "ai_native_score": 0.6746308207511902
+  },
+  {
+    "job": {
+      "id": "ad95b6d4bb8e02b2d197bf52cc90000c",
+      "title": "Artificial Intelligence Engineer bij VitalSail - Middelharnis ...",
+      "company": "Vitalsail - Middelharnis ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-vitalsail-4476925817",
+      "snippet": "Oct 7, 2026 \u00b7 The Artificial Intelligence Engineer will also help evaluate new AI tools, contribute to best practices for AI governance, and support internal training and knowledge sharing. Qualifications Strong foundation in Computer Science and Software Development, including data structures, algorithms, and clean coding practices.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-29T12:13:32.894577"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5559536218643188,
+    "ai_native_score": 0.7747907638549805
+  },
+  {
+    "job": {
+      "id": "15225972e93f833806e565c9cb51b596",
+      "title": "1.000+ vacatures voor Ai Transformation en werk: 28 oktober ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-transformation-vacatures.html?vjk=f8b5147405e67285",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzword \u2014 it\u2019s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-10-29T12:13:58.982129"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3050966262817383,
+    "ai_native_score": 0.6031824946403503
+  },
+  {
+    "job": {
+      "id": "0ad494e66cdb98b2373d101572406fc3",
+      "title": "AI Enablement Engineer bij ScreenPoint Medical - Nijmegen ...",
+      "company": "Screenpoint Medical - Nijmegen ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-enablement-engineer-at-screenpoint-medical-4474712292",
+      "snippet": "Oct 2, 2026 \u00b7 Solliciteer naar AI Enablement Engineer bij ScreenPoint Medical in Nijmegen. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-29T12:14:12.128769"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3177119493484497,
+    "ai_native_score": 0.7198430895805359
+  },
+  {
+    "job": {
+      "id": "801f0958f05108e03f614ba51302ab05",
+      "title": "Robin Radar Systems zoekt een AI Enablement Engineer in Delft ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-enablement-engineer-at-robin-radar-systems-4473502122",
+      "snippet": "As our AI Enablement Engineer, you are the hands-on engine helping colleagues across the company build and deploy working GenAI solutions. You work side-by-side with Operations, Finance, Marketing, and Engineering teams \u2013 unblocking technical hurdles, building rapid prototypes, and showcasing plug-and-play setups.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-29T12:14:12.128796"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3079870343208313,
+    "ai_native_score": 0.5652409195899963
   }
 ]
