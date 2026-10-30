@@ -13378,18 +13378,18 @@
   {
     "job": {
       "id": "4008b6549e253240a4c38b00db3c6c57",
-      "title": "Senior NLP/LLM Data Scientist - ING - \ud83e\udd16 Werken in AI",
-      "company": "\ud83e\udd16 Werken in AI",
+      "title": "Senior NLP/LLM Data Scientist \u2013 ING - Werken in AI",
+      "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/senior-nlp-llm-data-scientist-ing/",
-      "snippet": "August 26, 2024 - Traditional ML models and Gen AI solutions are used to detect, mitigate and to effectively tackle the risk of financial crime for our customers and our society, making us a safer and more compliant bank. Our tribe consists of more than two dozen data scientists, engineers, data analysts, and customer journey experts, working together to deliver innovative solutions in our domain across multiple countries.",
+      "snippet": "Familiarity with Agile Scrum way of working Nice To Have Experience with Google Cloud Platform Experience with applying NLP in banking domain Knowledge of DevOps practices including Git and CI/CD Experience with CI/CD for Machine Learning pipeline (CD4ML). Experience with traditional ML algorithms is a plus Rewards & Benefits",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-16T06:34:21.851367"
+      "date_found": "2026-10-30T12:03:04.854269"
     },
-    "score": 2,
-    "reason": "Senior NLP/LLM Data Scientist at ING. Requires deep ML expertise (traditional ML models, Gen AI solutions, financial crime detection). This is a data scientist role, not AI adoption/enablement. Wrong specialization despite seniority level.",
-    "embed_sim": 0.3943149745464325,
-    "ai_native_score": 0.5276141166687012
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4693427085876465,
+    "ai_native_score": 0.5074688792228699
   },
   {
     "job": {
@@ -36142,5 +36142,117 @@
     "reason": "API error",
     "embed_sim": 0.3079870343208313,
     "ai_native_score": 0.5652409195899963
+  },
+  {
+    "job": {
+      "id": "1e6c39fc24b77a8bedfded73b19be25a",
+      "title": "2.387 vacature (s) voor Tooling in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/tooling-vacatures-SRCH_KO0,7.htm",
+      "snippet": "Zoek vacatures voor Tooling. Vind de juiste vacature voor Tooling met bedrijfsreviews en salarissen. 2.387 vacatures voor Tooling.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-10-30T12:03:14.025746"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.11833058297634125,
+    "ai_native_score": 0.5964452028274536
+  },
+  {
+    "job": {
+      "id": "ed4b0d7ddcbe211ebb1eae9360c2359e",
+      "title": "Agentic AI Engineer bij g2 Recruitment - Nederland - LinkedIn",
+      "company": "G2 Recruitment - Nederland - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/agentic-ai-engineer-at-g2-recruitment-4477185855",
+      "snippet": "Solliciteer naar Agentic AI Engineer bij g2 Recruitment in Nederland. Contract Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:46.747985"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44890761375427246,
+    "ai_native_score": 0.7774590253829956
+  },
+  {
+    "job": {
+      "id": "b6106b83d92a00441cb8e598d03ce09e",
+      "title": "AI Engineer (m/w/d) bij Everience Benelux - Utrecht ...",
+      "company": "Everience Benelux - Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-m-w-d-at-everience-benelux-4476595294",
+      "snippet": "Oct 7, 2026 \u00b7 Solliciteer naar AI Engineer (m/w/d) bij Everience Benelux in Utrecht. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:46.747997"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.36051762104034424,
+    "ai_native_score": 0.6888712644577026
+  },
+  {
+    "job": {
+      "id": "39a9222211d2b5a9864a9a1e5f914d9e",
+      "title": "Junior AI Engineer bij FRISS - Utrecht, Nederland - LinkedIn",
+      "company": "Friss - Utrecht, Nederland - Linkedin",
+      "location": "Utrecht",
+      "url": "https://nl.linkedin.com/jobs/view/junior-ai-engineer-at-friss-4483567304",
+      "snippet": "4 days ago \u00b7 Solliciteer naar Junior AI Engineer bij FRISS in Utrecht, Nederland. Fulltime Medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:46.748007"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3557737469673157,
+    "ai_native_score": 0.6650921106338501
+  },
+  {
+    "job": {
+      "id": "22efea811402e8dd8871e36195ec22e9",
+      "title": "Data Engineer bij Stealth Startup - Amsterdam Area - LinkedIn",
+      "company": "Stealth Startup - Amsterdam Area - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-engineer-at-stealth-startup-4472825049",
+      "snippet": "Oct 1, 2026 \u00b7 What matters is engineering depth, comfort with ambiguity and an AI-native way of working. If building the data substrate that autonomous AI systems ultimately trust sounds like your kind of problem, please apply here.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:51.185121"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44998839497566223,
+    "ai_native_score": 0.5672448873519897
+  },
+  {
+    "job": {
+      "id": "4ed2d36e8db99d9c527b87e044cbc4d8",
+      "title": "Consultant | AI Engineer bij ADC Consulting - Amsterdam ...",
+      "company": "Adc Consulting - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/consultant-ai-engineer-at-adc-consulting-4483105515",
+      "snippet": "Oct 23, 2026 \u00b7 You stay on top of a fast-moving field by experimenting with new tools and models, bringing AI into your own way of working, and eager to share what you learn Proficiency in Python, with hands-on experience in GenAI/LLM application development and AI frameworks (such as LangChain, AutoGen, or LlamaIndex).",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:51.185174"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.47294870018959045,
+    "ai_native_score": 0.6158726215362549
+  },
+  {
+    "job": {
+      "id": "087f8b106f037732c1a6efafbd3c320a",
+      "title": "Microsoft AI Specialist - AI Agents & Microsoft AI Stack",
+      "company": "AI Agents & Microsoft AI Stack",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/microsoft-ai-specialist-ai-agents-microsoft-ai-stack-at-r2-global-4483007822",
+      "snippet": "You are comfortable working directly with customers, facilitating workshops, translating requirements into practical solutions, and leveraging Microsoft's AI platform to solve real-world business problems.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-10-30T12:03:51.185204"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.511570394039154,
+    "ai_native_score": 0.6470183730125427
   }
 ]
