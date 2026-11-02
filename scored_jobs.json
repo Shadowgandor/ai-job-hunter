@@ -9970,18 +9970,18 @@
   {
     "job": {
       "id": "01fa0148458f0c94eb27234f7dae35d9",
-      "title": "AI Engineer (Master's Internship) - IBM - Werken in AI",
+      "title": "AI Engineer (Master\u2019s Internship) \u2013 IBM - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/ai-engineer-masters-internship-ibm/",
-      "snippet": "Your Role and Responsibilities As an AI Engineer within our team, you\u2019ll harness your unique skills and perspectives to engage in the development and deployment of AI systems using our...",
+      "snippet": "As an AI Engineer within our team, you\u2019ll harness your unique skills and perspectives to engage in the development and deployment of AI systems using our watsonx platform, creating 4-to-6-week pilots for our business partners, and contributing to IBM\u2019s story of growth and innovation.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-08T06:45:05.141892"
+      "date_found": "2026-11-02T14:39:26.131315"
     },
     "score": 0,
-    "reason": "Internship/Master's position. Candidate explicitly seeks senior roles, not traineeships or internships.",
-    "embed_sim": 0.4907066524028778,
-    "ai_native_score": 0.6890208721160889
+    "reason": "API error",
+    "embed_sim": 0.5379266738891602,
+    "ai_native_score": 0.6560488343238831
   },
   {
     "job": {
@@ -13908,16 +13908,16 @@
       "id": "0018529d0e40bf49b2ce62a02013096e",
       "title": "Sr Machine Learning Engineer | Applied AI - Uber - Werken in AI",
       "company": "Applied AI - Uber - Werken in AI",
-      "location": "",
+      "location": "Amsterdam",
       "url": "https://werkeninai.nl/sr-machine-learning-engineer-applied-ai-uber/",
-      "snippet": "Experience with SQL and database systems such as Hive, Kafka, and Cassandra. Experience in the development, training, productionization and monitoring of ML solutions at scale.",
+      "snippet": "The ML Optimization team within Applied AI is building new experiences to surface earnings opportunities on the Uber platform, particularly for new earners. We are looking for a strong Machine Learning Engineer to join our team in Amsterdam!",
       "source": "ddg:werkeninai",
-      "date_found": "2026-06-16T11:07:50.456159"
+      "date_found": "2026-11-02T14:39:26.131327"
     },
-    "score": 1,
-    "reason": "Senior ML Engineer role requiring SQL, Hive, Kafka, Cassandra, and ML model training/productionization. This is exactly what the candidate does NOT want\u2014pure machine learning engineering, not AI adoption/enablement. Requires deep ML expertise.",
-    "embed_sim": 0.3896027207374573,
-    "ai_native_score": 0.3700667917728424
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.487124502658844,
+    "ai_native_score": 0.5534222722053528
   },
   {
     "job": {
@@ -29538,18 +29538,18 @@
   {
     "job": {
       "id": "e782617a9cafe249840bf5ae1bebae07",
-      "title": "AI Lead Healthcare in Groenlo bij Nedap - Magnet.me",
-      "company": "Nedap - Magnet.Me",
+      "title": "AI Lead Healthcare in Groenlo bij Nedap | Magnet.me",
+      "company": "Nedap",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1059942/ai-lead-healthcare",
-      "snippet": "18 jul 2026 \u00b7 We are looking for a strategic and empowering AI Lead to shape and translate the Nedap Healthcare AI vision into reality as an integral part ...",
+      "snippet": "Jul 18, 2026 \u00b7 The AI Group is the frontrunner in embedding a compliant way of working. You own the collaboration with Security and Compliance from our Data Protection Team to achieve this qualification.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-30T11:09:20.422295"
+      "date_found": "2026-11-02T14:39:47.091317"
     },
-    "score": 3,
-    "reason": "AI Lead Healthcare at Nedap in Groenlo - too far from Utrecht (120km+), healthcare domain-specific, likely requires data science/ML background for healthcare AI systems.",
-    "embed_sim": 0.215511292219162,
-    "ai_native_score": 0.6651932001113892
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.367776095867157,
+    "ai_native_score": 0.6965799331665039
   },
   {
     "job": {
@@ -30194,18 +30194,18 @@
   {
     "job": {
       "id": "10fa1536b157b19207537c25e02c03b2",
-      "title": "300+ vacatures voor Ai Tooling Developer en werk: 25 augustus ...",
+      "title": "ai tooling developer vacatures",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-tooling-developer-vacatures.html?vjk=47da12e56edd3433",
-      "snippet": "Experience with front-end development, interactive prototyping, component systems or creative and agentic development and coding is a major advantage. We are particularly interested in people who are comfortable with modern AI-supported product development: using AI for exploration, prototyping, interface generation, user-flow analysis and ...",
+      "snippet": "Ai Tooling Developer vacatures. Developer, Ai Engineer, Lead Developer en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-09-01T11:02:06.168836"
+      "date_found": "2026-11-02T14:39:17.210213"
     },
-    "score": 4,
-    "reason": "Title mentions 'AI Tooling Developer' which is promising, and it references modern AI-supported development. However, the snippet is vague and appears to be a job search aggregate page rather than a specific role posting. Location and company details are missing. Cannot assess seniority or exact responsibilities.",
-    "embed_sim": 0.4158034920692444,
-    "ai_native_score": 0.6511173248291016
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.574467658996582,
+    "ai_native_score": 0.8103866577148438
   },
   {
     "job": {
@@ -36334,5 +36334,101 @@
     "reason": "API error",
     "embed_sim": 0.4866602420806885,
     "ai_native_score": 0.6945006251335144
+  },
+  {
+    "job": {
+      "id": "dd19b82a0ff1eb10cbc19e73f8771a80",
+      "title": "Senior AI Application Engineer - LLM & VLM Enablement",
+      "company": "LLM & VLM Enablement",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-application-engineer-llm-vlm-enablement-at-axelera-ai-4483758195",
+      "snippet": "Oct 26, 2026 \u00b7 Solliciteer naar Senior AI Application Engineer - LLM & VLM Enablement bij Axelera AI in Amsterdam. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-02T14:39:21.290681"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4307224154472351,
+    "ai_native_score": 0.6197395920753479
+  },
+  {
+    "job": {
+      "id": "ad5fd72536f7f6dc1213ffbcfa66fb78",
+      "title": "Enterprise AI Engineer II bij Booking.com - Amsterdam ...",
+      "company": "Booking.Com - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/enterprise-ai-engineer-ii-at-booking-com-4439095562",
+      "snippet": "AI Skills & Tooling (Required): Practical experience with AI technologies in a professional context, including LLM-powered applications, AI coding assistants (e.g. GitHub Copilot, Codex, Claude Code, Windsurf, Cursor, etc), AI-based search and knowledge tools (e.g. Glean), prompt/context engineering fundamentals, and the ability to evaluate, configure and integrate AI-powered SaaS solutions ...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-02T14:39:30.096623"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5725500583648682,
+    "ai_native_score": 0.7669498324394226
+  },
+  {
+    "job": {
+      "id": "f38e849b7147cf1ea8f02bf287b36ee8",
+      "title": "Head of Tech & AI in Utrecht bij Snappcar | Magnet.me",
+      "company": "Snappcar",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1104247/head-of-tech---ai",
+      "snippet": "Make AI the standard way of working in the tech team, aiming for a 10x speed increase. Make the rest of SnappCar AI-enabled: roll out in a controlled way and teach colleagues to work with it. Own data and AI within SnappCar. Bring proven AI use cases from the Product Owner AI into production.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-02T14:39:47.091303"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.43768423795700073,
+    "ai_native_score": 0.6730198860168457
+  },
+  {
+    "job": {
+      "id": "1cedc6da83be067780ac3b7e6b9ca550",
+      "title": "AI Engineer vacatures (268) | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "",
+      "url": "https://www.aivacatures.nl/vacatures/ai-engineer",
+      "snippet": "Bekijk 268 actuele vacatures voor AI Engineer in Nederland en remote. Vergelijk salaris, werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-02T14:40:00.249656"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.29584527015686035,
+    "ai_native_score": 0.6977968215942383
+  },
+  {
+    "job": {
+      "id": "3aa84082b46b35922820ec7847eafad4",
+      "title": "AI Engineer vacatures in Nederland (251) | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/nederland/ai-engineer",
+      "snippet": "Bekijk 251 vacatures voor AI Engineer in Nederland. Vergelijk salaris, werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-02T14:40:00.249675"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27838966250419617,
+    "ai_native_score": 0.699978768825531
+  },
+  {
+    "job": {
+      "id": "ff014a7302ae403835b65e425f7fcf25",
+      "title": "Artificial Intelligence Developer - vacatures in Utrecht ...",
+      "company": "vacatures in Utrecht ...",
+      "location": "Utrecht",
+      "url": "https://nl.indeed.com/q-artificial-intelligence-developer-l-utrecht-(provincie)-vacatures.html?vjk=8d75122ca5639ff8",
+      "snippet": "Artificial Intelligence Developer vacatures in Utrecht (provincie). PHP Developer, Projectmanager, Data Scientist en meer op Indeed.com",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-02T14:40:26.437264"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22661276161670685,
+    "ai_native_score": 0.6281144618988037
   }
 ]
