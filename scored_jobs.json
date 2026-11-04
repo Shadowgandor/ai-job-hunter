@@ -17606,14 +17606,14 @@
       "company": "Mendix ...",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1052097/software-engineer--ai-tooling",
-      "snippet": "Jun 24, 2026 \u00b7 Join Mendix, a Siemens company, as a Staff Software Engineer focused on AI Tooling, helping build the future of Generative AI.",
+      "snippet": "Jun 24, 2026 \u00b7 We're looking for a talented Staff Software Engineer to join our dynamic team and help us build the future of Generative AI. In this role, you'll be instrumental in developing the tools, frameworks, and services that empower developers to create powerful solutions using Generative AI.",
       "source": "ddg:magnet",
-      "date_found": "2026-09-02T10:32:28.918101"
+      "date_found": "2026-11-04T13:43:58.401765"
     },
-    "score": 7,
-    "reason": "AI Tooling focus at Staff level is promising, but 'build the future of Generative AI' suggests product-building rather than adoption/enablement. Rotterdam is ~60km from Utrecht (slightly outside preference). Would need to verify if this is about internal tooling for developers vs. building AI products.",
-    "embed_sim": 0.38154083490371704,
-    "ai_native_score": 0.7187098860740662
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4315376579761505,
+    "ai_native_score": 0.6917028427124023
   },
   {
     "job": {
@@ -36510,5 +36510,85 @@
     "reason": "API error",
     "embed_sim": 0.5084947347640991,
     "ai_native_score": 0.6322775483131409
+  },
+  {
+    "job": {
+      "id": "f5984ab766b4bd243c7c69e7ded98361",
+      "title": "Vacature AI Developer bij ECF in Utrecht | Nationale Vacaturebank",
+      "company": "Ecf In Utrecht",
+      "location": "",
+      "url": "https://www.nationalevacaturebank.nl/vacature/dd6eb176-efd5-4bcc-9bee-2fe51114abd4/ai-developer",
+      "snippet": "Als AI developer werk je aan een multi-agent systeem waarbij verschillende AI-agents samenwerken om complexe taken uit te voeren.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-04T13:43:27.825651"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3219301700592041,
+    "ai_native_score": 0.6663938164710999
+  },
+  {
+    "job": {
+      "id": "34de64c16d7fe9f97a083eba1b22d0cf",
+      "title": "AI Project Lead bij Brigital - Amsterdam | LinkedIn Vacatures",
+      "company": "Brigital - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-project-lead-at-brigital-4481218094",
+      "snippet": "Oct 19, 2026 \u00b7 Proven experience leading software development, IT consulting or technical implementation projects, preferably within a client-facing service business. Strong project management and delivery skills, with a track record of taking ownership and achieving results.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-04T13:43:54.077674"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.45440131425857544,
+    "ai_native_score": 0.7243309617042542
+  },
+  {
+    "job": {
+      "id": "3cdca44d5564543366840b6be108c487",
+      "title": "Senior AI Engineer in Amsterdam bij TomTom | Magnet.me",
+      "company": "Tomtom",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1105739/senior-ai-engineer",
+      "snippet": "13 hours ago \u00b7 We\u2019re looking for a Software Engineer to join our team and help us build a production-ready AI/data product for TomTom. The work is covering everything from new feature development to infrastructure, and data Engineering.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-04T13:43:58.401812"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4280265271663666,
+    "ai_native_score": 0.6073747873306274
+  },
+  {
+    "job": {
+      "id": "447f27d9d3d9526a5a85d0bd23829a60",
+      "title": "AI Engineer in Amsterdam bij Flow Traders | Magnet.me",
+      "company": "Flow Traders",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1089076/ai-engineer",
+      "snippet": "Flow Traders are looking for an AI Engineer who wants to work on one of the most exciting engineering challenges at the firm right now. As an AI Engineer on the team, you will design, build, and scale enterprise-grade AI agents and automation workflows across the organization.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-04T13:43:58.401827"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.46162471175193787,
+    "ai_native_score": 0.61601722240448
+  },
+  {
+    "job": {
+      "id": "83747a65922c535cc844d2e1feb1b91a",
+      "title": "Business consultant/Adoption Lead in Amsterdam bij Sherpa ...",
+      "company": "Sherpa ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1100938/business-consultant-adoption-lead",
+      "snippet": "Oct 27, 2026 \u00b7 We zoeken iemand zoals jij, een energieke business consultant/adoption lead voor gave projecten bij onze klanten. Je begeleidt de organisaties door hun complexe reis van digitale transformatie, terwijl je nieuwe technologie\u00ebn, waaronder AI, adopteert.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-04T13:44:11.357478"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2137627899646759,
+    "ai_native_score": 0.6526944637298584
   }
 ]
