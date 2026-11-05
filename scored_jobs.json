@@ -726,14 +726,14 @@
       "company": "AI Engineer & Specialist",
       "location": "",
       "url": "https://www.morganblack.nl/werken-met-ai-banen-salaris-vacatures/",
-      "snippet": "Bekijk actuele AI vacatures in Nederland. Van AI engineer tot AI specialist \u2014 ontdek salarissen, gevraagde skills en hoe jij een baan in AI via MorganBlack vindt.",
+      "snippet": "Feb 16, 2026 \u00b7 Bekijk actuele AI vacatures in Nederland. Van AI engineer tot AI specialist \u2014 ontdek salarissen, gevraagde skills en hoe jij een baan in AI via MorganBlack vindt.",
       "source": "ddg:web-nl",
-      "date_found": "2026-09-05T09:54:27.401977"
+      "date_found": "2026-11-05T13:56:38.647782"
     },
     "score": 0,
-    "reason": "Generic job board listing page, not a specific job posting. No actionable role information available.",
-    "embed_sim": 0.3508017361164093,
-    "ai_native_score": 0.7156141996383667
+    "reason": "API error",
+    "embed_sim": 0.3626762926578522,
+    "ai_native_score": 0.7155695557594299
   },
   {
     "job": {
@@ -5266,18 +5266,18 @@
   {
     "job": {
       "id": "19e8c10ae553aea35ed182f2613353bb",
-      "title": "1.036 vacatures voor ai engineer in Nederland | Glassdoor",
+      "title": "1.330 vacatures voor ai engineer in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/netherlands-ai-engineer-vacatures-SRCH_IL.0,11_IN178_KO12,23.htm",
-      "snippet": "Zoek vacatures voor Ai engineer in Nederland met bedrijfsreviews en salarissen. 1.036 vacatures voor Ai engineer in Nederland.",
-      "source": "ddg:web-nl",
-      "date_found": "2026-05-19T09:38:12.460560"
+      "snippet": "Zoek vacatures voor Ai engineer in Nederland met bedrijfsreviews en salarissen. 1.330 vacatures voor Ai engineer in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-05T13:56:29.500083"
     },
     "score": 0,
-    "reason": "Search results aggregation page, not an actual job listing. No specific role details provided.",
-    "embed_sim": 0.2560172975063324,
-    "ai_native_score": 0.6627457141876221
+    "reason": "API error",
+    "embed_sim": 0.24360249936580658,
+    "ai_native_score": 0.6074295043945312
   },
   {
     "job": {
@@ -9538,18 +9538,18 @@
   {
     "job": {
       "id": "68e97a5c6e9b19c5a21475229e0ccfe5",
-      "title": "Data Science & AI Consultant - DEPT - Werken in AI",
+      "title": "Data Science & AI Consultant \u2013 DEPT - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-science-ai-consultant-dept/",
-      "snippet": "As a Data Science & AI Consultant, you will help organisations accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps...",
+      "snippet": "As a Data Science & AI Consultant, you will help organisations accelerate their AI initiatives and adoption. You translate business problems into prioritised AI solutions and roadmaps, and guide clients in implementing them.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-06T08:29:25.482069"
+      "date_found": "2026-11-05T13:56:55.784437"
     },
-    "score": 5,
-    "reason": "Consultant role helping organizations with AI adoption, but 'Data Science & AI Consultant' title suggests modeling/pipeline work; no location info; unclear if dev team enablement focused",
-    "embed_sim": 0.4833800196647644,
-    "ai_native_score": 0.6128944754600525
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5140278935432434,
+    "ai_native_score": 0.6622974276542664
   },
   {
     "job": {
@@ -27990,14 +27990,14 @@
       "company": "Lleverage",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1072542/ai-engineer",
-      "snippet": "Constantly assess how engineering decisions impact customer value and business outcomes. Job specific requirements Deep experience with generative AI models, fine-tuning, and model deployment in production environments. Proven experience building AI agents with function calling and tool use implementations.",
+      "snippet": "Aug 20, 2026 \u00b7 Approach AI challenges by understanding core mechanisms rather than just applying existing frameworks\u2014able to innovate beyond current best practices. Comfortable with ambiguity and excited to work in a fast-moving, AI-focused environment.",
       "source": "ddg:magnet",
-      "date_found": "2026-08-25T06:40:17.956674"
+      "date_found": "2026-11-05T13:56:25.830279"
     },
-    "score": 1,
-    "reason": "AI Engineer role requiring deep generative AI expertise, fine-tuning, model deployment, and building AI agents. Pure ML/AI product engineering. Requires specialized AI/ML background candidate explicitly does not want.",
-    "embed_sim": 0.4972629249095917,
-    "ai_native_score": 0.6406236290931702
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.48273301124572754,
+    "ai_native_score": 0.7281786203384399
   },
   {
     "job": {
@@ -36590,5 +36590,85 @@
     "reason": "API error",
     "embed_sim": 0.2137627899646759,
     "ai_native_score": 0.6526944637298584
+  },
+  {
+    "job": {
+      "id": "d1fc45d22da8c150aefe127f9ac1ff7f",
+      "title": "590 vacatures voor head of ai in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/nederland-head-of-ai-vacatures-SRCH_IL.0,9_IN178_KO10,20.htm",
+      "snippet": "Zoek vacatures voor Head of ai in Nederland met bedrijfsreviews en salarissen. 590 vacatures voor Head of ai in Nederland.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-05T13:55:43.402389"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2187941074371338,
+    "ai_native_score": 0.6441680192947388
+  },
+  {
+    "job": {
+      "id": "63dcd2706282762c418e667a77acfa34",
+      "title": "AI Engineer in Rotterdam bij HelloPrint | Magnet.me",
+      "company": "Helloprint",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1066384/ai-engineer",
+      "snippet": "Aug 8, 2026 \u00b7 You've spotted an opportunity for an AI solution before anyone assigned it to you, and built it, even if it started as a side project or a shortcut nobody asked for.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-05T13:56:04.296981"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30198389291763306,
+    "ai_native_score": 0.6082831025123596
+  },
+  {
+    "job": {
+      "id": "c3aaa767567bd11311d1550b49cb5d67",
+      "title": "AI Engineer in Zoetermeer bij Heeyoo | Magnet.me",
+      "company": "Heeyoo",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1104381/ai-engineer",
+      "snippet": "4 days ago \u00b7 Je bouwt, traint en implementeert machine learning modellen en AI-toepassingen voor onze klanten, inclusief oplossingen met large language models. Je vertaalt een vraagstuk van de klant naar een werkende, betrouwbare en verantwoorde AI-oplossing: van data en pipeline tot model en monitoring.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-05T13:56:04.297006"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3288428783416748,
+    "ai_native_score": 0.48450422286987305
+  },
+  {
+    "job": {
+      "id": "a0211d0ca75a8a720d8fd31e642e43ee",
+      "title": "Senior .NET & Azure DevOps Developer bij Rabobank ...",
+      "company": "Rabobank ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-net-azure-devops-developer-at-rabobank-4483534940",
+      "snippet": "Oct 26, 2026 \u00b7 Experience using AI-enabled development tools to improve productivity, code quality and solution outcomes. Knowledge of Git, source control and branching strategies.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-05T13:56:47.299237"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.38079148530960083,
+    "ai_native_score": 0.5218605995178223
+  },
+  {
+    "job": {
+      "id": "de26a93eac34c7b8a317f4f4dd7c33d9",
+      "title": "Senior AI Solutions Engineer (Fixed term) bij TKH AI ...",
+      "company": "Tkh Ai ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-solutions-engineer-fixed-term-at-tkh-ai-technology-4472705547",
+      "snippet": "Experience taking AI solutions beyond experimentation and into production use. Ability to design complete solutions, including data, models, APIs, integration, deployment and monitoring. Experience leading technical projects or substantial workstreams involving multiple contributors and stakeholders.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-05T13:56:47.299295"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5064729452133179,
+    "ai_native_score": 0.6731197834014893
   }
 ]
