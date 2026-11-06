@@ -2402,18 +2402,18 @@
   {
     "job": {
       "id": "23c5606536fd5a3b03c91ecb6d001cdd",
-      "title": "75+ vacatures voor Artificial Intelligence Specialist en werk: 24 ...",
+      "title": "75+ vacatures voor Artificial Intelligence Specialist en werk ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-artificial-intelligence-specialist-vacatures.html?vjk=5bc964b5a5cc5fea",
-      "snippet": "Artificial Intelligence Specialist vacatures. Data Scientist, Specialist, Senior Business Analist en meer op Indeed.com",
+      "snippet": "Alle vacatures voor Ministerie van Defensie - Hoogerheide vacatures - vacatures voor Medewerker (m/v) in Hoogerheide bekijken Zoeken op salaris: Medewerker Work / Learn Space salarissen in Hoogerheide Zie veelgestelde vragen en antwoorden over Ministerie van Defensie",
       "source": "ddg:indeed",
-      "date_found": "2026-08-25T06:41:59.590722"
+      "date_found": "2026-11-06T13:41:58.666333"
     },
     "score": 0,
-    "reason": "This is a job listing aggregator/search results page, not an actual job opening. No specific role details, company, location, or application process. Cannot evaluate candidate fit.",
-    "embed_sim": 0.37808454036712646,
-    "ai_native_score": 0.6662120819091797
+    "reason": "API error",
+    "embed_sim": 0.1477380096912384,
+    "ai_native_score": 0.6889957785606384
   },
   {
     "job": {
@@ -31094,14 +31094,14 @@
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-solution-vacatures.html?vjk=4657f3cfdbc69740",
-      "snippet": "Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale.",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzword \u2014 it\u2019s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
       "source": "ddg:indeed",
-      "date_found": "2026-09-06T10:12:20.004134"
+      "date_found": "2026-11-06T13:41:58.666300"
     },
     "score": 0,
-    "reason": "Generic job board search results page for 'AI Solution' internships/graduate programs. Not an actual job listing. Candidate is senior level and explicitly not seeking traineeships.",
-    "embed_sim": 0.29120299220085144,
-    "ai_native_score": 0.658076822757721
+    "reason": "API error",
+    "embed_sim": 0.2980431318283081,
+    "ai_native_score": 0.5994182825088501
   },
   {
     "job": {
@@ -36670,5 +36670,53 @@
     "reason": "API error",
     "embed_sim": 0.5064729452133179,
     "ai_native_score": 0.6731197834014893
+  },
+  {
+    "job": {
+      "id": "fb9795d3c19fe67b4bc2d38bb39abc93",
+      "title": "Applied AI Specialist bij Riverflex - Amsterdam - LinkedIn",
+      "company": "Riverflex - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-specialist-at-riverflex-4484363552",
+      "snippet": "4 days ago \u00b7 Our internal AI capability platform, our delivery process, the way we run the firm - you'll help redesign our ways of working around AI and ship the building blocks.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-06T13:41:54.466193"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4768624007701874,
+    "ai_native_score": 0.6472876071929932
+  },
+  {
+    "job": {
+      "id": "255d5038fbb37a1715cba9ef8f2bec98",
+      "title": "AI Engineer bij Tebi - Amsterdam | LinkedIn Vacatures",
+      "company": "Tebi - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-tebi-4485364622",
+      "snippet": "How We Use AI At Tebi We use AI the way our merchants use Tebi, to cut out the friction and get to what matters faster. We believe in a world where AI increases quality, efficiency and speed. At Tebi, AI isn't a policy or a checkbox, it's just part of how we work. It helps us write, analyse, build, and improve but doesn\u2019t make the last call.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-06T13:41:54.466215"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3752116858959198,
+    "ai_native_score": 0.6920809149742126
+  },
+  {
+    "job": {
+      "id": "52123fb8e7ca7a0c7545b7faab84b676",
+      "title": "Senior Manager, Agentic AI & Integrations - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-manager-agentic-ai-integrations-at-versuni-4481577236",
+      "snippet": "Oct 20, 2026 \u00b7 Able to work across cloud, security, data, and enterprise architecture teams. Clear communicator and pragmatic change leader who can turn complex technology and service-management topics into decisions, roadmaps, and adoptable ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-06T13:41:54.466230"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4497945308685303,
+    "ai_native_score": 0.6326320171356201
   }
 ]
