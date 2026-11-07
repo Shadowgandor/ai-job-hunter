@@ -11462,14 +11462,14 @@
       "company": "Werken in AI",
       "location": "Amsterdam",
       "url": "https://werkeninai.nl/senior-machine-learning-engineer-adyen/",
-      "snippet": "Apply now. Senior Machine Learning Engineer Adyen is looking for a Senior Machine Learning Engineer to join our team in Amsterdam, a person sitting at the cornerstone of algorithms, mathematics, and engineering, who can solve problems by designing and implementing production-ready machine learning solutions.",
+      "snippet": "Adyen is looking for a Senior Machine Learning Engineer to join our team in Amsterdam, a person sitting at the cornerstone of algorithms, mathematics, and engineering, who can solve problems by designing and implementing production-ready machine learning solutions.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-08-13T07:22:37.587716"
+      "date_found": "2026-11-07T12:24:30.641830"
     },
-    "score": 1,
-    "reason": "Senior Machine Learning Engineer at Adyen requires 'designing and implementing production-ready machine learning systems' \u2014 pure ML engineering role. Candidate explicitly does not want ML expertise requirements. Amsterdam location is acceptable but role is fundamentally misaligned.",
-    "embed_sim": 0.5063260793685913,
-    "ai_native_score": 0.5852230787277222
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5062429308891296,
+    "ai_native_score": 0.5847223401069641
   },
   {
     "job": {
@@ -15442,18 +15442,18 @@
   {
     "job": {
       "id": "ad2c1795bd5e5b276287b49c42e03ee6",
-      "title": "200+ vacatures voor Adoptie Specialist en werk: 3 september 2026| Indeed",
+      "title": "200+ vacatures voor Adoptie Specialist en werk: 8 oktober ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-adoptie-specialist-vacatures.html?vjk=bacd86ad0d7d39ad",
-      "snippet": "Adoptie Specialist vacatures. Specialist, Software Consultant, Adviseur Informatieveiligheid en meer op Indeed.com",
-      "source": "ddg:web-nl",
-      "date_found": "2026-09-07T11:28:07.622742"
+      "snippet": "Adoptie Specialist vacatures. Bouwinspecteur, Psycholoog, Teamleider en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-07T12:23:39.095148"
     },
     "score": 0,
-    "reason": "Generic search results aggregator page. Not a specific job listing with actual role details or company information.",
-    "embed_sim": 0.20192906260490417,
-    "ai_native_score": 0.5814527869224548
+    "reason": "API error",
+    "embed_sim": 0.1698215901851654,
+    "ai_native_score": 0.6432971954345703
   },
   {
     "job": {
@@ -36718,5 +36718,53 @@
     "reason": "API error",
     "embed_sim": 0.4497945308685303,
     "ai_native_score": 0.6326320171356201
+  },
+  {
+    "job": {
+      "id": "8cdd40778dea3a68212c41c278c83e43",
+      "title": "AI Solutions Architect bij Cast AI - Amsterdam - LinkedIn",
+      "company": "Cast Ai - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-architect-at-cast-ai-4477143140",
+      "snippet": "Why Cast AI? Cast AI is an automation platform that operates cloud-native and AI infrastructure at scale. By embedding autonomous decision-making directly into Kubernetes and cloud environments, Cast AI continuously optimizes performance, reliability, and efficiency in production. The old way doesn't work.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-07T12:23:30.265457"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4540446698665619,
+    "ai_native_score": 0.6528482437133789
+  },
+  {
+    "job": {
+      "id": "9e05621b7906a20202d181987f5a4ed8",
+      "title": "Medior Software Developer AI bij Wageningen University ...",
+      "company": "Wageningen University ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/medior-software-developer-ai-at-wageningen-university-research-4471576404",
+      "snippet": "You\u2019ll work at the intersection of software development, AI, and the practice of education and research. Together with software developers, AI specialists, and other colleagues, you\u2019ll develop new functionality and applications. You\u2019ll ask questions, explore alternatives, and contribute ideas on technical solutions that meet users\u2019 needs.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-07T12:24:17.957026"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.452026903629303,
+    "ai_native_score": 0.776767909526825
+  },
+  {
+    "job": {
+      "id": "ff58361bf599865c4f99d7a358c00ef8",
+      "title": "1.000+ vacatures voor Ai Implementatie en werk: 3 november ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-implementatie-vacatures.html?vjk=7831715b7ce28fdc",
+      "snippet": "Ai Implementatie vacatures. Ai Engineer, Software Developer, Product Owner en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-07T12:24:48.648833"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.277212917804718,
+    "ai_native_score": 0.6637846231460571
   }
 ]
