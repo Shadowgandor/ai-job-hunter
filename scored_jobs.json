@@ -16184,12 +16184,12 @@
       "url": "https://magnet.me/nl-NL/vacature/925692/genai-enablement-lead",
       "snippet": "Aug 19, 2025 \u00b7 GenAI Enablement Lead at Philips In this role, we are seeking a GenAI Enablement Lead who would serve as the organization's power user, trainer, and evangelist for all things related to ChatGPT and generative AI. You'll drive adoption, lead hands-on training, support executives 1:1, and design ideation sessions that unlock real business value through AI. This role serves as the primary driver ...",
       "source": "ddg:magnet",
-      "date_found": "2026-09-04T10:30:06.848191"
+      "date_found": "2026-11-08T12:42:50.925736"
     },
-    "score": 6,
-    "reason": "GenAI Enablement Lead - excellent role alignment (power user, trainer, evangelist for ChatGPT/GenAI adoption). However, Eindhoven is ~70km from Utrecht, outside preferred radius. Role itself is strong match but location is problematic.",
-    "embed_sim": 0.29282814264297485,
-    "ai_native_score": 0.7647329568862915
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2928280830383301,
+    "ai_native_score": 0.7647328972816467
   },
   {
     "job": {
@@ -28118,14 +28118,14 @@
       "company": "Future Facts B.V.",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1073410/ai-engineer",
-      "snippet": "Bij Future Facts werk je als AI Engineer aan het implementeren van AI- en ML-modellen in productieomgevingen. Je slaat de brug tussen Data Science en een robuuste productieomgeving en bouwt samen met data scientists, cloud engineers en developers en\u2026",
+      "snippet": "Aug 22, 2026 \u00b7 Bij Future Facts werk je als AI Engineer aan het implementeren van AI- en ML-modellen in productieomgevingen. Je slaat de brug tussen Data Science en een robuuste productieomgeving en bouwt samen met data scientists, cloud engineers en developers en\u2026",
       "source": "ddg:magnet",
-      "date_found": "2026-08-25T06:41:38.492303"
+      "date_found": "2026-11-08T12:42:50.925802"
     },
-    "score": 3,
-    "reason": "AI Engineer at Future Facts focused on implementing ML models in production. Requires bridging Data Science and production \u2014 classic MLOps/ML engineer role, not AI adoption/enablement for dev teams.",
-    "embed_sim": 0.35161957144737244,
-    "ai_native_score": 0.5028921961784363
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3771568238735199,
+    "ai_native_score": 0.5178741216659546
   },
   {
     "job": {
@@ -36766,5 +36766,21 @@
     "reason": "API error",
     "embed_sim": 0.277212917804718,
     "ai_native_score": 0.6637846231460571
+  },
+  {
+    "job": {
+      "id": "d8c678bacb4e99d8a56585a9afc2f348",
+      "title": "Software Engineer Leader | Data Enablement | Data & Product",
+      "company": "Data Enablement",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106897/software-engineer-leader---data-enablement---data---product",
+      "snippet": "3 days ago \u00b7 Job description As a Software Engineer Leader | Data Enablement | Data & Product, you will be part of a newly established team building the foundations for how data is consumed at IKEA. You will design and develop software products, integrations, APIs, and user experiences that help users navigate and interact with our enterprise data ecosystem.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-08T12:42:50.925823"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4293125867843628,
+    "ai_native_score": 0.4711323082447052
   }
 ]
