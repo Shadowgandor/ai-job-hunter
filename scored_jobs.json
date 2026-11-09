@@ -28360,10 +28360,10 @@
       "url": "https://nl.linkedin.com/jobs/view/tech-lead-tech4dev-ai-hub-at-rabobank-4433301094",
       "snippet": "As a Tech Lead Tech4Dev AI Hub, you play a key role in shaping and delivering these capabilities, while building strong teams and driving adoption of AI-powered ways of working at scale.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-26T06:42:18.707449"
+      "date_found": "2026-11-09T15:02:16.935143"
     },
-    "score": 8,
-    "reason": "Tech Lead at Rabobank (Utrecht \u2014 ideal location!) focused on Tech4Dev AI Hub with explicit mention of 'driving adoption of AI-powered ways of working at scale.' Senior level, building teams, directly aligns with candidate's goals. Strong match. Only concern: 'Tech Lead' may imply some technical infrastructure responsibilities beyond pure adoption championing.",
+    "score": 0,
+    "reason": "API error",
     "embed_sim": 0.4773860275745392,
     "ai_native_score": 0.7063663601875305
   },
@@ -36782,5 +36782,85 @@
     "reason": "API error",
     "embed_sim": 0.4293125867843628,
     "ai_native_score": 0.4711323082447052
+  },
+  {
+    "job": {
+      "id": "c116e1f73fe5c84c013ac4f5c02addde",
+      "title": "AI Engineering Internship in Amsterdam bij Accenture | Magnet ...",
+      "company": "Accenture",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106117/ai-engineering-internship",
+      "snippet": "5 days ago \u00b7 Improving engineering and business processes: Analyzing current ways of working and redesigning product development processes through workshops, interviews, and practical improvements \u2014 including where generative AI and automation can accelerate them.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-09T15:01:11.775637"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4635165333747864,
+    "ai_native_score": 0.7034527659416199
+  },
+  {
+    "job": {
+      "id": "0e99438002fc4ac2dff5e85fd1d48c76",
+      "title": "AI Engineer in Den Haag bij NN Group | Magnet.me",
+      "company": "Nn Group",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106671/ai-engineer",
+      "snippet": "4 days ago \u00b7 With your solution-oriented and proactive mindset, you design the best data science solution for business problems together with your team, and you realize this using our AI toolkit. We work agile with colleagues from the business on projects that often span multiple sprints.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-09T15:01:11.775666"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.44996339082717896,
+    "ai_native_score": 0.6890296936035156
+  },
+  {
+    "job": {
+      "id": "108265ca272e33bd67d8cfa5a992cae7",
+      "title": "Growth Product Manager bij Time Doctor - Nederland - LinkedIn",
+      "company": "Time Doctor - Nederland - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/growth-product-manager-at-time-doctor-4481359286",
+      "snippet": "Experience working closely with engineers and designers, and leading cross-functional work through influence. Fluency with AI tools and LLMs, including using them to prototype and demo ideas quickly, and a habit of using them in day-to-day product work: research, analysis, specs and delivery. Our values Time Doctor is fully remote and async-first.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-09T15:02:16.935159"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.33933886885643005,
+    "ai_native_score": 0.5526408553123474
+  },
+  {
+    "job": {
+      "id": "e385f7d266d5653e64b3269c1e5b0b79",
+      "title": "Software Engineer (Backend) bij Zonos - Utrecht - LinkedIn",
+      "company": "Zonos - Utrecht - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-backend-at-zonos-4485780519",
+      "snippet": "Nov 2, 2026 \u00b7 Work with technical leads to understand requirements, evaluate approaches, and implement effective solutions. Use AI-assisted and agentic development tools to improve productivity while reviewing, testing, and validating the resulting code. Participate in code reviews, technical discussions, and continuous improvements to our engineering practices.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-09T15:02:16.935195"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5096786022186279,
+    "ai_native_score": 0.7158252000808716
+  },
+  {
+    "job": {
+      "id": "1167fc3f9c83994be872ec7f04632e6f",
+      "title": "AI Engineer in Zaltbommel bij Axians | Magnet.me",
+      "company": "Axians",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097274/ai-engineer",
+      "snippet": "Oct 18, 2026 \u00b7 Als AI Engineer (Medior) vertaal je vraagstukken van onze klanten naar slimme, praktische AI-oplossingen.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-09T15:02:35.507600"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.35502058267593384,
+    "ai_native_score": 0.7247405648231506
   }
 ]
