@@ -15922,18 +15922,18 @@
   {
     "job": {
       "id": "eb050d23dcb1750b3b3f57527c5e9a98",
-      "title": "12.721 vacatures voor ai in Nederland | Glassdoor",
+      "title": "12.518 vacatures voor ai in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-jobs-vacatures-SRCH_IL.0,9_IN178_KO10,17.htm",
-      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.721 vacatures voor Ai in Nederland.",
+      "snippet": "Zoek vacatures voor Ai in Nederland met bedrijfsreviews en salarissen. 12.518 vacatures voor Ai in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-09T10:43:14.195632"
+      "date_found": "2026-11-10T14:13:58.227210"
     },
     "score": 0,
-    "reason": "This is a search results page/job board index, not an actual job posting. No specific role, company, location, or job description provided. Cannot evaluate.",
-    "embed_sim": 0.10115420818328857,
-    "ai_native_score": 0.613297700881958
+    "reason": "API error",
+    "embed_sim": 0.11249801516532898,
+    "ai_native_score": 0.6345345377922058
   },
   {
     "job": {
@@ -36862,5 +36862,21 @@
     "reason": "API error",
     "embed_sim": 0.35502058267593384,
     "ai_native_score": 0.7247405648231506
+  },
+  {
+    "job": {
+      "id": "aae9bd0d6bf97c480e0696d28905531d",
+      "title": "AI-vacatures in Utrecht (469) | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "Utrecht",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/utrecht-utrecht-nederland",
+      "snippet": "Bekijk 469 AI-vacatures in en rond Utrecht, van machine learning tot data science. Filter op werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-10T14:14:11.525511"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22388121485710144,
+    "ai_native_score": 0.6034122705459595
   }
 ]
