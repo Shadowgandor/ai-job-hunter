@@ -2146,18 +2146,18 @@
   {
     "job": {
       "id": "271ac230b20dfb30f82b8a9638c5eb35",
-      "title": "638 vacatures voor ai software engineer in Nederland | Glassdoor",
+      "title": "619 vacatures voor ai software engineer in Nederland | Glassdoor",
       "company": "Glassdoor",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-software-engineer-vacatures-SRCH_IL.0,9_IN178_KO10,30.htm",
-      "snippet": "638 vacature(s) voor Ai software engineer in Nederland Relevantie GRID | individuals Junior AI Engineer Nederland \u20ac 3.300 - \u20ac 4.200 (opgegeven door werkgever) Het testen, verbeteren en verder ontwikkelen van AI-oplossingen op basis van feedback van gebruikers. Bij deze internationale technische organisatie krijg je de\u2026\u2026",
+      "snippet": "Zoek vacatures voor Ai software engineer in Nederland met bedrijfsreviews en salarissen. 619 vacatures voor Ai software engineer in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-05T09:54:58.447115"
+      "date_found": "2026-11-11T13:30:40.090896"
     },
     "score": 0,
-    "reason": "Generic Glassdoor job board listing page showing multiple aggregated results, not a specific job posting. No actionable role information.",
-    "embed_sim": 0.339272141456604,
-    "ai_native_score": 0.7431831359863281
+    "reason": "API error",
+    "embed_sim": 0.32497429847717285,
+    "ai_native_score": 0.7143634557723999
   },
   {
     "job": {
@@ -19298,18 +19298,18 @@
   {
     "job": {
       "id": "40fa60e104894a34cab31d7243232cb5",
-      "title": "2.862 vacature (s) voor Werken als ai specialist in Nederland",
+      "title": "3.165 vacature (s) voor Werken als ai specialist in Nederland",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-werken-als-ai-specialist-vacatures-SRCH_IL.0,9_KO10,34.htm",
-      "snippet": "Zoek vacatures voor Werken als ai specialist in Nederland met bedrijfsreviews en salarissen. 2.862 vacatures voor Werken als ai specialist in Nederland.",
+      "snippet": "Zoek vacatures voor Werken als ai specialist in Nederland met bedrijfsreviews en salarissen. 3.165 vacatures voor Werken als ai specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-11T10:33:53.441340"
+      "date_found": "2026-11-11T13:29:37.994613"
     },
     "score": 0,
-    "reason": "Generic search results page listing 2,862 vacancies for 'AI specialist', not an actual job posting. Not a specific role. Cannot assess.",
-    "embed_sim": 0.153804749250412,
-    "ai_native_score": 0.618626594543457
+    "reason": "API error",
+    "embed_sim": 0.19752299785614014,
+    "ai_native_score": 0.6207960247993469
   },
   {
     "job": {
@@ -20258,18 +20258,18 @@
   {
     "job": {
       "id": "16880ac287adfd3ca2b4b2f1a3f2a0d9",
-      "title": "Vacature: Coordinator of AI Initiatives - Werken in AI",
-      "company": "Werken in AI",
-      "location": "",
+      "title": "Vacature: Coordinator of AI Initiatives - Amsterdam UMC - ...",
+      "company": "...",
+      "location": "Amsterdam",
       "url": "https://werkeninai.nl/coordinator-of-ai-initiatives-amsterdam-umc/",
-      "snippet": "You bring: a PhD degree, preferably at the intersection of AI and health; experience with organizing scientific meetings or network activities; experience with attracting research funding, individually or in collaboration; strong networking and communication skills; a proactive and structured way of working.",
+      "snippet": "The Amsterdam Center for AI and Health is part of this network and will continue to grow in the coming years. Within the center, you work closely with Martijn Schut, professor of Translational AI in Laboratory Medicine at Amsterdam UMC, and Mark Hoogendoorn, professor of Artificial Intelligence at Vrije Universiteit Amsterdam.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-09-09T10:42:19.404965"
+      "date_found": "2026-11-11T13:29:34.316345"
     },
     "score": 0,
-    "reason": "Requires PhD degree at intersection of AI and health. Candidate profile explicitly excludes academic/PhD research positions. Role focused on organizing scientific meetings and attracting research funding, not developer team enablement.",
-    "embed_sim": 0.4285608232021332,
-    "ai_native_score": 0.7544180154800415
+    "reason": "API error",
+    "embed_sim": 0.29268813133239746,
+    "ai_native_score": 0.7128977179527283
   },
   {
     "job": {
@@ -36878,5 +36878,165 @@
     "reason": "API error",
     "embed_sim": 0.22388121485710144,
     "ai_native_score": 0.6034122705459595
+  },
+  {
+    "job": {
+      "id": "c946f0fd7130b6c40ea2cd4da0f0cfef",
+      "title": "1.000+ vacatures voor Ai Developer en werk: 6 november 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-developer-vacatures.html?vjk=2aa489becfc76419",
+      "snippet": "Deze voorzieningen worden als interne producten voorgebracht om NS developer experience te ondersteunen. Je zorgt dat ontwikkelteams AI betrouwbaar kunnen\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-11T13:29:30.082563"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22718439996242523,
+    "ai_native_score": 0.5811761617660522
+  },
+  {
+    "job": {
+      "id": "d3952d54594f9f0b7041e7974240d1eb",
+      "title": "300+ vacatures voor Ai Agent Developer en werk: 9 november ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-agent-developer-vacatures.html?vjk=3223cc41d11a8a91",
+      "snippet": "Ai Agent Developer vacatures. Platform Engineer, Ai Engineer, Medewerker Klantenservice en meer op Indeed.com",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-11T13:29:30.082617"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3968435525894165,
+    "ai_native_score": 0.747870683670044
+  },
+  {
+    "job": {
+      "id": "e088264f9c70dc6f6d21c9acd56061f5",
+      "title": "344 vacature (s) voor Ai workflow specialist in Nederland",
+      "company": "",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/ai-workflow-specialist-vacatures-SRCH_KO0,22.htm",
+      "snippet": "Zoek vacatures voor Ai workflow specialist. Vind de juiste vacature voor Ai workflow specialist met bedrijfsreviews en salarissen. 344 vacatures voor Ai workflow specialist.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-11T13:29:37.994601"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32445234060287476,
+    "ai_native_score": 0.6124774813652039
+  },
+  {
+    "job": {
+      "id": "67315d54e436e1c4946fad1431718089",
+      "title": "Senior Platform engineer AI | Werken bij NS",
+      "company": "Ns",
+      "location": "",
+      "url": "https://www.werkenbijns.nl/vacatures/senior-platform-engineer-ai-utrecht-1350378",
+      "snippet": "Jij zorgt voor de mobiliteit van Nederland Veel ontwikkel-mogelijkheden Goede arbeidsvoorwaarden Daarom wil je als Senior Platform engineer AI bij NS werken Bouw het AI-platform waarmee ontwikkelteams binnen NS veilig, betrouwbaar en schaalbaar gebruik kunnen maken van AI in softwareontwikkeling.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-11T13:29:54.607113"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.46286681294441223,
+    "ai_native_score": 0.7269107103347778
+  },
+  {
+    "job": {
+      "id": "1df3776c9ce568c111e9ef9dcacd6781",
+      "title": "Applied AI Engineer bij Jobgether - Nederland - LinkedIn",
+      "company": "Jobgether - Nederland - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/applied-ai-engineer-at-jobgether-4486355013",
+      "snippet": "Nov 4, 2026 \u00b7 Early-Team Influence: Join as an early core engineering team member with significant ownership over technical direction and architectural decisions. Technical Autonomy: Shape engineering standards, development practices, tooling, and the foundations of the organization's agentic AI infrastructure.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:20.413689"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.6012790203094482,
+    "ai_native_score": 0.7758183479309082
+  },
+  {
+    "job": {
+      "id": "ae9d2a5300ea8a05ea060ba2548016d6",
+      "title": "Senior Business Analyst \u2013 Risk, Compliance & AI ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-business-analyst-\u2013-risk-compliance-ai-transformation-at-bank-4481042536",
+      "snippet": "Exposure to AI-enabled business processes, Agentic AI or AI-driven software development. Experience designing digital journeys for engineering or technology governance teams.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:24.123593"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5429102778434753,
+    "ai_native_score": 0.7261083722114563
+  },
+  {
+    "job": {
+      "id": "3f08adc01b39bcdf63c263c82503b998",
+      "title": "Senior Product Manager \u2013 JetBrains Air (Agentic Development ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-product-manager-\u2013-jetbrains-air-agentic-development-in-ides-at-jetbrains-4478689182",
+      "snippet": "Oct 20, 2026 \u00b7 A data-driven approach to product decisions, including hands-on experience querying and analyzing telemetry. Active personal experience using coding agents and clear perspectives on where current AI tools succeed and fail. Strong product intuition for complex technical user experiences and developer workflows.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:24.123614"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3702501356601715,
+    "ai_native_score": 0.5606721043586731
+  },
+  {
+    "job": {
+      "id": "e4c3f71219d7b673293aeab8ff8c659f",
+      "title": "AI Software Engineer Intern \u2013 Next-Gen Ops Intelligence",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-software-engineer-intern-\u2013-next-gen-ops-intelligence-at-siemens-digital-industries-software-4480250362",
+      "snippet": "If you enjoy software development, Artificial Intelligence, automation, and solving technical challenges while working in an international engineering environment, we'd love to hear from you. Preferred Qualifications Programming experience in Python, Go, or TypeScript, and confidence with APIs, testing, and debugging.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:24.123630"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.6555306315422058,
+    "ai_native_score": 0.8383136987686157
+  },
+  {
+    "job": {
+      "id": "7ddae73070105740d04a5b0467c7750d",
+      "title": "Onboarding & Adoption Specialist bij Roxit - Arnhem ...",
+      "company": "Roxit - Arnhem ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/onboarding-adoption-specialist-at-roxit-4478871805",
+      "snippet": "Solliciteer naar Onboarding & Adoption Specialist bij Roxit in Arnhem. Ander Niet van toepassing rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:36.326390"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22154882550239563,
+    "ai_native_score": 0.5926093459129333
+  },
+  {
+    "job": {
+      "id": "650f42e3bbe3e7a43f075dbc45fb5ac1",
+      "title": "AI Operations Specialist bij Road - Amsterdam - LinkedIn",
+      "company": "Road - Amsterdam - Linkedin",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/ai-operations-specialist-at-road-4488129504",
+      "snippet": "5 days ago \u00b7 Solliciteer naar AI Operations Specialist bij Road in Amsterdam. Fulltime Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-11T13:30:36.326400"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.40812280774116516,
+    "ai_native_score": 0.6339468359947205
   }
 ]
