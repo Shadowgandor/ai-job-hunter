@@ -10386,18 +10386,18 @@
   {
     "job": {
       "id": "d0a665d546ea6dafd4d5b69f24afd02e",
-      "title": "100+ vacatures voor Machine Learning Engineer en werk: 24 mei 2025",
+      "title": "200+ vacatures voor Machine Learning Engineer en werk: 12 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/Machine-Learning-Engineer-vacatures",
-      "snippet": "Machine Learning Engineer, Data Scientist, R&D Engineer en meer op Indeed.com.A team of talented and ambitious ML engineers. Your research and implementation will contribute directly to real-world applications, working closely with our AI\u2026",
+      "snippet": "Je bent niet alleen een sterke engineer, maar ook een aanjager van resultaat. Je helpt het team om knopen door te hakken, keuzes te maken op basis van feiten en risico's, en code daadwerkelijk naar productie te brengen.",
       "source": "ddg:indeed",
-      "date_found": "2026-06-07T08:52:28.063395"
+      "date_found": "2026-11-12T14:33:39.729501"
     },
     "score": 0,
-    "reason": "Machine Learning Engineer focus - requires ML expertise (model training, implementation). Explicitly what candidate does NOT want. Generic search results page anyway.",
-    "embed_sim": 0.4283026456832886,
-    "ai_native_score": 0.5224220752716064
+    "reason": "API error",
+    "embed_sim": 0.19543591141700745,
+    "ai_native_score": 0.6552110314369202
   },
   {
     "job": {
@@ -30786,18 +30786,18 @@
   {
     "job": {
       "id": "951b3d51c679009b997ba362d7564f16",
-      "title": "1.000+ vacatures voor Ai Automatisering en werk: 3 september 2026| Indeed",
+      "title": "1.000+ vacatures voor Ai Automatisering en werk: 5 november ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-automatisering-vacatures.html",
-      "snippet": "Ai Automatisering vacatures. Engineer Industri\u00eble Automatisering, Manager Capaciteit En Procesverbetering, Specialist en meer op Indeed.com",
+      "snippet": "You\u2019ll work on designing and building innovative AI solutions and software components, experimenting with the latest AI technologies, frameworks, and tools and applying them to concrete client solutions.",
       "source": "ddg:indeed",
-      "date_found": "2026-09-04T10:29:38.974196"
+      "date_found": "2026-11-12T14:33:16.134283"
     },
     "score": 0,
-    "reason": "This is a search results page, not a job listing. Cannot evaluate. Appears to be an Indeed aggregation page rather than a specific role.",
-    "embed_sim": 0.32120853662490845,
-    "ai_native_score": 0.6192879676818848
+    "reason": "API error",
+    "embed_sim": 0.2594056725502014,
+    "ai_native_score": 0.5992111563682556
   },
   {
     "job": {
@@ -31618,18 +31618,18 @@
   {
     "job": {
       "id": "694cbab6cd2ae7e59fbb949a2808dd51",
-      "title": "Data Analist AI Team - Lely - Werken in AI",
+      "title": "Data Analist AI Team \u2013 Lely - Werken in AI",
       "company": "Werken in AI",
       "location": "",
       "url": "https://werkeninai.nl/data-analist-ai-team-lely/",
-      "snippet": "Vacature: Lely in Maassluis zoekt een Data Analist voor het AI Team voor 32 / 40 uur per week | Salaris: max. \u20ac 5600,- | Startdatum: onbekend Wat ga je doen? Wil je deel uitmaken van het AI-serviceteam bij Lely? Ben je van nature geneigd tot onderzoek en incrementele innovatie? Sluit je aan bij ons team en laten we samen Lely's AI-visie voor 2030 cre\u00ebren. We zijn op zoek naar een ...",
+      "snippet": "Als lid van ons AI-team zul je betrokken zijn bij state-of-the-art technologie\u00ebn, uitgebreide datasets analyseren, samenwerken aan toekomstige AI-ontwikkelingen bij Lely en gegevens omzetten in bruikbare inzichten die innovatie stimuleren.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-09-09T10:42:19.405005"
+      "date_found": "2026-11-12T14:33:43.986672"
     },
-    "score": 1,
-    "reason": "Data Analist AI Team at Lely. Located in Maassluis (outside 40km radius of Utrecht). Role focuses on data analysis within an AI team, which suggests ML/data pipeline work, not developer tool adoption or team enablement.",
-    "embed_sim": 0.32781296968460083,
-    "ai_native_score": 0.6562530994415283
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4016684591770172,
+    "ai_native_score": 0.7063677310943604
   },
   {
     "job": {
@@ -37038,5 +37038,117 @@
     "reason": "API error",
     "embed_sim": 0.40812280774116516,
     "ai_native_score": 0.6339468359947205
+  },
+  {
+    "job": {
+      "id": "ff01510a57cb7e6feeb69f27f2934f02",
+      "title": "1.000+ vacatures voor Ai Transformation en werk: 11 ... - Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-transformation-vacatures.html?vjk=932dd20284cefdd8",
+      "snippet": "About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzword \u2014 it\u2019s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-12T14:33:16.134315"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32063546776771545,
+    "ai_native_score": 0.5882272720336914
+  },
+  {
+    "job": {
+      "id": "7a7c214a3ebc439f1bd0391d4c6fd2f1",
+      "title": "25+ vacatures voor Responsible Ai en werk: 2 november 2026 ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-responsible-ai-vacatures.html?vjk=541dc601ad2251c2",
+      "snippet": "You will contribute to frameworks, guidance, reporting, governance and practical ways of working that enable responsible and controlled use of AI across the organisation.",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-12T14:33:16.134337"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3268600404262543,
+    "ai_native_score": 0.677993893623352
+  },
+  {
+    "job": {
+      "id": "e2ad1af0eefbf46960572762f02e75a6",
+      "title": "600+ vacatures voor Agentic Ai en werk: 12 november 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-agentic-ai-vacatures.html?vjk=d31e8efc0f3236d0",
+      "snippet": "Strong experience in agentic AI. You build and improve the agents of GenIA-L and the way they work together. You build and maintain our knowledge packages: for\u2026",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-12T14:33:16.134348"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.29046231508255005,
+    "ai_native_score": 0.7072333097457886
+  },
+  {
+    "job": {
+      "id": "c4a9d17b80d2f144633ab36a5516f402",
+      "title": "200+ vacatures voor Ai Programmer en werk: 29 juni 2026| Indeed",
+      "company": "",
+      "location": "",
+      "url": "https://nl.indeed.com/q-ai-programmer-vacatures.html",
+      "snippet": "We are looking for an existing Platform Engineer - AI Trainer to help train AI models. You'll be part of a growing community of over 100,000 professionals \u2014 including front-end, back-end, full-stack, machine learning, and other engineers \u2014 who are driving real-world impact in AI development.",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-12T14:33:19.892927"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3562469482421875,
+    "ai_native_score": 0.5566650629043579
+  },
+  {
+    "job": {
+      "id": "206311b5fab7a04dc308804cd8ad0c2a",
+      "title": "Vacature: AI Specialist, Ministerie van Defensie - Werken ...",
+      "company": "Werken ...",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-specialist-KLU-2026-4751",
+      "snippet": "Nov 5, 2026 \u00b7 Je komt te werken binnen het AI Lab van het Simulatiecentrum Air & Space. Dit team richt zich op het verkennen, ontwikkelen en toepassen van kunstmatige intelligentie ter ondersteuning van opleidingen, trainingen, simulaties en organisatieontwikkeling.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-12T14:33:32.165188"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.18781369924545288,
+    "ai_native_score": 0.7020776271820068
+  },
+  {
+    "job": {
+      "id": "c871b8b65c58cb7b9c00e876a7328484",
+      "title": "AI Engineer - Marketing in Amsterdam bij bunq | Magnet.me",
+      "company": "Bunq",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1097930/ai-engineer---marketing",
+      "snippet": "Oct 20, 2026 \u00b7 Maak een profiel aan en ontvang slimme aanbevelingen op basis van je gelikete vacatures.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-12T14:33:52.144072"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23458057641983032,
+    "ai_native_score": 0.5682322978973389
+  },
+  {
+    "job": {
+      "id": "6456ace970e60b70140495ac34738dcb",
+      "title": "AI Marketing Specialist in Rotterdam bij Robeco | Magnet.me",
+      "company": "Robeco",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1105524/ai-marketing-specialist",
+      "snippet": "Nov 4, 2026 \u00b7 AI Marketing Specialist \u2014 Drive marketing transformation by building AI-powered automation. Connect marketing with Robeco\u2019s AI agenda to make work smarter, faster, and more scalable. Robeco's Digital Marketing team, consisting of 12 colleagues, lead\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-12T14:33:52.144098"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.41979146003723145,
+    "ai_native_score": 0.6122949123382568
   }
 ]
