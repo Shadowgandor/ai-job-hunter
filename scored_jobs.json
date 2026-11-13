@@ -31106,18 +31106,18 @@
   {
     "job": {
       "id": "59a8c3aafce865119ebd44ac3f3ae293",
-      "title": "1.000+ vacatures voor Ai Automation en werk: 6 ... - Indeed",
+      "title": "1.000+ vacatures voor Ai Automation en werk: 10 ... - Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-automation-vacatures.html?vjk=e65f7978f5343d05",
-      "snippet": "Strong affinity with AI, automation, and emerging technologies. Comfortable working hands-on with data, automation, and analytical tools.",
+      "snippet": "Ai Automation vacatures. Ai Engineer, Automation Engineer, Junior Finance Consultant en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-09-06T10:12:20.004145"
+      "date_found": "2026-11-13T13:52:30.133769"
     },
     "score": 0,
-    "reason": "Generic job board search results page for 'AI Automation' roles. Not an actual specific job listing. Lacks concrete details about role scope and location.",
-    "embed_sim": 0.3216170072555542,
-    "ai_native_score": 0.6207748651504517
+    "reason": "API error",
+    "embed_sim": 0.32910820841789246,
+    "ai_native_score": 0.6817927956581116
   },
   {
     "job": {
@@ -37150,5 +37150,229 @@
     "reason": "API error",
     "embed_sim": 0.41979146003723145,
     "ai_native_score": 0.6122949123382568
+  },
+  {
+    "job": {
+      "id": "4afcebb716208cf18f32631d7ee4bbbf",
+      "title": "Platform DevOps Engineer bij ReFuels - Renewable ... - LinkedIn",
+      "company": "Refuels - Renewable ... - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/platform-devops-engineer-at-refuels-renewable-energy-fuels-b-v-4484665665",
+      "snippet": "Nov 3, 2026 \u00b7 Hands-on experience with AI coding assistants and LLM APIs. Solid programming fundamentals: you understand, test, and can explain the code you ship, including AI-generated code. A structured way of working and eagerness to learn: you document what you do and ask for help when needed.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:02.586672"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3917594850063324,
+    "ai_native_score": 0.475569486618042
+  },
+  {
+    "job": {
+      "id": "7bb4bb50a04b2bb2affa02f0b50988e6",
+      "title": "Vacature: AI DevOps Engineer, Belastingdienst - Werken voor ...",
+      "company": "Werken voor ...",
+      "location": "Utrecht",
+      "url": "https://www.werkenvoornederland.nl/vacatures/ai-devops-engineer-BD-2026-1489",
+      "snippet": "AI DevOps Engineer Belastingdienst Utrecht - route Wo 32 - 36 uur Schaal 12 / \u20ac4.818 - \u20ac7.094 (bruto) ICT Solliciteren Kenmerk: 12963, Plaatsingsdatum: 12 november 2026",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-13T13:52:22.460443"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2514258921146393,
+    "ai_native_score": 0.6734429001808167
+  },
+  {
+    "job": {
+      "id": "5e2fe11818b666771888a4b657a5368a",
+      "title": "AI Engineering vacatures in Utrecht (191) | AI Vacatures",
+      "company": "AI Vacatures",
+      "location": "Utrecht",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/utrecht-nederland/ai-engineering",
+      "snippet": "Bekijk 191 vacatures voor AI Engineering in Utrecht. Vergelijk salaris, werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-13T13:52:22.460604"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22837623953819275,
+    "ai_native_score": 0.6721600294113159
+  },
+  {
+    "job": {
+      "id": "a37bfff22b8a683255b599947d81e5d7",
+      "title": "AI Engineer - Tang Recruitment",
+      "company": "Tang Recruitment",
+      "location": "Utrecht",
+      "url": "https://tangrecruitment.nl/vacatures/ai-engineer-utrecht/",
+      "snippet": "Jun 13, 2026 \u00b7 Over de organisatie Deze dataconsultancy is gevestigd in Utrecht en bestaat uit twaalf ervaren data-experts. Vanuit verschillende klantomgevingen in Nederland werken zij aan complexe vraagstukken rondom data engineering, BI en datamanagement. Zie jij jezelf als AI Engineer? Stuur je cv via het formulier hieronder.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-13T13:52:22.460624"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3787592649459839,
+    "ai_native_score": 0.6273894309997559
+  },
+  {
+    "job": {
+      "id": "ec23f264ff6880816c177f624a476a1f",
+      "title": "AI Engineer Intern (Chinese/Mandarin speaking) - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-intern-chinese-mandarin-speaking-at-explorai-4487496127",
+      "snippet": "Hands-on experience building a real-world AI product for an international Engineering, Procurement, and Construction (EPC) company. Practical experience with modern LLMs, RAG architectures, AI agents, and local AI deployment. Possibility to align the internship with university internship or graduation requirements, subject to university approval.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:26.140841"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5632157921791077,
+    "ai_native_score": 0.6797896027565002
+  },
+  {
+    "job": {
+      "id": "79582a4eb11def9abcdd00cf47c28a53",
+      "title": "Data Engineer| Data Enablement Team | Data & Product",
+      "company": "Data & Product",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106889/data-engineer--data-enablement-team---data---product",
+      "snippet": "Nov 5, 2026 \u00b7 This journey requires passionate people who embrace change, challenge the status quo, and want to make a difference. As part of Data & Engineering, we are establishing a new Data Enablement team with a mission to make it easy for coworkers, digital products and AI solutions to find, trust and consume data across IKEA.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-13T13:52:38.659498"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32085680961608887,
+    "ai_native_score": 0.39536216855049133
+  },
+  {
+    "job": {
+      "id": "52b68e109a83fcd6ad4d336e6784077f",
+      "title": "Software Engineer| Data Enablement | Data & Product in Delft ...",
+      "company": "Data & Product in Delft ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106910/software-engineer--data-enablement---data---product",
+      "snippet": "Nov 5, 2026 \u00b7 Delft, ZH, Netherlands Engineering & Techniek As part of Data & Engineering, we are establishing a new Data Enablement team with a mission to make it easy for coworkers, digital products and AI solutions to find, trust and consume data across IKEA.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-13T13:52:38.659561"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2704739272594452,
+    "ai_native_score": 0.4494040310382843
+  },
+  {
+    "job": {
+      "id": "5322e085712768887048e2bf2ca5ecac",
+      "title": "AI-consultancy en Adoptie vacatures in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/utrecht-nederland/ai-consultancy-en-adoptie",
+      "snippet": "Bekijk 102 vacatures voor AI-consultancy en Adoptie in Utrecht. Vergelijk salaris, werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-13T13:52:46.352090"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.27228760719299316,
+    "ai_native_score": 0.7326465845108032
+  },
+  {
+    "job": {
+      "id": "d666a11dd152d374a6dc058e99c77f3d",
+      "title": "Data en AI Governance Specialist bij CZ - Tilburg - LinkedIn",
+      "company": "Cz - Tilburg - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-en-ai-governance-specialist-at-cz-4487509418",
+      "snippet": "Nov 4, 2026 \u00b7 Solliciteer naar Data en AI Governance Specialist bij CZ in Tilburg. Fulltime Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:49.967124"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3917003571987152,
+    "ai_native_score": 0.6705501675605774
+  },
+  {
+    "job": {
+      "id": "254c7f38ffe7a3aee9054f5a036f458b",
+      "title": "Merchant Growth Specialist bij SOUS - Amsterdam - LinkedIn",
+      "company": "Sous - Amsterdam - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/merchant-growth-specialist-at-sous-4481042765",
+      "snippet": "Oct 24, 2026 \u00b7 That means more visibility in AI search, more direct orders without commission, and a stronger performance on the delivery platforms restaurants already use. As our merchant base grows quickly, we want every single restaurant to see that growth in its numbers. As Merchant Growth Specialist you make that promise real.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:49.967151"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22130835056304932,
+    "ai_native_score": 0.436824768781662
+  },
+  {
+    "job": {
+      "id": "f5d652f787126f71322803d49f524160",
+      "title": "Adoptie & Change specialist bij Cegeka - Groningen ...",
+      "company": "Cegeka - Groningen ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/adoptie-change-specialist-at-cegeka-4484664623",
+      "snippet": "Nov 3, 2026 \u00b7 Solliciteer naar Adoptie & Change specialist bij Cegeka in Groningen, Nederland. Fulltime Medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:49.967164"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.19625554978847504,
+    "ai_native_score": 0.6274063587188721
+  },
+  {
+    "job": {
+      "id": "44aaa683e5eb5db4bcf4bdcceeff6c7d",
+      "title": "Application Security & AI Security Specialist bij Gazelle ...",
+      "company": "Gazelle ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/application-security-ai-security-specialist-at-gazelle-global-4480640053",
+      "snippet": "Oct 23, 2026 \u00b7 This is an opportunity to play a key role in strengthening Application Security capabilities while supporting the secure adoption of emerging AI technologies, including Generative AI, AI Agents, and AI-enabled development platforms.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-13T13:52:49.967177"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.41313982009887695,
+    "ai_native_score": 0.5822675824165344
+  },
+  {
+    "job": {
+      "id": "75c8a724c32fb6e6f2912cb90542613b",
+      "title": "Vacature: Senior Medewerker Techniek - Artificial ...",
+      "company": "Artificial ...",
+      "location": "",
+      "url": "https://www.werkenvoornederland.nl/vacatures/senior-medewerker-techniek-artificial-intelligence-ai-DEF-2026-6385",
+      "snippet": "4 days ago \u00b7 Zo draag jij direct bij aan de technologische innovatie en veiligheid van Nederland. Als Senior Medewerker Techniek AI werk je aan de ontwikkeling van autonome wapensystemen. Je bevindt je op het snijvlak van Artificial Intelligence, hardware en systeemarchitectuur.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-13T13:52:58.091946"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.23993197083473206,
+    "ai_native_score": 0.7776455283164978
+  },
+  {
+    "job": {
+      "id": "6ed00d5cb666e3dbd3b7a83977ff4f80",
+      "title": "AI Engineer in Amsterdam bij Van Lanschot Kempen | Magnet.me",
+      "company": "Van Lanschot Kempen",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1098505/ai-engineer",
+      "snippet": "Oct 21, 2026 \u00b7 Als AI Engineer bij de Digital Innovation & Analytics afdeling sluit je je aan bij het AIRCAT & People Analytics Team (AI Risk Compliance Team). Je werkt in een multidisciplinair Scrumteam, waarin je een sleutelrol speelt in het versterken van de so\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-13T13:53:06.877250"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4395121932029724,
+    "ai_native_score": 0.7658399939537048
   }
 ]
