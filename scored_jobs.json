@@ -184,10 +184,10 @@
       "url": "https://werkeninai.nl/conversational-ai-engineer-essent/",
       "snippet": "We werken met de nieuwste technieken, waaronder het gebruik van generative AI, om klanten steeds beter te ondersteunen en onze bots slimmer te maken. Eigen initiatieven worden aangemoedigd; zo hebben we op initiatief van ons eigen team een AI-gedreven agent assist bot live gezet.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-09-03T10:38:09.182552"
+      "date_found": "2026-11-14T12:56:13.060432"
     },
-    "score": 2,
-    "reason": "Conversational AI Engineer at Essent building chatbots and AI agents. This is ML/AI product development, not developer tool enablement. Wrong focus and likely requires ML/NLP expertise.",
+    "score": 0,
+    "reason": "API error",
     "embed_sim": 0.3815079927444458,
     "ai_native_score": 0.839644193649292
   },
@@ -12930,18 +12930,18 @@
   {
     "job": {
       "id": "40d38976413e3968ec631a233c81aae8",
-      "title": "Meer dan 4.000 vacatures voor Ai Software Engineer in Nederland",
+      "title": "Vacatures voor Ai Software Engineer in Nederland (4,000 ...",
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/ai-software-engineer-jobs",
-      "snippet": "Meer dan 4.000 topvacatures voor Ai Software Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Ai Software Engineer toegevoegd.",
+      "snippet": "4,000+ topvacatures voor Ai Software Engineer in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Ai Software Engineer toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-08-26T06:41:52.414722"
+      "date_found": "2026-11-14T12:56:55.679840"
     },
     "score": 0,
-    "reason": "This is a search results aggregator page showing 4,000+ job listings, not a specific job posting. Cannot evaluate.",
-    "embed_sim": 0.3458631634712219,
-    "ai_native_score": 0.7648946642875671
+    "reason": "API error",
+    "embed_sim": 0.2911171615123749,
+    "ai_native_score": 0.7315697073936462
   },
   {
     "job": {
@@ -21602,18 +21602,18 @@
   {
     "job": {
       "id": "47714e6656e25837a6b96719688f3610",
-      "title": "Tech Enablement Specialist - Change & Adoption",
-      "company": "Change & Adoption",
+      "title": "Tech Enablement Specialist \u2013 Change & Adoption",
+      "company": "",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1057627/tech-enablement-specialist--change---adoption",
-      "snippet": "Tech Enablement Specialist - Change & Adoption Tech Academy is a strategic partner to Adyen's global Tech organization - Engineering, Product, and Product experience - making teams faster and more effective by giving them the skills and know-how they need to ship products and solve real customer problems.",
+      "snippet": "Jul 11, 2026 \u00b7 We\u2019re hiring a hands-on Tech Enablement Specialist who will sit close to Tech teams, understand how work really happens, and help them adopt the enablement, tools, and practices.",
       "source": "ddg:magnet",
-      "date_found": "2026-07-14T07:57:24.768838"
+      "date_found": "2026-11-14T12:56:51.898885"
     },
-    "score": 7,
-    "reason": "Tech Enablement Specialist focused on making teams faster and more effective with skills/knowledge \u2014 strong match for AI enablement vision; location unknown but Adyen has Utrecht presence; fits platform/enablement profile",
-    "embed_sim": 0.33645397424697876,
-    "ai_native_score": 0.771634042263031
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4075469374656677,
+    "ai_native_score": 0.7234305143356323
   },
   {
     "job": {
@@ -32130,18 +32130,18 @@
   {
     "job": {
       "id": "55a491f346a20b80b4ef088624cdea26",
-      "title": "25+ vacatures voor Ai Adoption en werk in Tilburg 1 ... - Indeed",
+      "title": "ai adoption vacatures in Tilburg",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-adoption-l-tilburg-vacatures.html",
       "snippet": "Ai Adoption vacatures in Tilburg. Forward Deployed Engineer, Intern, Shift Leader en meer op Indeed.com",
       "source": "ddg:indeed",
-      "date_found": "2026-09-13T11:01:55.594961"
+      "date_found": "2026-11-14T12:56:34.908078"
     },
     "score": 0,
-    "reason": "Indeed search results aggregation page for AI Adoption vacancies in Tilburg. This is a search index, not a specific job posting. Tilburg is also outside the 40km Utrecht radius.",
-    "embed_sim": 0.2823583483695984,
-    "ai_native_score": 0.7502304911613464
+    "reason": "API error",
+    "embed_sim": 0.40435028076171875,
+    "ai_native_score": 0.767815887928009
   },
   {
     "job": {
@@ -37374,5 +37374,117 @@
     "reason": "API error",
     "embed_sim": 0.4395121932029724,
     "ai_native_score": 0.7658399939537048
+  },
+  {
+    "job": {
+      "id": "aa2f88478ccddfe5754895d9dae73bfd",
+      "title": "AI Engineer vacatures Nederland 2026 | DataPartner365",
+      "company": "DataPartner365",
+      "location": "",
+      "url": "https://www.datapartner365.nl/data-vacatures/ai-engineer/",
+      "snippet": "Op zoek naar een baan als AI Engineer in Nederland? Hier vind je de meest actuele vacatures voor AI-rollen \u2014 van LLM-integraties en Generative AI tot RAG-pipelines en AI-agents.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-14T12:55:33.578856"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.34616202116012573,
+    "ai_native_score": 0.6427465081214905
+  },
+  {
+    "job": {
+      "id": "2ac9ce1265c8b9130ba566e2b954b7c8",
+      "title": "Application Integration Developer bij Nebius | Magnet.me",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1110003/application-integration-developer",
+      "snippet": "Hands-on experience with Application Insights and Log Analytics. Experience using AI-assisted development tools, with the ability to critically evaluate their output.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-14T12:56:38.659409"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4686136841773987,
+    "ai_native_score": 0.510033905506134
+  },
+  {
+    "job": {
+      "id": "9e4e53948a02e33e2984edc70c32c52f",
+      "title": "42 vacature (s) voor Ai enablement lead salary in Nederland",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://www.glassdoor.nl/Vacature/ai-enablement-lead-salary-vacatures-SRCH_KO0,25.htm",
+      "snippet": "Vacatures voor automation engineer in Amsterdam Vacatures in Amsterdam Vacatures bij ING in Amsterdam Salarissen bij ING Salarissen voor automation engineer in Amsterdam Reviews van werknemers bij ING Sollicitatie-ervaring bij ING Werken bij ING 30d+ KPMG 3,6 Tech/AI Enablement Senior Consultant Amstelveen \u20ac 4.000 - \u20ac 5.500 (opgegeven door ...",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-14T12:56:42.856593"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22929394245147705,
+    "ai_native_score": 0.6692616939544678
+  },
+  {
+    "job": {
+      "id": "36f1cda2cce7333ecd039397f5878b8a",
+      "title": "AI Adoption - Stage in Amsterdam bij Van Lanschot Kempen ...",
+      "company": "Van Lanschot Kempen ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1109166/ai-adoption---stage",
+      "snippet": "3 days ago \u00b7 Als AI Adoption - Stage help je Van Lanschot Kempen om AI te verankeren in het dagelijkse werk. Je inspireert en ondersteunt collega\u2019s om Microsoft 365 Copilot slim en verantwoord te gebruiken en draagt bij aan low-code AI-agents in Copilot Studio.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-14T12:56:51.898859"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.18922296166419983,
+    "ai_native_score": 0.7484297752380371
+  },
+  {
+    "job": {
+      "id": "9dffcef00b91ce64745d2822377acca8",
+      "title": "Productspecialist AI/Datagedreven zorg in Amsterdam bij ...",
+      "company": "...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1091974/productspecialist-ai-datagedreven-zorg",
+      "snippet": "Oct 10, 2026 \u00b7 Als Productspecialist Datagedreven Zorg met aandachtsgebied AI heb je een belangrijke rol in het vertalen van ontwikkelingen op het gebied van data en kunstmatige intelligentie naar waardevolle, veilige en praktisch toepasbare oplossingen voor de zorg.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-14T12:56:51.898873"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.15905137360095978,
+    "ai_native_score": 0.5521582365036011
+  },
+  {
+    "job": {
+      "id": "65869b9c5f3ed2dc1f825f43c0c839ce",
+      "title": "Software Engineer- AI Platform Tooling bij Mendix - Rotterdam ...",
+      "company": "Mendix - Rotterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-ai-platform-tooling-at-mendix-4440439861",
+      "snippet": "We're looking for a talented Staff Software Engineer to join our dynamic team and help us build the future of Generative AI. In this role, you'll be instrumental in developing the tools,...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-14T12:56:55.679771"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42074891924858093,
+    "ai_native_score": 0.673397421836853
+  },
+  {
+    "job": {
+      "id": "84b92dfda9a3a1db604cc5b5f0dabf9f",
+      "title": "AI Engineer bij Hilbert - Amsterdam | LinkedIn Vacatures",
+      "company": "Hilbert - Amsterdam",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-hilbert-4485729077",
+      "snippet": "We\u2019re looking for an AI Engineer who can build production-grade AI systems end-to-end, from prototype to pipeline to product, with the ownership and urgency of a startup culture.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-14T12:56:55.679827"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5563867092132568,
+    "ai_native_score": 0.5794739127159119
   }
 ]
