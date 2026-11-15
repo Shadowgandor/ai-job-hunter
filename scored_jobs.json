@@ -19030,14 +19030,14 @@
       "company": "",
       "location": "",
       "url": "https://nl.linkedin.com/jobs/adoptiespecialist-jobs",
-      "snippet": "Meer dan 1.000 topvacatures voor Adoptiespecialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks nieuwe vacatures voor Adoptiespecialist toegevoegd.",
+      "snippet": "6,000+ topvacatures voor Adoptiespecialist in Nederland vandaag. Benut uw professionele netwerk en vind een baan. Dagelijks worden nieuwe vacatures voor Adoptiespecialist toegevoegd.",
       "source": "ddg:linkedin",
-      "date_found": "2026-09-14T11:39:18.206084"
+      "date_found": "2026-11-15T13:23:25.617381"
     },
     "score": 0,
-    "reason": "This is a job search aggregator page, not an actual job listing. No specific role, company, or details provided.",
-    "embed_sim": 0.1262979507446289,
-    "ai_native_score": 0.6788375973701477
+    "reason": "API error",
+    "embed_sim": 0.11008233577013016,
+    "ai_native_score": 0.653516948223114
   },
   {
     "job": {
@@ -28082,18 +28082,18 @@
   {
     "job": {
       "id": "b54284658d9b437ddf374165fd4cb497",
-      "title": "ai automation vacatures in Utrecht (provincie)",
+      "title": "200+ vacatures voor Ai Automation en werk in Utrecht ... - Indeed",
       "company": "",
       "location": "Utrecht",
       "url": "https://nl.indeed.com/q-ai-automation-l-utrecht-(provincie)-vacatures.html?vjk=3f13afc42e173a81",
-      "snippet": "Ai Automation vacatures in Utrecht (provincie). Automation Engineer, Data Engineer, Developer en meer op Indeed.com",
+      "snippet": "Ai Automation vacatures in Utrecht (provincie). Systeem Engineer, Quality Assurance Manager, Automation Engineer en meer op Indeed.com",
       "source": "ddg:web-nl",
-      "date_found": "2026-08-25T06:41:08.210560"
+      "date_found": "2026-11-15T13:23:16.541981"
     },
     "score": 0,
-    "reason": "This is a job search results aggregation page in Utrecht region, not a specific position. Cannot evaluate without actual job details.",
-    "embed_sim": 0.40147700905799866,
-    "ai_native_score": 0.681603729724884
+    "reason": "API error",
+    "embed_sim": 0.2784181237220764,
+    "ai_native_score": 0.6823064088821411
   },
   {
     "job": {
@@ -37486,5 +37486,101 @@
     "reason": "API error",
     "embed_sim": 0.5563867092132568,
     "ai_native_score": 0.5794739127159119
+  },
+  {
+    "job": {
+      "id": "1b886b34729b18b0c87437c1de1d64c2",
+      "title": "AI Adoption Consultant (Junior/Medior) bij Digital Bricks ...",
+      "company": "Digital Bricks ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-adoption-consultant-junior-medior-at-digital-bricks-4487735955",
+      "snippet": "Nov 5, 2026 \u00b7 About Digital Bricks At Digital Bricks, we help organisations understand, adopt, and scale artificial intelligence. As a specialist Microsoft Data & AI solution provider and consultancy, we guide businesses through their end-to-end AI transformations\u2014spanning Microsoft 365 Copilot, Copilot Studio, Power Platform, custom AI agents, strategy, development, and governance.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-15T13:23:25.617356"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.42401906847953796,
+    "ai_native_score": 0.7241681814193726
+  },
+  {
+    "job": {
+      "id": "f8b7c47f9808062453d5d354e102720b",
+      "title": "Senior AI Adoption Consultant bij Digital Bricks - Amsterdam ...",
+      "company": "Digital Bricks - Amsterdam ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-adoption-consultant-at-digital-bricks-4487740691",
+      "snippet": "About Digital Bricks At Digital Bricks, we help organisations understand, adopt, and scale artificial intelligence. As a specialist Microsoft Data & AI solution provider and consultancy, we guide businesses through their end-to-end AI transformations\u2014spanning Microsoft 365 Copilot, Copilot Studio, Power Platform, custom AI agents, strategy, development, and governance.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-15T13:23:25.617401"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3839247524738312,
+    "ai_native_score": 0.68072110414505
+  },
+  {
+    "job": {
+      "id": "84d80d7fb8faf91de04c318735290650",
+      "title": "AI Engineer bij Capgemini in Utrecht | Baanlens",
+      "company": "Capgemini In Utrecht",
+      "location": "Utrecht",
+      "url": "https://baanlens.nl/vacature/capgemini-ai-engineer-013bf6f",
+      "snippet": "Oct 31, 2026 \u00b7 Bij Capgemini in Utrecht ontwikkel en implementeer je als AI engineer machinelearningmodellen en AI-oplossingen en breng je die met multidisciplinaire teams naar productie. Je werkt hybride, 32 tot 40 uur per week, met een vast contract. Je hebt een afgeronde relevante wo-opleiding en meer dan 4 jaar werkervaring.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-15T13:23:35.099306"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2755622863769531,
+    "ai_native_score": 0.6389895677566528
+  },
+  {
+    "job": {
+      "id": "deb0ca8b7eaa4b3b3c1ab83e194ce356",
+      "title": "AI Infrastructure Systems Engineer bij Together AI ... - LinkedIn",
+      "company": "Together Ai ... - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-infrastructure-systems-engineer-at-together-ai-4405986802",
+      "snippet": "Experience building platforms, automation systems, or developer infrastructure. Experience with Linux, Kubernetes, Terraform, Ansible, or similar infrastructure technologies. Strong systems thinking with the ability to understand problems across hardware and software. A passion for solving complex infrastructure challenges through software.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-15T13:23:39.858989"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5378479361534119,
+    "ai_native_score": 0.610535740852356
+  },
+  {
+    "job": {
+      "id": "61ad8c1b975659cd3ab2d286dd5eac60",
+      "title": "Digital Performance Manager & AI Manager EMEA - LinkedIn",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/digital-performance-manager-ai-manager-emea-at-link-snacks-4481919977",
+      "snippet": "Experience creating and optimizing digital content, with proficiency in AI-powered content creation tools to develop social media assets, visual content, and marketing materials for digital channels.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-15T13:23:39.859000"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3828849792480469,
+    "ai_native_score": 0.6188778281211853
+  },
+  {
+    "job": {
+      "id": "3e82ccf568b07093562698f2c1be0437",
+      "title": "AI Specialist in Hoogerheide bij Ministerie van Defensie ...",
+      "company": "Ministerie Van Defensie ...",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1106621/ai-specialist",
+      "snippet": "Nov 5, 2026 \u00b7 Jouw rol als AI Specialist bij de Koninklijke Luchtmacht In deze rol ben jij medeverantwoordelijk voor het verkennen, ontwikkelen en toepassen van kunstmatige intelligentie binnen het AI Lab (AIL) van het Simulatiecentrum van het RAETC.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-15T13:24:01.490986"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.314083069562912,
+    "ai_native_score": 0.6973631978034973
   }
 ]
