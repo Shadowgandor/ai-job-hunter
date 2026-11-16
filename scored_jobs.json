@@ -3908,16 +3908,16 @@
       "id": "24ec7e40020b790ca9412378cd8f0719",
       "title": "Vacature: AI Integration & Automation Engineer - EO",
       "company": "EO",
-      "location": "Hilversum",
+      "location": "",
       "url": "https://werkeninai.nl/ai-integration-automation-engineer-eo/",
-      "snippet": "Vacature: De Evangelische Omroep (EO) in Hilversum zoekt een fulltime AI Integration & Automation Engineer voor 36 uur per week",
+      "snippet": "Bij de EO zoeken we een AI Automation Engineer die AI slim inzet in onze dagelijkse processen. Jij maakt workflows slimmer door bestaande software en databronnen te koppelen, en je bouwt automatiseringen die collega\u2019s direct merken in hun werk.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-09-15T10:58:27.526667"
+      "date_found": "2026-11-16T14:38:14.985110"
     },
     "score": 0,
-    "reason": "Listing appears to be a job board entry without substantive role details. No job description, responsibilities, or requirements provided to assess relevance. Cannot determine if role focuses on AI tool adoption vs. ML engineering without actual job content.",
-    "embed_sim": 0.46982502937316895,
-    "ai_native_score": 0.6679247617721558
+    "reason": "API error",
+    "embed_sim": 0.43633508682250977,
+    "ai_native_score": 0.692309558391571
   },
   {
     "job": {
@@ -13410,18 +13410,18 @@
   {
     "job": {
       "id": "440619bb4f099edaf325321d473db935",
-      "title": "10.476 vacature (s) voor Ai in Nederland - Glassdoor",
+      "title": "12.493 vacature (s) voor Ai in Nederland - Glassdoor",
       "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/ai-vacatures-SRCH_KO0,2.htm",
-      "snippet": "Zoek vacatures voor Ai. Vind de juiste vacature voor Ai met bedrijfsreviews en salarissen. 10.476 vacatures voor Ai.",
+      "snippet": "Zoek vacatures voor Ai. Vind de juiste vacature voor Ai met bedrijfsreviews en salarissen. 12.493 vacatures voor Ai.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-08-16T06:34:18.182248"
+      "date_found": "2026-11-16T14:38:39.686282"
     },
     "score": 0,
-    "reason": "Generic search results aggregation page with 10,476 AI job listings. Not an actual job posting. No specific role, company, or location information.",
-    "embed_sim": 0.052146948873996735,
-    "ai_native_score": 0.5941721796989441
+    "reason": "API error",
+    "embed_sim": 0.046364277601242065,
+    "ai_native_score": 0.5831294655799866
   },
   {
     "job": {
@@ -18674,18 +18674,18 @@
   {
     "job": {
       "id": "245a4287d98f9a3475c32cbe40d6cbde",
-      "title": "259 vacatures voor adoption specialist in Nederland | Glassdoor",
+      "title": "293 vacatures voor adoption specialist in Nederland | Glassdoor",
       "company": "Glassdoor",
-      "location": "Rotterdam",
+      "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-adoption-specialist-vacatures-SRCH_IL.0,9_IN178_KO10,29.htm",
-      "snippet": "Salarissen bij New Spring Network Salarissen voor environmental specialist in Rotterdam Reviews van werknemers bij New Spring Network Sollicitatie-ervaring bij New Spring Network Werken bij New Spring Network Tata Steel 3,8 AI adoption & incubation lead Velsen-Noord \u20ac 5.026 - \u20ac 9.959 (opgegeven door werkgever)",
+      "snippet": "Zoek vacatures voor Adoption specialist in Nederland met bedrijfsreviews en salarissen. 293 vacatures voor Adoption specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-13T11:01:32.516303"
+      "date_found": "2026-11-16T14:38:48.567329"
     },
     "score": 0,
-    "reason": "This is a Glassdoor search results page listing 259 adoption specialist vacancies, not a specific job posting. Cannot evaluate a search index.",
-    "embed_sim": 0.12822262942790985,
-    "ai_native_score": 0.5228738188743591
+    "reason": "API error",
+    "embed_sim": 0.14757761359214783,
+    "ai_native_score": 0.5882344245910645
   },
   {
     "job": {
@@ -32098,18 +32098,18 @@
   {
     "job": {
       "id": "d605855ef101d73b3622f52dd1e1ee1e",
-      "title": "426 vacature(s) voor Ai automation specialist in Nederland | Glassdoor",
-      "company": "Glassdoor",
+      "title": "484 vacature (s) voor Ai automation specialist in Nederland",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/nederland-ai-automation-specialist-job-vacatures-SRCH_IL.0,9_KO10,38.htm",
-      "snippet": "Experience evaluating and implementing automation or AI tooling at an organizational level.",
+      "snippet": "Zoek vacatures voor Ai automation specialist in Nederland met bedrijfsreviews en salarissen. 484 vacatures voor Ai automation specialist in Nederland.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-13T11:01:41.818700"
+      "date_found": "2026-11-16T14:38:48.567355"
     },
     "score": 0,
-    "reason": "Glassdoor search results page for AI automation specialist vacancies (426 listings). Cannot evaluate a search index rather than a specific job posting.",
-    "embed_sim": 0.40049758553504944,
-    "ai_native_score": 0.7484515905380249
+    "reason": "API error",
+    "embed_sim": 0.3174753785133362,
+    "ai_native_score": 0.6842425465583801
   },
   {
     "job": {
@@ -37582,5 +37582,117 @@
     "reason": "API error",
     "embed_sim": 0.314083069562912,
     "ai_native_score": 0.6973631978034973
+  },
+  {
+    "job": {
+      "id": "211eb3448fd21801055ff5e1b110c9a8",
+      "title": "AI Engineer vacatures in Utrecht - DataJobs",
+      "company": "DataJobs",
+      "location": "Utrecht",
+      "url": "https://www.datajobs.nl/vacatures/ai-engineer/utrecht",
+      "snippet": "AI Engineer vacatures in Utrecht: 9 actuele vacatures bij 5 werkgevers. Vergelijk salaris, uren en werkvorm en solliciteer direct bij de werkgever.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-16T14:38:10.685100"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30878838896751404,
+    "ai_native_score": 0.6351746320724487
+  },
+  {
+    "job": {
+      "id": "7d4316e06366e372524edc24c24370a9",
+      "title": "834 vacature (s) voor Adoption lead in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/adoption-lead-vacatures-SRCH_KO0,13.htm",
+      "snippet": "Ready to build the technical foundation for enterprise smart-glasses adoption at scale? Join VR Expert and help define how smart glasses and AI transform the way enterprises work.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-16T14:38:48.567368"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.1155373603105545,
+    "ai_native_score": 0.6013122797012329
+  },
+  {
+    "job": {
+      "id": "00a3d19d9b1c17e92e827d85d1a08bbf",
+      "title": "AI-consultancy en Adoptie vacatures in Utrecht",
+      "company": "",
+      "location": "Utrecht",
+      "url": "https://www.aivacatures.nl/vacatures/locaties/utrecht-utrecht-nederland/ai-consultancy-en-adoptie",
+      "snippet": "Bekijk 213 vacatures voor AI-consultancy en Adoptie in en rond Utrecht. Vergelijk salaris, werkplek en dienstverband en solliciteer direct.",
+      "source": "ddg:web-nl",
+      "date_found": "2026-11-16T14:38:53.286310"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.2658853232860565,
+    "ai_native_score": 0.7336735129356384
+  },
+  {
+    "job": {
+      "id": "0639d15a59cdfe44e56edcc625f70124",
+      "title": "Contracting Opportunity | AI Adoption Lead / Microsoft ...",
+      "company": "AI Adoption Lead / Microsoft ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/contracting-opportunity-ai-adoption-lead-microsoft-copilot-32-hours-hybrid-netherlands-at-erprecruit-4479406774",
+      "snippet": "For one of our clients, we are looking for an experienced AI Adoption Lead to support the organisation-wide adoption of Microsoft Copilot and Generative AI solutions. The assignment focuses on translating AI capabilities into practical business applications, driving user adoption and ensuring AI becomes an integral part of everyday workflows.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-16T14:39:07.407774"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4034842252731323,
+    "ai_native_score": 0.771535336971283
+  },
+  {
+    "job": {
+      "id": "4e5817770100b8adba1d8f46f8c3b8f0",
+      "title": "AI Engineer \u2013 Foundational Models with Multi-Modality (Analog ...",
+      "company": "",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-\u2013-foundational-models-with-multi-modality-analog-ic-design-at-nxp-semiconductors-4470445460",
+      "snippet": "Being part of the NXP Design Enablement (DE) global team as a CAD Methodology & Flow Engineer offers a unique opportunity to work at the intersection of semiconductor design, software...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-16T14:39:16.090389"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.43688857555389404,
+    "ai_native_score": 0.7038843631744385
+  },
+  {
+    "job": {
+      "id": "129d1fff46107f26daa78d9e789884a5",
+      "title": "Staff AI Application Engineer - Heterogeneous Computing",
+      "company": "Heterogeneous Computing",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/staff-ai-application-engineer-heterogeneous-computing-at-axelera-ai-4486642138",
+      "snippet": "Nov 7, 2026 \u00b7 As a Staff AI Application Engineer in the Model Enablement team (Application Software), you will build our model enablement platform and decide how each model runs across the Metis or Europa AIPU, the host CPU and the host's accelerators. How this work is split and scheduled determines most of the end-to-end performance a customer sees in the Voyager SDK.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-16T14:39:16.090409"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4866097867488861,
+    "ai_native_score": 0.5597245097160339
+  },
+  {
+    "job": {
+      "id": "e3726bc819cca36e1a4017deafabcdd6",
+      "title": "528 vacatures voor enablement in Nederland | Glassdoor",
+      "company": "Glassdoor",
+      "location": "",
+      "url": "https://www.glassdoor.nl/Vacature/enablement-vacatures-SRCH_IN178_KO0,10.htm",
+      "snippet": "Zoek vacatures voor Enablement. Vind de juiste vacature voor Enablement met bedrijfsreviews en salarissen. 528 vacatures voor Enablement.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-16T14:39:25.038914"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.043746426701545715,
+    "ai_native_score": 0.5333645343780518
   }
 ]
