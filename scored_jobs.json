@@ -4504,11 +4504,11 @@
       "url": "https://werkeninai.nl/prompt-engineer-coolblue/",
       "snippet": "En je denkt actief mee over nieuwe toepassingen van AI binnen bestaande processen. Als toekomstig prompt engineer schrijf je natuurlijk jouw motivatiebrief met AI.",
       "source": "ddg:werkeninai",
-      "date_found": "2026-09-06T10:13:10.571510"
+      "date_found": "2026-11-17T15:28:12.934945"
     },
-    "score": 4,
-    "reason": "Prompt Engineer role at Coolblue. While AI-focused, the framing suggests content/prompt creation and AI process optimization rather than helping dev teams adopt AI tooling. No clear SDLC or developer enablement angle. Coolblue is retail-focused, not a technical platform.",
-    "embed_sim": 0.2581104636192322,
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.258110374212265,
     "ai_native_score": 0.788531482219696
   },
   {
