@@ -37838,5 +37838,117 @@
     "reason": "API error",
     "embed_sim": 0.29080086946487427,
     "ai_native_score": 0.5837604999542236
+  },
+  {
+    "job": {
+      "id": "a268acdde0e669c8fddc7cdeb4aa42c6",
+      "title": "Vacatures bij Dagje Horst aan de Maas",
+      "company": "Dagje Horst Aan De Maas",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/vacatures",
+      "snippet": "Sluit je aan bij ons team Bij Dagje Horst aan de Maas staat gezelligheid, enthousiasme en zelfstandigheid centraal. Ben jij een fan van spellen en activiteiten? Sta je te springen om bij te dragen aan een geweldige dag voor onze gasten? Sluit je dan snel aan bij ons team! Bekijk de vacatures hieronder en neem bij vragen gerust contact met ons op om de mogelijkheden te bespreken.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-19T15:10:05.311631"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.033243075013160706,
+    "ai_native_score": 0.590096652507782
+  },
+  {
+    "job": {
+      "id": "d971399d874f682bf86436b6fef7a301",
+      "title": "Activiteitenbegeleider | Vacatures bij Dagje Horst aan de ...",
+      "company": "Dagje Horst Aan De ...",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/vacatures/activiteitenbegeleider-bijbaan",
+      "snippet": "Sluit je aan bij ons team Bij Dagje Horst aan de Maas staat gezelligheid, enthousiasme en zelfstandigheid centraal. Ben jij een fan van spellen en activiteiten? Sta je te springen om bij te dragen aan een geweldige dag voor onze gasten? Sluit je dan snel aan bij ons team!",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-19T15:10:05.311663"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.14373844861984253,
+    "ai_native_score": 0.6185399889945984
+  },
+  {
+    "job": {
+      "id": "401e6916b5b45c347841706766779fe7",
+      "title": "Dagje Horst aan de Maas | Voor het gezelligste dagje uit!",
+      "company": "Voor het gezelligste dagje uit!",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/",
+      "snippet": "Op zoek naar een gezellige activiteit of een arrangement voor jullie familiedag of bedrijfsfeest? Dagje Horst aan de Maas helpt je graag verder! Ook voor spelverhuur voor kinderfeestjes ben je bij ons aan het juiste adres!",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-19T15:10:05.311675"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.031515635550022125,
+    "ai_native_score": 0.5244885683059692
+  },
+  {
+    "job": {
+      "id": "46f89a25a2305c0acfad957b991f5c67",
+      "title": "www.dagjehorstaandemaas.nl",
+      "company": "",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/vergaderen",
+      "snippet": "De applicatie is momenteel niet toegankelijk. Probeer het later nogmaals.",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-19T15:10:05.311684"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": -0.016233952715992928,
+    "ai_native_score": 0.5297187566757202
+  },
+  {
+    "job": {
+      "id": "cbe990299182d2950dbda727fb7896b3",
+      "title": "Vincent van Gogh | Dagje Horst aan de Maas | Voor het ...",
+      "company": "Dagje Horst aan de Maas",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/vincent-van-gogh",
+      "snippet": "Op zoek naar een gezellige activiteit of een arrangement voor jullie familiedag of bedrijfsfeest? Dagje Horst aan de Maas helpt je graag verder! Ook voor spelverhuur voor kinderfeestjes ben je bij ons aan het juiste adres!",
+      "source": "ddg:glassdoor",
+      "date_found": "2026-11-19T15:10:05.311693"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.03137395530939102,
+    "ai_native_score": 0.597299337387085
+  },
+  {
+    "job": {
+      "id": "0475a478fcdcc7693849014449ae727f",
+      "title": "Dagjes Horst aan de Maas",
+      "company": "",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/arrangementen",
+      "snippet": "Bij Dagje Horst aan de Maas gaan we er voor om je te laten genieten van een compleet dagje uit. Van A tot Z verzorgen we een dagje Horst aan de Maas voor jullie vol leuke activiteiten en lekkere hapjes en drankjes. Hieronder zie je een aantal van onze mogelijkheden en eerder geslaagde dagjes uit. Natuurlijk kun je hier iets uitkiezen, maar we maken veel liever iets op maat voor je! De leukste ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-19T15:11:14.399676"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.029874619096517563,
+    "ai_native_score": 0.5763958692550659
+  },
+  {
+    "job": {
+      "id": "67da452a17d7139088c1194f7a025885",
+      "title": "Dagje Actief - Dagjes Horst aan de Maas",
+      "company": "Dagjes Horst aan de Maas",
+      "location": "",
+      "url": "https://www.dagjehorstaandemaas.nl/arrangementen/dagje-actief",
+      "snippet": "Een actief dagje uit met de leukste activiteiten! Tijdens een Dagje Actief combineren we actieve en leuke activiteiten met het lekkerste eten en drinken. Graag bespreken we jullie wensen en bekijken we de mogelijkheden om zo tot een dagje uit te komen dat niet snel zal worden vergeten. Of je nu gaat voor een Escape-Game, lopend door het centrum van Horst. Of toch liever voor een golfclinic ...",
+      "source": "ddg:indeed",
+      "date_found": "2026-11-19T15:11:14.399709"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.05250187963247299,
+    "ai_native_score": 0.6552267670631409
   }
 ]
