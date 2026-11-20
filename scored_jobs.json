@@ -9032,11 +9032,11 @@
       "url": "https://nl.linkedin.com/jobs/view/ai-adoption-specialist-at-sectra-4392936403",
       "snippet": "As an AI Adoption Specialist, you will support them in integrating AI into their clinical workflows to improve quality, efficiency, and patient outcomes. Sectra\u2019s Amplifier Services is a new...",
       "source": "ddg:linkedin",
-      "date_found": "2026-09-17T10:55:07.846340"
+      "date_found": "2026-11-20T14:51:28.652326"
     },
-    "score": 3,
-    "reason": "Weak match. AI Adoption Specialist in Almere (acceptable proximity to Utrecht). Title is promising but context is clinical workflows in healthcare (Sectra), not dev team enablement. Different industry/audience than engineering teams.",
-    "embed_sim": 0.3347316086292267,
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3347315192222595,
     "ai_native_score": 0.6200997233390808
   },
   {
@@ -32114,18 +32114,18 @@
   {
     "job": {
       "id": "e2eba50f53fa5c4f7161ea8bf8bea122",
-      "title": "425 vacature(s) voor Ai automation specialist in Nederland | Glassdoor",
-      "company": "Glassdoor",
+      "title": "499 vacature (s) voor Ai automation specialist in Nederland",
+      "company": "",
       "location": "",
       "url": "https://www.glassdoor.nl/Vacature/ai-automation-specialist-job-vacatures-SRCH_KO0,28.htm",
-      "snippet": "Experience evaluating and implementing automation or AI tooling at an organizational level.",
+      "snippet": "Zoek vacatures voor Ai automation specialist. Vind de juiste vacature voor Ai automation specialist met bedrijfsreviews en salarissen. 499 vacatures voor Ai automation specialist.",
       "source": "ddg:glassdoor",
-      "date_found": "2026-09-13T11:01:41.818708"
+      "date_found": "2026-11-20T14:51:24.730277"
     },
     "score": 0,
-    "reason": "Glassdoor search results page for AI automation specialist vacancies (425 listings). Cannot evaluate a search index rather than a specific job posting.",
-    "embed_sim": 0.3823145925998688,
-    "ai_native_score": 0.7345772385597229
+    "reason": "API error",
+    "embed_sim": 0.3420238196849823,
+    "ai_native_score": 0.6855826377868652
   },
   {
     "job": {
@@ -32162,18 +32162,18 @@
   {
     "job": {
       "id": "38f89499033274599c99e5092d287310",
-      "title": "25+ vacatures voor Ai Automattion Engineer en werk: 12 ...",
+      "title": "25+ vacatures voor Ai Automattion Engineer en werk: 18 ...",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-automattion-engineer-vacatures.html?vjk=442a0f4a34100a14",
       "snippet": "Als AI Engineer Bouw & BIM werk je op het snijvlak van bouwkunde, BIM, automatisering en kunstmatige intelligentie. Je ontwikkelt slimme tools en toepassingen die dagelijkse werkzaamheden binnen ontwerp-, engineerings- en bouwprocessen effici\u00ebnter maken.",
       "source": "ddg:indeed",
-      "date_found": "2026-09-13T11:02:03.752071"
+      "date_found": "2026-11-20T14:51:20.181607"
     },
-    "score": 1,
-    "reason": "AI Engineer role in construction/BIM automation focused on building design and engineering processes. This is domain-specific automation (construction) not developer-focused AI tooling adoption. Wrong domain entirely.",
-    "embed_sim": 0.23501792550086975,
-    "ai_native_score": 0.5831100344657898
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.22983449697494507,
+    "ai_native_score": 0.5798031091690063
   },
   {
     "job": {
@@ -32786,18 +32786,18 @@
   {
     "job": {
       "id": "1f620906fe1470dd8b901f18f2d7a764",
-      "title": "100+ vacatures voor Ai Adoption Consultant en werk: 7 ...",
+      "title": "25+ vacatures voor Ai Adoption Consultant en werk: 9 ... - Indeed",
       "company": "",
       "location": "",
       "url": "https://nl.indeed.com/q-ai-adoption-consultant-vacatures.html?vjk=1ec607fb5a357d74",
-      "snippet": "Voor onze groeiende Data & AI-capability zoeken wij een Adoptie Consultant AI die collega\u2019s helpt AI effectief, verantwoord en vol vertrouwen te gebruiken.",
+      "snippet": "Als AI Adoptie Consultant bij AI Space (een joint venture van EY en YoungCapital) sla je de brug tussen geavanceerde AI-oplossingen en de menselijke praktijk.",
       "source": "ddg:indeed",
-      "date_found": "2026-09-19T10:15:31.172099"
+      "date_found": "2026-11-20T14:51:15.304188"
     },
     "score": 0,
-    "reason": "Search results page listing 100+ job openings, not a specific job posting. Cannot evaluate relevance without actual job details. Appears to be a job board aggregation link rather than a closed posting.",
-    "embed_sim": 0.24291086196899414,
-    "ai_native_score": 0.7049782872200012
+    "reason": "API error",
+    "embed_sim": 0.24012978374958038,
+    "ai_native_score": 0.7360901832580566
   },
   {
     "job": {
@@ -32886,14 +32886,14 @@
       "company": "Cleopatra Enterprise",
       "location": "",
       "url": "https://magnet.me/nl-NL/vacature/1069188/ai-developer",
-      "snippet": "You are eager to research and adopt new AI technologies to solve complex problems and are able to perform well in a fast-paced environment. In addition to strong analytical and problem-solving skills, you have proven yourself as an AI Developer through your previous professional experience in AI, machine learning, or data-driven applications.",
+      "snippet": "2 days ago \u00b7 We\u2019re seeking a visionary AI Developer to pioneer the integration of cutting-edge artificial intelligence into our flagship software, Cleopatra. If you\u2019re ready to shape the future of enterprise software and lead the charge in AI innovation, we want to hear from you!",
       "source": "ddg:magnet",
-      "date_found": "2026-09-20T10:33:08.130984"
+      "date_found": "2026-11-20T14:50:47.839165"
     },
-    "score": 2,
-    "reason": "Wrong fit. 'AI Developer' at Cleopatra Enterprise emphasizes researching/adopting AI technologies and solving complex problems\u2014suggests ML/data science work, not AI tool enablement. Snippet mentions 'proven yourself as an AI Developer through previous professional experience in AI'\u2014implies ML expertise required. Not a champion/adoption role.",
-    "embed_sim": 0.4092915654182434,
-    "ai_native_score": 0.7053560018539429
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.38519421219825745,
+    "ai_native_score": 0.697250485420227
   },
   {
     "job": {
@@ -37950,5 +37950,181 @@
     "reason": "API error",
     "embed_sim": 0.05250187963247299,
     "ai_native_score": 0.6552267670631409
+  },
+  {
+    "job": {
+      "id": "9e0ba37ed95bd5402782ec7e41c09416",
+      "title": "Internship - Agile Procurement: Data, AI & Project Execution",
+      "company": "Agile Procurement: Data, AI & Project Execution",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1111529/internship---agile-procurement--data--ai---project-execution",
+      "snippet": "3 days ago \u00b7 Internship - Agile Procurement: Data, AI & Project Execution \u201cExploring how AI and data analysis can drive efficiency, turn complex problems into intelligent solutions and enhance ways of working - that\u2019s why I enjoy my internship!\u201d",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-20T14:50:15.573118"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.39562368392944336,
+    "ai_native_score": 0.5983095169067383
+  },
+  {
+    "job": {
+      "id": "9efc941f45ecb5e8079cba391a088d4b",
+      "title": "Data Enablement Engineer \u2013 Data & AI Enablement in Den Haag ...",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1112757/data-enablement-engineer--data---ai-enablement",
+      "snippet": "As a Data Enablement Engineer \u2013 Data & AI Enablement within the Data & AI Enablement team, you help teams across NN adopt Data & AI platforms and ways of working. You turn complex technology, governance requirements, and standards into practical gui\u2026",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-20T14:50:15.573137"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.38139963150024414,
+    "ai_native_score": 0.6340711116790771
+  },
+  {
+    "job": {
+      "id": "2a067716ad6863f617b794a29f177742",
+      "title": "Legal and compliance internship: AI Compliance & Privacy ...",
+      "company": "",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1112670/legal-and-compliance-internship--ai-compliance---privacy-office",
+      "snippet": "1 day ago \u00b7 Assisting in further maturing the AI Compliance program; Contributing to strategic initiatives aimed at continuously improving the team's way of working, such as drafting a communications plan for training and awareness or defining a strategy for embedding privacy requirements in the business\u2019 processes and technology;",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-20T14:50:15.573147"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3947469890117645,
+    "ai_native_score": 0.7114335298538208
+  },
+  {
+    "job": {
+      "id": "8eda44d3104d0ece98c7040fe2c01727",
+      "title": "Application Integration Developer bij Nebius | Magnet.me",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://magnet.me/nl-NL/vacature/1096489/application-integration-developer",
+      "snippet": "Hands-on experience with Application Insights and Log Analytics. Experience using AI-assisted development tools, with the ability to critically evaluate their output.",
+      "source": "ddg:magnet",
+      "date_found": "2026-11-20T14:50:47.839183"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.46861377358436584,
+    "ai_native_score": 0.5100340247154236
+  },
+  {
+    "job": {
+      "id": "147a225d94e17fd842df8c327a797e33",
+      "title": "Senior AI/LLM Engineer (Python) - Remote - LinkedIn",
+      "company": "",
+      "location": "Amsterdam",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-llm-engineer-python-remote-at-kake-4481462397",
+      "snippet": "Solliciteer naar Senior AI/LLM Engineer (Python) - Remote bij Kake in Amsterdam. Contract Senior medewerker rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:50:57.201522"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4188011884689331,
+    "ai_native_score": 0.6387878060340881
+  },
+  {
+    "job": {
+      "id": "5ce5fa83b5526d3e397e6af5422f1905",
+      "title": "Junior or Medior AI Engineer bij HelloPrint - Rotterdam ...",
+      "company": "Helloprint - Rotterdam ...",
+      "location": "Rotterdam",
+      "url": "https://nl.linkedin.com/jobs/view/junior-or-medior-ai-engineer-at-helloprint-4488016427",
+      "snippet": "Nov 5, 2026 \u00b7 Solliciteer naar Junior or Medior AI Engineer bij HelloPrint in Rotterdam. Contract Instapniveau rol. Bekijk verantwoordelijkheden, kwalificaties en vergelijkbare vacatures op LinkedIn.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:50:57.201539"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.30857038497924805,
+    "ai_native_score": 0.6877567172050476
+  },
+  {
+    "job": {
+      "id": "ade2e58edde8a82db6a67c0b6a3bb333",
+      "title": "Software Engineer| Data Enablement | Data & Product - LinkedIn",
+      "company": "Data & Product - LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-data-enablement-data-product-at-ikea-4487255344",
+      "snippet": "Nov 4, 2026 \u00b7 This journey requires passionate people who embrace change, challenge the status quo and want to make a difference. As part of Data & Engineering, we are establishing a new Data Enablement team with a mission to make it easy for coworkers, digital products and AI solutions to find, trust and consume data across IKEA.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:51:06.865276"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.32616639137268066,
+    "ai_native_score": 0.41660988330841064
+  },
+  {
+    "job": {
+      "id": "d6ae3410880faf19701cae3d644516c1",
+      "title": "Data Engineer| Data Enablement Team | Data & Product - LinkedIn",
+      "company": "Data & Product - LinkedIn",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/data-engineer-data-enablement-team-data-product-at-ikea-4487250640",
+      "snippet": "Nov 4, 2026 \u00b7 This journey requires passionate people who embrace change, challenge the status quo, and want to make a difference. As part of Data & Engineering, we are establishing a new Data Enablement team with a mission to make it easy for coworkers, digital products and AI solutions to find, trust and consume data across IKEA.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:51:06.865284"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.3312121033668518,
+    "ai_native_score": 0.40146633982658386
+  },
+  {
+    "job": {
+      "id": "9d846355c821df6613302d88e928f4fd",
+      "title": "AI Solution Specialist bij Visualfabriq - Maarssen - LinkedIn",
+      "company": "Visualfabriq - Maarssen - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solution-specialist-at-visualfabriq-4488938682",
+      "snippet": "Nov 13, 2026 \u00b7 Today we are looking to strengthen our Operations team with a skilled and talented AI Solution Specialist who enjoys understanding how colleagues work, identifying bottlenecks, and turning them...",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:51:28.652379"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.4181114137172699,
+    "ai_native_score": 0.6534898281097412
+  },
+  {
+    "job": {
+      "id": "cadb65415fd8d3c45be3ed324c809d89",
+      "title": "Senior Technical Architect (AI) bij Equal Experts - LinkedIn",
+      "company": "Equal Experts - Linkedin",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-technical-architect-ai-at-equal-experts-4480493055",
+      "snippet": "Oct 21, 2026 \u00b7 James Donovan Technical Architect (AI Lab) \u2013 Equal Experts Role overview Equal Experts is looking for contract Technical Architects with proven senior-level experience to embed in client squads through the Equal Experts AI Lab, helping them ship AI-first software to production while staying in control at far higher release speeds.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:51:38.051254"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5792105197906494,
+    "ai_native_score": 0.7105440497398376
+  },
+  {
+    "job": {
+      "id": "02d2d05324f54169d9eadd03db615042",
+      "title": "Senior AI Governance Specialist bij NXP Semiconductors ...",
+      "company": "Nxp Semiconductors ...",
+      "location": "",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-governance-specialist-at-nxp-semiconductors-4487514334",
+      "snippet": "Nov 4, 2026 \u00b7 You will assess and monitor AI risks, advise AI initiatives, develop governance frameworks and controls, and help translate evolving regulatory requirements into practical ways of working.",
+      "source": "ddg:linkedin",
+      "date_found": "2026-11-20T14:51:38.051289"
+    },
+    "score": 0,
+    "reason": "API error",
+    "embed_sim": 0.5058459639549255,
+    "ai_native_score": 0.7343862056732178
   }
 ]
